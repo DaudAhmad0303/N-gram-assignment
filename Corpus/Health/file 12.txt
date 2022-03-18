@@ -1,0 +1,50 @@
+How artificial intelligence can contribute to better health systems
+MARELIZE GORGENSGABRIEL CATANSANDRA TOPALOVIC|NOVEMBER 18, 2021
+This page in: English
+Image
+Using technology to optimize health systems in Uganda. Photo Credit: Morgan Mbabazi
+A recent discussion with a Minister of Health about the potential of digital health interventions – like Artificial Intelligence (AI) and big data that benefit health systems by helping them deliver healthcare that is more predictive (of needs), participatory (of clients), and personalized (to clients’ needs) – illuminated the urgency of moving discussions about AI in health from hype and hope to hands-on solutions.
+
+Can AI help with hands-on solutions?
+
+
+Source: USAID
+
+Like often happens when new technologies are introduced, there is initial hype and hope. This was also the case in the use of AI in healthcare, where, in the beginning, many reports were produced on the potential of AI in developing countries, without it (yet) leading to wide-reaching value on the ground.
+
+Ethical challenges relating to representativeness of the data that AI algorithms train on, remain, and the application of private sector examples in developing country health systems, is still a challenge. But there are encouraging signs that has shown that AI can provide hands-on, practical solutions to pernicious challenges in the health care sector. Two recent publications – from the Broadband Commission and another from USAID – both identified (similar) concrete and practical opportunities for AI in health, namely:
+
+Population health: predictive analyses to target preventative and curative health services to those who would need it the most
+Patient-facing solutions to provide health information, scheduling, and medication reminders, amongst others, and other patient virtual assistants
+Optimizing health operations, including support for frontline health workers
+Helping healthcare staff make clinical decisions and care pathways using the combination of evidence with best outcomes
+Pre-clinical research and refinement of clinical trials, including options for repurposed medication
+ 
+What can we do to help realize these solutions for developing countries?
+
+
+Source: Broadband Commission
+
+It would be naïve not to acknowledge the challenges in scaling AI solutions in developing countries. For one, AI as being applied in the context of tech giants and its application in healthcare, is quite different.
+
+Andrew Ng, widely regarded as one of the founders and chief thinkers of modern AI, recently wrote a seminal piece in the Harvard Business Review in which he denotes the differences between AI being used by internet companies to process massive amounts of real-time data (like our shopping preferences on online retailers) and sectors such as healthcare, which often deals with a number of disparate ‘small islands’ of data, costly system customization and fear of innovation in the possible interruptions in health that it may bring.
+
+The ways in which AI can be useful, are also closely tied to the ways in which a health system operates. The health systems in many developing countries don’t operate in the same way as in developed countries. For example, the lack of billing and insurance schemes, means there are limited opportunities how these more widespread AI solutions can be used. But, despite these differences in how systems operate, there are solutions that can be helpful now, like precision public health and creation of electronic medical records.
+
+So, what can we do to help countries realize the full potential of AI as it supports governments deliver healthcare in a digital world? Drawing on Andrew Ng’s playbook, there are a few ideas on how to support developing countries and advance this agenda:
+
+1. Build the health data ecosystem
+
+Invest in next generation interoperable health information exchanges and health information systems, as the World Bank is doing in Eswatini
+Use specialized software to create electronic patient health records from the clinician’s spoken words
+Use machine learning to automate some of the back office manual functions (like receipts data entry in a financial system)
+2. Squeeze more value from existing data
+
+Using existing survey and routine data to find missing clients for preventative care and better population health, as the Surgo Foundation demonstrated how tuberculosis (TB) program screening efforts could be targeted to most likely find undiagnosed TB clients
+Use machine learning to better target program verification processes, as the World Bank has done through this example in Zambia
+3. Quick wins in health service delivery
+
+Decision support to proactively reach out to those who might most likely need care and other support systems (i.e. ‘digital twins’ for community health workers that learn as community health workers do their work and help to improve it)
+Apps for the population to focus on preventative and promotive healthcare, particularly if the cell phone companies can provide zero rate access to government healthcare patient apps
+Appointment scheduling for healthcare visits to primary health care centers
+Beyond the hype, there is hope for AI in healthcare. We have an opportunity and imperative to responsibly to dip our collective toes into the AI water in a forward-looking but responsible way. We can and should take incremental steps to introduce, learn from and scale innovations in healthcare – including the use of AI to solve pernicious healthcare challenges.

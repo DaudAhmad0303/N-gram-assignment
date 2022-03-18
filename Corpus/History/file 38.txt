@@ -1,0 +1,768 @@
+Oxford Handbooks Online
+Abstract and Keywords
+Archaeological fieldwork is normally treated as a matter of applying techniques that are 
+designed to recover particular data sets, which have been identified either on the basis of 
+research priorities or by the concerns of cultural resource management. The data are 
+treated as objectively secure, whilst their interpretation might be open to question. The 
+role of theory is widely assigned to the process of interpretation, and therefore often 
+treated as an optional aspect of the analysis that is excluded from the process of data 
+recovery. We counter this characterization by treating theory as one of the essential tools 
+required by the fieldworker to enable the critical evaluation of the procedures by which 
+archaeological knowledge is constructed. Such a theorized perspective pre-eminently 
+requires that the procedures of fieldwork help fieldworkers to develop an interpretive 
+archaeology of people in an informed way at the moment of fieldwork.
+Keywords: craft, epistemology, fieldwork, ontology, architectures of life
+Introduction
+This contribution will not attempt the impossible by using a chapter-sized discussion to 
+extensively review the numerous theoretical traditions in archaeology and their potential 
+application to various field methodologies. Instead, we make the case that theory is a way 
+of clarifying our thinking, expressing our objectives, and making our assumptions explicit, 
+and that it is a key component of the toolbox of procedures available for use in field 
+archaeology. Nor do we distinguish between fieldwork initiated by institutions assigned to 
+either the ‘academic’, ‘commercial’, or ‘cultural resource management’ branches of the 
+discipline. This exploration of the issues that confront field archaeology grows out of a 
+conversation between the two authors, who in some respects differ in their views on 
+where the discipline of archaeology currently ‘is’ in terms of fieldwork and theory, but 
+who are united in the belief that field archaeology is central to the exploration of the 
+worlds and traditions of people in the past. That exploration is not, in our view, highly 
+Theory in the Field
+Page 2 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+enough valued. In part this is because much field archaeology is failing to realize the 
+potential it offers when addressing the challenge that we all face in striving to 
+understand the histories of human diversity. One reason for this failure lies, we believe, in 
+the discipline’s desire to establish and maintain over-rigid and exclusive procedures of 
+field identification and excavation, and its recording, via fieldwork manuals and 
+standardized recording sheets. In Anglo-American field practice, this ongoing rigidity 
+exists in tandem with the dominance of processual archaeology—its theory and 
+approaches to method. This situation is out of kilter with the wide range of theory 
+traditions of archeological synthesis and interpretation that now exist.
+The entrenchment of rigidity of practice
+UK archaeologists have primacy in the origins of an interest in establishing formal 
+procedures of archaeological field practice and recording. This interest stretches back to 
+the late nineteenth-century field and finds-recording methods of Pitt Rivers and 
+contemporaries (Bowden 1991: 55ff.), and is subsequently expressed in W.M. Flinders 
+Petrie’s 1904 book Methods and Aims in Archaeology (particularly chapter 5). The same 
+interest intermittently ocurred in early twentieth-century Continental Europe. A notable 
+example is the recording forms and small-finds cards developed by French archaeologists
+Ferdinand Scheurer and Anatole Lablotier (1914) to document the hundreds of excavated 
+graves at the Merovingian cemetery of Bourogne (Belfort) and repurposed in Edouard’s 
+Salin’s (1946) Manual of Excavations (see Pavel 2010; 2011). In the United States, the 
+influence of George Reisner’s Harvard excavations at Samaria, Palestine (1908–10), with 
+their detailed recording of archaeological stratigraphy, are credited with leading to the 
+standardized, pre-printed site record forms used by Robert Heizer (1949; discussed by
+Pavel 2011: 262). However, the first largely nationwide uptake of preset recording 
+procedures lies in the UK’s postwar construction boom of the 1960s and 1970s. Here, the 
+rapidly growing need for rescue/salvage excavations led to the setting up of UK 
+commercial archaeology units; and in the wake of this, a wealth of pre-formatted field 
+recording frameworks and recording sheets were developed (e.g. Stewart 2013). The 
+MoLAS (Museum of London Archaeology Service) archaeological site manual, its tradition 
+of single-context recording, and its associated use of the Harris Matrix to sequence 
+contexts famously became a UK ‘bible’ for urban archaeology recording (Harris 1979;
+Westman 1994). Internationally, the establishment of standardized recording formats has 
+been more localized, relating to differing field traditions, and to the ease or difficulties of 
+identifying archaeological remains. For Continental Europe, Italian superintendencies 
+had primacy in taking up the use of pro formas at the end of the 1970s and in adopting 
+the Harris Matrix from the mid-1980s (Brown III and Harris 1993: 1), while Catalan 
+archaeology was the first in Spain, in the early 1990s, to adopt the Harris Matrix and 
+formal recording procedures (Trócoli 1993). Members of the French CNRS (Centre 
+National de la Recherche Scientifique) developed major recording systems and feature 
+sheets for the site of Lattara (Bats 1986; Py 1991), and context sheets for the 
+international ‘Grand Site de France’ excavations at Bibracte, Burgundy (Pavel 2010, 279). 
+Wider dissemination of various formal recording systems was often the circumstantial 
+Theory in the Field
+Page 3 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+outcome of specific international missions and transnational contacts between 
+archaeological teams. For example, MoLAS field archaeologists and MoLAS recording 
+methods were introduced into Lebanon in 1994, and MoLAS recording systems were 
+subsequently adopted by the Lebanese directorate of antiquities (Perring 1997–1998;
+Thorpe 2012: 48).
+A trend of regularizing recording systems likewise prevails at a supra-level where 
+national and international policy statements focus on necessary general fields, such as 
+site categories, for recording field archaeology/heritage remains. For Europe, the Valletta 
+Convention of 1992 on the Protection of Archaeological Heritages stipulates, for 
+participating European states and federal regions, both the basic principles of developerfunded rescue archaeology and the required norms to be recorded for different 
+categories of evidence (Kristiansen 2009). A concern for regularized systems of 
+recording, again based on general required fields of recording, prevails in the individual 
+Cultural Resource Management (CRM) statements by individual North American states, 
+which were variously put in place during the later twentieth and early twenty-first 
+centuries; the situation is similar in New Zealand (http://www.heritage.org.nz/protectingheritage/archaeology/archaeological-guidelines-and-templates).
+Thus, by the later twentieth century a concern with ultilizing formal, often detailed 
+recording systems in field archaeology existed in the UK, parts of Continental Europe, 
+North America, and more widely—albeit inconsistently. Some forty years plus of this 
+trend of regularizing defined good practice, legitimized by regional, national, and 
+international goverment and professional frameworks, has been fundamentally at the 
+expense of the questions of past human history being asked, and embedded, from the 
+start-point of investigative archaeological fieldwork. The idea that archaeological field 
+recording is a neutral mechanical process to register what is uncovered or encountered 
+has long been contested (Hill 1972; Pavel 2012; Hodder 1999; Lucas 2001). However, the 
+rationale and philosophical underpinning of standardized recording forms, with their 
+various prompts and boxes, are the outcomes of a specific theoretical stance on 
+archaeology, and structure the process of retrieving and interpreting data by its users. 
+The traditional idea of fixed recording methods providing common ground for comparison 
+is false. The pro formas or advised fields for recording—such as for contexts and features
+— often cannot be neatly compared from project to project within a country, never mind 
+from country to country, due to differences in the terminology of the team, unit, region, or 
+federal state. Therefore, we assert that theory’s primary role here is to resist this 
+increasing closing-down of technique in the name of established professional standards, 
+by demonstrating the validity, and potential for co-use, of different paths of field 
+investigation, recording, and production of knowledge. (Andrews, Barrett, and Lewis 
+2000).
+Theory in the Field
+Page 4 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+Theory and craft
+In this section we make the case that theory and craft (the skills of fieldwork used to 
+generate evidence and meaning) should not be separated, but that there should be an 
+active, symbiotic relationship between the two.
+The critique of the New or Processual Archaeology that developed from the late twentieth 
+century did so on two fronts of relevance to field archaeology. One was to question the 
+authority of established fieldwork procedures and report writing (Bender, Hamilton, and 
+Tilley 2007; Woodward, Barrett, and Freeman 2000). The second was to question the 
+interpretation of past human behaviours as being determined by general factors, rather 
+than as the expression of specifically motivated strategies (e.g. Hodder 1982; Shanks and 
+Tilley 1987). One consequence of the critique was a turning away from archaeology as a 
+science of human behaviour and the embracing of archaeology as the study of a culturally 
+driven humanity. This ‘humanistic turn’ (cf. Vinsrygg 1988) resulted in an increased 
+suspicion amongst a then younger generation of academic, mostly British archaeologists 
+of the role of science in contemporary society. To them, scientific explanation was 
+restricted to the identification of generalized and deterministic processes, as opposed to 
+specific and historically contingent conditions of causation for which a more nuanced 
+understanding of the philosophy of science would have been required. In our view, 
+science is not a matter of the unquestioning adoption of established techniques and the 
+blind acceptance of established laws of process, even if ‘normal science’ as defined by
+Kuhn (1970) might sometimes be characterized in this way. Instead it is a commitment to 
+the public accountability of its claims about the world, which is fulfilled by making the 
+reasoning and methods used in particular field projects explicit and open to assessment 
+and replication. This view introduces the idea that the construction and validation of 
+knowledge (epistemology) must be relevant to the kinds of reality (ontology) that are 
+being investigated, for, as Binford wrote: ‘I cannot make any judgement about the 
+rationality of the way you intend to proceed until you tell me what you are trying to 
+accomplish’ (Binford 2001: 669).
+One way in which the opposition between the procedures of the humanities and those of 
+the sciences referred to above might be overcome is to treat both as encompassing a 
+diverse range of crafts. Craft concerns the creation and processes of making something. 
+Increasingly the case has been made that fieldwork is as much a craft as a mere set of 
+techniques (cf. Shanks and McGuire 1996). The skills associated with craft are defined by 
+the competence with which procedures are designed that are relevant to the problems 
+being investigated. In the first place, it must decided if the problems selected by field 
+teams and field directors for investigation are actually worth investigating. This task is 
+more demanding than it might initially appear. The problems chosen will tell us 
+something about the investigator’s commitment to a particular view as to the way the 
+world works, and the priorities this person has in understanding that world—a 
+consideration that brings together assumptions about both historical and contemporary 
+conditions. Unsurprisingly, this is unlikely to be a matter of consensus. Second, craft 
+requires an assessment of whether the product obtained by its implementation is relevant 
+Theory in the Field
+Page 5 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+to the task at hand. For example, we might wonder whether a written text, a museum 
+display, or an enactment is the best product to bring forth an understanding of the 
+historical problems under consideration; and we might ask who is doing the 
+understanding, since understanding is not absolute but dependent upon the audience. 
+Lastly, craft is about engagement with material conditions, in this case the complex 
+organization of archaeological fieldwork, which raises the question of who can play a part 
+in the various stages of such creativity (Berggren and Hodder 2003). All of this requires 
+intellectual clarity in preparing, undertaking, and presenting fieldwork.
+Theory cannot be caricatured as speculation about how the past might have been; instead 
+it allows us to consider the design and practical consequences of the craft of 
+investigation. Nor does theory come after the fact; it is not an optional extra, to be added 
+to the recording of material as one means of its interpretation. Facts are pertinent to a 
+way of seeing the world, and as such require the kind of evaluation that theory is 
+designed to deliver (cf. Latour 2010). This ensures that we are not plunged into an 
+incoherent relativism, but that we both recognize and assess that the facts that matter to 
+us are the products of our choice to pursue a particular engagement with problems and 
+materials.
+Fieldwork discovers new things and new relationships (if it did not do so it would not be 
+worth undertaking), but, as David Clarke noted in 1973, the developing methodologies 
+that are currently ‘detecting more, different and previously unknown data attributes’ and 
+extending ‘our capacity for information recovery, manipulation and analysis’ do not in 
+themselves drive the rise of ‘vigorous, productive and competitive new 
+paradigms’ (Clarke 1973: 7–11). The new and surprising finds have to be brought into 
+view from one or more perspectives whence their significance/meaning can be assessed. 
+This is a matter of considerable practical importance in commercial archaeology, where 
+fixed-price contracts have the potential to render the unsuspected discovery a 
+considerable financial risk (McGill 1995: 114). The perspectives from which the 
+significance of such finds can be established therefore demand critical attention, and it 
+follows that in the best of worlds these perspectives need to be available to all field 
+practitioners.
+Thus theory can be treated as a tool of enquiry that is situated within the toolbox of the 
+craft of field archaeology. ‘Theory’ is not the ‘container’ of the tools, and claims to the 
+pre-eminence of a single theoretical position are as barren as the claim to a single 
+methodology. We need a plurality of approaches from which to choose. Today, any theory 
+of fieldwork involves considerations of the role of the individual in the practical and 
+interpretive procedures of fieldwork and of the social dynamics of the communities of 
+archaeologists that undertake it (Edgeworth 1990). The craft of fieldwork involves people 
+physically encountering and uncovering the material remains of the past in rural and 
+urban landscapes. Excavation is often characterized as a process of destruction—features 
+are excavated and destroyed and artefacts taken from their contexts, and the integrity of 
+their associations disrupted by being physically regrouped by type, and placed in distant 
+stores and museum displays. This potentially negative aspect of fieldwork has been 
+Theory in the Field
+Page 6 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+interestingly salvaged and theorized by Gavin Lucas as a process of construction and 
+materialization, in which fieldwork builds an understanding of the past that, with each 
+stage, has material outcomes, including the bagged and boxed material in museum 
+stores, exhibitions, site reconstructions, digital databases, books, and papers (Lucas 2001). 
+The following discussion incorporates these perspectives of fieldwork by understanding it 
+to be a process of construction in which the cumulative acts and theoretically informed 
+choices of each individual engaged in fieldwork are foremost in the productive 
+materialization of the outcome.
+A question of purpose
+As an example of the conflicting approaches that would either remain hidden or emerge 
+as confused terminologies in an archaeology that is defined merely in terms of its 
+techniques, let us consider how we might define the object of archaeological study. To 
+understand this issue, we must be clear as to the distinction between the question of 
+ontology, or what actually exists, and the question of epistemology, which is concerned 
+with the theory of knowledge. It follows, as we have already indicated, that 
+epistemological procedures should be designed relative to ontological conditions, and we 
+presume it is the latter that defines the object of archaeological study. The link is 
+obviously complex: epistemologies are the practical acceptance of certain ontologies, 
+which means that field methods cannot simply be accepted as unproblematic and selfevident, for the simple reason that they also deliver a particular conception of the reality 
+that is being investigated. It is here, at the very heart of archaeological enquiry, that the 
+conflict arises between treating the material remains themselves and/or the now extinct 
+conditions of past human existence as the object of archaeological study, since these are 
+not one and the same thing.
+The need to ensure that material remains are unambiguously representative of past 
+human behaviours, and to understand their associated site formation processes, remain 
+key concerns. In the case of the study of material remains, the ontological issue for 
+archaeology appears to be that of considering the patterned variability in the material 
+remains to be a manifestation of the human intentions and actions that created it. This 
+was addressed most clearly by Lewis Binford in the development of his ‘Middle Range 
+Theory’ (Binford 1981). It was by experimentation and replication that Binford 
+established a robust framework to enable the archaeological residues of hunter-gatherers 
+to be used as tokens of particular activities. Stephen Shennan, from the rather different 
+perspective of the dynamics of artefact distribution and the development of these over 
+time, has called for ‘programmes of empirical research’ which ‘provide a basis for 
+explaining patterns of variation in the world’ (Shennan 2012: 15). In these and other 
+cases, the object of study is the variation in archaeological materials as indicative of 
+historical processes, in which epistemological procedures are designed to reduce 
+uncertainty about the significance of archaeological observations (cf. Renfrew 1984).
+Theory in the Field
+Page 7 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+If we now turn to the claim that it is the historical conditions of human existence that are 
+the reality that concerns us and therefore the object of archaeological study, things look 
+rather different (Hodder 1982). A full understanding of formation processes that have 
+affected the archaeological record as recovered in the field (Schiffer’s 1987 ‘natural’ and 
+‘cultural’ transformations) are indisputably vital to an adequate epistemology; but the 
+reality now sought extends beyond the reconstruction of physical processes of production 
+and site formation to address the diverse ways different human communities in the past 
+might have brought a practical and discursive understanding of the material milieu that 
+they inhabited, and coped with, via chosen ways of living. This leads to much greater 
+uncertainty in the process of interpretation, not simply because the task is more difficult, 
+but because the same material conditions are likely to have been encountered from 
+different perspectives—such as the ways symbols of authority might be seen either as 
+markers of legitimate power or as the trappings of oppression (Miller and Tilley 1984;
+Harrison-Buck 2012). For example, such a duality is expressed by Michael in The 
+Archaeology of the Colonized (2004), in which roads built in Anatolia during the early 
+Roman empire are interpreted as being constant physical reminders of external power, 
+and as routes of access and penetration by administrators and troops.
+Theory, therefore, allows us to clarify the different views as to what field archaeology is 
+about, and to explore the ways in which each view evaluates its own procedures. As 
+researchers, we are likely to find one of these ways more conducive to our own interests 
+in archaeology than the other, but we have to be able to understand why that is the case 
+and to explore its consequences effectively; and those consequences extend to the 
+practices of fieldwork itself. To treat field methodology as if it were innocent of our 
+prejudices as to what archaeology might be designed to achieve is clearly nonsense, and 
+is certainly not the basis upon which to claim that field methods are objective. Objectivity 
+is something that has to be won—the product of self-reflexive enquiry and debate with 
+others, rather than of the use of techniques simply because they exist in the textbooks 
+and field manuals. Take the example of single-context stratigraphic recording (Harris 
+1979) which lies at the heart of modern British excavation procedures and which most UK 
+archaeologists now take for granted. The only absolute relationships that can exist 
+between deposits, surfaces, and cuts recorded according to standard procedures are 
+sequential; most excavation procedures are designed to establish sequences of 
+stratigraphic units in these terms, and to link such sequences to a chronological scale and 
+to a sequence of formation processes. However, if we are interested in the historical 
+conditions of human existence, and thus the material contexts within which human 
+communities once operated, then we have to confront the fact that those conditions have 
+always been multi-period. The remains of the fifth and sixth century CE in western 
+Europe, for example, are always stratigraphically later than the deposits marking the 
+final stages of Roman imperial rule, but many of those who lived in these later centuries 
+did so amongst still-standing Roman architectural remnants. Certainly, memories of 
+Roman rule and such remains will have shaped perceptions of their fifth-/sixth-century 
+world. Martin Carver recognized some time ago that this required a significant 
+modification of the way stratigraphic sequences should be depicted, for what is gained in 
+Theory in the Field
+Page 8 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+understanding an inhabited space by separating the floor of a room from its walls, simply 
+because the floor was laid down after the walls were built? (Carver 1990: 97).
+Fieldwork as a chaîne opératoire
+Archaeology in the field cannot be treated as a discrete entity in the overall process of 
+historical enquiry. Instead, one way of characterizing archaeological field practice is as a 
+form of extended chaîne opératoire—an intertwined sequence of operational, personal, 
+and social acts (Lemonnier 1986). The sequence might originate either in an academic 
+research programme, in the demands of commercial and cultural resource management, 
+or in local initiatives by various archaeological groups and interested communities. Each 
+develops a different kind of relationship to current research, philosophical traditions, and 
+socioeconomic contexts, and each has its potential conclusions in the various outputs of 
+fieldwork, their impact on academia, and the contributions of field interventions to the 
+historical awareness of society at large.
+To develop the chaîne opératoire analogy, field practice can be conceived of as a craft in 
+which you adjust your choice of actions until you become comfortable with what you 
+achieve and at the same time sequentially gain a clearer understanding of where you are 
+trying to get. In archaeology, it is a concept that has been applied to understanding the 
+process of production for artefacts, such as flint tools or pottery (Van Der Leeuw 1993). If 
+field archaeology is theorized in this way, it is indisputably a subject (person)-centred 
+craft, where options and chains of consequences are continuously brought into 
+consideration by the individuals involved in choosing what actions to carry out in the field 
+and how to bring the material outcomes together to construct and present 
+interpretations. A subject (person)-centred archaeology, as introduced here, is not 
+subjective per se because it is subject-centred. It is not an entry into the chaotic world 
+where anything goes (Feyerabend 1975) and where all actions and interpretations are 
+equally valid. A subject-centred craft involves individuals weighing up all the range of 
+options, actions, and possibilities—of how to walk a landscape, how to trowel or mattock 
+a layer, how to section a deposit, how to sample or empty a feature, how to connect 
+different parts of a site or landscape interpretively, and so on. Resources, finances, time, 
+and project hierarchies allowing (and these are big remits), all field archaeologists have 
+access to, or can choose to use, environmental data, standard ways of describing and 
+recording finds and features, reflexive logs, digital technologies, sensory perspectives, 
+and/or a variety of other techniques. Using a phenomenological approach, for instance, 
+does not preclude using the available palynological information to inform interpretation, 
+and it would be wrong to characterize it as doing so (Chapman and Gearey 2000). 
+Similarly, Site Catchment Analysis mapping in the 1970s did not require that topography 
+was (senselessly) ignored in characterizing site catchments, although in actuality it often 
+was (Hamilton and Whitehouse 2006). The integrity of our line of argument lies in the 
+recognition that fieldwork is a subject-centred practice; and therefore to rigidly situate 
+field practice in any one framework of prevailing archaeological theory is a cop-out 
+because it avoids dealing with the consequences of individual actions and decisions in the 
+Theory in the Field
+Page 9 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+fieldwork process. Theory at the level of ‘isms’—‘processualism’, ‘post processualism’, 
+‘empiricism’, and so on—should not provide single overarching frameworks in which a 
+fieldwork project takes place. Instead, theory should be seen as a key resource that field 
+archaeologists have to hand. Just as a craftsperson reaches for something that works at 
+that moment, so too can those undertaking fieldwork potentially simultaneously draw 
+upon a range of theoretical perspectives and practical methodologies.
+We need to move to methods of fieldwork that are open to diverse inputs and theoretical 
+perspectives in constructing an understanding of sites, places, and the people that lived 
+in, and used them, rather than clinging to an academic perspective that is neurotic about 
+mixing theoretical stances (Hamilton et al. 2008). Whether all approaches will receive the 
+same amount of academic, commercial, or public attention is of course another matter. 
+For example, the sequential, chaîne opératoire nature of the fieldwork procedures 
+requires critical analysis of the ways in which it tends to structure archaeological career 
+prospects. As long as field survey and excavation are treated as the unproblematic 
+application of standard techniques to recover data sets that are only subsequently open 
+to interpretation, a career distinction in terms of status, reward, and security will 
+separate those who are deemed to do the technical work of recovery and those who are 
+endowed with the intellectual tasks of interpretation.
+It seems strange that those who are involved in crafting the recovery of the material 
+conditions of the past are recurrently those who are granted the lowest status, poorest 
+working conditions, and weakest job security (e.g. see Zeber 1997 for North American 
+archaeology). At each point in the craft sequence of fieldwork there are indisputable 
+power hierarchies—for example, relating to the uptake of the interpretive perspectives of 
+the experienced and the inexperienced, and to organizational structures of on-site and 
+off-site decision making. There have been specific experiments to make the tasks of 
+fieldwork a democratic process, more rooted in the communities local to the excavation 
+and involving volunteers (e.g. Faulkner 2000 for the UK). However, in parts of the world 
+where hired local labour essentially contributes to fieldwork, this becomes a complex and 
+highly politicized concept (e.g. Steele 2005: 50ff., discussing the intersection between 
+politics, local communities, and archaeology in the Middle East).
+Lock-ins (resistance to change)?
+Field archaeology’s ever-widening contemporary interest in a mainstream compliance 
+with the legal and administratative organizational structures of public policy and the 
+commercial world (e.g. EAA 2000, and Gupta 2000 for such a need in India) could be 
+argued to have had a catastrophic effect on the development of a theory of field 
+archaeology (Webley et al. 2012). For example, it is striking just how long the 
+methodologies and procedures of Anglo-American archaeological field practice have 
+uniquely remained aligned to an overarching processual framework of enquiry that 
+adjourns/postpones interpretation from the primary recognition of adaptive and 
+interacting processes. This is in spite of more than three decades of post-processual 
+Theory in the Field
+Page 10 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+critique of archaeological method, notably in the UK, the Netherlands, and Scandanavia 
+(Shanks 2008: 134), and for British prehistory in particular, a large part of archaeological 
+synthesis adopting an interpretative, post-processual approach. For UK field archaeology, 
+and potentially more widely, this situation could be described as a ‘lock-in’ resulting from 
+organizational self-reinforcing feedback. The emergence of post-processual archaeology 
+in Britain was concurrent with full recognition in planning procedures of developer-led 
+and funded archaeology. This is now where the bulk of field archaeology in Britain takes 
+place; it has increasingly become a branch of commercial organization culture, and draws 
+the rules, procedures, and standards of the building industry and planning departments 
+into the pre-existing methodologies of its fieldwork. The use of ‘scientific’ method aligns 
+easily with the need for success in competitive tendering that is reliant on compliance 
+with standards set by professional bodies, rigid methodological statements, prescribed 
+sampling strategies, and the production of formulaic reports (Hamilton 1996, 1999). In 
+Britain, all of this is reinforced by the advisory direction and professional validation 
+procedures of the Chartered Institute for Archaeologists and English Heritage (National 
+Planning Policy Framework 2011). The contemporary organization and practice of 
+development-led archaeology across the Low Countries, France, Germany, Denmark, and 
+Ireland, in addition to Britain, varies considerably, but is often simplified as a dichotomy 
+between being a public task of state (e.g. Inrap in France, Schlanger 2012) or local 
+authorities as against funding supplied by competing commercial developers. Inevitably 
+the situation is more complex than this (Kristiansen 2009; Demoule 2012; Webley et al. 
+2012), but the overall outcome either way has been increasing static frameworks of 
+methods and documentation processes that are directed to satisfying supra-local/regional 
+scales of validation. In the business world, formalized systems of work and reporting are 
+recognized by organizations to have the advantage/disadvantage of encouraging a high 
+level of stability over time. More generally, for academically based field research, it could 
+be argued that the required standard formats and expectations of major grant 
+applications for fieldwork to public bodies and higher research institutions equally 
+creates a resistance to change and general lack of openness to debates and ‘mixed 
+methodologies’.
+Community responsibility
+The involvement of state or regional agencies, either as guardians of the archaeological 
+heritage or as funding agencies, and the charitable sponsorship that exists are predicated 
+upon the belief that the preservation and study of the material heritage is of public 
+benefit. Most people therefore have a varying degree of investment in archaeology, be it 
+willing or otherwise, as commercial funders, as taxpayers, and as those in whose name 
+conservation and cultural resource management policies are implemented. It would 
+therefore seem to be incumbent upon the archaeological discipline to ensure not only that 
+the results of its inquiries are made available in terms that are understandable to these 
+groups, but also that the procedures of archaeological research and the priorities that 
+seek funding are similarly communicated and open to wider assessment. Indeed, such a 
+move would seem to be essential if public support for investment in the discipline is to 
+Theory in the Field
+Page 11 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+continue. Dawdy, for example, has advocated a move towards a ‘futurist archaeology’ that 
+has ‘simultaneously a pragmatic, ethical and intellectual appeal’ and ‘intersects with 
+contemporary social problems’, and notes that an early twenty-first-century climate of 
+crisis pushes archaeology to be relevant and useful to the present (Dawdy 2009: 142). 
+Several years down the line, this ethos continues to have a strong currency.
+The past is always contentious: historical narratives are open to a number of different 
+perspectives that may be culturally, ethnically, and politically charged. However, our 
+concern continues to be with the disciplinary procedures of archaeology, as they are 
+broadly defined by current intellectual assumptions and methodologies. The wider 
+community’s involvement in these archaeological processes requires much more than the 
+distillation of results in widely disseminated formats. There needs to be the possibility of 
+a general level of engagement with the archaeological procedures by which an 
+understanding of the human past is achieved. Given that archaeology is characterized by 
+methodological and intellectual diversity, we are not suggesting that by responding to the 
+need for a wider community of involvement, we offer a false image of disciplinary unity; it 
+is after all debate and disagreement that drive research and foster interest and 
+commitment. Nor are we suggesting that the complexity of the issues which archaeology 
+addresses should be masked by an oversimplification or a ‘dumbing-down’ of the 
+discipline’s demanding intellectual programme. What we seek instead is the development 
+of a currency that expresses some of the basic intellectual and analytical procedures of 
+archaeology, provides the means of converting complex intellectual priorities into widely 
+understood conservation and research priorities, and provides the medium through which 
+conflicting claims about the practice of archaeology may be assessed. In other words, this 
+is a currency that is required for dialogue and the exchange of ideas between different 
+communities of interest right from the point of commencement of fieldwork.
+Given that methodological procedures are currently treated as a system of recovery that 
+is distinct from what are assumed to be the subsequent processes of historical 
+interpretation, three important consequences arise from this separation of observation 
+from interpretation. First, it disrupts the theoretically designed bridge that should span 
+ontological claims and empirical investigation. As a result, fieldwork procedures tend to 
+float free from the wider programme of enquiry. Oddly, as we have already noted, this is 
+often welcomed as an indication of the ‘objectivity’ of fieldwork, as if objectivity were a 
+quality secured by not knowing why you might be recording what you are recording. 
+Second, by marginalizing fieldwork from the process of historical enquiry, those 
+undertaking excavation and field recording are themselves similarly marginalized in the 
+processes of writing history despite their hands-on engagement with primary data (cf.
+Andrews et al. 2000; Berggren and Hodder 2003). They are also, incidentally, relieved 
+from the responsibility of evaluating the intellectual and empirical competence of the 
+research programme (a position that can hardly be described as ‘objective’). The 
+problems accompanying the marginalization of fieldwork from the main task of historical 
+enquiry are compounded by the expectations of the wider community—including those 
+paying for commercially funded excavations, who are likely to be most interested in the 
+discovery procedures employed by archaeology, but might expect those procedures to 
+Theory in the Field
+Page 12 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+involve discovering something about the past rather than simply discovering what is in 
+the ground.
+Third, deferring historical interpretation to the period after data recovery, rather than 
+developing interpretation in the actual process of recovery, accrues certain dangers. 
+Either the interpretation never happens (as witnessed by the unpublished literature of 
+reportage accumulating in numerous archives and commercial impact reports), or it 
+focuses upon highly specialist analysis of particular data sets, lacking the development of 
+a holistic view to illuminate actual historical conditions. It also supports the misplaced 
+view that interpretation is of secondary importance to data recording, the latter (falsely) 
+regarded as timelessly secure and the former, interpretation, treated as transitory and in 
+some way ‘subjective’. This last claim would also, on the face of it, seem to refute the 
+possibility that our knowledge of the past is cumulatively improving over time. However, 
+we surely do understand more fully today than we did previously the complex nature of 
+the past and the quality of the intellectual and practical demands that attend upon its 
+study. If it were indeed the case that archaeology were making no progress in better 
+understanding the object of its study but simply accumulating more stuff, then it would be 
+difficult to justify its continued funding.
+An integrated archaeology
+In conclusion, we will now offer one strategy for an integrated approach to the evidence 
+available in field archaeology that is necessarily based upon a particular ontology—a 
+claim about the nature of historical realities. The archaeological record comprises the 
+remains of the various material conditions that different human communities once 
+occupied, modified, and from which they extracted the means for life. In any one period 
+we might characterize the built environment, the technical facilities contained within that 
+environment, the relics of earlier activity, the wider topography of landscape, and the 
+existing resources of nature as providing an ‘architecture of life’. We here employ this 
+concept of ‘architecture’ generically to characterize the materialities within which people 
+lived and so found a place for themselves. Human history is made from the living-out of 
+routines, the execution of strategic decisions, and the playing-out of conflicts over the 
+control of resources, as well as from the long-term trajectories in which, for example, 
+resources are accumulated or eroded, populations ebb and flow, and climates change. 
+Past forms of life, human identities, their values and demands, and the authorities to 
+which they responded were all made with reference to the available material realities 
+that were afforded by the existence of other people, the buildings and natural 
+surroundings that were inhabited, and the technologies that were available. Accordingly, 
+archaeology might now be defined as the empirical investigation of how, given the 
+material conditions that defined places and facilities—the ‘architectures of life’ that were 
+available at any time—certain forms of humanity became possible. It should seek to 
+explore the consequences that arose from the ways in which such particular forms of 
+humanity might once have operated.
+Theory in the Field
+Page 13 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+The base currency for an archaeology and a field archaeology that can be widely 
+comprehended could therefore be cast as the investigation of ‘inhabited architectures’. 
+Thus, for example, stratigraphic analysis is obviously an essential part of the excavation 
+procedure, but only as a preliminary towards building the more holistic view of a period’s 
+‘architecture’. Reconstituting the spaces once inhabited and the resources once exploited 
+requires that excavation procedures allow for the synthesis of the stratigraphic analysis 
+into a history of spatially ordered environments, rather than being a form of analysis that 
+disaggregates those environments into a sequence of individual, stratigraphically ordered 
+units. Since the late twentieth century, creating such spatial architectures has been 
+rendered commonly accessible through the use of machine-based mapping, digital 
+reconstruction and GIS. When this mapping data is presented in atlas format, it can be 
+rendered understandable by deploying sequential interpretive narratives of the human 
+presence. Although a viable possibility, an issue is how much of this interpretation and 
+scale of visualization is actually realised ‘on site’ when fieldwork strategies can respond 
+to unfolding patterns, rather than after fieldwork. It is an understanding of this spatial 
+architecture that can ensure that the historical significance of the material is explored, 
+and can secure research priorities in relation to a coherently described material resource. 
+The style of presentation needs to be strongly visual, concern itself with the constraints, 
+options, and perspectives that informed the performance and labours of the inhabitants, 
+and benefit from written commentaries in the active voice of engagement rather than the 
+passive voice of description (e.g. Framework Archaeology’s timetravel links for Heathrow 
+Terminal 5: http://www.framearch.co.uk/t5/2006/08/23/8500-4000-bc-deep-forest-and-ariver/). This would further extend what we have described above as a ‘subject 
+(person-)centred archaeology’, and would provide a visual and textual medium within 
+which the significance of archaeological fieldwork could be discussed. Given that 
+archaeology and, in the context of the above discussion, field archaeology needs to 
+establish the value of its own work in competing for limited funding and has a 
+commitment to ensure the widest possible public understanding of its aims and 
+achievements, this currency we suggest offers a means of achieving those ends. Indeed, if 
+they were written and illustrated in such terms, people might actually start reading 
+archaeological fieldwork reports, and this cannot be possible without the pre-theorization 
+outlined above.
+Further reading
+There are numerous textbooks on field archaeology, with one of the best being M. Carver 
+(2009), Archaeological Investigation. The major example of a reflexive approach to field 
+archaeology remains that of Çatal Höyük, whose updated website is at http://
+www.catalhoyuk.com/; but see also B. Bender, S. Hamilton, and C. Tilley (2007),
+Stone Worlds: Narrative and Reflexivity in Landscape Archaeology. Various attempts have 
+been made to restructure archaeological reportage, including J. C. Barrett, P. W. M. 
+Freeman, and A. Woodward (2000), Cadbury Castle Somerset: The Later Prehistoric and 
+Early Historic Archaeology; Framework Archaeology (2006), Landscape Evolution in the 
+Middle Thames Valley: Heathrow Terminal 5 Excavations, vol. 1; and C. Evans (2009),
+Theory in the Field
+Page 14 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+Fengate Revisited: Further Fen-Edge Excavations, Bronze Age Fieldsystems and 
+Settlement and the Wyman Abbott/Leeds Archives. For the discursive practices of 
+archaeology, see R. A. Joyce (2002), The Languages of Archaeology. A wide-ranging 
+review of the status of women in archaeological practice and interpretation is given by S. 
+Hamilton, R. D. Whitehouse, and K. L. Wright (2007), Archaeology and Women: Ancient 
+and Modern Issues. N. Schlanger and K. Aitchison (eds, 2010), Archaeology and the 
+Global Economic Crisis: Multiple Impacts, Possible Solutions provide overviews on the 
+development of commercial archaeology in numerous European countries including 
+Poland, Hungary, and Russia as well as the United States. Other broad overviews of 
+commercial archaeology in Europe include K. Kristiansen (2009), ‘Contract 
+archaeology in Europe: an experiment in diversity’. Y. Nakanishi (2014) usefully 
+summarizes field archaeology in Japan in C. Lewis (ed.), Encylopedia of Global 
+Archaeology. M. Carver, B. Gaydarska, and S. Montón-Sublas (2014), Field Archaeology 
+from Around the World: Ideas and Approaches provides insights into the theory and 
+contextual backgrounds of the world’s varied archaeological fieldwork traditions (see e.g. 
+c. 9, L. Zhang, ‘China’). H. Cobb, O. Harris, C. Jones, and P. Richardson (eds, 2012),
+Reconsidering Fieldwork: Exploring Onsite Relationships between Theory and Practice
+provides a wide ranging look at the ongoing tensions between fieldwork and theory.
+References
+Andrews, G., Barrett, J. C., and Lewis, J. 2000. Interpretation not record: the practice of 
+archaeology. Antiquity 74: 525–530.
+Bats, M. 1986. Enregistrer la fouille archéologique: le système élaboré pour le site de 
+Lattes Hérault. Lattes: ARALO.
+Bender, B.. Hamilton, S., and Tilley, C. 2007. Stone Worlds: Narrative and Reflexivity in 
+Landscape Archaeology. Walnut Creek, Calif.: Left Coast Press.
+Berggren, Å., and Hodder, I. 2003. Social practice, method and some problems of field 
+archaeology. American Antiquity 68: 421–434.
+Binford, L. R. 1981. Bones: Ancient Men and Modern Myths. New York: Academic Press.
+Binford, L. R. 2001. Where do research problems come from? American Antiquity 66: 
+669–678.
+Bowden, M. 1991. Pitt Rivers: The Life and Archaeological Works of Lieutenant-General 
+Augustus Henry Lane Fox Pitt Rivers DLC, FRN, FSA. Cambridge: Cambridge University 
+Press.
+Brown, M. R., III and Harris, E. C. 1993. Interfaces in archaeological stratigraphy. In E. C. 
+Harris, M. R. Brown III, and G. J. Brown (eds), Practices of Archaeological Stratigraphy, 
+1–7. London: Academic Press.
+Theory in the Field
+Page 15 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+Carver, M. O. H. 1990. Digging for data: archaeological approaches to data definition, 
+acquisition and analysis. In R. Francovich and D. Manacorda (eds), Lo scavo archeologico: 
+dalla diagnosi all’edizione, 45–120. Florence: All’Insegna del Giglio, 45–120.
+Chapman, H., and Gearey, B. 2000. Palaeoecology and the perception of prehistoric 
+landscapes: some comments on visual approaches to phenomenology. Antiquity 74: 316–
+319.
+Clarke, D. 1973. Archaeology: the loss of innocence. Antiquity 47: 6–18.
+Dawdy, S. L. 2009. Millennial archaeology: locating the discipline in the age of insecurity.
+Archaeological Dialogues 16(2): 131–142.
+Demoule, J. P. 2012. Rescue archaeology: a European view. Annual Review of 
+Anthropology 44: 611–626.
+EAA 2000. Archaeology and development. European Archaeologist 13: 1–4.
+Edgeworth, M. 1990. Analogy as practical reason: the perception of objects in excavation 
+practice. Archaeological Review from Cambridge 9(2): 243–251.
+Faulkner, N. 2000. Archaeology from below. Public Archaeology 1: 21–33.
+Feyerabend, P. 1975. Against Method: Outline of an Anarchist Theory of Knowledge. 
+London: Humanities Press.
+Flinders Petrie, W. 1904. Methods and Aims in Archaeology. New York: Macmillan.
+Given, M. 2004. The Archaeology of the Colonized. London: Routledge.
+Gupta, S. 2000. Some problems of heritage management and documentation in India.
+European Archaeologist 13: 5–6.
+Hamilton, S. 1996. Reassessing archaeological illustrations: breaking the mould. Graphic 
+Archaeology: 20–27.
+Hamilton, S. 1999. Lost in translation: a comment on the excavation report. Papers of the 
+Institute of Archaeology 10: 1–8.
+Hamilton, S., Harrison, S., and Bender, B. 2008. Conflicting imaginations: archaeology, 
+anthropology and geomorphology on Leskernick Hill, Bodmin Moor, southwest Britain.
+Geoforum 39: 602–615.
+Hamilton, S., and Whitehouse, R. 2006. Phenomenology in practice: towards a 
+methodology for a ‘subjective’ approach. European Journal of Archaeology 9(1): 31–71.
+Harris, E. C. 1979. Principles of Archaeological Stratigraphy, 2nd edn. London: Academic 
+Press.
+Theory in the Field
+Page 16 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+Harrison-Buck, E. (ed.) 2012. Power and Identity in Archaeological Theory and Practice: 
+Case Studies from Ancient Mesoamerica. Salt Lake City: University of Utah Press.
+Heizer, R. 1949 A Manual of Archaeological Field Methods. Milbrae: National Press.
+Hill, J. N. 1972. The methodological debate in contemporary archaeology: a model. In D. 
+L. Clarke (ed.), Models in Archaeology, 61–107. London: Methuen.
+Hodder, I. (ed.) 1982. Symbolic and Structural Archaeology. Cambridge: Cambridge 
+University Press.
+Hodder, I. 1999. The Archaeological Process. Oxford: Blackwell.
+Kristiansen, K. 2009. Contract archaeology in Europe: an experiment in diversity. World 
+Archaeology 41(4): 641–648.
+Kuhn, T. 1970. The Structure of Scientific Revolutions, 2nd edn. Chicago: University of 
+Chicago Press.
+Latour, B. 2010. On the Modern Cult of the Factish Gods. Durham, NC: Duke University 
+Press.
+Lemonnier, P. 1986. The study of material culture today: towards an anthropology of 
+technology. Journal of Anthropological Archaeology 5: 147–186.
+Lucas, G. 2001. Critical Approaches to Fieldwork: Contemporary and Historical 
+Archaeological Practice. London: Routledge.
+McGill, G. 1995. Building on the Past: A Guide to the Archaeology and Development 
+Process. London: E. & F. N. Spon.
+Miller, D., and Tilley, C. (eds) 1984. Ideology, Power and Prehistory. Cambridge: Cambride 
+University Press.
+National Planning Policy Framework. 2011. www.communities.gov.uk/
+planningandbuilding/planningsystem/planningpolicy/planningpolicyframework/
+Pavel, C. 2010. Describing and Interpreting the Past: European and American Approaches 
+to the Written Record of the Excavation. Bucharest: Editura Universităţii din Bucureşti.
+Pavel, C. 2011. Recording the excavations in Troy: 1855–2010. Studia Troica 19: 255–283.
+Pavel, C. 2012. Archaeological recording: form and content, theory and practice. Atek Na
+2: 33–74.
+Perring, D. 1997–1998. Excavation of the Souks of Beirut: an introduction to the work of 
+the British-Lebanese team and a summary report. Berytus 43: 9–44.
+Py, M. (ed.) 1991 Système d’enregistrement, de gestion et d’exploitation de la 
+documentation issue des fouilles de Lattes. Lattes: Lattara 4.
+Theory in the Field
+Page 17 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+Renfrew, C. 1984. Approaches to Social Archaeology. Edinburgh: Edinburgh University 
+Press.
+Salin, E. 1946. Les fouilles de sépultures du Ve au VIIIe siècle. Paris: Presses 
+Universitaires de France.
+Scheurer, F., and Lablotier, A. 1914. Foules du cimetière Barbare de Bourogne: exécutées 
+par MM. Lablotier et Scheurer de 1907 à 1909. Paris: Berger Levrault.
+Schiffer, M. B. 1987. Formation Processes of the Archaeological Record. Albuquerque: 
+University of New Mexico Press.
+Schlanger, N. 2012. Entre la France et l’Angleterre: l’archéologie à l’aune de la crise. Les 
+Nouvelles de l’archéologie 127: 16–20.
+Shanks, M. 2008. Post processual archaeology and after. In H. Maschner, C. Chippindale, 
+and A. Bentley (eds), Handbook of Archaeological Theories, 133–144. Lanham, Md.: 
+AltaMira Press.
+Shanks, M., and McGuire, R. 1996. The craft of archaeology. American Antiquity 61(1): 
+75–88.
+Shanks, M., and Tilley, C. 1987. Re-Constructing Archaeology: Theory and Practice. 
+Cambridge: Cambridge University Press.
+Shennan, S. 2012. Darwinian cultural evolution. In I. Hodder (ed.), Archaeological Theory 
+Today, 2nd edn, 15–36. Cambridge: Polity.
+Steele, C. 2005. Who has not eaten cherries with the devil? Archaeology under challenge. 
+In S. Pollock and R. Bernbeck (eds), Archaeologies of the Middle East. Critical 
+Perspectives, 45–65. Oxford: Wiley-Blackwell.
+Stewart, G. 2013. Archaeological Recording Practices: Guidelines for archaeological 
+excavation and recording techniques. Hexham: Northumberland National Park.
+Thorpe, R. 2012. Often fun, usually messy: fieldwork, recording and higher orders of 
+things. In H. Cobb, O. Harris, C. Jones, and P. Richardson (eds), Reconsidering 
+Archaeological Fieldwork: Exploring On-Site Relationships Between Theory and Practice, 
+31–52. New York: Springer.
+Trócoli, I. 1993. The contribution of the Harris Matrix to the development of Catalan 
+archaeology. In E. G. Harris, M. R. Brown III, and G. J. Brown (eds), Practices of 
+Archaeological Stratigraphy, 44–56. London: Academic Press.
+Van Der Leeuw, S. 1993. Giving the potter a choice: conceptual aspects of pottery 
+techniques. In P. Lemonnier (ed.), Technological Choices: Transformation in Material 
+Cultures since the Neolithic, 238–288. London: Routledge.
+Theory in the Field
+Page 18 of 18
+PRINTED FROM OXFORD HANDBOOKS ONLINE (www.oxfordhandbooks.com). © Oxford University Press, 2018. All Rights 
+Reserved. Under the terms of the licence agreement, an individual user may print out a PDF of a single chapter of a title in 
+Oxford Handbooks Online for personal use (for details see Privacy Policy and Legal Notice).
+Subscriber: University College London; date: 12 April 2019
+Vinsrygg, S. 1988. Archaeology—as if people mattered: a discussion of humanistic 
+archaeology. Norwegian Archaeological Review 21(1): 1–20.
+Webley, L., Linden, M. V., Haselgrove, C., and Bradley, R. 2012. Development-Led 
+Archaeology in Northwest Europe. Oxford: Oxbow Books.
+Westman, A. (ed.) 1994. Archaeological Site Manual. London: Museum of London.
+Woodward, A., Barrett, J., and Freeman, P. 2000. Cadbury Castle Somerset: The Later 
+Prehistoric and Early Historic Archaeology. London: English Heritage.
+Zeber, M. A. 1997. The American Archaeologist: A Profile. Walnut Creek, Calif.: AltaMira 
+Press.
+John Barrett
+Emeritus Professor of Archaeology, Department of Archaeology, University of 
+Sheffield
+Sue Hamilton
+Director and Professor of Prehistory, UCL Institute of Archaeology.

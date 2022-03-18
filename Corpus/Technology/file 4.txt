@@ -1,0 +1,49 @@
+Cyber-attacks bring down many Ukraine websites
+By Joe Tidy
+Cyber reporter
+Ukraine has been hit by more cyber-attacks, which its government says are "on a completely different level".
+
+Earlier on Wednesday, the websites of several Ukrainian banks and government departments became inaccessible.
+
+Internet connectivity company NetBlocks tweeted: "The incident appears consistent with recent DDOS attacks."
+
+Distributed denial of service attacks are designed to knock a website offline by flooding it with huge amounts of requests until it crashes.
+
+'Outages continuing'
+"Another mass DDoS attack on our state [has] begun," Ukraine's Digital Transformation Minister, Mykhaylo Fedorov, wrote on Telegram.
+
+NetBlocks data indicates the impact began on Wednesday afternoon, intensifying in severity over the course of the day.
+
+
+A researcher told BBC News: "Ukraine's military and banking websites have seen a more rapid recovery after today's cyber-attack, likely due to preparedness and increased capacity to implement mitigations.
+
+"Despite this, the incident is ongoing, with latency and outages continuing at the Security Service of Ukraine, which points to the severity of the incident."
+
+Phone with website that cannot load
+IMAGE SOURCE,GETTY IMAGES
+Image caption,
+No official blame has been directed at Russia for the latest attacks
+Last week, a similar attack took a smaller number of websites in the country offline.
+
+And cyber authorities in the UK and the US swiftly blamed that attack on Russian hackers under direct orders from the Kremlin.
+
+But Moscow denied being involved - and no official blame has been levelled at Russia for the latest attacks.
+
+In January, the Ukrainian government accused Russia of being behind another DDoS wave that affected about 70 government websites, some replaced with a warning to Ukrainians to "prepare for the worst".
+
+Access to most of the sites was restored within hours.
+
+Hybrid warfare
+On Tuesday, the EU announced a cyber rapid-response team (CRRT) was being deployed across Europe, after a call for help from Ukraine.
+
+It is not known if the team of experts from six volunteer countries is helping to defend against this latest attack.
+
+DDoS attacks have been used in various campaigns as a part of Russia's so-called "hybrid warfare" tactics, combining cyber-attacks with traditional military activity.
+
+DDoS attacks hit Georgia and Crimea during the incursions in 2008 and 2014 respectively.
+
+The EU, UK and Ukraine blamed Russian government hackers for attacks on electricity substations that caused widespread power cuts in 2015 and 2016
+
+The US, UK and EU has also blamed it for the hugely disruptive NotPetya wiper attack, which started in Ukraine but spread globally, causing billions of dollars of damage to computer systems across Europe, Asia, and the Americas.
+
+Moscow denies being behind the attack, calling such claims "Russophobic".

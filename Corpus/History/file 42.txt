@@ -1,0 +1,1207 @@
+Abstract
+With improvements in methodology and instrumentation, luminescence
+dating is becoming a much more useful chronometric tool in archaeology.
+Procedures for dating ceramics are relatively routine and their accuracy has
+been demonstrated in a number of studies. Research is aimed at applying
+ceramic dating in situations where other methods lack the direct dating
+ability of luminescence to resolve chronological problems. Sediment dating
+is more difficult because of uncertainty in the extent of zeroing or because of
+mixtures of different aged deposits. These problems have been addressed by
+isolating signals most likely to be zeroed and by dating single aliquots, and
+ultimately single grains. Single-grain dating now has the potential not only
+to identify and date mixed deposits but to provide valuable information on
+site formation processes. This is particularly critical for judging site
+integrity at controversial sites.
+Keywords: luminescence dating, ceramics, sediments, archaeological
+method, single grains
+1. Introduction
+Until very recently archaeologists, particularly American ones,
+have looked upon luminescence dating with some scepticism
+(Feathers 2000a), which is somewhat ironic because it was
+developed in an archaeological context, in Europe in the
+1960s and 1970s, as a method for dating heated materials,
+primarily ancient ceramics. And although the dating context
+largely shifted to geological questions in the 1980s and 1990s
+when application was extended to buried sediments, dating
+of sediments at archaeological sites nonetheless constituted
+a significant portion of this work. Still lingering doubts
+about accuracy and reliability have remained. In the last few
+years, however, the perception has begun to change. More
+archaeologists have been looking at it as a dating option,
+rivalling radiocarbon in some cases. This surge in popularity
+can be measured in the United States by increased funding from
+grant sources such as the National Science Foundation, the
+inclusion of luminescence dating in archaeological contracts
+by government agencies and the proliferation of the number
+of laboratories. (Ten at the last count in the United States,
+compared with only five a few years ago.) Similar expansions
+are occurring elsewhere.
+This sudden interest stems in no small part from both
+methodological advances, particularly in optically stimulated
+luminescence (OSL), and improvements in instrumentation.
+Both have made luminescence dating more accurate and more
+precise. But it also must arise from an increased appreciation
+for the intrinsic value for archaeology of luminescence dating,
+the ability to provide direct calendar dates for archaeological
+events of interest. This paper reviews recent advancements in
+instrumentation, method and application that have increased
+the value of luminescence dating for addressing archaeological
+questions.
+2. Background
+Luminescence is the emission of light from crystalline
+materials following the absorption of energy from an external
+source. It is distinguished from other light emissions such
+as fluorescence by a time interval between absorption and
+emission, by a duration in a metastable energy state, that
+permits use for dating. The external source of energy can
+take a variety of forms, but for dating purposes the source
+is naturally occurring, ionizing radioactivity (alpha, beta,
+gamma and cosmic radiation). Release of the absorbed
+energy requires a stimulus, which again can have varied
+sources, but for materials used in dating the source is usually
+either heat, resulting in thermally stimulated luminescence, or
+0957-0233/03/091493+17$30.00 © 2003 IOP Publishing Ltd Printed in the UK 1493
+JKFeathers
+Figure 1. A simplified schematic of the physical process behind luminescence dating. At point A all traps (e.g. minerals in the raw material
+of the pottery) have been filled. Between points A and B, a zeroing event (heating of pottery) empties the traps and in the process
+luminescence is emitted (unnoticed, of course, by the potter). Through exposure to natural radiation the traps are gradually filled through
+time, a process shown here as linear although it may not be at all points in time, particularly as saturation is neared. At point C to point D,
+the traps are again emptied, this time in the laboratory while luminescence is measured. The measured signal is proportional to the amount
+of trapped charge. If one knows how much radiation is required to arrive at point C, a value called the equivalent dose, then dividing by the
+average dose rate will yield the time from B to D.
+more commonly thermoluminescence (TL), or light, resulting
+in OSL. The latter includes stimulation not only from the
+visible region of the electromagnetic spectrum but from
+infrared and ultraviolet radiation as well. Luminescence is
+mainly observed in ordered crystals, the metastable levels
+associated with crystalline defects that create localized charge
+deficiencies. Quartz and feldspar are two minerals with
+suitable luminescence properties commonly used in dating.
+Luminescence is explained by reference to solid state
+energy band theory (Aitken 1985, 1998, McKeever and Chen
+1997). Ionizing radiation excites electrons from the valence
+band, or ground state, across an energy gap to the conduction
+band. In ideal crystals energy levels within the gap cannot
+be occupied, but defects allow metastable energy levels within
+the forbidden zone which can trap excited electrons or electron
+vacancies (holes). Traps are emptied of these charge carriers
+by stimulus from additional energy such as heat or light.
+The probability of escape, p, is governed by an Arrhenius
+relationship, which for TL is expressed as
+p = se(E/kT)
+where E is the trap depth or the amount of energy required
+to move an electron from the trap to the conduction band (or
+a hole to the valence band), k is Boltzmann’s constant and
+T is temperature. For OSL additional terms related to the
+intensity of light and the ability of the trap to absorb particular
+wavelengths are required. Upon escape the charge carrier may
+recombine with opposite charge residing at deeper traps called
+recombination centres and in the process release energy in the
+form of luminescence.
+Materials with suitable luminescence properties can be
+dated because at some point in the past traps are emptied
+of their charge by sufficient exposure to heat or light. This
+amounts to a zeroing event. If measurement of luminescence
+was made immediately after this zeroing, no signal would
+be observed. Subsequently, traps become refilled because of
+continued ionization by radioactivity and a latent luminescence
+signal steadily accumulates. When luminescence is measured
+in the laboratory, this natural signal will be proportional in
+size to the time since the last zeroing event (figure 1). The age
+equation is written as a simple ratio:
+Age (ka) = DE (Gy)/DR (Gy/ka)
+where DE is equivalent dose in grays (the unit for absorbed
+dose) and DR is the average dose rate over time. Time is given
+as ka (1000 years) but other units of time could obviously be
+substituted.
+Equivalent dose, a concept sometimes difficult for
+non-specialists to grasp, is essential for archaeologists to
+understand if they are to evaluate luminescence dates, since
+it is often the term with the greatest uncertainty. It is defined
+as the amount of radiation, in terms of absorbed dose, required
+to produce a luminescence signal equivalent to the natural one
+measured on the sample. In other words, how much radiation
+is needed to get from zero luminescence to the current,
+natural luminescence. Equivalent dose (DE ) is measured by
+calibrating the natural signal against laboratory-administered
+radiation, which acts as a proxy for natural radiation.
+While the bulk of luminescence research is directed at
+accurate estimates of DE , this is not to underestimate the equal
+importance of an accurate estimate of the dose rate. The current
+dose rate is often assumed to represent the average dose rate
+because of the long half-lives, of the order of 109 years, of the
+major sources, 40K, 238U and 232Th. The dose rate includes
+an internal component (short-ranged alpha and beta radiation)
+from the sample itself and an external component (long-ranged
+gamma and cosmic radiation) from the environment. The
+external dose rate can be difficult to estimate because of
+compositional inhomogeneity in the immediate environment
+(so-called lumpy environments—Schwarcz (1994)). Also
+problematic is a potential change in dose rate, either internal
+or external, through time either from a simple change in the
+amount of overburden or from a change due to other geological
+processes that add or subtract radionuclides. Such changes
+1494
+Use of luminescence dating in archaeology
+can often be detected and sometimes corrected by observing
+stratigraphic trends (Mercier et al 1995a), by documenting the
+presence of disequilibrium in the uranium and thorium decay
+series (Readhead 1987, Olley et al 1996), or by comparing
+equivalent dose among different minerals or different grain
+size fractions which experience differential dose rates (Vogel
+et al 1999, Feathers 2002).
+TL is usually measured by heating a sample aliquot at a
+steady rate and detecting the light emission with a sensitive
+photomultiplier. As the temperature increases, the probability
+of escape from traps increases while the number of electrons
+remaining in the traps decreases. This creates a peak for any
+particular kind of trap. The usual outcome is a composite
+of peaks, relating to different traps, called a glow curve. An
+alternative method of measurement is to raise the temperature
+rapidly to some point and hold it there, producing a decay
+curve (called isothermal TL), which again is often a composite
+from several traps. OSL is usually measured as a decay curve,
+sometimes called a shine down, when the sample is illuminated
+with constant power.
+Because traps have different energy depths, some traps are
+not very stable at ambient temperatures and lose their electrons
+over the time period relevant to archaeology. Other traps
+are sufficiently deep that they are not easily emptied during
+the depositional event. Obviously, neither very shallow nor
+very deep traps will be useful for dating, and an important
+task in dating is to isolate those traps which were emptied at
+the time of interest and which have been stable since then.
+Since the natural signal is a product of only traps that are
+stable over the time of interest, and since signals induced
+by artificial irradiation will include unstable components, the
+task involves making these signals comparable, using various
+thermal (‘preheat’) treatments to simulate long periods of time
+and ‘plateau’ tests to gauge comparability.
+3. Archaeological significance
+Luminescence dates past exposure to heat and light, and
+because these exposure events are often the same events
+archaeologists are interested in, luminescence dating has a
+strong advantage over other dating methods. Dean (1978)
+argued the importance, when interpreting dating results, of
+distinguishing dating events from target events. In tree-ring
+dating, for example, the dating event is the time when the tree
+was cut down, but the target event might be the use of the
+tree limb in construction. The two events might be widely
+separated in time, as, for example, in the cases of stockpiled
+wood or use of naturally fallen timbers, the so-called old wood
+effect (Schiffer 1986). Bridging arguments are then needed
+to associate the dating event with the target event, arguments
+often required for interpreting dates from the most commonly
+used chronometric method, radiocarbon dating.
+In luminescence dating, the target events and the dating
+events are often the same events, obviating the need for
+bridging arguments. In the case of ceramics, for example,
+the dating event is the last exposure to sufficient heat to zero
+the signal. Firing temperatures of at least 500 ◦C are normally
+required, although temperatures as low as 300 ◦C are sufficient
+if the duration of heating is long, and commonly the last such
+exposure was when the ceramic was made or in some cases
+when the ceramic was used, events that correspond precisely
+with what archaeologists are interested in. The spectre of postdepositional heating, such as naturally occurring forest fires or
+modern agricultural practices, is often raised but is rarely a
+problem. Our laboratory has been involved in dating ceramics
+from the North Carolina coastal plain, an area that has been
+subject to frequent forest fires, but we nevertheless have been
+able to achieveareasonable chronology (Herbert et al 2002).
+We are currently dating ceramics from central Amazonia, an
+area subject to modern slash and burn agriculture, to see how
+much of a problem that might create.
+Heated lithics are somewhat different. While heat
+treatment was commonly employed in prehistory to improve
+flaking qualities, such heating was often not sufficient to reset
+the signal. The manufacturing process may be directly dated
+if overheated lithics (wasters) can be located (Wilhelmsen and
+Miles 2003), but more often luminescence dating addresses a
+discard event, when lithic tools became accidentally burned in
+hearths. Use of the hearths then becomes the dating event, an
+event also of interest to archaeologists, and one that also can
+be directly addressed by dating hearth stones, again providing
+the fire was hot enough and the rocks thin enough to counter
+insulating effects (Anthony et al 2001).
+For sediments the dating event is the last exposure to
+sufficient sunlight. This is a depositional event. Unlike the
+case of ceramics, however, where sufficient heat is nearly
+always applied in manufacture (there are rare exceptions for
+very low-fired wares), the depositional agent of sediments may
+not allow sufficient exposure to zero the signal fully. The
+signal may not be zeroed at all, so that a derived age would
+actually refer to some previous depositional event, or it may
+be partially zeroed, retaining a sufficient residual from time
+elapsed since the previous, full-zeroing event. For example,
+some colluvial depositional agents such as landslides may not
+expose sediment grains at all to light. High-energy fluvial
+regimes, such as glacial outwash, because of rapid turbidity
+and high sediment loads may result in only partial exposure
+or differential exposure of grains (Gemmell 1997). Aeolian
+derived sediments are usually considered the best candidates
+for luminescence dating because airborne time allows ample
+sun exposure. Sufficient exposure, however, is governed by
+local circumstances not by any hard and fast rules about
+depositional regimes. Our laboratory has had experience of
+fluvial sediments having been well exposed and nearby aeolian
+ones poorly exposed (Feathers 2003).
+The fact that sediments are composites of uncemented
+grains also makes them more problematic for dating than
+discrete objects like ceramics or lithics. A single deposit can
+result from different transport processes, some of which may
+permit wider exposure than others. Post-depositional mixing
+from turbation or deflation is also a major problem in dating
+sediments (Bateman et al 2003).
+Despite these problems, which are becoming more
+resolvable by methodological developments, sediment dating
+has high potential for archaeological chronology. It provides a
+direct date for the deposition of artefact-bearing stratigraphic
+layers, reducing reliance on the assumption that materials in
+the deposits (such as charcoal) are the same age as the deposit.
+Luminescence may also allow dating of anthropogenic
+sediments. Artificial construction (walls, canals, mounds and
+1495
+JKFeathers
+other earthworks) often has involved sedimentary material,
+humans being the transport agent (Stein 1987). If the material
+was exposed during construction, luminescence may provide a
+means of directly dating such episodes (e.g. Bush and Feathers
+2003, Feathers 1997), or if the construction resulted in pits or
+trenches, luminescence may address abandonment by dating
+the immediate fill (Lang et al 1999, Sanderson et al 2003).
+The discussions that follow are not a review of
+luminescence work in archaeology but a selection of examples
+that illustrate particular applications. I have tried to select
+examples that postdate the exhaustive review of Roberts
+(1997). The examples are weighted to some degree towards
+our work at the University of Washington laboratory, only
+because of the author’s familiarity. This literature can be well
+sampled by reviewing issues of Radiation Measurements and
+Quaternary Science Reviews, two journals that publish many
+luminescence applications, and by checking bibliographies
+published regularly in Ancient TL.
+4. Dating ceramics
+Luminescence dating first was developed in the context of
+dating ceramics, using TL. The basic procedure was worked
+out by the late 1970s mainly by the Oxford laboratory under
+the leadership of Martin Aitken (Aitken 1985, Feathers 2000a).
+Even after the development of OSL for dating sediments
+(Huntley et al 1985), TL has continued to be employed for
+dating ceramics. The main advantage of OSL in sediment
+dating, the ease in isolating the most light-sensitive traps, is not
+a problem for ceramics. Still, OSL may have some advantages
+for ceramics in terms of requiring a smaller sample size, but
+limited work has been done (Barnett 2000a, Guibert et al 2001,
+Hong et al 2001, Ok¨ e and Yurdatapan 2000), and often ceramic
+materials produce weak OSL signals compared with TL signals
+(Hong et al 2001) and may behave differently from unheated
+material (Barnett 2000a).
+Luminescence dating commonly employs either polymineral fine grains or coarse silt- to sand-sized grains of either
+quartz or feldspars. Using coarse grains has the advantages
+of eliminating the influence of short-ranged alpha irradiation, since neither quartz nor feldspar have appreciable internal sources of alpha irradiation, and of involving only a single mineral with fairly well-understood luminescence properties. Coarse-grain dating is still commonly used for ceramics
+(e.g. Barnett 2000a), but many ceramics lack abundant inclusions to make this practical. Our laboratory usually relies on
+fine grains. While having to include alpha irradiation in the
+dose rate and the complications that arise because of the lower
+efficiency at trapping charge by alpha as opposed to beta and
+gamma radiation, fine grains can turn this to an advantage in
+that less reliance is put on the more uncertain external dose
+rate.
+Two general techniques have been employed to measure
+DE by TL (figure 2). Both involve using several aliquots of
+sample material, some of which are used to measure the natural
+signal and others of which are given calibrating irradiations.
+With the first, called additive dose, incremental irradiations
+are given to different aliquots that still retain their natural
+dose and a growth curve is constructed plotting irradiation
+against luminescence signal. The natural signal forms the
+lowest point on this curve, which is then extrapolated back
+to zero dose to estimate DE. Such a procedure fails to take
+into account changes in the shape of the growth curve in the
+extrapolated region, and consequently additive dose, especially
+for younger samples, frequently underestimates the age. The
+second technique, called regeneration, applies incremental
+irradiations to aliquots that have first been measured for their
+natural signal and thus zeroed. This procedure ‘regenerates’
+the growth curve from zero and the natural signal is fitted
+into the curve by interpolation, the shape of the growth
+curve not being as much of a problem. However, heating
+of the sample to measure the natural signal often changes the
+luminescence sensitivity of the sample (i.e. it now takes more or
+less irradiation to produce the same amount of luminescence),
+so that the regeneration curve no longer mimics the original
+growth curve of which the natural signal is a part. Interpolation
+then leads to gross errors.
+The traditional solution to the problems of both techniques
+has been to use the regeneration growth curve intercept to
+correct the extrapolated value from additive dose (the so-called
+supralinearity correction). Our laboratory has adopted the
+more precise ‘slide’ technique, the idea for which was first
+advanced by Valladas and Gillot (1978) and Readhead (1988),
+and then developed for sediment dating by Prescott et al (1993)
+and Huntley et al (1993). Both additive dose and regeneration
+curves are constructed. If the curves are the same shape (which
+they almost always are), then the regeneration curve can be
+corrected for sensitivity change by applying a multiplicative
+factor to make the two curves parallel, a procedure that may
+not be valid for samples close to saturation (almost never the
+case for ceramics). Once this correction is made, the horizontal
+distance (along the dose axis) between the curves can be taken
+as the DE. Our laboratory has dated over 500 ceramics in this
+manner and has produced results that agree with independent
+evidence (where such is available) more than 85% of the time,
+perhaps higher if the independent evidence, whose accuracy is
+often unknown, were truly accurate (e.g. Feathers 2000b).
+Tests for accuracy involve evaluation of dates for events
+that have been securely dated by independent means. This
+is not straightforward because seldom are the dating events
+precisely the same for luminescence and the independent
+method, even if the target events are the same. An example
+worth detailing from our laboratory has been a comparison
+of TL ceramic dates with tree-ring dates from several shortoccupation Navajo sites in northwest New Mexico (Dykeman
+et al 2002, Feathers 2000b). From 12 sites both TL and treering dates were available. Of the 15 TL dates, only 27% were
+within one standard deviation of the tree-ring dates, but a more
+telling comparison was the aggregate data. Figure 3(a) shows
+histograms of the two sets of dates. Each TL date is treated
+as a normal probability distribution and the intervals in the
+histogram reflect summing of probabilities of any one date
+falling in that interval. (The TL date distribution will have
+a broader distribution because of poorer precision than the
+1 year precision of tree-ring dating.) The distributions are
+similar with a main mode around AD 1700. An earlier minor
+mode apparent in the tree-ring data is less defined in the TL
+distribution. However, if the TL distribution is divided into the
+two ceramic types represented (figure 3(b)), the bimodality of
+one of the types closely matches the bimodality in the treering dates, while both types contribute to the main mode. The
+1496
+Use of luminescence dating in archaeology
+(a)
+(c)
+(b)
+Figure 2. (a) Additive dose growth curve for sample UW736 (pottery from southern Arizona). Dose refers to artificial irradiation given in
+the laboratory, so that the natural signal is located at the zero point. A linear fit to the points yields an extrapolated dose value of about
+0.8 Gy. (b) Regeneration growth curve for the same sample. The natural signal is represented by the triangle and interpolating that value
+into the linear fit of the points yields a dose value of about 1.15 Gy. (c) Both growth curves after they have been shifted horizontally into
+coincidence with the best fit shown. The ratio of the two slopes is about 1.2 and this is used to correct for change in sensitivity. The amount
+of the shift (or slide) for the corrected points is about 1.0 ± 0.08 Gy, taken as the best estimate for DE .
+75th probability distribution of the TL dates for both ceramic
+types (AD 1640–1780 for Gobernador Polychrome and AD
+1520–1740 for Dinetah Gray) is remarkably close to the
+range of production for both types estimated from radiocarbon
+and tree-ring dates from throughout the region (AD 1630–
+1775 for Gobernador Polychrome and AD 1540–1800 for
+Dinetah Gray) (Dykeman et al 2002). This underscores
+the problem of comparing two techniques that date different
+events. The tree-ring dates address cut dates (at best) for
+the trees ultimately used in construction, while the TL dates
+address ceramic production. The direct comparison show
+less correspondence because the events dated occurred at
+different times, the distance between them being in part a
+function of occupation duration. The aggregate comparisons
+reflect regional activities over a block of time, where temporal
+differences in construction/production events may average out.
+Here the correspondence is much closer. This work also
+demonstrates that several dates (TL or otherwise) are necessary
+to flesh out a chronology. One or two dates (of any kind)
+are not useful beyond a rough chronological indicator. The
+accuracy of this work is not an aberration but merely adds to
+the growing evidence of the accuracy of TL dating applied
+to ceramics (e.g. Barnett 2000a, Godfrey-Smith et al 1997,
+Guibert et al 1994, Kojo 1991, Sampson et al 1972, Whittle
+and Arnaud 1975).
+Precision is a separate problem. The lower resolving
+power of TL compared with radiocarbon or tree-ring dating
+is a function of the greater number of variables and intrinsic
+uncertainties involved (although a more precise technique
+is not necessarily a more accurate one, and TL retains its
+advantage as a direct dating method). Our laboratory routinely
+produces dates with better than 10% precision (Feathers
+2000b). These error terms reflect mainly analytical error,
+but also include systematic uncertainties on unmeasurable
+quantities such as past moisture contents (which affect the
+radiation dose the sample receives).
+For many ceramic materials the fine-grain signal is
+dominated by contributions from feldspar, which have much
+higher luminescence sensitivity than other minerals such as
+quartz. A persistent problem in dating feldspars is anomalous
+fading, the non-thermal loss of stored charge from traps
+that from kinetic considerations should be stable at ambient
+temperature (Spooner 1994a). Anomalous fading has been
+attributed to quantum mechanical tunnelling (e.g. Visocekas
+et al 1994). By this theory a trapped electron has a small
+but finite probability of being found outside the energy barrier
+1497
+JKFeathers
+(a)
+(b)
+Figure 3. (a) Comparison of tree-ring dates with luminescence
+dates. Each TL date is treated as a normal probability distribution
+and the intervals in the histogram reflect summing of probabilities of
+any one date falling in that interval. (b) The same TL data, except
+divided between two ceramic types.
+that retains it. If this probability distribution overlaps that
+of a recombination centre, the electron can escape, even at
+very low temperatures. Such fading appears ubiquitous among
+feldspars, although some correlation has been found between
+the amount of fading and the degree of disorder in the crystal
+structure (Visocekas et al 1994). Feldspars of volcanic origin,
+where an ordered structure is prevented by rapid cooling,
+tend to have more problems with fading, which is one reason
+ceramics from areas with predominant volcanic geology (such
+as Pacific islands) are difficult to date. Such regions also tend
+to have low radioactivity (Prescott et al 1982).
+Fading can be detected by loss of signal as a function
+of storage time and is routinely checked. Our experience is
+that about 1 in 7 ceramics show evidence of serious fading.
+Quantum tunnelling predicts that the rate of fading will be
+proportional to 1/t where t is some unit of time, and therefore
+the number of remaining trapped electrons decreases linearly
+with ln(t). This is because centres and traps that are close
+together will fade first and as these are depleted the rate slows.
+This logarithmic relationship has allowed development of a
+correction procedure that appears to work for samples that
+are neither very young nor old enough that most fading has
+been completed (Huntley and Lamothe 2001). The procedure
+uses fading rates measurable in the laboratory to estimate
+a percentage decrease through an interval of log time and
+through iteration calculates an age that with the estimated
+fading rate would result in the derived, faded age. This
+procedure has been tested on coarse feldspar grains using
+infrared stimulated luminescence (IRSL) in sediment dating
+(Huntley and Lamothe 2001), but our laboratory has tried using
+it for fine-grained ceramics using TL. Although a systematic
+study remains to be done, initial results seem to indicate that
+it works, although at a cost in precision (figure 4).
+Other procedures have been proposed to deal with
+anomalous fading, mostly in the context of sediment dating
+but probably applicable to heated materials as well. Lamothe
+and Auclair (2000) have found variable fading rates among
+feldspar grains from the same deposit and have used the
+relationship between equivalent dose and fading rate among
+grains to extrapolate to an equivalent dose with zero fading.
+Recent research in both TL and IRSL have identified a far-red
+to near-infrared emission band from feldspars that does not
+seem to exhibit fading (Zink and Visocekas 1997, Fattahi and
+Stokes 2003). Isolating a red signal requires special attention
+to photomultiplier and filter set-up to minimize red oven glow,
+in the case of TL, and interference from the stimulating light,
+in the case of IRSL. For ceramics, perhaps the simplest way to
+circumvent fading is to extract quartz grains for dating. Since
+for many ceramics the amount of suitable quartz might be
+small or difficult to isolate, further research into using OSL
+for ceramics seems warranted.
+Methodological research into ceramic dating has recently
+become almost completely overshadowed by research into
+sediment dating (but see Barnett 2000b, Guibert et al 2001).
+Ceramic dating is generally considered routine, and most
+laboratories are oriented towards dating sediments. The most
+promising area of ceramic dating research in fact might be
+application, where advantage of the direct dating capabilities
+ofluminescence dating can be taken. Unfortunately, little work
+demonstrating this potential has been published, and the review
+by Roberts (1997) was able to list applications that mainly
+made substantive rather than methodological contributions to
+archaeology.
+4.1. Mixed assemblages
+A common problem in archaeology is isolating different aged
+components from artefact concentrations that have been mixed
+by post-depositional processes (either natural or cultural) or by
+virtue of being on an old surface. For example, pits of various
+shapes and sizes are common features in many archaeological
+sites. Even where pits show no evidence of disturbance or slow
+infilling, misleading conclusions can result from assuming that
+everything in the pit is the same age. Yet radiocarbon dating of
+charcoal or other plant remains in pits is a common approach
+to attempt dating ceramics found in the same pits.
+Barnett (2000b) has argued that the larger the pit the more
+likely it contains materials of different ages—in terms of their
+origin or manufacture—even if the infilling, or deposition, was
+a single event. In smaller pits, the age of deposition is more
+likely to correspond to the age of the contents. Using a series
+of TL dates on Iron Age/Roman sites in Great Britain she
+1498
+Use of luminescence dating in archaeology
+Figure 4. Examples of two samples showing evidence of anomalous fading. The table beneath the figure compares the corrected age, using
+the Huntley and Lamothe (2001) method, with expected ages derived from independent data.
+showed that large enclosure pits contained ceramics dating
+to a wide range. Dating of the infilling could be estimated,
+short of dating the sediments themselves, by dating a large
+number of ceramics and using Bayesian statistics to estimate
+the most recent date. In contrast, smaller pits from other sites
+contained ceramics whose dates were much more constrained,
+especially after taking into consideration complications in the
+environmental dose rate due to differential radioactivity inside
+and outside the pit.
+Holt and Feathers (2003) have shown that even small
+pits can have problematic contents. The occurrence of two
+ceramic types, previously thought to be separated in time, in
+the same pits at the Baehr–Gust site in the Lower Illinois River
+Valley has puzzled local archaeologists, leading some to argue
+that the ceramics were in fact contemporary. This implied
+that a regional trade and ceremonial network called Hopewell
+extended much later in the Lower Illinois than elsewhere.
+TL dating of pairs of ceramics from the same pit, however,
+clearly showed that one ceramic type was hundreds of years
+older than the other and that the radiocarbon dates from some
+pits were highly misleading because they represented averages
+of different aged charcoal. In this case, information on the
+environmental dose rate was not even available, but since the
+issue was the relative age between the two sets of ceramics,
+both of which experienced the same environmental dose rate,
+interval- rather than ratio-scale ages were obtained. By holding
+several sources of possible systematic error constant (including
+not only the environmental dose rate but also moisture contents
+and calibration of the laboratory irradiation source), interval
+dating improved precision by as much as 25%.
+Pits are not the only problem. Many sites in North
+America, for example, occur on erosional surfaces, so that
+the entire record rests on the modern surface. Identifying
+reoccupations is very difficult and radiocarbon is completely
+useless because the dated organics cannot be comfortably
+associated with any of the artefacts. Our laboratory is
+addressing this issue at several sites in the Lower Mississippi
+Valley by dating a large number of ceramics from them. This
+work is still in progress. An issue is the suitability of surface
+finds for dating because of uncertainties in the external dose
+rate. Several studies have demonstrated the accuracy of dating
+surface ceramics by TL (Dunnell and Feathers 1994, Sampson
+et al 1997), suggesting the uncertainties from the external dose
+rate are no greater than those from buried sites and perhaps less
+so because of less uncertainty in the thickness and duration of
+overburden.
+4.2. Site duration
+Duration of occupation in any one locus is an important
+variable for understanding human demographic trends
+and their impact on environment, economy and political
+complexity (Varien and Mills 1997). Controlling assemblage
+duration is also necessary when comparing similarities among
+assemblages since variability will increase with duration.
+Estimating duration, however, has been a difficult problem,
+usually accomplished by an accumulation of radiocarbon or
+tree-ring dates. The problems of association are as acute
+here as in any other dating endeavour (e.g. Nash 1997), and
+other archaeologists have attempted more direct measures such
+as artefact accumulations, most parsimoniously expressed by
+the Schiffer (1975) discard equation positing a relationship
+between discard and occupation span (Varien and Mills 1997,
+Gallivan 2002). While gross comparisons are possible, lack
+of control over a number of variables often creates high
+uncertainties that cannot be quantified. Direct dating of
+artefacts by luminescence provides a viable alternative. Dating
+several ceramic shards from one site will provide a direct
+measure of duration of use that can be statistically quantified
+(e.g. by using the OxCal program of Bronk Ramsey (1995)).
+The more dates obtained, the higher the precision of site
+duration. Precision can also be increased because only
+interval-scale dating is required, as suggested earlier. Again,
+applications of this sort have not been published, but our
+laboratory is engaged in trying to determine the duration of
+large late prehistoric towns in the Mississippi Valley.
+1499
+JKFeathers
+4.3. Small sites and other difficult-to-date assemblages
+Since the 1960s, at least, archaeologists have been concerned
+with securing a representative sample of the archaeological
+record. This has meant attention paid not just to large,
+conspicuous concentrations of artefacts but also to smaller
+concentrations that dot the landscape. Where traditional
+studies relied on large-scale excavations, the representative
+approach has necessarily relied on surface survey. In most
+places such survey has yielded numerous small artefact
+concentrations. While important for understanding land use
+patterns, these small sites have not attracted attention because
+they often lie completely within the ploughzone and are
+difficult to date by traditional means. Small artefact samples
+reduce the probability of recovering time diagnostic artefacts
+and organics, if preserved, cannot be associated with other
+artefacts (Beck 1994). Without knowing how these sites fit
+into a local cultural chronology, it is difficult to understand
+their significance. Our laboratory is beginning to address this
+problem by TL dating ceramics from small sites in several
+areas in the Mississippi Valley, where late prehistoric large
+towns are surrounded by numerous small sites, sometimes
+called ‘farmsteads’. A presumption has been that the large
+sites represent nucleation of population from the earlier small
+sites, but no one actually knows how old the small sites really
+are. Luminescence dates are providing the first indication.
+Luminescence dating of ceramics has also proved useful in
+areas where other dating techniques are simply not applicable.
+Our laboratory has been dating ceramics from the sandhills
+of coastal North Carolina, an area where almost no charcoal
+associated with archaeological remains has been preserved and
+the chronology has been poorly developed. Using TL, we
+have worked out a tentative chronology that reasonably follows
+technological trends and that is consistent with chronological
+work in nearby areas (Herbert et al 2002). Barnett (2000a) has
+published TL dates of ceramics from Late Bronze Age and Iron
+Age sites in England, a period of time when lack of stratigraphy,
+few diagnostic pottery styles and a relatively flat 14Ccalibration
+curve have hampered development of a chronology. Her dates
+agree reasonably well with independent evidence. She also
+notes that chronologies based on technological properties of
+the pottery, what she calls fabric and includes non-plastic
+inclusions (temper), do not have much resolution. While
+archaeologists have considered changes in temper during this
+period in sequential terms, the TL dates suggest considerable
+temporal overlap. Similarly, our laboratory has found that
+the supposed temporal sequence of limestone, grog and shell
+temper in the southeastern United States is not an accurate
+portrayal. Limestone and grog tempers persist for a long period
+after shell temper is introduced (unpublished data).
+5. Lithics
+The direct dating advantage of luminescence dating of
+ceramics applies to lithics as well and methodological
+considerations are similar. The substantive contributions of
+lithic dating, however, are better known, so only briefly
+mentioned here, largely because the use of lithics extends
+well beyond the chronological range of radiocarbon dating.
+In Palaeolithic studies, TL dating of lithics is often only
+one of a few dating options available. TL has particularly
+been important in documenting the middle Palaeolithic and
+transitions before and after (e.g. Mercier and Valladas 1994,
+Mercier et al 1995b, 1999, 2000, Valladas 1992, Valladas et al
+1998, 2001, Richter et al 2000, Porat et al 2002). Some lithics
+have little internal sources of radiation, so dating requires
+reliance on good estimates of the external dose rate, which may
+include a high contribution from cosmic radiation (Richter et al
+2000). This will become particularly critical if lithic dating is
+extended to surface finds.
+Of potentially wide applicability is using OSL or IRSL
+to date the light-exposed surfaces of rocks, lithic artefacts
+or stone architecture from archaeological sites. The dating
+event is the last exposure to light of these materials, and
+could refer to a burial event or, perhaps more interesting, to
+the underside of lithic materials found on the surface. This
+work is only beginning and will require special attention to
+both collection procedures that prevent exposure (including
+excavating at night, Morganstein et al (2003)) and development
+of new measurement techniques and instrumentation to sample
+surfaces (Habermann et al 2000, Greilich et al 2002, Theocaris
+et al 1997).
+This discussion on ceramics and lithics cannot be complete
+without mentioning that luminescence may have additional
+value for archaeology beyond dating. Luminescence
+properties have been used as sourcing criteria for determining
+where material for artefacts originated (Akridge and Benoit
+2001, Hashimoto et al 2001) and to assess past thermal
+treatments (Hashimoto et al 2001).
+Mention also needs to be made of the application of
+luminescence to other kinds of archaeological materials, such
+as glass and metallurgical slag. Luminescence applications to
+these materials have a long history (Aitken 1985), but recent
+studies (e.g. Chiavari et al 2001, Gautier 2001, Haustein et al
+2001), while promising, suggest much work is still needed
+before such dating can be considered routine.
+6. Sediments
+Sediments are inherently more difficult to date than ceramics
+because of the uncertainty of sufficient bleaching at deposition
+and because of the uncertainty in the integrity of the deposits.
+Heating unambiguously zeroes most ceramics, and the greater
+chemical and erosional resistance of ceramics makes them
+less susceptible to post-depositional change. With sediments,
+only partial bleaching or no bleaching at all may occur at
+the depositional time of interest and mixing of different-aged
+sediments may occur either during or after deposition. In either
+case, following a procedure similar to that for ceramics may
+result in gross inaccuracies.
+Two general methods have been employed to deal
+with partial bleaching or mixing. The first is to separate
+out components of the luminescence signal that are most
+susceptible to bleaching from sunlight and base dating only
+on them. This minimizes the problem of partial bleaching.
+The second is to date individually aliquots containing a small
+amount of material, ultimately single grains. The distribution
+of ages among the aliquots or grains is used to identify mixing.
+A number of studies (e.g. Bailey 2001, Huntley et al
+1996, Duller 1997, Krbetschek et al 1997) have shown that
+1500
+Use of luminescence dating in archaeology
+Figure 5. (a) TL regenerative glow curve of coarse-grained quartz from a sediment sample from a Brazilian rock shelter. The full curve is
+shown as a dashed curve, with the low-temperature peak reduced in scale. The slowly bleaching peak was obtained after an extended bleach
+with green light. The rapidly bleaching peak is obtained by subtracting the slowly bleaching peak from the full curve (Feathers 1997).
+(b) OSL decay from another quartz sample. The inset shows three exponential components that when summed form the solid line through
+the data points in the main graph. The figure is modified from one presented by Bailey et al (1997).
+the total luminescence signal from either quartz or feldspar is
+a composite of several signals arising from different traps or
+recombination centres. Traps can be isolated by manipulation
+of the excitation source (heat or light), because of the different
+energy required to release the stored charge from different
+traps, while recombination centres can be isolated by selection
+of emission wavelengths by optical filters.
+OSL has gained popularity for dating sediments because
+it samples traps that are more susceptible to bleaching than
+TL. In quartz, for example, the high-temperature TL signal is
+made up of a ‘rapidly bleaching’ peak and a ‘slowly bleaching’
+peak (Franklin et al 1992, 1995) (figure 5(a)). The latter not
+only is the result of slowly emptying traps but also contains
+an unbleachable residual. OSL is associated with only the
+rapidly bleaching component (Spooner 1994b). While the
+two components can be isolated in TL (Franklin and Hornyak
+1990), it is much less time consuming to use OSL. Even
+within OSL, however, there are components that bleach at
+different rates (Bailey et al 1997) (figure 5(b)). Typically, OSL
+is stimulated using a narrow bandwidth of light of constant
+intensity. Depletion of the trapped charge produces what is
+called a shine-down curve. If only one trap were involved,
+the curve would be exponential in shape, but fitting studies
+have shown that the measured curves are a combination of
+at least three, and maybe as many as five, exponentials, each
+associated with traps of different bleaching rates. To sample
+only the most rapidly bleaching component, which has the
+highest likelihood of being emptied during deposition, dating
+studies normally only utilize the initial small fraction of the
+curve, and use the latter part of the curve as a subtracted
+background (Aitken and Xie 1992, Banerjee et al 2000).
+Comparing the DE derived from different parts of the shine
+curve is one procedure used to detect partial bleaching (Bailey
+et al 2003). If the DE from latter parts of the curve, where
+traps more difficult to bleach are being sampled, match those
+from earlier parts of the curve, an argument can be made
+for adequate bleaching at deposition. More recently, some
+laboratories have experimented with altering the intensity
+of stimulating light during the luminescence readout (Bulur
+et al 2000). If the intensity is progressively increased from
+1501
+JKFeathers
+Table 1. SAR protocol (Murray and Wintle 2000), taken from table 1 in Murray and Clemmensen (2001).
+1. Dose (= 0 Gy if natural signal)
+2. Preheat (e.g. 260 ◦C for 10 s)
+3. OSL (e.g. 60 s at 125 ◦C, stimulation using blue light, emission in UV), gives Li
+4. Fixed test dose (e.g. 5 Gy)
+5. Cut heat (e.g. 160 ◦C)
+6. OSL (same as step 3), gives Ti
+7. Repeat steps 1–6 for a range of regeneration doses bracketing the natural dose, a zero dose and a repeat (or recycle) point
+8. Calculate Li/Ti for natural and regeneration points and construct regeneration curve to determine DE
+zero to some maximum, called linear-modulated OSL, the
+different components can be separated as peaks, making fitting
+procedures mathematically more tractable (Agersnap Larsen
+et al 2000, Singarayer and Bailey 2003). For feldspars, it
+has been found that the most bleachable traps are sensitive to
+infrared radiation. Stimulation by such a long wavelength is
+explained by a resonance effect (800–900 nm) coupled with a
+thermal assistance mechanism (Hutt ¨ et al 1988, Aitken 1998).
+IRSL has been widely used for dating feldspars, not only
+because of rapid bleaching but because less attention is needed
+to separate feldspars physically because few other minerals
+have this effect. (Despite problems with fading, feldspars have
+some important advantages over quartz—higher sensitivity and
+higher saturation levels—making them particularly suitable for
+older samples.)
+Perhaps more commonly encountered are deposits that
+have been mixed with differently aged grains either during
+or after deposition. To separate these different populations
+of grains, only aliquots with a small amount of material
+on them are dated. Numerous studies have shown that the
+percentage of grains of quartz that are actually sensitive to
+luminescence (bright grains) is quite variable, between 5 and
+10%, although sometimes as high as 40% (Duller et al 2000,
+McFee and Tite 1998). Aliquots with a small amount of
+grains, say 10–20 grains, are likely to have only one or two
+bright grains. If the deposit is made up of differently aged
+populations, this should be detectable from the DE distribution
+from several of these small aliquots, as evidenced by very
+broad distributions or modality. A correlation of equivalent
+dose with brightness is also characteristic of differently aged
+or partially bleached samples, since brightness is a function
+not only of luminescence sensitivity but also of age (Clarke
+et al 1999, Li 1994). The best resolution obtains when dating
+single grains, although requiring many more aliquots because
+so many grains have no signal. To make such measurements
+practical advances in both method and instrumentation were
+required.
+The method for determining DE outlined earlier for
+ceramics requires multi-aliquots and is unsuitable for mixedaged samples because of the averaging effects of using several
+aliquots. A single aliquot additive dose process was proposed
+by Duller (1995). It involved measuring the natural signal and
+successive signals from incremental doses, each preceded by a
+preheat, by using OSL shines that were short enough that little
+of the total signal was removed at each step, thus allowing
+an additive dose build-up on the same aliquot. A correction
+for loss of signal at each step, especially from the successive
+preheats, was necessary. The method suffered not only from
+uncertainties in the correction procedure, especially for older
+samples that had begun to saturate and whose growth curves
+were not linear, but also from the inherent problem of additive
+dose—the need to extrapolate to obtain DE and the subsequent
+high dependence on achieving the correct shape to the growth
+curve.
+Duller’s early work was not successful in devising a
+single aliquot regeneration method, because of the problem
+of sensitivity change. Once the sample had gone through one
+cycle of irradiation, preheat and measurement, its sensitivity
+changed, because of either changed luminescence efficiency
+per unit trapped charge or changed rate of trap filling per
+unit ionization, so subsequent signals from artificial doses
+were not comparable. Murray and colleagues investigated
+this problem for quartz and through a series of experiments
+(Murray and Roberts 1998, Murray and Mejdahl 1999, Murray
+and Wintle 2000) found that sensitivity changes could be
+monitored by applying a small test dose after an OSL
+measurement. The signal from the test dose was found to
+have the same sensitivity as the preceding OSL signal and so
+could be used as a correction to equalize the sensitivity of the
+natural and subsequent regeneration signals. They devised
+a procedure called single-aliquot regenerative-dose (SAR),
+which constructs a growth curve from regeneration signals
+whose sensitivity is corrected to match that of the natural
+signal. The procedure was found to be relatively insensitive
+to preheat temperature and size of the test dose. Because of
+increased accuracy and precision, SAR is now the preferred
+technique for most OSL applications involving quartz and is
+being extended to feldspar and polymineral fine grains as well
+(Wallinga et al 2000, Banerjee et al 2001, Auclair et al 2003,
+Fattahi and Stokes 2003).
+The general sequence of steps in SAR for a single aliquot is
+given in table 1. The OSL measurement following the natural
+or the regeneration dose is divided by the OSL measurement
+following the test dose to equalize sensitivity. After several
+regeneration cycles, the first regeneration dose is repeated to
+make sure the correction procedure produces the same result
+as the first time. A zero dose is usually included to assess
+whether preheats or test doses are creating unwanted signals,
+called recuperation. It is also recommended to recover a known
+dose by first zeroing an aliquot, giving it a dose, treating that
+dose as if it were the natural signal and then using the procedure
+to see if the known dose can be recovered as the DE (Murray
+and Wintle 2003). This ensures the procedure works for the
+particular sample.
+A variation of SAR was first applied to single grains of
+quartz by Roberts et al (1998a, 1999) investigating a suspected
+age overestimation from multi-aliquot analysis at Jinmium
+rock shelter in Australia, which had placed human presence
+in Australia by 116 ka, far earlier than previously believed.
+By dating a large number of single grains, they were able
+1502
+Use of luminescence dating in archaeology
+to detect a complex distribution of ages, one part of which
+suggested an age of less than 10 ka (agreeing with a radiocarbon
+chronology), but also including a wide range of much older
+ages. The older ages were attributed to grains that had eroded
+off the rock shelter wall and never been properly zeroed by
+sunlight. The younger ages were attributed to aeolian-derived
+sediments that had been well zeroed and were believed to
+represent the true depositional age.
+The Jinmium work was done on conventional equipment,
+and although labour intensive, the study benefited from a large
+proportion of bright grains. For many samples, the proportion
+of bright grains is much smaller and would have made the
+study impractical. Using aliquots with just a small number of
+grains, while increasing the likelihood of containing at least
+one bright grain, loses some of the resolution provided by
+single grains. In 1999 Risø Laboratories introduced a special
+attachment to their basic luminescence reader that provided a
+high-powered, finely focused laser that could stimulate single
+grains (Bøtter-Jensen et al 2002). The grains are arranged
+on discs containing a grid of 100 holes, one for each grain.
+The discs can be irradiated and heated as a whole, while the
+laser can rapidly measure the OSL from each grain. Daybreak
+Nuclear, the other major supplier of luminescence equipment,
+is devising a similar version. This allows the SAR sequence to
+be performed on a large number of grains in a relatively short
+time, depending on the irradiation lengths required. On some
+Holocene-aged sediments recently dated in our laboratory, an
+SAR sequence on 1000 grains could be completed in about
+24 h (Feathers 2003).
+Dating single grains is not as straightforward as the above
+discussion suggests. Two problems make the interpretation
+of DE distributions obtained from large numbers of grains
+difficult. One is differential precision. Grains with the
+brightest signals will produce values of DE with the greatest
+precision (McCoy et al 2000). Even after eliminating grains
+with no or very low signals barely above background, a range
+of ages will be obtained even from a single-aged population
+because of this differential precision. Statistical display
+methods, such as histograms, which do not take this into
+account, may be highly misleading. Galbraith et al (1999)
+introduced the use of radial graphs, which plot distributions as
+a function of precision, as a remedy (figure 6). The other
+problem is microdosimetry. The three major components
+of terrestrial radiation (gamma, beta and alpha rays) are
+distinguished in part by their effective ranges. Alphas are short
+ranged but of little consequence for coarse-grained quartz or
+feldspar. Gammas are long ranged and affect all grains within a
+sample about equally. Betas, however, have a maximum range
+of about 2 mm. At the scale of single grains, the sources of
+beta irradiation are not likely to be evenly distributed, so that
+some grains will receive a higher beta dose rate than others.
+Measuring the differential rates at such a small scale is not
+currently possible, so the dose rate forming the denominator of
+the dating equation is only an average for all grains. Averaging
+will underestimate the age for some grains and overestimate it
+for others.
+Errors arising from differential precision and microdosimetry should be random, so that a single-aged population
+of single grains should have a distribution in DE that is normal, with the mean representing the best estimate. This has
+Figure 6. Radial graph for an aeolian sample from Mustang Springs
+in west Texas. Precision on the x-axis is the relative standard error.
+The y-axis is the number of standard deviations of individual
+equivalent dose values from single grains away from some reference
+value. The solid circles are those values within two standard
+deviations of the reference. This is referred to here as the mean, but
+is not the mean of the distribution but rather that value that
+maximizes the number of points within two standard deviations. A
+characteristic of a radial graph is that a radial line drawn from the
+origin will pass through points of equal equivalent dose but with
+different precision. The radial line bisects the scale on the right at
+that equivalent dose value.
+been the working assumption, and the challenge is to derive
+ages from other distributions: multimodal, skewed or otherwise non-normal. For fluvial sediments, Olley et al (1999)
+hypothesized that because moving water entraps grains from
+different sources of different ages and can attenuate sunlight to
+some degree so that only some of the grains are fully bleached,
+the result will be a sharp, positively skewed distribution with a
+mode near the younger, or leading, edge. They proposed using
+the mean of the lowest 5% as the best estimate of DE and obtained reasonable results from some young fluvial sediments.
+Lepper and McKeever (2002) studied this in more detail and
+argued that the 5% was arbitrary and often underestimated the
+true age of the deposit. They proposed a leading edge statistic
+that attempted to define a normal distribution that would characterize a lower mode. They did this by fitting a Gaussian curve
+to the leading edge of the distribution and taking the steepest
+part of the slope (one standard deviation below the mode) as
+the DE . The steeper the slope, the higher the precision. Others
+have tried more sophisticated statistical approaches to isolate
+the lowest, normal portion of the curve (Spencer et al 2003,
+Roberts et al 2000).
+Post-depositional turbation that mixes sediments of
+different ages is a significant problem for sediment dating
+(Bateman et al 2003). The best estimate of DE from the
+top of a stratigraphic unit, where older grains have been
+turbated upwards, might be the leading edge, but the best
+estimate from the bottom of the unit, where younger grains
+have been turbated downwards, might be the trailing edge
+(Feathers 2003). Geological interpretation is clearly important
+for understanding these distributions, but conversely these
+distributions should also aid in geological interpretations,
+especially where independent age information is available.
+OSL dating of sediments could play a big role in understanding
+site formation.
+1503
+JKFeathers
+6.1. Anthropogenic sediments
+Dating anthropogenic sediments is of obvious interest to
+archaeologists. Direct dates for activities that produced the
+sediment obviate reliance on associated artefacts or organic
+material. Burbidge et al (2001) used OSL on quartz to date
+three soils created by post-Neolithic agricultural activities as
+well as intervening sand deposits on the Shetland Islands
+and achieved a stratigraphically consistent sequence consistent
+with other archaeological evidence. Our laboratory has applied
+OSL to soils that occur below and within artificial earthen
+mounds in order to date construction of these features (Bush
+and Feathers 2003, Feathers 1997). Dating of palaeosols by
+luminescence assumes that zeroing occurs by the recycling of
+grains to the surface by turbation processes. The mechanism
+for exposure is probably erosion from microrelief created by
+processes such as tree-fall or animal burrowing. Once an
+active soil is buried, surface exposure no longer occurs, so that
+luminescence is dating the burial event, which for mounds is
+the construction event. Presumably turbation is not successful
+at bleaching all grains and the likelihood of exposure decreases
+with depth in the soil. We tested this assumption by looking
+at modern top soils from the top of mounds and palaeosols
+from within and under mounds and found positively skewed
+distributions of equivalent dose, the leading edge, mean and
+range of which increased with depth (figure 7). Mound fill,
+above and below the soils, produced older ages, suggesting
+the mechanism of construction itself was not conducive to
+bleaching.
+Other kinds of archaeological construction datable by
+luminescence are pits and canals, where dating of sediments
+at their base provides a minimum date of abandonment. Lang
+et al (1999) used IRSL to date fine-grained sediments that had
+washed into prehistorically dug cellars from human-induced
+erosion. By determining DE from different parts of the shinedown curves, they found no evidence of partial bleaching.
+They also selected their samples to minimize the possibility
+of admixture of older grains from the cellar walls. The derived
+ages were consistent with other archaeological evidence.
+Sanderson et al (2003) have used both OSL and IRSL to
+date abandonment and use of ancient canals in the Cambodian
+Mekong Delta. Cursory luminescence measurements on a
+series of small samples collected from a stratigraphic profile
+through one of the canals allowed separation of canal fill
+from the underlying substrate and also identification of later
+disturbance and other depositional features. More in-depth
+study of selected samples provided dates consistent with
+other archaeological data. Preliminary small-aliquot analysis
+showed samples in the upper fill to be well bleached, but
+basal samples gave evidence of substantial mixing with older
+substrate (see also Spencer et al 2003). IRSL on feldspars from
+the basal samples also suggested that fine-grained feldspars
+may be better bleached in this depositional setting than coarser
+grains or quartz.
+Luminescence may also help in identifying anthropogenic
+sediments. Roberts et al (2001b) dated 19 fine-grained samples from a thick loess deposit in northern China to determine
+accumulation rates and to look for disturbance attributed to
+agricultural practices. The authors used blue stimulation following a long IRSL exposure to minimize the OSL signal from
+feldspars and therefore the potential of fading. A modified
+Figure 7. Histograms of equivalent dose distributions for segments
+of a modern soil at the Watson Brake archaeological site in
+northeastern Louisiana. The DE in the top 5 cm are clustered near
+zero. Non-zero values become more common with depth as larger
+percentages of grains have not been fully exposed through turbation.
+The data are from single aliquots containing 10–90 grains, with the
+exception of the 5–10 cm segment where 200–400 grain aliquots
+were measured.
+SAR protocol was adopted. The results showed that the deposition was quasi-continuous for at least 12 000 years. Fifteen
+of the dates were in the correct stratigraphic order. The four
+exceptions, confined to two time periods, gave ages that were
+too high and were explained by agricultural activity that introduced unbleached grains into the deposits either by addition
+of material to increase arability or through human reworking.
+6.2. Site integrity
+Two archaeological issues that have engendered a good
+deal of debate are dates of colonization and correlation of
+human activities with environmental events, such as the
+extinction of large mammalian fauna. Claims for early
+colonization or extinction correlations have been closely
+scrutinized, particularly in terms of valid dating and site
+integrity. Luminescence provides not only an independent
+dating method but also, perhaps more importantly, an
+assessment of the amount of mixing or disturbance in the
+sediments. Interpretation of single-grain equivalent dose
+distributions is already playing an important role in the
+Australian debate. I have already mentioned Jinmium rock
+shelter, where single-grain distributions revealed a mixed
+deposit that earlier was not appreciated and led to severe
+1504
+Use of luminescence dating in archaeology
+overestimation of the age of human occupation there. In
+contrast, distributions from Malakunanja II rock shelter were
+consistent with a single bleaching date, indicating human
+occupation 50–60 ka (Roberts et al 1998b). These ages were
+consistent with radiocarbon assays and agreed with earlier TL
+results, which used multi-aliquot techniques and included a
+signal less sensitive to light.
+The age of the oldest known human skeletons in Australia,
+from Lake Mungo, has been contested, with some OSL measurements, as well as U-series and ESR dating on the skeleton
+remains themselves, giving an age as old as 60 ka (Thorne
+et al 1999). Criticism of the OSL results has centred around
+uncertainties in the environmental dose rate and the association of the dated sediments with the burials, but also over
+the fact that the OSL was performed on multi-aliquots, which
+could mask incomplete bleaching (Gillespie and Roberts 2000,
+cf Grun¨ et al 2000). Very recently a comprehensive OSL dating project involving 25 dates from three stratigraphic sections
+bracketing two of the burials have constrained the dates of both
+to 40 ± 2 ka (Bowler et al 2003). Equivalent dose was determined from both multi-aliquots, using the slide method, and
+from small (∼10 grains) single aliquots, using SAR. The mean
+results were in agreement and the single-aliquot distributions
+did not indicate mixing or partial bleaching.
+Roberts and colleagues have also begun an ambitious
+project to date the extinction of the Australian megafauna
+(Roberts et al 2001a). OSL samples were secured from 28
+palaeontological sites bearing on the issue and dated using
+single aliquots containing typically less than 10 grains. For
+samples with positively skewed equivalent dose distributions,
+the youngest grains were taken to represent the equivalent dose,
+using a minimum age model (Galbraith et al 1999). They found
+no evidence for the megafauna extending later than about 46
+ka and were therefore not able to rule out a human role in
+extinction. One potentially younger occurrence of megafauna
+at the controversial site of Cuddie Springs was questioned
+because of evidence of sediment mixing, a conclusion strongly
+disputed by the site excavators (Wroe and Field 2001).
+OSL is also being applied to the contentious issue of
+when people first settled in the Americas. Dating projects
+are currently being carried out in Missouri, Virginia, South
+Carolina and Brazil at relevant sites, but so far little has been
+published, except for TL dates on lithics and OSL dates on
+hearth sediments at an 11 ka site in the Amazon (Michab et al
+1998).
+Finally, OSL is being increasingly used to evaluate the age
+and integrity of sites associated with early evidence of modern
+human behaviour in sub-Saharan Africa (Henshilwood et al
+2002, Feathers and Migliorini 2001).
+6.3. Site formation
+An added benefit of sediment dating is information on site
+formation processes, understanding of which is essential
+for not only assessing site integrity but to interpret spatial
+patterning of artefacts.
+Frederick et al (2002) used OSL dating to evaluate the
+depositional process of an extensive sand mantle across east
+Texas. The issue is important to archaeologists trying to
+assess the significance of archaeological material found in
+Figure 8. Histogram of equivalent dose from an aeolian sample
+from Mustang Springs in west Texas, the same sample as illustrated
+in figure 6. The distribution is negatively skewed, suggesting
+extensive mixing in this deposit. The oldest grains, or trailing edge,
+yield ages closest to that expected from independent evidence
+(Feathers 2003).
+these sands. One argument is that the sands are the product of
+in situ weathering of Tertiary bedrock so that archaeological
+materials found at depth can only be there because of
+pedoturbation, their spatial patterning therefore having no
+archaeological significance. An opposing view is that the
+sands are aeolian Holocene deposits, which have preserved
+archaeological spatial integrity. The authors reasoned that the
+samples under the weathering model should have saturated
+OSL signals but under the aeolian model should produce
+signals that were well bleached on deposition and that give
+Holocene ages in correct stratigraphic order. Single-aliquot
+analysis was used and while the aeolian model in general
+was supported, the distribution of equivalent doses did suggest
+some post-depositional mixing on some samples, an issue the
+authors are currently exploring (Bateman et al 2003).
+Mixing from turbation or deflation in dune sediments
+has long been apparent to archaeologists and geologists
+(e.g. Mayer 2002). Figure 8 shows a negatively skewed
+distribution of single-grain equivalent doses from a massive
+aeolian deposit with little internal structure from the Mustang
+Springs site in western Texas, suggesting extensive turbation.
+The trailing edge was used to date the sample. Although
+younger than a single radiocarbon determination from the same
+level, this age is still preferable to the mean as an age for
+deposition (Feathers 2003). The same study reported possible
+turbation problems with other dune sediments, although other
+aeolian depositions sampled, including some dunes, provided
+reasonable dates. Sommerville et al (2001) sampled a number
+of dune deposits in Scotland, associated with archaeological
+sites, and found some variation in the extent of bleaching
+during deposition, due in part to recycling from older dune
+deposits, but nevertheless obtained ages that were broadly in
+agreement with independent evidence. Additional work on
+small aliquots (Spencer et al 2003) suggested there was some
+mixing. A statistical analysis of Gaussian distributions using
+F-ratios applied sequentially to equivalent dose values (from
+low to high) suggested mixing from anthrogenic soils both
+above and below the aeolian deposit and may allow estimation
+of the time of abandonment between them.
+1505
+JKFeathers
+Waterlain deposits from low-energy transport systems
+have generally yielded successful results as well, but problems
+have been reported. Folz et al (2001) reported OSL
+overestimation when compared with radiocarbon dates from a
+Late Palaeolithic site located in Seine River deposits near Paris.
+While discounting several possible reasons to account for the
+overestimation, they did not have the ability to date single
+grains. Possibly such resolution may have allowed detection of
+the positive skewness noticed in equivalent dose distributions
+of other fluvial deposits (Olley et al 1999, Lepper et al 2000)
+and would imply a younger age.
+Rock shelters have long been used for human occupation
+and in many areas because of preservation reasons provide a
+large fraction of the archaeological record. Rock shelters serve
+as traps for sediment from a variety of sources, so the potential
+for complex radiation environments, mixing of sediments and
+partial bleaching is high. Most OSL attempts have targeted
+aeolian-derived sediments in rock shelters (Schwarcz and Rink
+2001, Feathers and Bush 2000) but single-aliquot and singlegrain dating should allow evaluation of colluvial sediments as
+well.
+7. Conclusion
+Recent methodological developments in luminescence dating,
+particularly single-aliquot and single-grain dating, have
+increased accuracy and precision and have also extended the
+application of luminescence beyond dating to depositional
+processes and site formation. Archaeologists are only
+beginning to take advantage of these developments and have
+indeed been slow at even appreciating the benefits of traditional
+TL dating of pottery that has been available for years.
+This paper has attempted to review these methodological
+developments and to provide examples of applications that
+demonstrate how questions, important to archaeological
+method, can be addressed with luminescence. The direct
+dating capabilities of pottery dating make luminescence an
+ideal method for teasing apart mixed assemblages, determining
+occupation durations and dating small sites that are otherwise
+difficult to place in regional chronologies. The resolution of
+single-aliquot and single-grain dating presents the opportunity
+for archaeologists to date and identify anthropogenic deposits,
+assess the stratigraphic integrity of sites and to determine site
+formation processes. In many such applications, luminescence
+should become the dating method of choice.

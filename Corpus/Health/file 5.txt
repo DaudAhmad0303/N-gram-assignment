@@ -1,0 +1,48 @@
+The value of a regional harmonized approach in monitoring the safety of vaccines and other medicines
+HUIHUI WANGPATRICIO V. MARQUEZALBERT FIGUERAS|FEBRUARY 08, 2022
+This page in: English
+The experience of EMA showcases the value of building institutions and systems to monitor the safety of marketed medicines. Photo: Shutterstock
+As the world enters the third year of the COVID-19 pandemic and has more capacity in supplying COVID vaccines, a major challenge facing countries is how to effectively address vaccine hesitancy among large segments of the population. A robust pharmacovigilance system can play an important role through two ways: 1) ensuring the detection, assessment, understanding and prevention of adverse effects or any other vaccine/medicine related problem that may only emerge after approval; 2) informing governments and other stakeholders on the safety of these products to properly communicate risks and promote the uptake of marketed vaccines/medicines.
+
+The work of agencies like the European Medicines Agency (EMA), demonstrates the value of a regional harmonized approach in monitoring the safety of vaccines and other medicines. Its experience can be relevant for countries/regions that are seeking to establish/strengthen their own pharamcovigialnce system and/or benefit from a more harmonized approach across countries. Let us elaborate on how this regulatory function is implemented.
+
+EMA organizational and working arrangements
+
+The European drug regulatory system is based on a network of around 50 regulatory authorities from the 31 European Economic Area (EEA) countries, the European Commission (EC), and EMA. EMA, established in 1995, operates at the heart of the network, coordinating and supporting interactions between over 50 national competent authorities (NCAs) for both human and veterinary medicine. EMA has also become a major player for European and international harmonization of drug regulations.  
+
+EMA Pharmacovigilance System (PVS)
+
+The monitoring of medicines safety includes several processes throughout the products lifecycle:
+
+Collection, management and analysis of data, information and documents in relation to product safety
+Review and assessment of data, information and documents in relation to product safety
+Decisions and actions by coordinating decision-making through technical committees and coordination group
+Coordination of safety communication
+Monitoring the implementation and impact of regulatory actions
+EudraVigilance, the European Union (EU) database for adverse reactions (AR) reports, is the tool that EMA and NCAs use for monitoring the safety of all authorized vaccines/other medicines in the 31 countries of the EEA as well as those being studied in clinical trials. Since 2017, the electronic reporting of suspected ARs related to vaccines/other medicines by NCAs and marketing authorization bodies to EudraVigilance is mandatory. Its database holds over 18 million safety reports and is one of the largest pharmacovigilance databases in the world. 
+
+EMA’s scientific committees and related groups conduct the scientific work of the Agency. For example, the Pharmacovigilance Risk Assessment Committee (PRAC) is responsible for the  safety of medicines, and recommends changes in their marketing authorization, including its suspension or withdrawal from the market if necessary, if modifications or variations to an existing marketing authorization are identified. 
+
+Risk communication in pharmacovigilance is important. For example, EMA, after reviewing in early in 2021 safety signals associated with the administration of the AstraZeneca COVID-19 vaccine in some EU countries, was able to advise national governments to resume vaccination based on the results of its review and to communicate the population that the benefits of the AstraZeneca vaccine in preventing COVID-19, with its associated risk of hospitalization and death, outweighed the risks of reported adverse effects. 
+
+EMA work also helped inform policy making in countries outside Europe. For example, on March 16, 2021, EMA stated that AstraZeneca vaccine’s benefits continued to outweigh the risks based on PRAC’s review of all reports of thromboembolic events among 5 million people vaccinated with the vaccine. Subsequently, WHO issued a statement on March 17 to reiterate the EMA position, and the African Centers for Disease Control and Prevention (CDC) recommended that African Union Member States continue to roll-out this vaccine as part of their vaccination campaigns in a statement issued on March 19.
+
+Benefits of a Regional Harmonized PVS
+
+Under a regional, harmonized, pharmacovigilance system (PVS), such as EMA’s, there is a bidirectional process conferring benefits to all members. 
+
+On one side, there is a benefit for the region as a whole from an expanded centralized data and information repository that results from the consolidation and assessment of the report submissions by individual countries following a harmonized approach adopted between the EU Member States and EMA to interpret and apply requirements for the demonstration of quality, safety, and efficacy set out in EC directives.
+
+Figure 1 illustrates the integrated steps and processes followed in pharmacovigilance (PV), the role played by countries within the EU regional system, and the flow of information within the system. The “safety signal” reports, which is information on a new or incompletely documented adverse event that is potentially caused by a medicine and that warrants further investigation under an accelerated timetable, originates at the country level. The PV programs in the countries are responsible for encouraging reporting, ensuring that reports get the PV center, including the minimum information to be considered, and appropriately assessing and sharing with the regional PV program. National PV programs can either raise a signal or make it more robust by adding its reports. Additionally, national PV programs use safety information originated at the EMA level and ensure that local differences at the country level are studied.
+
+Figure 1: Flow of Information in the 
+
+ 
+
+On the other side, individual countries can benefit from being part of a regional PV system. For example, it facilitates access to reports from different countries on potential safety signals related to the use of new medications. Also, specialists from all the member countries can further their professional development by taking part on the work of EMA’s scientific committees.  EMA can assist countries in policy decisions when a given country does not have a strong PV capacity or can serve as an impartial referee in cases of safety concern involving a local manufacturer.
+
+Takeaways
+
+The accumulated experience of EMA offers a good example to other regions of the value of building institutions and systems to monitor the safety of marketed medicines, as part of broader harmonized drug regulation processes that involve and support countries. The work of EMA has also shown to be critical for informing governments and other stakeholders on the  benefits/risks of marketed medicines. If not communicated well, reported adverse effects have the potential to undermine public confidence in vaccines/other medicines and in government actions in general. 
+
+The World Bank Group has been supporting countries in responding to COVID-19 pandemic and scaling up vaccinations through both short-term actions and system-wide investments.  Efforts in strengthening pharmacovigilance system to monitor the safety of vaccines and medicines are already on the way for some countries. Continued learning and knowledge/experience sharing can facilitate the journey towards a more harmonized approach for this essential public health function.

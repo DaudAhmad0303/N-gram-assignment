@@ -1,0 +1,14 @@
+Google plans to change Android app tracking in a bid to improve user privacy
+Clare Duffy
+By Clare Duffy, CNN Business
+
+Updated 1729 GMT (0129 HKT) February 16, 2022
+Google (GOOG) plans to develop new privacy measures that remove the ability to track users across apps on Android devices, potentially rattling digital advertising-based businesses like Facebook that have already been disrupted by app tracking changes introduced by Apple last year.
+
+Google said Wednesday that it is launching a multi-year effort to build privacy-focused advertising solutions that will limit the sharing of user data with third parties. These solutions will operate without the individual identifiers that allow developers to track user activity across various mobile apps and enable them to create ads targeted to a user's behavior and interests. Google (GOOGL) said it is also exploring technologies that would reduce the potential for a user's data to be collected without their knowledge.
+The announcement — which comes as Google and other Big Tech companies face mounting regulatory scrutiny for privacy concerns and other issues — was light on specific details about how the new system would work. But it was enough to unnerve some investors in companies reliant on targeted digital advertising. Shares of Facebook-parent Meta (FB), Snap (SNAP), Twitter (TWTR) and Pinterest (PINS) all dipped in early trading Wednesday following the announcement.
+Meta&#39;s market value just dropped by more than most companies are worth
+Meta's market value just dropped by more than most companies are worth
+Some of those companies have already taken a financial hit in recent months after Apple implemented changes in its iOS 14.5 update last Spring with the aim of giving users greater privacy and control over their data. The change — which gives users the option to opt-out of having apps track their behavior — contributed to a more than $200 billion market value decline for Meta after it reported earnings results earlier this month. Meta said the app tracking change is expected to have a $10 billion impact on its bottom line this year.
+However, Google noted that it plans to work with developers to build the new system and said, without naming Apple, that it won't take the same "blunt," opt-out approach that the iPhone maker has taken, which could provide some reassurance to app companies and advertisers.
+"We believe that — without first providing a privacy-preserving alternative path — such approaches can be ineffective and lead to worse outcomes for user privacy and developer businesses," Anthony Chavez, vice president of product management for Android security and privacy, said in a blog post.

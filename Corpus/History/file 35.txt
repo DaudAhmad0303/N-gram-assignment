@@ -1,0 +1,1286 @@
+INTRODUCTION
+The intellectual foundations of contemporary landscape approaches in archaeology may be traced back to at least the 1920s (Stoddard and Zubrow, 1999,
+p. 686; discussed later). Despite their historical depth in the discipline’s development, until recently landscape approaches largely were subsumed within archaeological inquiry to provide a backdrop against which material traces were plotted
+and evaluated (Knapp and Ashmore, 1999). Now, as evident from a review of the
+previous decade of Society for American Archaeology Annual Meeting Abstracts,
+1Rio Grande Foundation for Communities and Cultural Landscapes, Santa Fe, New Mexico 87504-
+8617.
+2Richard H. Wilshusen, University Museum, University of Colorado, Boulder, Colorado 80309-0218.
+3Cherie L. Scheick, Southwest Archaeological Consultants, Inc. Santa Fe, New Mexico 87504-8617.
+4To whom correspondence should be addressed at Rio Grande Foundation for Communities and Cultural Landscapes, P.O. Box 8617, Santa Fe, New Mexico 87504-8617; e-mail: kanschuetz@aol.com.
+157
+1059-0161/01/0600-0157$19.50/0 °C 2001 Plenum Publishing Corporation
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+158 Anschuetz, Wilshusen, and Scheick
+archaeologists increasingly are using the term landscape in the forefront of reporting their studies. Nevertheless, no commonly accepted understanding of what
+landscape studies are or should be exists. For example, authors use a multiplicity
+of landscape references that differentially emphasize natural (e.g., ecological, geomorphological, and hydrological) and cultural (e.g., technological, organizational,
+and cosmological) aspects of the human environment.
+The wide variability among archaeological uses of landscape at first glance
+raises the question whether the word retains noteworthy meaning in archaeological
+practice. That is, haslandscape simply become a synonym for natural environment
+orsettlement pattern (e.g., see discussion by Whittlesey, 1997, p. 19)? Researchers
+expecting a singular landscape concept might construe the terminological imprecision and the multiplicity of approaches as symptomatic of a lack of clear theoretical
+grounding.
+Archaeology is not alone in confronting the challenges posed by terminological and conceptual differences among varied landscape approaches. Fundamental
+intellectual tensions inherent within landscape concepts among Western social sciences today generally are traceable to the late nineteenth century debates led by
+Friederich Ratzel and Emile Durkheim (Hirsch, 1995). Both investigators viewed
+society from organismic perspectives.
+Ratzel, a geographer, focused on how human groups extended themselves
+across space and differentiated themselves from one another in relationship to
+properties imposed by their natural environments (Buttimer, 1971, p. 28; Gregory,
+1994a, p. 18). For Durkheim, who viewed society as the outcome of collective
+consciousness shaped by institutional frameworks, human relationships with their
+natural habitats are of indirect concern (Buttimer, 1971, p. 28). Given these intellectual traditions, it is not surprising that landscape concepts in geography and
+other social sciences have a multiplicity of meanings that fall variously along the
+nature–culture continuum (e.g., see Cosgrove, 1985; Hart, 1995; Jackson, 1984;
+Roberts, 1987; Stilgoe, 1982; Thompson, 1995b).
+The abundance of terminologies and approaches that raises concerns over
+the usefulness of landscape concepts in archaeology is not simply the result of
+inappropriate borrowing of a singular well-developed idea from another discipline.
+At issue today, just as it has been for more than a century, is the fundamental nature
+of the relationship(s) between people and the spaces they occupy.
+We view the rapid growth in the use of landscape concepts over the past
+decade as symptomatic of significant change in popular archaeological thinking
+about landscapes. Knapp and Ashmore characterize this difference as “that what
+was once theorized as a passive backdrop or forcible determinant of culture is
+now seen as an active and far more complex entity in relation to human lives”
+(1999, p. 2). Within this ongoing examination of the relationships between nature
+and culture in how communities transform physical spaces into meaningful places
+(Hirsch, 1995; Tuan, 1977; discussed later), the landscape approaches presented in
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 159
+recent compendiums (e.g., Ashmore and Knapp, 1999; Bender, 1993a; Crumley
+and Marquardt, 1987; Carmichael et al., 1994; Feld and Basso, 1996a; Fisher
+and Thurston, 1999a; Hirsch and O’Hanlon, 1995; Thompson, 1995a; Ucko and
+Layton, 1999) establish frameworks for building a more synthetic archaeology of
+“place.”
+As Fisher and Thurston (1999b, p. 631) observe, some of the most highly
+productive landscape research draws from complementary theoretical perspectives. Landscape approaches allow researchers to accommodate, if not integrate,
+different theoretical perspectives even while these constructs exist in tension with
+one another. Through this characteristic, an explicitly defined landscape approach
+might facilitate bridging the divide between processual and postprocessual archaeologies.
+The purpose of this review is to examine the attraction that landscape concepts
+currently have among archaeologists. To complete this task, we consider two basic
+questions: What are landscapes? And how are landscape approaches relevant to
+building a fuller understanding of cultural and historical processes in archaeology?
+For organizational purposes, our discussion has five sections. The first introduces a landscape paradigm and its underlying premises. In turn, these principles
+provide the foundations for assessing a landscape approach’s usefulness in archaeological study. We suggest that a landscape approach is relevant to archaeology’s
+goal to explain humanity’s past through its ability to facilitate the recognition and
+evaluation of the dynamic, interdependent relationships that people maintain with
+the physical, social, and cultural dimensions of their environments across space
+and over time. A landscape approach also is relevant for its capacity to bridge
+the division between archaeological practice and the concerns of archaeology’s
+many publics, including the people of indigenous communities who increasingly
+are vocal participants in discussions on the interpretation and management of their
+heritage.
+In the second section, we review the ontogeny of landscape concepts over
+their history in the social sciences, including geography, cultural anthropology, and
+archaeology. Our intention is to show that the centrality of landscape’s cultural context is both a material record of patterned behaviors within specific environmental
+contexts and a symbolic construction (after Olwig, 1996).
+In the third section, we examine the historical compatibility between landscape concepts and common archaeological practice. That is to say, archaeologists,
+implicitly and informally, historically incorporate aspects of a landscape approach
+in their studies. We suggest that archaeology is well suited for applying an integrative landscape paradigm more explicitly and productively than are other social
+sciences, including geography, by virtue of its combined anthropological perspective and time depth.
+The fourth section explores several of the elements and applications of landscape ideas in current literature that will contribute toward the definition of a
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+160 Anschuetz, Wilshusen, and Scheick
+broadly encompassing landscape paradigm. Each of three approaches discussed—
+settlement ecology, ritual landscapes, and ethnic landscapes—emphasize different
+aspects of how humans define, shape, and use space.
+In the final section, we consider the role of a landscape approach in current
+archaeological research directions and trends. Through the development of a coherent anthropology of place, archaeology appears well positioned to contribute to
+building a landscape paradigm and the development of appropriate methodologies
+for its application. The approach also facilitates dialogue between archaeologists
+and traditional communities.
+A LANDSCAPE PARADIGM AND ITS USEFULNESS
+IN ARCHAEOLOGY
+A paradigm is a set of working assumptions, procedures, and findings that
+define a pattern of inquiry about the nature of our knowledge of the world or
+some aspect of the world (see Clark, 1993; Masterman, 1970; cf. Kuhn, 1970). A
+landscape paradigm for archaeological use, however, corresponds to the realm of a
+base construct paradigm rather than the overarching metaphysic paradigm by Kuhn
+(1970) or the intermediate-level sociological paradigm (Masterman, 1970, p. 65).
+While metaphysical paradigms generally consist of a way of seeing that organizes
+perception to affirm or assert the content of a scientific discipline (Masterman,
+1970, pp. 65, 68–76), sociological paradigms refer to concrete scientific achievements accepted by divergent communities (Masterman, 1970, pp. 66–68). Construct paradigms, in comparison, are methodological in that they are systems of
+strategies and tools for approaching particular kinds of scientific inquiry as well as
+interpreting what they do (Masterman, 1970, p. 70). In this capacity, a landscape
+paradigm “is defined more by what it doesthan what it is” (Whittlesey, 1997, p. 20,
+emphasis in original; see also Masterman, 1970, p. 70).
+Four interrelated premises provide the principal foundations for a landscape
+paradigm:
+1. Landscapes are not synonymous with natural environments. Landscapes
+are synthetic (Jackson, 1984, p. 156), with cultural systems structuring and
+organizing peoples’ interactions with their natural environments (Deetz,
+1990; see also Ingold, 1993, p. 152; Tuan, 1977, passim; Thompson,
+1995b, p. xi; Zube, 1994, p.‘1). As Cosgrove notes, “landscape denotes
+the external world mediated through subjective human experience” (1985,
+p. 13). Knapp and Ashmore add that by mediating between nature and culture, landscapes are ”an integral part of Bourdieu’s habitus” (1999, p. 20,
+emphasis in original).
+2. Landscapes are worlds of cultural product (after Boone, 1994, p. 7; see
+also Norton, 1989; Thompson, 1995b; Tuan, 1977; Wagner, 1995, p. 5).
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 161
+Through their daily activities, beliefs, and values, communities transform
+physical spaces into meaningful places. Ta¸con notes, “Experience, history,
+value systems, relationships, circumstance, and individual choices all play
+a part in how landscapes are ... described” (1999, p. 34). Accordingly, a
+“landscape is not merely the world we see, it is a construction, a composition of that world” (Cosgrove, 1985, p. 13). Thus landscapes are not the
+same as “built environments,” which refer to designed physical constructions (after Domosh, 1995, pp. 48–49; Foote, 1995, pp. 294–295). Landscapes represent “a way in which ... people have signified themselves and
+their world through their...relationship with nature, and through which
+they have underlined and communicated their own social role and that of
+others with respect to external nature” (Cosgrove, 1985, p. 15).
+3. Landscapes are the arena for all of a community’s activities. Thus landscapes not only are constructs of human populations but they also are the
+milieu in which those populations survive and sustain themselves. A landscape’s domain involves patterning in both within-place and between-place
+contexts (Binford, 1982, p. 5; Deetz, 1990, p. 2; see also Hubert, 1994).
+Observable patterns of both material traces and empty spaces come from
+interactions between culturally organized dimensions and nonculturally
+organized resources and life-space distributions (Binford, 1983, p. 380).
+With landscapes organizing perception and action, economy, society, and
+ideation are not only interconnected but they also are interdependent (see
+Anschuetz, 1998).
+4. Landscapes are dynamic constructions, with each community and each
+generation imposing its own cognitive map on an anthropogenic world of
+interconnected morphology, arrangement, and coherent meaning
+(Anschuetz and Scheick, 1998, p. 6; Jackson, 1984, p. 156; see also
+Hoskins, 1955; Parcero Oubi˜na et al., 1998, p. 174). Because landscapes
+embody fundamental organizing principles for the form and structure of
+peoples’ activities, they serve both as a material construct that communicates information and as a kind of historical text (Hugill and Foote, 1995,
+p. 20). Moreover, the landscape, as a system for manipulating meaningful
+symbols in human actions and their material by-products, helps define
+customary patterned relationships among varied information. Processes
+of behavioral change across space and over time necessarily result in an
+ever-changing landscape, however. Thus landscape is a cultural process
+(Hirsch, 1995; contra Cosgrove, 1984, p. 32).
+A landscape paradigm is relevant in archaeological inquiry given its potential to contribute toward resolution of several crucial problems confronting
+the discipline today. First, archaeologists long ago recognized the need to shift
+from the investigation of single sites to the study of questions addressing regional change and variation (e.g., Binford, 1982, 1983; Deetz, 1990; Fish and
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+162 Anschuetz, Wilshusen, and Scheick
+Kowalewski, 1990; Struever, 1971, to name only a few). Various nonsite, offsite, and archaeological landscape approaches (e.g., Cherry et al., 1991; Dunnell,
+1992; Ebert, 1992; Rossignol and Wandsnider, 1992; Yamin and Metheny, 1996;
+see also the later discussions) arose to consider the distribution and range of archaeological residues that do not conform either spatially or conceptually with
+commonly recognized site types. As a discipline, archaeology characteristically
+has lacked a concept of sufficient breadth and depth to implement this shift fully,
+however. Renfrew (1982) argues the cognitive background of communities is as
+important to archaeologists as is the understanding of the physical environment.
+Darvill (1997, p. 168) suggests the idea of the archaeological site might continue
+to represent the single greatest impediment to interpretive thinking because the
+scenes and edges of archaeological investigations can become confused with patterns of past activities that played out in differently defined arenas. As we have
+discussed later, a landscape approach provides cultural–historical frameworks to
+evaluate and interpret diverse observations about spatial and temporal variability
+in the structure and organization of material traces. Open to empirical observation
+and objective evaluation, a landscape approach provides guidelines whereby multiple investigators pursuing different research topics can contribute collectively to
+a more comprehensive understanding of past patterns of adaptation and culture
+change.
+Second, as epitomized by the postprocessual critique over the past two
+decades, dissatisfaction exists for many current archaeological explanations of
+variability in past human behavior (Bradley, 1993a; Earle and Preucel, 1987;
+Knapp, 1996; Preucel, 1990; Trigger, 1986; Wylie, 1993a). Archaeologists unquestionably have made significant contributions in evaluating the structure and
+organization of technologies, in documenting physical environmental trends, and
+in refining dating methods. Unfortunately, the narrowness of our many existing
+explanatory constructs limits understanding of the creative role of human agency
+in defining and in altering their own conditions for living. Critics (e.g., Thomas,
+1993) argue that, in processual examinations of archaeological traces across space,
+researchers tend to award material evidence a status that is more “real” than the society that produced it. Individuals only are known teleologically through their surviving works, while the dynamic social context that interconnects and imbues significance upon archaeological remains is missing (Thomas, 1993, p. 26). We believe
+that a landscape approach offers strategies and tools that will enable researchers to
+fulfill calls for constructions of the past populated with ideational actors (Cowgill,
+1993; Trigger, 1991; Watson, 1995) rather than “faceless blobs” (Tringham, 1991)
+that simply responded to whatever natural environmental vagaries befell them. A
+landscape approach also provides a framework for considering “peoples’ histories,” which contribute to the variation observed in the archaeological record (after
+Trigger, 1991, p. 554). In the process of examining the complex interrelationships
+that people maintain with their environments, a landscape approach might help
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 163
+bridge the chasm between scientific and humanistic perspectives in archaeology
+(Lekson, 1996).
+Third, a landscape approach is relevant to how archaeologists present their
+discipline publicly in general and to how they interact with indigenous peoples in particular. In his Distinguished Lecture in Archaeology for the American
+Anthropological Association, Sabloff (1998, p. 869) criticizes the discipline for its
+failure to serve the public’s interest in a productive and responsible fashion on a
+broader scale. Because landscapes communicate information on how communities
+interacted with their environments over time, they serve as a medium for meaningful cross-cultural dialogue on the construction and reproduction of affiliations
+with places. By providing a framework that legitimizes communities’ customary understandings of affiliation and a context for understanding the importance
+of relationships in sustaining community traditions, foundations for respecting
+cultural differences in issues of land tenure claims, resource uses, and heritage
+sites are broadened. Through active participation in landscape studies, indigenous
+peoples both contribute in compiling information important to their communities
+and building an appreciation of how archaeological investigations serve their interests (Anschuetz and Scheick, 1999). In turn, a landscape approach facilitates
+the exchange of insights, which archaeologists then can use either to build upon
+existing scientific arguments or design new kinds of research about past peoples’
+interactions with their environments (e.g., Hena and Anschuetz, 2000). By engaging people from traditional communities as respected partners, and whose way
+of knowing past landscapes can enhance scientific understandings, archaeologists
+ensure the relevance of their discipline to a community that is greater than themselves (Echo-Hawk, 2000).
+Because landscape is a synthetic abstraction, it provides a unifying concept
+for contrasting perspectives (after Crumley and Marquardt, 1990). The construct’s
+usefulness in helping structure assessments of people’s complexly woven interactions with their environments across space and over time lies in its ability “to bring
+together a disparate group of loosely related approaches under a single heading”
+(Preucel, 1998, p. 1; see also Gosden and Head, 1994, p. 113; Zube, 1994). As
+such, a landscape paradigm has the potential to facilitate identification of “the pattern which connects” (after Bateson, 1978) disparate observations on the breadth
+of communities’ interactions with their environments. Bateson (1978) defines the
+pattern which connects as a metapattern of interacting and interdependent parts.
+Bateson maintains further that the elements cannot be understood by what they
+supposedly are in and of themselves. Instead, they are understood in terms of what
+they do in relation to one another within recursive processes.
+Given our earlier comments on problems associated with terminological imprecision, we recognize a need to define parameters upon which researchers will
+continue to build and refine a landscape paradigm. Nevertheless, we anticipate that
+objective demonstration of the usefulness of a landscape approach as a processual,
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+164 Anschuetz, Wilshusen, and Scheick
+interactive, contextual, and interdisciplinary framework for identifying patterns,
+explicating data, and explaining behavior nearly is at hand. In particular, we believe
+that a landscape approach helps contribute to the building of fuller understandings of relationships among the varied spatial, temporal, ecological, and cognitive
+contexts in which people creatively interact with their environments.
+DEVELOPMENT OF LANDSCAPE CONCEPTS
+Investigators outside anthropology and archaeology initially defined the landscape concept for use in the social sciences. The intellectual framework for this
+definition derives from the debate between Ratzel and Durkheim (Hirsch, 1995).
+Neither researcher referred to the landscape concept explicitly, however. The first
+formal landscape definition comes from Carl Sauer’s work in geography. Although
+it is more than 75 years old, the definition given by Sauer (1925, p. 46) remains
+current for archaeology in cogent ways.
+The cultural landscape is fashioned from a natural landscape by a culture group. Culture
+is the agent, the natural area is the medium, the cultural landscape is the result. Under
+the influence of a given culture, itself changing through time, the landscape undergoes
+development, passing through phases, and probably reaching ultimately the end of its cycle
+of development. With the introduction of a different—that is, alien—culture, a rejuvenation
+of the cultural landscape sets in, or a new landscape is superimposed on the remnants of an
+older one.
+As a counter to the influence of Ratzel’s environmental determinism that pervaded the early twentieth century, Sauer’s definition stands as a hallmark because
+he acknowledged the contributing role of institutional frameworks in shaping society. In his work, Sauer specifically “sought to stress the agency of culture as a
+force in shaping the visible features of delimited regions on the Earth’s surface”
+(Cosgrove, 1994, p. 115). A deliberate empiricist who was intellectually close
+to anthropology colleagues Kroeber and Lowie at Berkeley, Sauer emphasized
+visible elements of physical environments that evoke human management and
+modification, such as water courses, plants, and animals. For Sauer, culture was
+“the impress of the works of man upon the area” (1925, p. 38), and he cited three
+basic factors to the study of landscape: “the physical environment, the character
+of the people, and time” (in Norton, 1989, p. 37). He played down landscape’s
+subjective aspects “and stresses that landscape was an objective area to be studied
+scientifically through observation” (Duncan, 1994, p. 316).
+In the 1960s and 1970s, geographers split along two contrasting trajectories
+in their approaches to the discipline. The first is an explicitly positivist science
+emphasizing spatial quantitative approaches in the documentation and evaluation
+of the human occupation of physical space. These approaches include movement,
+network, node, hierarchy, and surface models, among others (Chorley and Haggett,
+1967; Christaller, 1966; Haggett, 1965; Harvey, 1969; see also Hodder and Orton,
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 165
+1976). The second course was influenced by the adoption of a loose federation
+of humanistic philosophies and methodologies in the exploration of human values, beliefs, and perceptions (Buttimer, 1974; Hugill and Foote, 1995). These
+perspectives include existentialism, feminism, idealism, phenomenology, and interactionism (e.g., Entrikin, 1976, 1991; Ley and Samuels, 1978; Relph, 1976,
+1985; Soja, 1989; Tuan, 1974, 1977; Zelinsky, 1975).
+Researchers of the latter perspectives apply social and cultural theory to landscape interpretation in three complementary ways (cf. Cosgrove, 1994, p. 115;
+Duncan, 1994, p. 317; see also Cosgrove, 1984; Cosgrove and Daniels, 1988;
+Penning-Rowsell and Lowenthal, 1986). First, they often show a greater concern
+for sociocultural and political processes in landscape-shaping processes than people’s relations with specific natural environmental contexts. Second, they apply
+critical social and cultural theory in its humanistic interpretations. Third, they
+consider all forms of landscape, not just visible physical features, as cultural signifiers whose interpretation reveals cultural attitudes and processes. Within these
+approaches, contemporary geographers’ landscape efforts range from strongly behavioral to symbolic, even artistic (e.g., see Thompson, 1995a). This work at times
+continues to overlap with archaeological research interests, especially where investigators consider landscapes as material constructs that embed information on
+the structure and organization of past occupations and that serve as a kind of
+historical text (Hugill and Foote, 1995, p. 20). Although a small number of researchers (Giddens, 1979, 1984; Gregory, 1978, 1981; H¨agerstrand, 1976, 1988;
+Pred, 1984, 1990) obtain a certain accommodation of spatial scientific and humanistic perspectives in their studies, the discipline overall has not yet successfully
+integrated these fields, with some universities maintaining separate departments
+of human and physical geography (Anderson and Gale, 1992).
+Although landscape as a social science concept has its origins in geography,
+some of the most spirited discussions of the idea over the last two decades have
+occurred in other fields, including architecture and environmental design, historical
+ecology, cultural anthropology, and archaeology. Within landscape architecture
+and environmental design, a number of scholars (Hayden, 1981, 1997; Jojola,
+1990; Rainey, 1997; Stilgoe, 1982, 1998; Swentzell, 1990a; Zube 1994) view
+landscape not as a single uniform construct but as a multiplicity of coexisting
+texts that either provide unity for a community or serve as an arena of cultural
+tension and social conflict (after Groth, 1997). While physical landscape features—
+physiographic phenomena and buildings alike—may appear unchanged over time,
+the meanings bestowed on them silently may undergo subtle shifts or wholescale
+transformations.
+The best known proponent in landscape architecture is John Brinkerhoff
+Jackson (1984, 1994, 1995; see also Meinig, 1979b), whose work implicitly forms
+an integral part of the intellectual foundation upon which some anthropologists
+now are building their own landscape approaches. For Jackson a landscape is “a
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+166 Anschuetz, Wilshusen, and Scheick
+space or collection of spaces made by a group of people who modify the natural
+environment to survive, to create order, and to produce ...society” (Jackson, 1995,
+p. 43; see also Jackson, 1984, 1994). In viewing varied landscape elements as products of human values and aspirations, Jackson maintains that a landscape “is never
+simply a natural space, a feature of the natural environment” (1984, p. 156). In
+emphasizing the synthetic characteristics of landscapes, he considers vernacular
+design. Where the organization of space is largely or entirely free of overt political
+influence, communities occupy and use spaces “governed by custom, held together
+by personal relationship” (1984, p. 150). Jackson elaborates further upon a landscape’s essential temporal dimension: “A landscape is thus a space deliberately
+created to speed up or slow down the process of nature” (1984, p. 8) and history
+becomes a substitute for “natural processes of growth and maturity and decay”
+(1984, p. 156).
+Jackson’s emphasis on vernacular design and history as important elements of
+landscape studies resulted in a profoundly different view of landscape design than
+was common in architecture. Architects and environmental designers not only are
+artists of space but also of time (Brand, 1994; Rapoport, 1990). Rapoport (1990)
+argues for the centrality of meaning in material culture and for the relevance of
+studies that address culture-specific patterning in the remains human communities
+leave on the land. Rapoport recognizes a strong, recurring general pattern in his
+comparative study of environmental design. He observes, “People seem to shape
+and interact with built environments/material culture primarily through meaning
+and this seems to hold over time, cross-culturally, and in all kinds of environments,
+contexts, and situations” (Rapoport,1990, p. 42). Even though generations of people might inhabit and modify multiple places within their community landscape
+differently, the residual material traces share elements of a common underlying organizational pattern as long as fundamental cultural traditions remain intact (e.g.,
+see Rapoport, 1990, p. 17).
+Explication of linkages between changing occupation patterns and time perhaps is developed fullest in regional environmental analyses known as historical
+ecology. Crumley and Marquardt’s study (1987) of historic Burgundian landscapes
+typifies a landscape approach in its use of a variety of textual, remote sensing, and
+GIS data. Kirch (1994, 1997; see also Kirch and Hunt, 1997) uses a comparable
+historical ecological approach in his comprehensive examination of Pacific culture
+history.
+Historical ecologists characteristically embrace a traditional landscape concern of humanistic geographers, namely, the idea that vernacular and formally built
+landscapes reflect a group’s essential values and beliefs (e.g., Crumley, 1994). They
+follow humanistic geography by interpreting vernacular and formal landscapes in
+terms of communities’ values and beliefs. As Crumley and Marquardt espouse
+“people project culture onto nature” (1990, p. 73). In promoting the idea of interdependent senses of time and place, Winterhalder (1994, p. 18) observes,
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 167
+We can isolate such things as sociocultural or environmental causal factors or processes.
+Important properties of these may depend on their location in time, that is, they may have
+a temporal dimension. Nonetheless, we cannot define or isolate time itself as a causal
+variable or process. The same is true of (so-called) spatial variables or processes[emphasis
+in original].
+Historical ecologists argue that sociohistorical structures, such as class, kin,
+or interest groups, in combination with physical structures, such as climate, geology, and topography, determine landscape. By investigating social boundaries, they
+consider interactions of different communities and the effects of these relationships
+on landscapes. Their evaluations of the changing nature of boundaries, depending
+on time or scale of analysis, illustrate landscape dynamics. Finally, historical ecologists vigorously oppose the uncritical nesting they see in many archaeological
+and ecological landscape analyses (Crumley and Marquardt, 1987, 1990). They
+argue that changing risks and needs might subvert creation of a realistic hierarchy
+of parameters that condition regional behavior.
+Cultural anthropologists offer much work on the ideas of place in terms of social identity and contestation (e.g., see Feld and Basso, 1996b, p. 4). Dialogues between indigenous peoples and anthropologists on heritage resources conservation
+and management of cultural properties illustrate the ways in which landscapes often are important to communities for sustaining memory and tradition (Carmichael
+et al., 1994; Hena and Anschuetz, 2000; Kelley and Francis, 1994; Swidler et al.,
+1997). In exploring the dynamic properties of landscapes, cultural anthropologists
+cite the uncertainties, discontinuities, and multiplicities of voices and action linked
+to contestation and movement. They challenge the common underlying idea that
+places are defined by static boundaries and relationships based on stable residence
+(Feld and Basso, 1996b, p. 5, citing Appadurai and Breckenridge 1988; Deleuze
+and Guattari, 1986; Kapferer, 1988; Rosaldo, 1988). Instead, researchers suggest
+that, in borderlands characterized by fluidity and hybridization, landscape relationships can be based on place indeterminacy (Feld and Basso, 1996b, pp. 5, 6,
+citing Appadurai, 1992; Gupta and Ferguson, 1992; Gupta et al., 1992). Despite the
+absence of fixity among such “ethnoscapes” (Appadurai, 1992), communities are
+able to sustain coherent cognitive maps based on perceptions, direct experiences
+and distant memories, constructed meanings, and imagination.
+Recent anthologies by Hirsch and O’Hanlon (1995) and Feld and Basso
+(1996a) offer useful comparative insights on the cultural construction of landscapes. The Hirsch and O’Hanlon (1995) volume consists of an art historian’s
+review of the landscape concept (Hirsch 1995) and ethnographic case studies that
+examine spatial history and place concepts cross-culturally. The volume illustrates the dynamic qualities of culturally constructed landscapes as people move
+between a “foreground” of everyday, unreflexive forms of experience among perceived images of place and a “background” of social potentiality among spaces
+and representations of those spaces (Hirsch, 1995, pp. 4, 5).
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+168 Anschuetz, Wilshusen, and Scheick
+The Feld and Basso (1996a; see also Basso 1996) anthology focuses on native perceptions and experiences in giving meaning to particular localities. The
+collective goal of these essays is to examine “the complex ways in which places
+anchor lives in social formations ranging widely in geographical location, in economic and political scale, and in the accompanying realms of gender, race, class,
+and ethnicity” (Feld and Basso 1996b, p. 7). The essays illustrate how people
+creatively fashion themselves and their landscapes through their occupation of
+spaces, thereby illustrating the interdependence of the physical and the ideational
+within human environments. They provide examples of how negotiated social roles
+(e.g., age, gender, sex, kin group, class, and ethnicity), their interrelationships, and
+peoples’ identities are mapped variously on the landscape.
+FOUNDATIONS FOR ADOPTING LANDSCAPE CONCEPTS
+IN ARCHAEOLOGICAL PRACTICE
+Distribution Studies and Settlement Patterns
+As Knapp and Ashmore observe, “As long as archaeologists have studied the
+human past, they have been interested in space, and consequently, in landscapes”
+(1999, p. 1). In the early twentieth century, British geographers and archaeologists
+together pioneered the use of distribution maps (e.g., Crawford, 1912, 1922; Fleure
+and Whitehouse, 1916; see also Daniel, 1964; Goudie, 1987). By accurately locating archaeological phenomena in space, these investigators quickly began building
+explanations of site distributions in terms of geographic features (Crawford, 1922,
+p. 257; Fox 1923, 1947). Clark adds that the distribution map “by its very existence implies the co-ordination of scattered evidences and the establishment of a
+synthetic relation with their geographical background” (1933, p. 232). As a product of environmental determinism that pervaded much of early twentieth century
+intellectual thought, this synthetic relationship was distinctly asymmetrical. With
+the increasing availability of evidence documenting climatic changes during the
+Quaternary, researchers began interpreting the changing patterns of site distribution over time in terms of natural environmental fluctuations (e.g., Childe 1928,
+1952).
+The innovation of regional archaeological settlement pattern research during
+the late 1940s and the early 1950s (e.g., Wauchope, 1956; Willey, 1953, 1956) was
+a descendent of these early distribution studies. The foundation of these approaches
+was the premise that settlement patterns not only reflect the natural environment
+but they also are shaped directly by cultural needs (Willey, 1953, p. 1; see also the
+later discussions).
+Settlement pattern approaches were inspired, in part, by Steward’s
+(Steward, 1937, 1955) and Clark’s (Clark, 1939) pioneering efforts in ecological
+anthropology, which considers the relations between the structure and organization
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 169
+of how a cultural group earns its living and the group’s natural environment.
+Braidwood’s (Braidwood, 1974) Iraq Jarmo Project and Caldwell’s (Caldwell,
+1958) work in the eastern United States provided further impetus by establishing
+the place of archaeological data in understanding economic, social, and political
+transformations.
+Willey’s (Willey, 1953) Vir´u Valley work in Peru quickly received recognition as a prototype for settlement pattern studies. Willey systematically examined
+approximately 350 sq km, using aerial photos and site drawings made from those
+photos. Documenting 315 sites, roughly a 25% sample, Willey developed a settlement typology focused on dwellings, cemeteries, hilltop redoubts, pyramids, and
+compounds.
+Willey’s articulation of the settlement pattern approach is more than a set
+of techniques for identifying, describing, and classifying archaeological sites
+and their natural ecology scattered across large spatial areas. Agnew observes
+that Willey’s efforts generally followed geography’s lead by defining regional
+study as “the areal variation of human and physical phenomena as they relate
+to other spatially proximate and causally linked phenomena” (1994, p. 25; see
+also Gregory, 1994b, pp. 507–509). By incorporating Ford’s (Ford, 1949) ceramic
+studies for chronological control in his analysis, Willey contributed to the development of archaeological methods and data for interpreting long-term social changes
+within regions based on internal transformations rather than external factors such
+as diffusion or migration. Importantly, the emergent settlement pattern concept
+rested on basic principles that generally are compatible with a landscape paradigm
+today.
+As Willey notes, “settlements reflect the natural environment, the level of
+technology on which the builders operated, and the various institutions of social
+interaction and control which culture maintained. Because settlement patterns
+are, to a large extent, directly shaped by widely held cultural needs, they offer a
+strategic point for the functional interpretation of archaeological cultures” (1953,
+p. 1). He subsequently adds that settlement patterns, in effect, “provide a key for the
+reconstruction of ecological, cultural, and social systems” (Willey, 1973, p. 270)
+and constitute “a basis for cross-cultural and causal generalization in the study of
+settlement forms” (Willey, 1974, p. 159).
+After Willey’s (Willey, 1953) breakthrough in Vir´u Valley study, archaeological site survey methods became increasingly rigorous in implementing regional
+and subregional scales of analyses. A number of Mesoamerican surveys during
+the 1960s and 1970s are classics for regional survey for their many methodological contributions (e.g., Blanton, 1978; Coe 1967; Parsons, 1971; Sanders, 1965;
+Sanders et al., 1979; Spores, 1969). Elsewhere, Chang (1958, 1963, 1967) established precedents for examining settlement and social organization through the
+study of households, local social groups, and communities in his work in northern
+China. Conducting research on Mesopotamia’s Diyala Plain, Adams (1965, 1981;
+Adams and Nissen, 1972) contributed innovative frameworks for evaluating how
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+170 Anschuetz, Wilshusen, and Scheick
+political changes helped condition subsequent transformations in economic tactics
+and strategies.
+The body of regional archaeological studies in just the past 15 years is expansive and diverse (e.g., see Billman and Feinman, 1999; Barton et al., 1999; Blanton
+et al., 1993; Feinman and Nicholas, 1990; Fish and Kowalewski, 1990; Hendon,
+1992; Kowalewski et al., 1989; Ramsden et al. 1995; Spencer and Redmond, 1997;
+Stark and Arnold, 1997). The productivity and sophistication of this work has been
+fueled, in part, by the increasing attention archaeologists gave to the relationships
+among central settlements, smaller residential sites, and varied assemblages of
+nonhabitation features found throughout their study areas (e.g., see Scarborough
+et al., 1995; Schortman and Urban, 1994; Wells, 1994; Wilkinson 1994). The
+analytical power, the widespread availability, and the comparative ease of computerized applications of geographical model-based paradigms (shown earlier) within
+geographical information systems (GIS) packages is providing archaeologists now
+with a new set of quantitative tools for research of spatial patterns at macro- and
+microscales. GIS approaches range from natural environmental foci to those addressing the many nested relationships that people maintain with their physical
+settings and one another (see review by Kvamme, 1999).
+Settlement Systems
+The intellectual bases of settlement pattern studies evolved in sophistication in tandem with the discipline’s widespread embrace of the new archaeology
+throughout the 1960s and early 1970s (see Binford, 1972; Clarke, 1977; see also
+Caldwell, 1959). In systematizing their analyses, archaeologists moved beyond descriptive documentation of site distributions and organizational hierarchies within
+regions to interpretation of the multivariate dynamics underlying archaeologically
+observed patterns across the dimensions of space and time. Drawing from general
+systems theory (Bertalanffy, 1968), some archaeologists consider the interaction
+of variables—both natural and cultural—that they believe conditioned structural
+changes in settlement patterns. These researchers presume that the study of the interactions among such components allows a more comprehensive understanding of
+the system’s functioning and its pattern of change. Clarke (1968, 1972, 1977) and
+Johnson (1975, 1977) are proponents for the use of locational analysis at various
+scales to understand the systemic variation and interaction among contemporary
+sites. This concern for explicating settlement pattern changes resulted in the adoption of settlement system approaches, which address “the set of [probabilistic]
+‘rules’ that generated the [settlement] pattern in the first place” (Flannery, 1976,
+p. 162).
+In promoting systematization of settlement pattern studies, Binford (1982)
+recognizes that even though “excavated sites are the archaeologists’ bread and
+butter” (1983, p. 109), the landscape, not the site, is the arena for all of a group’s
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 171
+economic, social, and ideological activities. Binford adds, “Site patterning in both
+within-place and between-place contexts is a property of the archaeological record”
+(1982, p. 5, emphasis in original). Binford’s (Binford, 1980, 1982, 1983) now
+classic ethnoarchaeological studies, in turn, was a call for archaeologists to consider material traces and their contexts, including their depositional and spatial
+characteristics, beyond traditionally defined site boundaries. His recognition that
+observable patterns in both material traces and empty spaces come from interactions between culturally organized social dimensions and nonculturally organized
+resources and life-space distributions helps define the conceptual foundations for
+a landscape paradigm (Binford, 1983; discussed earlier).
+An emphasis on documenting selected variables presumed to play key roles in
+conditioning cultural change is preeminent among settlement system approaches.
+In particular, archaeologists have expended considerable effort in explicating technology and subsistence patterns in relation to issues of ecological adaptation. For
+example, Struever argues that because a population’s subsistence tactics and strategies exert primary influence in how a cultural system functions, settlement patterns
+are “an essential corollary of subsistence” (1968, p. 133). Flannery (1972, among
+others) contributes further to the refinement of settlement systems by urging researchers to concentrate on building explanations for the patterns of change visible
+in the archaeological record in implementing settlement system approaches.
+Settlement system approaches remain at the core of many recent interpretive regional and subregional studies (e.g., Albarracin-Jordan, 1996; Balkansky,
+1998; Cherry et al., 1991; Duke, 1995; Dunning et al., 1999; Erickson, 1999;
+Fisher et al., 1999; Gartner, 1999; Hyslop, 1990; Julien, 1993; Kolata, 1996;
+Marcus, 1998; Marcus and Flannery, 1996; Reeves-Smythe and Hammond, 1983;
+Schlanger, 1992; Schortman and Urban, 1992; Thurston, 1999; Whittlesey et al.,
+1997; Wilshusen and Wilson 1995; Wilson, 1988). As an assemblage, these studies
+contribute varied insights into the diversity, the complexity, and the dynamic interdependence among humans’ technological structures, their social, political, and
+religious organizations, and the physical environments in which they live. Many of
+the humanistic interpretive approaches pioneered in Europe to address the social
+and symbolic aspects of landscapes (e.g., Hodder, 1984, 1987; discussed later) also
+share aspects of their intellectual heritage with the systems approach advocated
+more than a generation ago by Clarke (1968, 1977) and his contemporaries.
+Distributional Archaeology as Archaeological Landscapes
+The settlement system studies confronted difficulties in areas where the distributions and ranges of archaeological traces did not conform either spatially
+or conceptually with traditionally recognized site types. In combination with
+Binford’s (1980, 1982, 1983; discussed earlier) call for going beyond traditionally defined site boundaries for evaluating archaeological traces, these challenges
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+172 Anschuetz, Wilshusen, and Scheick
+provided the impetus for development of methodological approaches known as
+“nonsite,” “offsite,” and “distributional” archaeology (Cherry, 1983; Cherry et al.
+1988, 1991; Dunnell, 1992; Dunnell and Dancy, 1983; Ebert, 1992; Foley, 1981;
+Rossignol and Wandsnider, 1992). These studies emphasize descriptive methods
+and site-formation concerns at the level of regional archaeological variation.
+Proponents of distributional archaeological approaches are reacting to the
+reliability of archaeological sites as units of spatial analysis (Cherry, 1983; Cherry
+et al., 1988, 1991; Dunnell, 1992; Dunnell and Dancy, 1983; Ebert, 1992; in
+Wandsnider, 1998, p. 94). Some investigators (Dunnell, 1992; Dunnell and Dancy,
+1983; Ebert, 1992) forward the opinion that archaeological sites methodologically
+and theoretically are flawed units of analysis. Dunnell suggests the solution to
+this fundamental issue “lies not in ‘refining’ the notion of site or tinkering with
+density thresholds or other means of site delineation” but in “developing methods
+of constructing units of historical association from smaller-scale observational
+units” (1992, p. 33).
+As summarized by Wandsnider (1998, p. 94), nonsite approaches are founded
+in these primary concerns. First, proponents identify the subjectivity inherent in
+survey-based site definitions (after Cherry et al., 1988, 1991). Second, they suggest the units of analysis commonly used in settlement pattern and settlement system analyses are teleological (after Wandsnider, 1998). Third, nonsite researchers
+question the assumption that sites of the same temporal phase are strictly contemporaneous (after Dewar, 1992; Schacht, 1984). Instead, proponents emphasize that
+studies of the spatial distributions of artifacts, features, and other material remains
+offer a more accurate and precise picture of the archaeological record.
+Historical Landscapes: Landscape Archaeology in the Americas
+With the emergence of the new archaeology in the 1960s, Americanist archaeologists recognized that anthropogenic landscape modifications entail more
+than physical modifications of the environment; they also entail patterns linked
+to “social and ideological dimensions” (Deetz, 1990, p. 2). Initially, ventures into
+this archaeology of landscapes were historical treatises. This early work characteristically was cast as (1) large-scale phenomena transcending the strict boundaries
+of localities and (2) “the highest level of mediation between the natural and the
+cultural, against which all other mediating material culture is projected” (Deetz,
+1990, p. 2). Although known primarily for their concentration on particular gardens, battlefields, and similar “offsite” phenomena (e.g., Fox, 1988; Kelso and
+Most, 1990; Leone, 1984; Miller and Gleason, 1994), their research perspective
+is broadening to consider historically documented landscapes more holistically,
+including changing settlement organization, demography, and sociopolitical relations (Lycett, 1995; Paynter, 2000; Yamin and Metheny, 1996; Zede˜no, 1997;
+Zede˜no et al., 1997).
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 173
+In their undertakings, these researchers recognize that landscapes exist “for
+reasons other than strictly practical and utilitarian” (Deetz, 1990, p. 2). To explore
+the cultural bases of landscapes and the roles of human actors in shaping and
+constructing meanings of places, these studies borrow heavily from humanistic
+geography (Cosgrove and Daniels, 1988; Groth and Bressi, 1997; Lewis, 1979;
+Meinig, 1979a; Tuan, 1974, 1977; Wagstaff, 1987) and postprocessual archaeology
+(Fritz, 1987; Hodder, 1987, 1991; Hodder et al., 1995; Tilley, 1994) for their
+interpretive frameworks (see also the later discussions).
+Social Formation and Symbolic Landscapes: Landscape Archaeology
+in Europe
+In Europe, but most especially in England, the foundations of landscape
+archaeology came in the middle twentieth century when field archaeology embraced intellectual perspectives offered by contemporary geographers and historians (Roberts, 1987, p. 78). The fruits of this interdisciplinary effort, as exemplified
+in the work of Michael Aston (1985), are comprehensive, systemic descriptions
+of “the landscape as a palimpsest of boundaries, mounds, abandoned villages,
+and field systems” (Thomas, 1993, p. 25). At this juncture, Europeanist studies
+generally resemble those of their Americanist counterparts.
+Sustained interest in European megaliths and other monumental architectural
+remnants at regional scales, which represent kinds of human thought and action
+neglected by traditional approaches, fueled vigorous study of social and symbolic landscapes (Barrett, 1988, 1991; Barrett et al., 1991; Bender, 1993b,1998;
+Bradley, 1993b, 1998a, 1998b; Darvill, 1997; Hodder, 1984, 1987; McMann,
+1994; Richards, 1990, 1996; Roberts,1996; Tilley, 1996; Thomas, 1993, 1996).
+Rather than limiting their work to documentary case studies, these researchers
+used structuration theory (Giddens, 1979, 1984) and the concept of symbolic capital (Bourdieu, 1977) to analyze social action and the manipulation of material
+culture and space within a broader system of symbolic meaning.
+Structuration theory, which recognizes the mutual dependence of social structure and agency, holds that “the structural properties of social systems are both
+the medium and the outcome of practices that constitute these systems” (Giddens,
+1979, p. 69). This construct refers to recurrent patterning in the way people do
+things and relate to one another across the dimensions of space and time (Giddens,
+1984). Symbolic capital, in turn, refers to how meanings assigned to material goods
+and other objects are critical to how individuals structure their world (after Earle
+and Preucel, 1987, p. 506). Moreover, space obtains importance through both its
+economic values and its strategic use by actors.
+Drawing from geographers (Cosgrove, 1985; Cosgrove and Daniels, 1988;
+Daniels, 1989; Jackson, 1980, 1984; Meinig, 1979a; Tuan, 1974; Zelinsky, 1973),
+British archaeologists use material culture as products of social action and tangible
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+174 Anschuetz, Wilshusen, and Scheick
+manifestations of belief systems. In this process, they are moving landscape archaeology studies into the realms of cognition and ideation (Bender, 1993b,1998;
+Bender et al., 1997; Bradley, 1993b, 1997; Renfrew, 1982).
+Discussion
+In its early decades, settlement pattern studies characteristically focused on
+spatial interrelationships among sites with domestic or public architecture. As a
+product of their times, these studies overemphasized the descriptive constructs
+on what the past was like rather than explanations of why observed technological and organizational changes in settlement patterns occurred (e.g., see Sabloff,
+1983, pp. 414–415; Willey, 1983, pp. 446–447). Settlement system, distributional,
+historical, and social/symbolic approaches each offer useful tools for explicating
+regional archaeological patterns. Individually, however, the approaches fell short
+of providing truly comprehensive explanations of past behavioral dynamics.
+As we have noted earlier, development of the basic settlement pattern concept from its outset was linked closely with Steward’s (1937, 1955) and Clark’s
+(1939) contributions to cultural ecology. This association facilitated the rapid and
+widespread acceptance of ecosystem concepts and general systems theory perspectives promoted by cultural anthropologists, geographers, and ecologists (e.g.,
+Butzer, 1971, 1982, 1994; Rappaport, 1968, 1979; Vayda and McCay, 1975) in archaeology. Because the cultural ecological approach draws concepts from ecology,
+history, political, and cultural theory into a single focus, archaeologists are better
+able to illuminate the many factors contributing to processes of cultural change.
+As Trigger notes, however, “In terms of causal factors, a systems approach serves
+to describe rather than to explain change” (1989, p. 308).
+Reliance on ecological theory and cybernetic perspectives fueled a tendency
+for settlement pattern researchers to treat human populations “conceptually as the
+same as any other animal population struggling for survival amidst the complex
+webs of ecosystemic relations” (Watts, 1994, p. 111). Researchers traditionally
+tend to presume that the possible contributing roles of social organization and
+ideation in culture change are weaker and less recognizable than the role of people’s
+relations with their physical environment through their productive technologies.
+Moreover, an implicit antihistoricism is evident in much of the work conducted
+during the 1970s and 1980s (Trigger, 1978, 1989, pp. 312–319; Wolf, 1982; see
+also Knapp, 1996, p. 141).
+In responding to both Flannery’s (Flannery, 1976) call for archaeology to
+build understandings of the “rules” that structure how people interact with their
+environments and occupy their landscapes and the postprocessual critique, settlement system studies have adopted a broader perspective. These studies increasingly
+are incorporating questions of history, perception, human agency, sociopolitical
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 175
+relations, and identity into assessments of archaeologically visible spatial patterns.
+In doing so, researchers are redefining their understandings of the environment as
+layered physical, technological, economic, social, political, and ideational realms
+that seemingly represent aspects of the intellectual legacy that Hawkes (1954)
+outlined in his “ladder of inference” nearly a half century ago.
+The redefinition of understanding comes from the recognition that the environment is partly a construction of people’s dynamic interactions with their physical settings. Moreover, these interactions are historically contingent, accretionary,
+and shaped through cultural perception and past human actions (after Fisher and
+Thurston, 1999b, p. 631; see also Feinman, 1999, p. 685). With refinement in the
+conceptualization of the human environment comes redefinition of the understanding of the web of interrelationships that is human ecology. As such, the study of
+settlement systems is moving toward the study of settlement ecology (e.g., see
+Stone, 1993, 1996).
+Dependence upon historical or ethnohistorical documentation or both effectively constrains the time depth of traditional historical landscape studies. In practice, historical constructions tend to be insular, and the development of frameworks
+for cross-cultural comparisons are still in their initial stages. By their concern with
+understanding the varied processes that shape human life, however, historical approaches contribute information on how the surviving material traces making up
+the archaeological record provide insights into questions of differential access to resources and power (after Paynter, 2000). These efforts are yielding comprehensive
+information on particular localities, which provide researchers with opportunities
+to work through other archaeological analytical and interpretive approaches to
+construct fuller explanations of the past.
+Associated with postmodernism generally and postprocessual archaeological
+approaches specifically, social formation and symbolic landscape approaches emphasize humanistic perspectives that prominently cast people as rational, creative,
+and aesthetic actors. These studies place great emphasis on building historically
+contextualized understandings. Humanistic archaeologists offer intriguing insights
+into the structure and organization of people’s behavior in the past, and, in turn,
+they are creating new conceptual categories that warrant consideration. Conceptualizations of the interaction between people and their natural environments tend
+to be defined narrowly, and the possibilities of natural environmental fluctuations
+often are considered less important than factors internal to society in processes of
+cultural change. As demonstrated through the recent work of Barrett (1994) and
+Bradley (1993b, 1997), however, humanistic perspectives now are constructing
+bridges back to the concerns of processual archaeologists (see Knapp 1996).
+Given this short history of the diverse and sometimes seemingly incompatible
+perspectives used in contemporary archaeological practice, it is fair to question why
+archaeologists are embracing landscape concepts enthusiastically at this time. This
+trend is more meaningful and more important, however, than a simple assertion that
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+176 Anschuetz, Wilshusen, and Scheick
+the ambiguity in landscape serves as an overarching gloss for any investigation
+that considers spatial distributions intermixed with references to sociopolitical
+relations and ideation.
+Whitley (1992, pp. 76,77) and Knapp (1996, p. 147) observe that the discipline already has moved well beyond processual archaeology’s methodological
+concerns and postprocessual archaeology’s ethnography of the past at the end
+of the twentieth century. Contemporary archaeology calls for multiple research
+paths and interpretive perspectives in its conduct (after Preucel, 1991; Thomas,
+1990; Wylie, 1993a, 1993b). The challenge is for researchers throughout the discipline to “learn to live with the notion of mutually irreconcilable views about the
+past” (Knapp 1996, p. 148, see also pp. 150–152) even while they seek common
+ground for different archaeologies. Knapp maintains that the historical aspects of
+archaeological theory must be recognized and emphasized if cognition, ideology,
+and ... human agency ... are to be accorded their proper role in the study of the
+past” (1996, p. 149).
+A landscape paradigm offers the potential to accommodate, if not integrate,
+different theoretical perspectives even while these constructs seemingly exist in
+tension with one another in their presentation of alternative constructions of the
+past (see also the later discussions). The strengths of the major contemporary archaeological approaches—settlement system analysis, distributional archaeology,
+and historical, social, and symbolic landscape approaches—all contribute to the
+foundations of an archaeology of landscapes. The specific challenge of this endeavor is to build a broad, synthetic framework for comprehensive understandings
+of historically contingent processes.
+RECENT ARCHAEOLOGICAL USES OF LANDSCAPE CONCEPTS
+Over the last few years, researchers have presented arguments representing the
+discipline’s increasingly confident steps toward building a theoretically grounded
+and practical paradigm for the archaeology of landscapes. As we have discussed
+later, an articulated landscape paradigm, whose methodological bases remain to
+be defined explicitly, will emerge directly from these archaeological applications
+of landscape.
+Three contrasting, yet complementary, general aspects of landscapes will
+likely contribute toward the definition of the paradigm’s foundations: (1) settlement
+ecology, (2) ritual landscapes, and (3) ethnic landscapes. Each of these components
+emphasizes different aspects of how humans define, shape, and use space at particular times. Together, they address some of the essential historically contingent
+processes that underlie how people transform space into place (cf. Casey, 1996).
+This list is neither exhaustive nor sufficient for defining a landscape paradigm comprehensively. To the contrary, this discussion provides only a partial
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 177
+illustration. Other researchers will introduce a variety of more specific physical
+and humanistic aspects of landscapes that will serve to broaden and refine the
+framework sketched out here. The articulation of the many contrasting perspectives embodied in contemporary archaeological research is needed (shown later)
+to achieve a comprehensive, historically aware understanding of the past that is
+sensitive to the great breadth and interdependency among the parts forming the
+web of people’s interactions with their environments.
+Settlement Ecology
+Perhaps the most readily accessible of these emergent archaeological landscape approaches for many archaeologists is settlement ecology. Owing much intellectually to settlement pattern and system approaches, the redefined settlement
+ecology perspective recognizes history and cultural perception as contributing
+variables to the structure, organization, and tempo of culture change (e.g., Stone,
+1993, 1996; see also Anschuetz, 1998; Roberts, 1996; Whittlesey et al., 1997). As
+such, settlement ecology addresses issues of archaeologically observed patterns of
+land use, occupation, and transformation over time.
+Settlement ecology acknowledges that landscapes are the products of people’s interactions with their environments and considers this continuum defined by
+a matrix of land-extensive and labor-intensive tactics and strategies. This approach
+emphasizes natural environmental variables, including essential subsistence resources, other raw materials needed for physical comfort and health, and items for
+trade or exchange. The availability of many basic resources and common amenities often changes unpredictably across time and space from cultural and natural
+factors. Settlement ecology examines the central issue of dynamic risk management through a community’s deployment of its economic, social, and ideational
+technologies (e.g., see Stone 1993, 1996).
+Because settlement ecology also recognizes the social and ideational components of a group’s effective environment, this approach considers the roles of
+culture and tradition as additional filters in how groups structure and organize
+their use and occupation of places. Culturally conditioned patterns of environmental perception and land use traditions in turn affect the mode and tempo of change in
+group interactions with their environment. For example, a series of gradual smallscale changes in archaeological patterns over time might represent adjustments
+that, over the short term at least, successfully dampen recurrent environmental
+perturbation. Rapid large-scale systemic changes, in comparison, might represent significant realignments to resolve contradictory operational and cognitive
+models for community interactions with their environment (see Rappaport, 1979,
+p. 168; see also Anschuetz, 1998, pp. 57–59). Transformations that necessarily respect and sustain a community’s traditions and revolutions that are rejections and
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+178 Anschuetz, Wilshusen, and Scheick
+restructuring of existing traditions are distinguishable by examining the continuities and discontinuities in archaeological spatial patterns over time.
+Ritual Landscapes
+Ritual landscapes are the products of stereotyped actions, including specific
+acts and sequences of acts (see Rappaport, 1999, pp. 35, 36), that represent the socially prescribed orders by which communities define, legitimize, and sustain their
+occupation of their traditional homelands. Less familiar than settlement ecology,
+ritual landscape studies rapidly are becoming a focal point for archaeological investigation (e.g., Bradley, 1998a, 1998b; Bradley and Chambers, 1988; Carmichael
+et al., 1994; Carrasco, 1991; Darvill, 1997; Fowler and Stein, 1992; Freidel et al.,
+1993; Hall, 1985, 1997; Ingold, 1993; Oosten, 1997; Richards, 1990, 1996; Robb
+1998; Stein and Lekson, 1992; Tilley, 1994).
+As Basso (1996) notes, traditional wisdom often is tied to places, thus the
+landscape is full of history, legend, knowledge, and power that help structure
+activities and organize relationships. Ethnohistorically known groups have full
+ritual calendars and a rich cosmology that structure, organize, and inform on much
+of their landscape, which community members perceive and with which they
+interact (e.g., Broda, 1991; Connor, 1982; Ferguson and Hart, 1985; Grinnell, 1922;
+Hall, 1997; Jorgensen, 1972; Kelley and Francis, 1994; Lowie, 1922; Morphy,
+1995; Ortiz, 1969; Parks and Wedel, 1985; J. Rappaport, 1989; R. Rappaport,
+1968; Tedlock, 1979; Townsend, 1992).
+Ritual landscape studies build on traditional archaeological examinations of
+patterns in the spatial distributions of ritual features, such as public buildings,
+monuments, squares or plazas, petroglyphs or pictographs, and various vernacular markers. The combination of distributional approaches for examining nonsite
+assemblages with interpretive perspectives examining the “background” potentiality of spaces and social representations of those spaces (Hirsch, 1995) enhances
+the potential to evaluate critically the ritualized incorporation of special places on
+landscapes that are segregated from habitation and activity centers within a group’s
+built environment.
+Drawing on traditional knowledge for ideas on cosmological referents of
+presumed long history, researchers evaluate the social orders that help condition
+how communities structure and organize their physical occupation of places. Ritual
+landscape studies increasingly use analogical constructs for developing a range of
+reasonable and testable ideas rather than simply citing analogy as an explanatory
+tool (cf. Wylie, 1985). Researchers base their efforts in part on the premise that
+probabilistic statements are possible about what conditioning variables identified
+from idealized ethnographic models might or might not be applicable to the past.
+Recognizing the impossibility of conducting ethnographic investigations using archaeological methods (see Whitley, 1992), researchers also work from the
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 179
+premise that fundamental spatial configurations visible archaeologically might relate to certain social features and culturally specific cognitive maps (after Cowgill,
+1993, pp. 562–564). Archaeologically quantifiable observations provide the material bases for probabilistic assessments of patterns based on coherent cognitive principles (after Rapoport, 1990, pp. 12, 15). Ritual landscape studies thus use idealized
+cognitive spatial models derived from ethnographic materials to look for patterns
+of similarity and dissimilarity in the past. These patterns possibly relate to changes
+in the deep patterning of ideationally informed guidelines that help condition the
+underlying structure, but not the specific content, of behavior (discussed later).
+Physical alterations of spaces that correspond to astronomical or cosmological phenomena are some of the most testable aspects of ritual use of landscape.
+For example, researchers tie the arrangement of Maya cities, Plains medicine
+wheels, and various South American and eastern United States landscape features to astronomical or cosmological alignments (Ashmore, 1991; Aveni, 1986,
+1991; Brumley, 1988; Eddy, 1974, 1977; Grey, 1963; Kehoe and Kehoe, 1977;
+Lekson, 1999; Parcero et al., 1998; Stein and Lekson, 1992; Swentzell, 1990b).
+In some cases, features still are in traditional use even though the history of their
+construction and use may be long and complicated.
+Ethnic Landscapes
+Ethnic landscapes are spatial and temporal constructs defined by communities
+whose members create and manipulate material culture and symbols to signify
+ethnic or cultural boundaries based on customs and shared modes of thought and
+expression that might have no other sanction than tradition (after Johnston, 1994,
+p. 81, citing Bell and Newby, 1978). While the most challenging of the emergent
+landscape approaches at present, ethnic landscapes offer the promise of being
+a highly productive interpretive tool (e.g., see Reid, 1997; Snead, 1995; Stark
+et al., 1995; Teague, 1993; Wilshusen and Ortman, 1999; Zede˜no, 1997). The
+concept that landscape can be used to mark or re-create sociocultural identity is
+a fundamental one and already is well established in existing research (Ashmore,
+1989; Bradley, 1993b, 1997; Gillespie, 1991; Hodder, 1987; Ingold, 1992; Linares,
+1977; Ta¸con, 1994).
+As we consider more fully later, archaeologists’ efforts to implement ethnic
+landscape studies, just as in settlement ecology and ritual landscapes, depend on
+the challenge of defining the culture concept. The idea of an ethnic landscape
+in archaeology initially seems to have partial roots in Kroeber’s (1923, 1939;
+see also Benedict, 1934) classic construction of the “culture area,” even though
+contemporary uses of this approach now recognize that ethnicity is not tied to
+physical spaces.
+The establishment of culture areas is central to Kroeber’s (Kroeber, 1923,
+1939) conception of the superorganic nature of human societies and their histories.
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+180 Anschuetz, Wilshusen, and Scheick
+He viewed the culture area as a large geographical expanse with a common ecology and a common set of adaptations. Based on spatial distributions of material
+culture traits, customs, and institutions, the culture area concept embodies three
+aspects: (1) the core, where a particular cultural configuration has exclusive or
+near-exclusive predominance; (2) the domain, where one cultural arrangement
+predominates among several others; and (3) the realm, where a particular constellation of culture traits is subordinate to at least one other such constellation.
+In traditional archaeological practice concerned with the construction of
+cultural–historical sequences (e.g., Willey and Phillips, 1958), investigators attempt to apply the cultural area concept through the comparative spatial distributions and frequencies of certain material culture traits considered diagnostic
+of particular cultural groups over time. In practice, however, archaeologists confronted conceptual obstacles in their constructions of the past as they shifted their
+analyses from “regions” occupied by disparate culture groups to “localities” occupied by culturally distinct communities. For this reason, the social and political
+dynamics of culturally constituted places encompassed within “regions” often have
+proven elusive. The difficulty might fuel common assumptions of the presence of
+a relatively homogeneous, localized population with a common history even as archaeological evidence inspires in-depth discussions of mobility and rapid change
+(e.g., Lipe et al., 2000).
+Ethnicity may be viewed as a way that individuals define their personal identity and as a type of social stratification that results when people form groups based
+on their real or perceived common origins (Hiebert, 1994, p. 172). Ethnicity is not
+uniformly important among all culture groups, however. In some cases, it might be
+viewed as an adaptive tactic. Moreover, ethnicity may or may not manifest itself
+with particular geographic spaces.
+The ambiguities associated with the study and explanation of ethnicity pose
+formidable challenges to archaeological inquiry. Clearly, study of ethnic landscapes is not relevant to all archaeological investigation. Nevertheless, the intrigue
+of an ethnic landscape approach is twofold.
+First, as a general observation, because ethnicity invariably involves both
+inclusionary and exclusionary behaviors, archaeologists reasonably expect to find
+evidence of differential ethnic representations in their morphological, stylistic,
+and spatial studies if such societal relationships were important within cultural
+communities at particular times and places. Based on analogies with other social
+science findings, ethnic expressions tend to be most cohesive and identifiable under
+circumstances of migration and asymmetrical power relationships (see Hiebert,
+1994).
+Second, although ethnic representations do not necessarily have spatial
+representations, the formation of ethnic communities is cast in terms of social
+action, guided through tradition, and played out in the arena of people’s interrelationships with their environments to create their landscapes (Anschuetz et al.,
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 181
+2000). Whenever a network of interacting individuals is concentrated in, or even
+loosely associated with, a particular territory, communities can maintain a coherent
+sense of affiliation with place (after Appadurai, 1992; Appadurai and Breckenridge,
+1988; Deleuze and Guattari, 1986; Gupta and Ferguson, 1992; Gupta et al., 1992;
+Kapferer, 1988; Rosaldo, 1988).
+Ethnic landscapes, clearly, like other landscapes, are extremely complicated
+because they are arenas of cultural process and change for multiple communities
+both simultaneously and sequentially. As such, landscapes exhibit variable histories and forever-changing occupation intervals (Barth, 1969; cf. Rouse, 1965). In
+recent archaeological studies, some researchers argue the restriction of ethnicities
+to state-level societies (e.g., Emberling, 1997). It is increasingly apparent, however, that ethnicity is an important feature of many prestate settings (e.g., Reid,
+1997; Wilshusen and Ortman, 1999). Productive archaeological considerations
+of ethnicity that help establish the relevancy of this topic for inclusion in a landscape paradigm include Aldenderfer (1993), Cordell and Yannie (1991), Emberling
+(1997, pp. 320–324), Kowalewski et al. (1983), Lightfoot and Martinez (1995),
+Lipo et al. (1997), Murra (1982), Stark et al. (1995), and Stone and Downum
+(2000).
+Discussion
+Building on and refining earlier archaeological approaches to the study of
+archaeological spatial distributions, settlement ecology, ritual landscapes, and ethnic landscapes address important aspects of landscapes. They also contribute useful, relevant insights into communities’ past behavioral dynamics and patterns of
+change.
+These three approaches also share the perspective that people are more than
+passive recipients of change imposed from outside their cultural systems. People
+are agents who contribute to conditions warranting the restructuring and reorganization of their interactions with their physical settings, with other members of
+their respective communities, and with residents of other communities. Because
+they emphasize different aspects of landscape relationships and dynamics, settlement ecology, ritual landscape, and ethnic landscape approaches complement
+one another. As a collection of related ideas, settlement ecology and ritual and
+ethnic landscape approaches help form a general framework for building a more
+comprehensive body of concepts for an archaeology of landscapes.
+Before realizing this task, however, we must consider the underlying ideas
+shared by these approaches. The unification of settlement ecology and ritual and
+ethnic landscape approaches is possible in terms of four important anthropological
+concepts: culture (cf. Tylor, 1871; White, 1959), tradition (Peckham, 1990; Trigger,
+1991), vernacular knowledge (after Atran, 1990), and the inevitability of sociocultural change (Plog, 1974; see also Minnis, 1985).
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+182 Anschuetz, Wilshusen, and Scheick
+Culture continues to be a central topic of discussion for anthropology since
+the discipline’s beginnings more than a century ago. Although culture is a unifying
+concept over much of anthropology’s history, its appropriateness increasingly has
+become a topic of debate since Kroeber and Kluckhohn (1952) noted the multiplicity of meanings ascribed to it by practitioners. Over the past decade, critiques of
+the culture concept generally focus on the theme that culture inevitably “suggests
+boundedness, homogeneity, coherence, stability and structure whereas social reality is characterized by variability, inconsistencies, conflict, change and individual
+agency” (Brumann, 1999, p. S1). In archaeology specifically, researchers point out
+repeatedly that “Culture ... is clearly not monolithic” (Leonard and Reed, 1993,
+p. 649, emphasis in original).
+As used here, culture with a capital “C” is a uniquely human cognitive and
+behavioral system for producing, storing, and transmitting information (e.g., see
+Anschuetz, 1998, pp. 31–80, after Ford, 1977; Hall, 1959, 1969; Kirch, 1980;
+Rappaport, 1979; Trigger, 1991; Tylor, 1871; White, 1949; among others). Such
+information flow patterns are highly selective in what kinds of data and how data
+are transmitted among living people and between successive generations. Moreover, perceptions and meanings assigned values within a human community are
+defined culturally. Thus, through daily activities, beliefs, and values, communities
+transform their physical surroundings into meaningful places on particular patterns
+of morphology and arrangement. Through physical modifications, intimacies of
+experiences, and sharing of memories, communities reshape the natural settings
+of their geographical spaces to legitimize the meanings they bestow upon the landscape. To paraphrase Boone (1994, p. 7), people generate a landscape of cultural
+product, which their contemporaries and descendants inherit and inhabit for their
+own purposes. In this process, a group’s landscape conceptualization becomes a
+key element of its cultural heritage and provides the community with a particular
+sense of time and place.
+Each cultural community’s particular sense of place and time, in turn, helps
+organize the structure and pattern of their occupation of sustaining areas and their
+use of larger physical environments (see Anschuetz, 1998, pp. 47–50). Traditions, which generally relate to peoples’ understandings of “how they became
+who they are” (Peckham, 1990, p. 2), unify how people of a cultural community create and occupy their landscapes across the dimensions of space and time.
+Peckham (1990, pp. 2–5) recognizes that, although traditions are prone to change
+(and thus can be analyzed logically from an evolutionary viewpoint [e.g., see
+Anschuetz, 1998, pp. 44–58 for a more complete discussion]) and are dynamic,
+they allow for persistence and continuity in meaning. These qualities sustain a
+group’s senses of place and time on the landscape even as subtle changes in traditions occur throughout everyday use as people respond to and prepare for varying
+circumstances.
+Trigger maintains that traditions arise out “of the need for patterns or structural
+principles that provide some degree of coherence and meaning to the inexhaustible
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 183
+variety of concepts that the human mind is capable of inventing and manipulating” (1991, p. 557, citing Gellner, 1982, pp. 116, 117). As Anschuetz (1998, pp.
+44–58) observes, shared comprehension of meanings defines the contents of traditions. Two crucial issues underlie this statement. First, as Whorf (1956, pp. 213,
+214) argues, a common worldview among community members is implicit and
+obligatory. Second, building on Whorf’s thesis, Lakoff and Johnson (1980, p. 3)
+contend that fundamental concepts underlie and structure human thought; these
+concepts are matters not only of intellect but also of action and include mundane
+everyday matters. Consequently, we can expect people belonging to communities
+in formal and intense interaction with their environments to define and mark their
+occupation of physical spaces in patterned ways of residence, subsistence, and
+other activity.
+Even though traditions constrain the structure and organization of human
+behavior, culture does not play a tyrannically determinist role. Following Trigger, traditions are not wholly determining “because the human ability to reason
+allows individuals to manipulate and modify culture to varying degrees” (1991,
+p. 559) as they “realize their own changing needs and aspirations” (1991, p. 560).
+A consequence of this latitude in realized behavior is that human cultural systems
+encompass much greater internal behavioral variability than anthropologists and
+archaeologists recognize traditionally (Rambo, 1991, pp. 71–72; see also Trigger,
+1991, p. 552). Nevertheless, the need for structural order and coherence of meaning
+frame the contingent variation of culture and its open-ended capacity for elaboration (Trigger, 1991, p. 561; see also Atran, 1990; Berlin, 1973; Berlin et al.,
+1974; Lakoff, 1987; Nazarea, 1999a; Shore, 1996 for ethnoecological discussions
+of structures that condition perception and experience).
+Given that traditions are the media for information transmission among humans, we necessarily need to consider how culture helps structure perception and
+information transmission patterns. The idea of the conditioning role of vernacular
+knowledge is relevant here.
+Vernacular knowledge refers to the processes and results of certain kinds of
+ordinary thinking that people rely on as an indubitable source of truthful knowledge of their everyday world (see Atran, 1990, pp. 1–4, 275 n. 1 for his discussion
+of common sense). Vernacular knowledge refers to, and cognitively structures the
+consideration of, perceivable facts (after Atran, 1990, pp. 1–4). As universal propositions held by members of a society, the validity of such beliefs is beyond question.
+Peoples’ intimate relationships with incidental properties of certain worldly phenomena allow them to understand and describe accurately the essence of the things
+they experience. On one level, vernacular knowledge “is just the way humans are
+constitutionally disposed to think of things” (Atran, 1990, p. 2). On another level,
+vernacular knowledge defines and informs their worldview. As defined by Geertz,
+worldview is “a people’s picture of the way things, in sheer reality are, their concept of nature, of self, of society. It contains their most comprehensive ideas of
+order” (1973, p. 127 [1957]).
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+184 Anschuetz, Wilshusen, and Scheick
+Although vernacular knowledge is not a singular manifestation between cultures or even within specific cultures, certain cross-cultural regularities occur in
+classificatory systems upon which common-sense beliefs are imposed. The importance of vernacular knowledge to landscape studies becomes clear with Nazarea’s
+observation, “The landscape, or what’s out there, is processed through human perception, cognition, and decision making before a plan or strategy is formulated
+and an individual or collective action is executed” (1999b, p. 91). Landscape, then,
+deals with every aspect of resource management that underlies a “people’s sense
+of place—the lenses through which they construct the environment and estimate
+their latitudes of choice and opportunities for challenge and refutation” (Nazarea,
+1999b, p. 105). Because questions of the structure and organization of behavior
+over time are focal archaeological interests, the varied material traces constituting
+the archaeological record help define and evaluate past landscapes.
+Just as the natural environment, culture, tradition, and meanings assigned
+to common-sense classificatory schema change over time. These characteristics
+all are dynamic properties of human life; they are neither static nor immutable.
+As Plog (1974, pp. 8, 9, following Braidwood, 1968 and others) argues, explaining change has been archaeology’s primary objective since the latter half of the
+twentieth century.
+Although change is inevitable, the need to sustain order and coherence frame
+the contingent variation of culture and its open-ended capacity for elaboration
+(Trigger, 1991, p. 561). Marked discontinuities in the archaeological record signifying either the breakdown or revolutionary overthrow of established cultural
+frameworks that delimit certain ranges of behavior probably are rare. Instead,
+changes in historical landscape patterns for a particular cultural community will
+most likely sustain fundamental structural and organizational continuities through
+a community’s identifiable tradition.
+The question that remains is not whether landscape concepts are useful in
+archaeology, or whether they comport with traditional archaeological practice, or
+whether they can accommodate and address the postmodern critique. The question
+is whether archaeology can contribute to a systematic, scientific explanation of
+landscape dynamics over time.
+BUILDING AN ARCHAEOLOGY OF LANDSCAPES
+Four major challenges to constructing an archaeology of landscapes exist.
+First, how does a landscape approach contribute to archaeological inquiry by
+focusing attention on sources of behavioral variability characteristically obscured
+by traditional archaeological space and time systematics? Second, what are the
+general assumptions behind, the validity of, and the limits to our understanding of the archaeology of landscapes? Third, how do investigators reconcile—
+or at least recognize—potential differences between traditional cultural views
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 185
+and anthropology analyses of landscapes? Fourth, how does landscape fit into
+the larger challenge of making a scientifically viable, yet traditionally informed,
+anthropology?
+Archaeological Systematics and Landscapes
+If researchers conceive of “landscape” as a spatial analytical scale, they might
+suggest that it serves to combine some of the integrative aspects of concepts such
+as “tradition” and “horizon.” For example, an archaeological landscape might be
+viewed as the intersection of the spatial continuity of a particular cultural system (i.e., an archaeological horizon) within a specific temporal tradition. The
+conceptualization of landscape simply as an analytical unit of scale is inappropriate, however. In most regions of the world, the most basic unit for defining the
+intersection of the spatial extent of an archaeological horizon and the temporal
+continuity of a tradition is a “phase.” A phase in its most basic form represents the
+local/regional expression of several occupation components. Although the spatial
+extent of a phase or a horizon within a region is relevant to archaeological inquiry,
+this in itself does not constitute a “landscape” approach.
+A landscape approach is not isomorphic with space and time systematics.
+As cultural constructs that frame how people interact with their environments by
+structuring perceptions and meanings, they incorporate both objective (i.e., tangible and quantifiable in materialist terms) resources and subjective (i.e., less tangible
+in materialist terms and thus more qualitative) properties. Landscapes, after all, are
+the dynamic interaction of nature and culture, not just a superficial imposition of
+culture on nature. Each group introduces its own patterns of material and nonmaterial occupation, adding layers to the material traces of earlier or contemporary
+use by other cultural groups (Anschuetz et al., 1999, p. 9).
+Traditional archaeological space and time systematics characteristically view
+cultural space as something bounded geographically and time as a linear progression. Phase analyses, and similar spatial–temporal analytical frameworks, stress
+the material culture similarities of groups and tend to homogenize the remains
+to form cultural signatures. Phase analyses are not particularly good at focusing attention on potentially contemporary cultural phenomena whose patterning
+is conditioned in part by historically contingent processes based on contrasting
+cultural perceptions, actions, and relationships.
+While the idea that culture is an open system is neither new nor foreign to
+many archaeologists, common identifications of culture groups and culture areas in
+narrowly defined typological criteria “implicitly carry a closed concept of culture”
+(Green and Perlman, 1985, p. 6). A landscape approach recognizes that the arenas
+of human occupation and action are multilayered and that each group in a particular
+physical setting imbues its own senses of place and time on that space regardless
+of the purposes, frequency, or intensity of use.
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+186 Anschuetz, Wilshusen, and Scheick
+Landscapes incorporate aspects of mythic, past, and current histories concurrently; they have a quality of simultaneity. Because human actions and events
+are not isolated happenings on the land, temporality and historicity merge in the
+experiences of those who create order in their communities and reproduce society (Ingold, 1993, p. 157; see also Jackson, 1995, p. 43). People of culturally
+diverse communities simultaneously can share spaces on the physical environment
+with each drawing useful, but potentially contrasting, values (both material and
+nonmaterial) from the places they perceive and signify.
+Landscape attributes of temporality and simultaneity make for a potentially
+confusing temporal mix of material culture. A variety of studies over the past
+two decades show that complex relationships exist among material culture traits,
+constructions of ethnicity or other group identity, and socioeconomic status (e.g.,
+Barrett, 1994; Braun and Plog, 1982; Bronitsky et al., 1985; Clark and Parry, 1990;
+Hodder, 1982, 1985, 1986; Longacre, 1991; Mills and Crown, 1995; Skibo et al.,
+1995). Importantly, boundaries can manifest themselves differently between the
+domains of interpersonal behavior and the use, discard, and loss of material culture.
+Consequently, ideas of temporality and simultaneity require a shift in observational
+and analytical scales.
+Although a landscape approach recognizes the inherent fluidity and permeability of narrowly delimited boundaries, the persistence of particular “places”
+within may serve to define a landscape. Archaeological information on qualitatively different economic tactics and strategies can serve to segregate contrasting
+coresident groups. In this way, it is possible to recognize two or more communities occupying the same physical space through offsetting landscape constructions
+that selectively favored qualitatively different ecological niches (Anschuetz et al.,
+1999, p. 9).
+The existence of interwoven, fluid cultural boundaries within a physical environment recalls the idea of borderlands or frontiers (Gupta and Ferguson, 1992;
+Gupta et al., 1992) and ethnoscapes (Appadurai, 1992). Variation and change exhibited among broad historical patterns “often is the most visible, and in some
+cases most active, on the peripheries” (Green and Perlman, 1985, p. 9; see also
+Cordell and Yannie, 1991; Feinman, 1994; Marcus, 1992, 1998; Schortman and
+Nakamura, 1991). The concepts of borderlands and the indeterminacy of places
+together are potentially productive guidelines for examining spatial, temporal, productive, organizational, and ideational variability among landscape constructions
+of disparate communities within a common geographical area.
+In light of the many contextual nuances conditioning the temporal and spatial distributions of archaeological remains, we more appropriately may think of
+landscapes in a fashion that traces the tactics and strategies underlying the occupation of geographic spaces that parallels the space and time systematics by Willey
+and Phillips (1958). Landscapes in this conceptualization are the intersection of a
+particular group’s history with the places that define its spatial extent. In practice,
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 187
+researchers will recognize multiple cultural communities and possibly a variety
+of ethnic or social groups within the “landscapes” they study. Consequently, archaeologists should anticipate the potential for multiple landscape histories to be
+represented in the archaeological record.
+At first inspection, the many challenges to archaeological thought in the inherent multidimensionality and dynamics of landscapes may seem too formidable
+to warrant use of a landscape approach. Nonetheless, when one considers the
+many limitations imposed by traditional “phase” analyses, the potential merits of
+a landscape approach suggest that we should not dismiss it prematurely.
+In adopting a landscape approach, the focus of archaeological study shifts to
+isolating and dating the occupational histories of particular communities within a
+given geographic space through the tactics and strategies they used to interact with
+and survive in their environments. As we trace the trajectory of past community
+development, we might be able to depict graphically, in a series of Venn diagrams,
+the various ways, including ecological, ritual, or ethnical ways, in which people
+occupied their particular landscape. In short, a landscape approach complements
+traditional archaeological space and time systematics through its processual and
+scientific means of analysis while at the same time integrating human history and
+agency into their constructions (discussed later).
+Building an Epistemology for an Archaeology of Landscapes
+Archaeology is but one part of a landscape paradigm. Archaeology alone
+cannot address all parts of a truly integrative understanding of the anthropology
+of place. An integrated comprehension of the cultural constructions of the environment, like other aspects of human behavior, must include attention to space
+and time systematics. To build an epistemology for an archaeology of landscapes,
+there needs to be “correspondences between a realm of knowledge, e.g., concepts
+and propositions, and a realm of objects, e.g., experiences and things” (Gregory,
+1994c, p. 168, citing Hindess, 1977, italics in original). Against this framework,
+we need to elucidate what is understood to be knowledge within this approach.
+Cultural anthropologists and archaeologists are well suited for making crosscultural comparisons. In terms of underlying time and space systematics, comparative studies by cultural anthropologists usually are synchronic and broadly
+geographic. By virtue of their great time depth and diachronic perspective, archaeologists are making notable advances in explaining processes of cultural
+change. Archaeologists, however, traditionally are less successful in identifying
+and interpreting variation in the morphology and arrangement of behavior within
+particular cultural systems, even at local scales (e.g., see Binford, 1983).
+A landscape paradigm holds the promise for archaeologists of focusing their
+already considerable interpretive abilities along other productive research avenues.
+The approach facilitates identification and explication of the interactive processes
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+188 Anschuetz, Wilshusen, and Scheick
+operating among the various economic, social, and ideational tactics and strategies
+used by human groups as they sustain their livelihoods and communities in the face
+of everchanging environmental conditions (after Stone, 1993, p. 78). Through its
+coherent framework, landscape considers that the variation observed in the physical
+properties and spatial patterns of archaeological assemblages across spaces might
+be part of a greater dynamic whole.
+The task is to identify and evaluate the context, morphology, and arrangement
+of archaeological residues to explain human behavior and cultural processes. To
+accomplish this goal, archaeologists need to attend to time and space systematics
+within an increasingly integrative framework to examine how human communities
+organized their day-to-day interactions with their environments. We need to view
+material traces differently to enhance our pattern recognition skills and, ultimately,
+our explanatory abilities to achieve a higher level of historical ecological synthesis. Variation in the morphology and arrangement of archaeological assemblages
+across physical space, rather than an absolute signature of cultural difference,
+might permit comprehension of the suite of tactics and strategies used by people to
+retain resiliency in the face of unpredictable environmental conditions and sustain
+the coherence with their cultural communities from one generation to the next.
+Two complementary groups of analytical units are necessary for the implementation of a comprehensive archaeological approach: archaeological and environmental (Scheick et al., 2000). Neither represents a departure from traditional
+analytical units common in archaeological practice today. What differs is the careful attention to subdividing unit groups, measuring them, and designing analyses
+to examine them. Archaeologists need methodologies for isolating, observing, and
+measuring archaeological observations that ensure the data do not assume the very
+behavioral processes they are interested in explaining. From these resulting information sets, we need to create analytical units relevant to archaeological and
+physical landscape definition and landscape construction (Scheick et al., 2000).
+The archaeological landscape is the palimpsest of cultural residue that results from both natural and cultural processes operating at different spatial and
+temporal scales (see Wandsnider, 1998, pp. 87, 90). As such, it represents a convoluted but patterned distribution of archaeological traces across space. The natural
+environment is the sum of the biotic and geological elements within a particular
+geographical space. Their spatial and temporal distributions determine the physical environment’s dynamic structure, which, in turn, helps to condition people’s
+decision making and activities for sustaining their survival.
+The archaeological and environmental units identified for study are descriptors of the archaeological and physical landscapes, respectively. Variation in the
+archaeological units represents, in part, the outcomes of choices made by groups
+through their interactions with the physical spaces they occupied. The environmental units monitor some of the natural variation with which the people interacted.
+At the same time, the variation in natural environmental units helped structure the
+group’s decision-making matrices and actions.
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 189
+To construct an archaeology of landscapes, archaeologists must begin by
+defining the natural and cultural parameters that differentially conditioned how
+people occupied particular places and organized their activities across the dimensions of space and time (Scheick et al., 2000). By defining these parameters, we
+can understand better the structure and organization of human actions within their
+environments. Parameter definition involves four hierarchical steps: (1) definition
+of the archaeological and physical landscape segments that are the focus of our
+studies, (2) identification of the linkages between these landscape segments, (3)
+establishment of their intersections, and (4) definition of the landscape through the
+integration of these intersections.
+Through analyses, archaeologists need to characterize the internal variation
+within their analytical units, examine the spatial variation between and among
+those units, and identify and assess factors that might be responsible for some of
+the observed variation (after Scheick et al., 2000). Through pattern recognition
+and statistical analyses, we need to consider possible correspondences between
+and among the analytical units and ultimately between the archaeological and
+physical landscape segments. During this process, we might (1) define some of
+the cultural and physical parameters that shaped landscape constructions within a
+particular geographic space, and (2) identify and assess observable patterning that
+links the archaeological and physical landscape segments.
+In documenting and assessing variation within and among the archaeological
+analytical units, researchers can describe and evaluate the archaeological landscape comprehensively. In distinguishing between onsite and offsite components
+of the archaeological record, we might discern areas of intensive and nonintensive land use, with the former representing occupied spaces on the land and the
+latter representing activity spaces. Through study of spatial distributions and interrelationships among isolated archaeological traces, composite archaeological
+assemblages, and nonmaterial open space, we might identify aspects of the archaeological landscape structure. Included in archaeological landscapes are (1)
+action spaces within which people focused their economic, social, and ideational
+interactions with their environments, (2) search spaces within which people interact to fulfill particular needs, and (3) awareness spaces about which groups
+maintain a minimal level of knowledge even though they might never visit the
+places directly (after Clark, 1998, pp. 4, 29, 360). Contributing further to archaeological landscape structure are the dynamic processes underlying the physical
+landscape that operate on a variety of scales to affect what investigators see in the
+contemporary archaeological record (Wandsnider, 1998).
+Traditional and Archaeological Views of Landscapes
+Documentation of historical contexts that identify and justify significance to
+scientists concerned principally with constructing and explaining the past is much
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+190 Anschuetz, Wilshusen, and Scheick
+less relevant to traditional communities concerned primarily with contemporary
+social issues concerning their cultural survival (Levine and Merlan, 1993, p. 55).
+For those archaeologists who work with traditional cultural properties (e.g., Parker,
+1993; Parker and King, 1990), there is much to recommend the concept of landscapes as way of linking the past with the present. Landscapes (1) are associated
+with cultural practices or beliefs rooted in the histories of living communities and
+are essential to sustaining cultural identities (after Parker and King, 1990; see also
+Parker, 1993), (2) are shaped by people to serve their needs and reflect their culture
+(after Friedman, 1994), and (3) simultaneously are viewed by people of different
+cultural communities (after Cowley, 1991, 1994).
+The “language” of landscapes is much more readily accessible to people from
+traditional communities than the usual archaeological terminology used in scientific research or legislation designed to protect cultural resources, such as sites, and
+traditional cultural properties, such as medicine gathering areas (Anschuetz and
+Scheick, 1999; Carroll, 1993; Cushman, 1993; Echo-Hawk, 1997, 2000; Ferguson
+et al., 1993). To speak of past places as removed from the present and no longer
+a part of contemporary landscapes makes little sense among people in traditional
+knowledge systems. Many non-Western land-based communities view history as
+part of a living process that makes the past a referent for the present and the
+landscape as memory itself (Anyon et al., 1997; K¨uchler, 1993; Morphy, 1993;
+see also Anschuetz et al., 2000; Ferguson et al., 1993; Jackson, 1980; Parker,
+1993). Because landscape concepts held by the people of traditional communities characteristically are land based and process oriented, the landscape immediately is understood to be more than the present built environment (Tallbull
+and Deaver, 1997) or simply a protected cultural resources site (Cleere, 1995).
+Important sources of knowledge from the past about the material consequences
+of how people used, occupied, and transformed their landscapes are embedded
+in each community’s cultural–historical narratives. History is continuously reenacted in the present through the group’s traditional beliefs and practices, thereby
+continually reaffirming the community’s cultural–historical associations with its
+landscapes (after Parker, 1993, p. 4). Landscapes, in turn, become a mirror of a
+community. Landscapes are products of communities’ relationships with their
+surroundings, as each generation lives its life and bestows meaning on those
+surroundings.
+As archaeologists, it is important also to consider the past in terms of indigenous peoples, not just of our discipline. Comprehension that the physical spaces,
+including tracts of rangeland, surrounding built residential centers are neither natural nor exclusively part of nature is an indispensable first step. A landscape’s
+physical spaces are not silent on questions of community history and cultural
+heritage.
+Although a landscape approach is not a complete bridge by itself, it facilitates active dialogue between the traditional groups with ties to a place and the
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+Archaeology of Landscapes 191
+archaeologists working in the locality. Such dialogue presupposes the recognition
+that landscape includes both quantifiable archaeological resources (i.e., artifacts,
+features, and sites) and cultural properties (i.e., qualitative characteristics people
+associate with and use to sustain their conceptual occupation of places and community identity). Many places exist that qualify as traditionally important cultural
+properties or significant archaeological resources (or both) whose management
+should be parts of a larger landscape. The ethic of place (Wilkinson, 1992, pp.
+132–161) and anthropology of place (shown earlier) might be a vital point of
+overlap for traditional communities concerned with their cultural survival and
+contemporary archaeology.
+SUMMARY AND CONCLUSIONS: LANDSCAPES,
+ANTHROPOLOGICAL ARCHAEOLOGY, AND EXPLAINING
+THE PAST
+The terminological and methodological eclecticism in the present use of landscape in archaeological analyses appears to result from researchers attempting to
+solve many different kinds of problems in isolation, using a concept whose paradigmatic underpinnings have yet been fully defined. An archaeology of landscapes
+has the promise for bridging some nagging problems in archaeology by providing a set of interdisciplinary methodologies that accommodate, if not integrate,
+contrasting theoretical perspectives.
+Because landscapes are worlds of cultural product and represent the record
+of dynamic processes of human interaction with their environments, they warrant
+further consideration. A landscape approach provides a framework for assessing
+sources of behavioral variability in the archaeological record and allow observations in a context beyond the limits of the physical locations and boundaries of
+sites. The approaches emphasize the contextualization of onsite findings in terms
+of the open spaces among the activity remnants observed archaeologically and that
+people almost certainly moved through and used during their daily activities (after Morrow, 1997, p. 161). Through a landscape approach, researchers can frame
+questions on how the morphology and arrangement of archaeological materials
+represent either a design with or an imposition on nature (after McHarg, cited in
+Price 1997, p. 227). The spatial and temporal distributions of archaeological assemblages can be used to evaluate changes in the patterning of cultural traditions
+as realignments of behavior.
+Because material culture encodes information in patterned ways, the use of
+inductive methods can decode archaeological observations to help make inferences
+about past meanings that underlie observed regularities and deviations (Rapoport,
+1990, p. 86). By combining a landscape approach with traditional spatial and
+temporal systematics, it is possible to incorporate the dynamic scale of landscape
+P1: GFU/GDB/GDX/LMD/GCX P2: GCR
+Journal of Archaeological Research [jar] PP078-295745 April 20, 2001 8:23 Style file version Nov. 19th, 1999
+192 Anschuetz, Wilshusen, and Scheick
+analysis with the fine-scaled spatial and temporal analysis of patterns characteristic
+of traditional archaeological practice.
+Common archaeological techniques, such as settlement pattern, distributional, historical, social formation, and symbolic analyses, all can contribute toward
+the building of a landscape approach. Each may offer partial answers to the larger
+questions the landscape paradigm enables us to ask. Current research on settlement
+ecology, ritual landscapes, and ethnic landscapes offers glimpses into the potential power of a landscape approach. Such an integrative methodological approach
+might facilitate examination of issues such as ritual use and ethnic identity that are
+assuming prominence in archaeological inquiry. Because a landscape is the arena
+for all of a group’s economic, social, and ideational behavior, studies under this
+approach must consider within-place and between-place contexts. Moreover, that
+landscapes are dynamic constructions necessitates a more comprehensive search
+for patterning and development of holistic explanations in which people as actors
+contribute to changes in their conditions for living.
+The twentieth century ideas of Sauer and Jackson still have currency. Landscape truly might be “the pattern which connects” (Bateson, 1978) seemingly
+disparate constructs. Landscape enables us to perceive and comprehend the great
+breadth and interdependency among the parts forming the heterarchical web of
+people’s interactions with their environments.
+Archaeology, as an integral part of anthropology and armed with its great time
+depth, has the potential to unify this truly interdisciplinary approach into a coherent
+whole. In doing so, a landscape paradigm might allow archaeology to contribute
+substantively to an understanding of the anthropology of place by demonstrating
+the limits of strict cultural materialism in explaining how people creatively fashion
+their environments.
+ACKNOWLEDGMENTS
+We wish to extend our appreciation to Tina L. Thurston, Robert W. Preucel,
+and two anonymous reviewers for sharing generously their knowledge and keen
+appreciation of landscapes with us. We also want to acknowledge Gary M. Feinman
+both for his constructive commentary and for his considerable patience throughout
+this process. Jane V. Sandoval provided word-processing assistance. Although each
+of these individuals helped us improve this essay, we accept full responsibility for
+the errors and oversights that remain.

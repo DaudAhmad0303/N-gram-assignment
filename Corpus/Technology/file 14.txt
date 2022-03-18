@@ -1,0 +1,71 @@
+Russia partially restricts access to Facebook to ‘protect Russian media’
+Restrictions come after Facebook limits Kremlin-backed media accounts in wake of Russia’s invasion of Ukraine
+
+Russia-Ukraine war latest news: follow live updates
+The Russian watchdog said its ‘partial restriction’ of Facebook would take effect on effect Friday, but did not clarify what measures would be implemented.
+The Russian watchdog said its ‘partial restriction’ of Facebook would take effect on effect Friday, but did not clarify what measures would be implemented. Photograph: Dado Ruvić/Reuters
+Dan Milmo, Kari Paul and agencies
+Fri 25 Feb 2022 17.51 GMT
+
+Russian authorities have announced the “partial restriction” of access to Facebook after the social media network limited the accounts of several Kremlin-backed media organisations after Moscow’s invasion of Ukraine.
+
+The state communications watchdog, Roskomnadzor, demanded that Facebook lift restrictions it said the company had placed on state news agency RIA Novosti, state TV channel Zvezda, and pro-Kremlin news sites Lenta.ru and Gazeta.ru. The restrictions placed by Facebook on the sites included marking their content as unreliable, Roskomnadzor said.
+
+The watchdog said its “partial restriction” of Facebook would take effect on Friday, but did not clarify what measures would be implemented. Roskomnadzor described its move as “measures to protect Russian media”. It said Russia’s foreign ministry and the prosecutor general’s office found Facebook “complicit in violation of fundamental human rights and freedoms, as well as the rights and freedoms of Russian nationals”.
+
+Facebook’s owner, Meta, did not comment. Nick Clegg, Meta’s president of global affairs, announced on Friday morning that the company had established a “special operations centre” to deal with Ukraine-linked content that incited violence or used hate speech.
+
+He later acknowledged in a tweet that Russia had restricted Facebook after it refused to “stop the independent factchecking and labelling of content posted on Facebook by four Russian state-owned media organisations”.
+
+“Ordinary Russians are using our apps to express themselves and organise for actions,” he said. “We want them to continue to make their voices heard.”
+
+
+Meanwhile, Russia Today, the state-backed news service, confirmed its website had been hit by a cyber-attack after a Twitter account linked to the Anonymous hacker collective declared “cyberwar” against the Russian government.
+
+Advertisement
+
+The organisation said it had been subjected to “massive” distributed denial of service (DDoS) attacks, which render sites unreachable by bombarding them with spurious requests for information. It came as a Twitter account linked to Anonymous, @YourAnonOne, said the group was at war with the Kremlin.
+
+Russia Today said: “After the statement by Anonymous, RT’s websites became the subject of massive DDoS attacks from some 100 million devices, mostly based in the US. Due to the attacks there might be temporary website access limitations for some users, yet RT is promptly resolving these issues.”
+
+In a DDoS, a website is deluged with spurious requests for information – described by experts as akin to stuffing a thousand envelopes through a letterbox every second – that render the site unreachable. According to Craig Terron, a senior analyst at Recorded Future, which monitors cyber threats, the Russia Today site remained “intermittently available” on Friday, having gone down at 5pm (2pm GMT) Moscow time on Thursday.
+
+“The website is intermittently available, with continued reports of users unable to access the website, as of 1330 Moscow time on February 25,” he said.
+
+The Anonymous declaration came as Reuters reported that the government of Ukraine is asking for volunteers from the country’s hacker underground to help protect critical infrastructure and conduct cyber spying missions against Russian troops.
+
+Anonymous also claimed on Friday to have hacked and leaked the database of the Russian Ministry of Defence website.
+
+As Russian forces attacked cities across Ukraine, requests for volunteers began to appear on hacker forums on Thursday morning, as many residents fled the capital Kyiv.
+
+“Ukrainian cybercommunity! It’s time to get involved in the cyber defence of our country,” the post read, asking hackers and cybersecurity experts to submit an application via Google Docs, listing their specialties, such as malware development, and professional references.
+
+Yegor Aushev, the co-founder of a cybersecurity company in Kyiv, told Reuters he wrote the post at the request of a senior defence ministry official who contacted him on Thursday. Aushev’s firm Cyber Unit Technologies is known for working with Ukraine’s government on the defense of critical infrastructure.
+
+Another person directly involved in the effort confirmed that the request came from the Defense Ministry on Thursday morning. Ukrainian government websites have been hit by DDoS attacks this week and a new strain of wiper malware, dubbed HermeticWiper, has been found on hundreds of computers in the country. Experts have widely attributed the cyber-attacks to Russian state-backed hackers.
+
+PrivatBank logo on screen
+Russia unleashed data-wiper malware on Ukraine, say cyber experts
+Read more
+A defence attache at Ukraine’s embassy in Washington told Reuters he “cannot confirm or deny information from Telegram channels” referring to the mobile messaging platform, and declined further comment.
+
+Aushev said the volunteers would be divided into defensive and offensive cyber units. The defensive unit would be employed to defend infrastructure such as power plants and water systems. In a 2015 cyber-attack, widely attributed to Russia state hackers, 225,000 Ukrainians lost electricity.
+
+The offensive volunteer unit Aushev said he is organising would help Ukraine’s military conduct digital espionage operations against invading Russian forces.
+
+“We have an army inside our country,” Aushev said. “We need to know what they are doing.”
+
+The effort to build a cyber military force is coming late in the game, Aushev acknowledged.
+
+Why has Putin’s Russia waged war on Ukraine? – video explainer
+03:37
+Why has Putin’s Russia waged war on Ukraine? – video explainer
+Advertisement
+
+A Ukrainian security official said earlier this month that the country had no dedicated military cyber force, the Washington Post reported. “It’s our task to create them this year,” he told the Washington Post.
+
+Aushev said that he had already had received hundreds of applicants and was going to begin vetting to ensure that none of them were Russian agents.
+
+Reuters also reported on Friday that Ukrainian cybersecurity officials said hackers from neighbouring Belarus are targeting the private email addresses of Ukrainian military personnel “and related individuals”.
+
+In an announcement posted to Facebook, Ukraine’s Computer Emergency Response Team (CERT) said the hackers were using password-stealing emails to break into Ukrainian soldiers’ email accounts and using the compromised address books to send further malicious messages.

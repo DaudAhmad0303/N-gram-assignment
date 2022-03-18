@@ -1,0 +1,44 @@
+Facebook takes down Ukraine disinformation network and bans Russian-backed media
+Meta says network ran websites posing as independent news entities and created fake personas
+
+Russia-Ukraine crisis: live news
+WhatsApp, Messenger, Instagram and facebook belonging to the company Meta are displayed on the screen of an iPhone
+The network operated sites puporting to be independent news organisations claiming the west was betraying Ukraine. Photograph: Chesnot/Getty Images
+Dan Milmo Global technology editor
+Mon 28 Feb 2022 21.02 GMT
+
+Facebook and Instagram have taken down a disinformation network targeting people in Ukraine, as their owner announced it was blocking access to the Russian state media outlets RT and Sputnik across the European Union.
+
+Mark Zuckerberg’s Meta said it had uncovered a “relatively small” network of about 40 accounts, pages and groups on the two social media platforms.
+
+The network ran websites posing as independent news entities and created fake personas across social media including Facebook, Instagram, Twitter, YouTube, Telegram as well as Odnoklassniki and VK in Russia, Meta added.
+
+In a blogpost, Nathaniel Gleicher and David Agranovich, Meta’s head of security policy and director of threat disruption respectively, said the networks were run from Russia and Ukraine.
+
+Advertisement
+
+“They were operated from Russia and Ukraine and targeted people in Ukraine across multiple social media platforms and through their own websites. We took down this operation, blocked their domains from being shared on our platform, and shared information with other tech platforms, researchers and governments.”
+
+The post added that the network had a small presence, with 4,000 Facebook accounts following one or more of its pages and fewer than 500 accounts following one or more of its Instagram accounts.
+
+Fake personas created by the network included Kyiv-based professionals purporting to be news editors, a former aviation engineer and a hydrography expert. The network operated a handful of sites purporting to be independent news organisations, which claimed the west was betraying Kyiv and that Ukraine was a failed state.
+
+Meta said the network had links to another network it disabled in April 2020 that was connected to individuals in Russia, the Donbas region in Ukraine and two media organisations in Crimea that have since been placed under sanctions by the US government.
+
+The post also detailed the use of a Russia and Belarus-linked hacking campaign known as Ghostwriter, in which social media accounts are hacked and used to spread disinformation. Meta said Ukrainian military and public figures had been targeted and there had been attempts to make their Facebook accounts host YouTube videos claiming to show Ukrainian soldiers surrendering.
+
+“We’ve taken steps to secure accounts that we believe were targeted by this threat actor and, when we can, to alert the users that they had been targeted,” wrote Gleicher and Agranovich.
+
+Later on Monday, Nick Clegg, Meta’s president of global affairs, announced in a tweet that the company will restrict access to RT and Sputnik in the EU.
+
+Clegg said the social media company had received requests from a number of governments and the EU to take further steps in relation to Russian state-controlled media on its platforms.
+
+The move followed Clegg’s earlier announcement that Meta had blocked several accounts in Ukraine, including those of some Russian state media organisations.
+
+Meta’s move came as Lithuania issued a statement with Poland and other Baltic states asking Twitter, Facebook, Google and YouTube to suspend the accounts of the Russian and Belarus political leadership as well as government institutions and state-owned media in those countries.
+
+Netblocks, which tracks internet traffic shutdowns, said access to Twitter and Facebook was being restricted across Russia. On Friday, Russia’s state communications watchdog announced it was imposing “partial” restrictions on accessing Facebook as it accused the platform of censoring state media content.
+
+“The Twitter and Facebook restrictions in Russia are significant, impacting major internet providers and effectively slowing down the platforms to the point that content doesn’t load and the services are difficult or impossible to use,” said Netblocks.
+
+Clegg said on Twitter on Sunday that the Russian government was “throttling our platform” but the company would not restrict access to Facebook and Instagram in Russia. “We believe turning off our services would silence important expression at a crucial time,” Clegg wrote.

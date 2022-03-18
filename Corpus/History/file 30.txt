@@ -1,0 +1,491 @@
+Part I
+The Arthur of History
+
+K1
+1
+The End of Roman Britain and the 
+Coming of the Saxons: An 
+Archaeological Context for Arthur?
+Alan Lane
+The last time an archaeologist seriously engaged with the matter of Arthur was in 
+1971 with the publication of Leslie Alcock’s book Arthur’s Britain. Subtitled History 
+and Archaeology AD 367–634, this was a rigorous academic attempt to put the historical evidence for Arthur alongside the archaeology for the period in which he 
+might have existed. It was written in the context of the late Professor Alcock’s 
+excavations between 1966 and 1973 at Cadbury Castle, Somerset, where he had 
+investigated the major Iron Age hill fort identifi ed by Leland as the alleged site of 
+Camelot (Alcock 1972). Alcock’s work was a detailed account of the archaeology, 
+framed by a critical discussion of the early historical evidence for the period and the 
+few sparse “early” references to Arthur. Aimed at both students and an interested 
+public, it ranged over both Anglo-Saxon and Celtic evidence throughout the British 
+Isles.
+Arthur’s Britain offered an analysis of the supposed Arthurian evidence but was 
+perhaps unfortunate in coinciding with an upsurge in Arthurian iconoclasm whereby 
+most historians decided Arthur was either a myth or at best unknowable. Alcock 
+concluded that one reference – that to Arthur in the Annales Cambriae (“Welsh 
+Annals”) for 537, “The battle of Camlann, in which Arthur and Medraut fell” – was 
+“the irreducible minimum of historical fact” and that this assured us “that Arthur 
+was an authentic person” (Alcock 1971: 88). However, in 1977 David Dumville 
+published a trenchant review paper in the journal History, which rejected the claim 
+that any of the references to Arthur, including those in the Welsh annals, were 
+contemporary and concluded: “This is not the stuff of which history can be made. 
+The fact of the matter is that there is no historical evidence about Arthur; we must 
+reject him from our histories and, above all, from the titles of our books” (1977: 
+188).
+This view that there is no reliable historical evidence for Arthur is one held by all 
+serious historians of the period. Thus in 1991 Thomas Charles-Edwards’ discussion 
+of the ninth-century Historia Brittonum concluded that: “At this stage of the enquiry, 
+c01.indd 15 01.indd 15 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+16 Alan Lane
+one can only say there may well have been an historical Arthur,” but “the historian 
+can as yet say nothing of value about him” (1991: 29). The skepticism of historians 
+about Arthur was matched by a general rejection of the fi fth- and sixth-century historical sources for Britain as a whole. Previous credibility given to Bede and the 
+Anglo-Saxon Chronicle has now been replaced by a conclusion that little historical 
+material pre-600 can be relied upon, and Dumville’s view that a “historical horizon” 
+of credibility begins sometime in the mid- to late sixth century for some Irish, 
+English, and British sources seems to be widely accepted (1977: 189–92; Yorke 1993; 
+see also chapter 2, this volume).
+But if historians cannot agree on evidence for a historical Arthur, what can archaeology say? Since Dumville’s 1977 paper, no serious archaeologist has tried to combine 
+archaeology and Arthur. There is of course an archaeology of Arthurian folklore and 
+fakes – the numerous Arthur’s Stones (often megalithic tombs, such as Arthur’s Stone 
+on the Gower peninsula in south Wales); other Arthurian place names in the landscape 
+(Higham 2002: fi gs 16 and 18); and fakes ranging from the twelfth-century “discovery” of Arthur’s body at Glastonbury (Barber 1972: 59–65) to the more recent claims 
+often expressed on the internet and in popular books (Higham 2002: 34–5) as well 
+as in otherwise reputable daily newspapers (see for example the Sunday Telegraph
+newspaper of October 16, 1994). Indeed, Oliver Padel has argued that the earliest 
+references to Arthur in the ninth century indicate that he was already a mythical fi gure 
+attached to dramatic features of the landscape and that, by analogy with the Fionn 
+cycle in Ireland, no historical Arthur ever existed (1994).
+However, if we wanted to portray an archaeological context for a notional Arthur, 
+where and when would that be? Barber has pointed to four genuine historical fi gures 
+called Arthur who appear in reliable sources. These are all associated with Irish/
+Scottish colonies and show that the name was current in Dál Riata and Dyfed in the 
+later sixth and seventh centuries. Barber suggests that Arthur, son of Áedán mac 
+Gabráin, the late-sixth-century king of Dál Riata who was killed fi ghting the Picts 
+in the 590s, may be the original historical fi gure to whom subsequent legends were 
+attached (1972: 29–38). However, the attachment of Arthur’s name to the battle of 
+Badon and the battle list in the Historia Brittonum, together with his prominence in 
+later British/Welsh sources, has led to him being regarded as a British hero associated 
+with the native resistance to the Germanic conquest of southern and eastern Britain 
+which gave rise to the creation of the Anglo-Saxon kingdoms of England.
+As to date, Arthur’s absence from British genealogies and reliable historical sources 
+before the ninth or tenth centuries means that most attempts to place him historically 
+have to push him back to the later fi fth or earlier sixth century. After about 550 the 
+historical silence about Arthur becomes more damning. In 500 British political units 
+would probably still have ruled much of Britain from the Forth–Clyde line in Scotland 
+south to the English Channel, though the extent of Anglo-Saxon territorial control is 
+not historically documented at this period. Consequently the archaeological context 
+for a notional British Arthur might be thought to be the post-Roman British kingdoms of the fi fth and sixth centuries between Edinburgh in the north and Cornwall 
+c01.indd 16 01.indd 16 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+ The End of Roman Britain and the Coming of the Saxons 17
+in the southwest. This chapter, then, will look at some current debates on the fi fthand sixth-century history and archaeology of the British kingdoms.
+Gildas and the History of Britain in the 
+Fifth and Sixth Centuries
+Opinions about the nature of fi fth-century and early sixth-century Britain have varied 
+since Alcock wrote in 1971. In 400 Britain was still part of the Roman Empire, which, 
+though politically divided between a western emperor in Ravenna and an eastern 
+emperor in Constantinople, still stretched from Hadrian’s Wall in the north to an 
+eastern frontier in modern Turkey and Syria. By 476, with the deposition of the last 
+western emperor, successor Germanic barbarian kingdoms were increasingly coming 
+to dominate the whole of the Western Empire (Cameron et al. 2000). The fate of the 
+British provinces is not well documented after 400. If the late-sixth-century Byzantine 
+historian Zosimus is to be believed, the British rebelled against Roman rule and laws, 
+but the exigencies of the sources are such that no secure narrative of fi fth-century 
+Britain is possible.
+Historians are much more wary now of using either Bede’s Historia Ecclesiastica
+(eighth century) or the Anglo-Saxon Chronicle to date the Adventus Saxonum (SimsWilliams 1983). However, in contrast to Alcock’s view, it is now recognized that 
+Gildas’s De excidio Britanniae (“Concerning the ruin of Britain,” hereafter abbreviated 
+to DEB) is the only real source for much of fi fth-century and early sixth-century 
+British history. Whereas Alcock was rather scathing about Gildas, revisionist views 
+now place him fi rmly as the key source from which the entire traditional account of 
+the English conquest derives (Dumville 1977; Lapidge & Dumville 1984). The diffi -
+culty with Gildas is of course the absence of names and dates which would allow us 
+to calibrate his narrative against continental sources. As is well known, after the death 
+of Magnus Maximus in 388 Gildas probably names only one independently dated 
+person – Agitius (Aetius), who was consul for the third time in 446–52. However, 
+attempts to date the fi fth-century sequence of events in DEB are less convincing and 
+the contradiction between Gildas’s sequence and that in Bede has led to several distinct versions of fi fth-century history being posited by modern scholars (SimsWilliams 1983; Higham 1994).
+Gildas is conventionally dated to the early sixth century, with DEB written in the 
+mid-sixth century. Higham has tried to push him back into the fi fth century (1994: 
+118–45) and although this has not been met with general assent, scholars such as 
+Wood seem to allow an early date (1984: 23). Gildas describes a long series of disasters 
+for the Britons after 388: attacks and threats of attack from Pictish and Irish raiders, 
+the rise of kings and civil wars, the invitation of Saxon mercenaries to fi ght the Picts 
+and Irish, the rebellion of the Saxon federates and the wholesale destruction that 
+ensues. Following all this, an apparently long process of warfare ensues until a British 
+resistance led by Ambrosius Aurelianus has some success (Sims-Williams 1983). The 
+c01.indd 17 01.indd 17 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+18 Alan Lane
+battle of Badon is cited by Gildas as a major British victory, although one which 
+leaves much of the former Roman provinces of Britain in Germanic hands. One diffi -
+culty in interpreting Gildas is that the areas where he describes, and denounces, surviving British kingdoms and the “tyrants” who rule them seem limited to the extreme 
+south and west of Britain. This has led Higham to posit Germanic control either 
+directly or as overlords over most of lowland England by the mid- or late fi fth century 
+(1994: 190–93).
+The Archaeology of Britain in the Fifth and Sixth Centuries
+The degree of survival of Roman material culture and the nature of fi fth-century 
+British material culture are still contested issues. On the basis of archaeological evidence, it is undeniable that the most obvious features of Roman archaeology – mass 
+coinage, mass-produced pottery and other goods, villas, walled towns, masonry buildings, mosaics, hypocausts, sculpture – had ceased to be signifi cant features of Britain 
+in the sixth century. Our problem of course is the poverty of evidence for the continuation of Romano-British material culture after the late fourth century. Unlike some 
+parts of the Western Empire, the evidence for the continuation of Roman technology 
+in Britain is poor (Esmonde Cleary 1989). Opinion on the speed of change in Britain 
+– how quickly Roman technology and lifestyle was lost, and why – has therefore been 
+a long-term matter of debate, with two central positions emerging. On the one hand, 
+some scholars have seen the disappearance of Roman culture from Britain as swift, 
+catastrophic, and violent (Faulkner 2000). Gildas is one of the sources of this interpretation. On the other hand, an argument has been made for substantial continuities 
+in material culture well into the fi fth, sixth, and seventh centuries, ironically, perhaps, 
+also using Gildas as evidence (Dark 1994, 2000).
+This difference of opinion is of course linked to theories about the date, scale, and 
+speed of Germanic takeover and the thorny issue of British survival in lowland 
+England. In recent years this debate has focused on what is sometimes called the “late 
+antiquity” paradigm. This is an infl uential historical view which emphasizes the cultural continuities in Europe from the third to the eighth centuries – the period of 
+“late antiquity” – and downplays both the signifi cance of the “fall” of the Western 
+Empire and the warfare and displacement that may have accompanied it (WardPerkins 2005). Until recently, this paradigm had relatively little infl uence in Britain 
+since it was diffi cult to see pagan Anglo-Saxon England having much late-antique 
+fl avor, while the Celtic west was visualized as comprising heroic, rather “barbarian,” 
+societies (Alcock 1971). However, in recent years the concept of a late-antique culture 
+of continuity has been applied to the Celtic west of Britain, in particular in the work 
+of Ken Dark (2000: 15).
+The interest in the concept of late antiquity, with its implication of continuity and 
+relative stability, has cross-fertilized with other theoretical ideas current in British 
+academia, in particular the rejection of invasion and migration as signifi cant forces 
+c01.indd 18 01.indd 18 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+ The End of Roman Britain and the Coming of the Saxons 19
+for change in the historical and archaeological record. The rejection of the “invasion 
+hypothesis,” which dominated older British archaeological interpretations, can be seen 
+particularly in prehistoric studies from the 1960s onwards. Initially, invasions or settlements by Anglo-Saxons, Vikings, and perhaps Irish immigrants were accepted as 
+signifi cant, alongside a dominant pattern of endogenous change, since these could be 
+supported by historical sources, and, at least in the Anglo-Saxon case, by substantial 
+archaeological evidence of burials and settlements (Clark 1966). However, historical 
+skepticism about the reliability of early sources, coupled with a desire by archaeologists to write “history-free” interpretations, led to the downgrading of even these few 
+remaining invasions (Harke 1998). Continuity and population survival became de 
+rigueur and the impression was given that violence or population displacement were 
+not convincing explanations of cultural change and could be rejected except perhaps 
+for small-scale elite replacement.
+The hitching of the Celtic west to the “late antique” bandwagon may, however, 
+be a step too far, especially at a time when its general applicability to the Western 
+Empire, at least in its more extreme pacifi st manifestations, is being questioned. 
+Ward-Perkins’ recent book on The Fall of Rome (2005) makes a strong case for understanding how dramatic and painful the collapse of the Western Empire was for many 
+who experienced it. Likewise Peter Heather’s Fall of the Roman Empire cites evidence 
+for the destructiveness of barbarian armies and the massive decline in productivity 
+caused by warfare (2005). The completeness of the disappearance of Roman material 
+culture in Britain should not be underestimated. It is arguable that by 500, and probably a lot earlier, there were no towns, villas, coinage, wheel-made pottery, or other 
+mass-produced goods. Virtually all the physical manifestations of Roman material 
+culture had gone (Esmonde Cleary 1989; Wickham 2005: 306–12). No one built a 
+mortared masonry structure, tiled a roof, threw a pot on a fast wheel, or fi red a pottery 
+kiln from sometime in the fi fth century until the seventh century.
+Views about the speed of material collapse in Britain and its explanation vary. Some 
+Romanists see decline having set in substantially in the fourth century and the break 
+from the Western Empire in 406–10 merely fi nishes off a weakened elite superstructure. Esmonde Cleary suggested that decline on Roman sites could be traced through 
+the later fourth century and that collapse followed within a few decades in the fi fth 
+(1989). A similar pattern is traced by Faulkner, who argues that the Roman state was 
+parasitic, and that speedy collapse was inherent in its internal social contradictions. 
+He argues vehemently against the “late antique” paradigm and suggests that “overall 
+the Romanised settlement pattern and associated material culture had collapsed to 
+almost nothing by the late fourth and early fi fth century” (2004: 10). In his view, “all 
+the archaeological indicators of Romanitas reached zero or close to zero in the fi fth 
+century. This is true of settlements, structures and artefacts” (2002: 74); and he went 
+on to reiterate his position that there was a “clear material culture gap separating 
+the fi nal collapse of Romanised settlements and assemblages in c. AD 375/425, 
+and the emergence of distinctive Early Dark Age ones from c. AD 450/75 onwards” 
+(2004: 10).
+c01.indd 19 01.indd 19 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+20 Alan Lane
+The alternative view regarding late antiquity was put by Dark: “Rather than being 
+the area of the former Roman West in which Late Roman culture was most entirely 
+swept away in the fi fth century, . . . quite the opposite would seem to be true. 
+It . . . was the only part of the West in which the descendants of Roman citizens lived 
+under their own rule, with their own Romano-Christian culture and in recognisably 
+late-Roman political units, into the sixth century” (Dark 2000: 230). At its most 
+extreme, claims Dark, the argument could be made that Roman Britain’s last province 
+did not fall until the thirteenth century when Edward I fi nally conquered north Wales 
+(Dark 1994: 256).
+One does not need to take Faulkner’s “Life of Brian” view of what the Romans ever 
+did for us to accept that there is little convincing evidence of Roman culture surviving in Britain to be taken over by the Anglo-Saxons in the middle and later decades 
+of the fi fth century. Though attempts have been made to demonstrate town and villa 
+life in the fi fth century, the new Anglo-Saxon society dominating lowland England 
+seems to be markedly different and technologically quite apart. In spite of various 
+claims no one has yet shown Roman technology and forms continuing beyond the 
+fi fth century.
+The problem of Faulkner’s view of speedy total collapse, and Dark’s alternative of 
+a substantial late-antique survival, is how to date and interpret late fourth- and early 
+fi fth-century deposits. Faulkner’s dating of decline is dependent on coin and pottery 
+dates. If late fourth-century coins and pottery continue in use unchanged then his 
+theory of speedy collapse must be extended into the fi fth century. Various attempts 
+have been made in the past to show continuation of Roman material culture well into 
+the fi fth century (Frere 1987). Hines has argued that though a few Anglo-Saxon items 
+turn up on the latest deposits of Roman sites, by and large the English set up new 
+sites and new types of site even if some agrarian continuity is likely (1990). The 
+apparent absence of widespread landscape change has been a key argument for the 
+continuity theorists. While there can be no doubt that many Late Roman sites were 
+abandoned, and some areas show evidence of much less intense agriculture and some 
+forest regeneration, much of the landscape continued to be exploited in one way or 
+another. Most scholars, however, would agree that there is a substantial population 
+decline between the fourth century and the seventh or eighth century, though this 
+apparent reduction in settlement density must be partly attributed to the loss of 
+visibility of the material culture.
+We thus have two alternative views: speedy collapse of Roman material culture in 
+Britain, and perhaps population collapse; alternatively, many Roman sites may have 
+continued in use with archaic Roman fi nds. There remains the possibility of Roman 
+culture surviving in British territories outside the areas of early Anglo-Saxon settlement, which will be discussed below, but the problem of recognizing and identifying 
+the British and their culture in the fi fth century is a real one. For some areas we have 
+virtually no evidence of settlement sites and buildings and for much of the fi fth 
+century the picture of the “Dark Ages” is truly dark.
+c01.indd 20 01.indd 20 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+ The End of Roman Britain and the Coming of the Saxons 21
+Germanic Settlement
+The date of Germanic settlement, its scale, and its social and political impact are likewise contested. Some linguists have argued that the apparent massive dominance of 
+English place names and the absence of signifi cant linguistic borrowing from Brittonic 
+require large-scale migration by Germanic populations (Gelling 1993). Although 
+some Celtic names and words are recognizable in England and English names denoting 
+British speakers exist, their numbers are still small. English appears to have totally 
+dominated the landscape as far west as the Welsh and Cornish borders before the late 
+pre-Norman period. Historians and archaeologists such as Higham (1992: 189–208) 
+and Hodges (1989: 65–7) have argued that this linguistic supremacy can be explained 
+by an “elite dominance” model and thus is compatible with minimal English settlement 
+in Britain. However, other Anglo-Saxon specialists argue for a substantial Germanic 
+migration without subscribing to oversimplistic arguments about language and 
+numbers (Harke 2003), while some linguists have restated the case for large numbers 
+and/or widespread violence with some vigor (e.g. Padel 2007).
+Some aspects of this debate on the scale of Germanic immigration are due to new 
+evidence and reconsideration of old evidence, but academic fashions and modern social 
+trends play their role too. When Alcock wrote in 1971, a number of scholars were 
+arguing for a signifi cant Germanic settlement in Britain pre-400 when it was still 
+under Roman control. The evidence for this was primarily provided by J. N. L. Myres’ 
+suggested dating of pagan Anglo-Saxon funerary urns to the fourth century or even 
+earlier (1986). Coupled with the evidence of belt buckles and the idea that the fourthcentury term “Saxon Shore” (describing late third-century fortifi cations on both sides 
+of the English Channel) might indicate an area of Saxon settlement, a theory of peaceful Germanic settlement in Britain was advanced which would then allow for gradual 
+acculturation of the native population. The evidence for this theory was strongly challenged by Anglo-Saxon specialists in the 1980s though it took some time to penetrate 
+through to more popular books (Hills 1979). Current opinion suggests that securely 
+dated Anglo-Saxon graves begin in the period around 420–40, with most evidence 
+coming after 450 (Hines 1990). A few brooches may be of earlier date, bracketed 
+380–420 on continental dating, but there are no secure deposition contexts before 
+420. The absence of stratifi ed Germanic material occurring together with Late Roman 
+fi nds tends to imply that Roman material culture had largely collapsed before signifi -
+cant Anglo-Saxon settlement had taken place. That is not to say that there may not 
+have been people of Germanic origin in Britain before 400, but the current archaeological evidence suggests that, with rare exceptions, they were not signaling a separate 
+identity any more than the numerous other groups who had been included within the 
+empire.
+So if we were to take c. 450 to 550 as the rough period in which we would wish 
+to position Arthur, what can we say about the nature of that society? Anglo-Saxon 
+c01.indd 21 01.indd 21 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+22 Alan Lane
+graves are found through much of midland and eastern Britain (Hines 2003: map 5). 
+Although some of these cemeteries are near Roman towns there is little to suggest 
+that the towns are still functioning. The nature of the population of Anglo-Saxon 
+England is obviously a consideration. The likelihood that the Anglo-Saxon kingdoms 
+were populated in large part by descendants of the Romano-British is still vigorously 
+debated, though it is extremely diffi cult to demonstrate from evidence as opposed to 
+a priori assumptions (Harke 2003; Hills 2003: 57–71). If we exclude from our remit 
+those areas of Anglo-Saxon settlement defi ned by graves, we still have a substantial 
+part of Britain that can be regarded as British in the fi fth and sixth centuries. For our 
+purposes, the distribution of “Anglo-Saxon” burial sites is probably the best guide to 
+the nature of the population, though the gaps within the distribution may conceal 
+surviving British populations (Dark 2000). However, the speed of Germanic takeover 
+of the British provinces is diffi cult to evaluate from the sparse historical sources, and 
+Anglo-Saxon political control may be much wider and earlier than core zones of 
+Germanic burial (Higham 2002: 68–9, fi g. 7).
+Towns
+The fate of Roman towns has been central to discussions of continuity and the 
+nature of post-Roman society. Debates about the possible continuation of 
+Roman towns have oscillated over the past fi fty years, with opinion mainly shifting 
+between speedy abandonment, gradual decay, and continuing low-level urban activity 
+until Anglo-Saxon takeover in the seventh century. Biddle put an infl uential case 
+for continuing “central place” functions at a number of sites, with Winchester 
+claimed as demonstrating British/English continuity (1976: 103–12). Wacher’s 
+concept of limited non-urban occupation of former Roman towns, that is, “life in 
+towns” rather than an economically salient “town life,” has had some support (1995: 
+408–21). However, subsequent analysis of the evidence has led to the general 
+view that towns did not survive the Roman withdrawal, and the beginnings of 
+proto-urban use in England is now generally dated to the seventh century (Palliser 
+2000).
+A key site for the discussion of urban life in the British west is the Roman town 
+of Wroxeter (in the modern county of Shropshire), the civitas capital of the British 
+tribe of the Cornovii in the West Midlands. Since the 1960s, Wroxeter has been 
+cited as a classic excavation demonstrating major building activity post-400 in a 
+Roman town and indeed the continuing existence of urban life well into the sixth 
+or even seventh century (White & Barker 1998: 118–36). Perhaps inevitably, one 
+popular book on Arthur claims he was king of Wroxeter (Phillips & Keatman 1992: 
+160–161). In many ways this site is central to the late antiquity model and to arguments for the continuation of Romanitas in western Britain (Dark 2000). White and 
+Barker’s claim was that signifi cant building activity continued in the town as late as 
+the seventh century with several phases of building after 400, including a massive 
+c01.indd 22 01.indd 22 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+ The End of Roman Britain and the Coming of the Saxons 23
+two-story structure in a Romanized style (Dark 2000: fi g 26). This was not, he argued, 
+an isolated building but part of continued use of the town generally.
+The diffi culty with White and Barker’s proposal is that there is virtually no material culture at Wroxeter to associate with this fi fth-, sixth-, and early seventh-century 
+urbanism unless of course fourth-century artifacts were still in use in successive centuries. Most students have accepted the Wroxeter model and indeed considerable 
+effort has been expended trying to replicate it elsewhere, with only occasional public 
+skepticism being voiced (e.g. Gelling 1992: 23; Ward-Perkins 1996: 9–10). However, 
+the recent publication by Fulford of an important review of the Baths Basilica excavations in Wroxeter casts doubt on the evidence of major building activity as an indication of continuous town use. Instead, he puts a serious case that the rubble spreads 
+attributed to large post-Roman timber-framed buildings are evidence of Late Saxon 
+stone-robbing for church building (2002: 643–5). Fulford does suggest that the evidence of less elaborate buildings may be genuine and comparable to the late structures 
+he postulates at Silchester (in the modern county of Hampshire, near Reading). Some 
+post-Roman activity at Wroxeter is demonstrated by the Cunorix stone, whose Latin 
+inscription seems to indicate a high-ranking Irish fi gure on the site in the fi fth or 
+sixth century (Sims-Williams 2002: 25–6), and the fi nding of a stray bronze coin of 
+Valentinian III (c. 430–35) has recently been confi rmed (Abdy & Williams 2006: 31). 
+However, the absence of the kind of British fi nds which occur at sites such as Cadbury 
+Congresbury, in Somerset, or New Pieces, Powys, a small site only sixteen miles west 
+of Wroxeter; and the absence of Anglo-Saxon imports, which occur on other British 
+sites of late fi fth- and sixth-century date, would seem to rule out signifi cant activity 
+at Wroxeter (Campbell 2000: table 1).
+The Celtic West
+There are, however, some parts of the “Celtic west” where we can with confi dence 
+claim later fi fth- and sixth-century activity because examples of imported Mediterranean ceramics have been identifi ed at a number of sites. This material has been studied 
+in increasing detail since the 1930s when it was fi rst recognized in England and 
+Ireland but it is only in the past few decades that its chronology has been fi rmly 
+established (Campbell 1996; 2007).
+Late fi fth-century color-coated fi ne wares from the Aegean and North Africa, 
+Phocaean Red Slip ware and African Red Slip ware (PRS and ARS respectively, both 
+formerly referred to as A ware), can be quite closely dated in the Mediterranean. These 
+can be used to date the arrival in Britain of amphorae (B ware), which are in themselves less closely datable. If correctly dated, these three types of pottery seem to have 
+reached Britain in a fairly narrow time zone from c. 475 to 525 (Campbell 2007: 26). 
+Following this or perhaps overlapping with it, small quantities of gray color-coated 
+pottery, sigille paleochretienne grise (D ware), arrived from western France, probably 
+dating to the mid-sixth century. Subsequently we fi nd E ware, again from western 
+c01.indd 23 01.indd 23 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+24 Alan Lane
+France, not closely dated in its presumed continental source area but seemingly of 
+late sixth- to late seventh-century date, in Britain and Ireland (Campbell 2007: 46). 
+Substantial quantities of imported glass, again largely of western French origin, seem 
+to occur in the same period, perhaps mid-sixth to late-seventh century (Campbell 
+2000; 2007). Campbell has suggested that two distinct phases of importation are 
+recognizable, allowing us two clear chronological horizons of 475–550 and 550–650, 
+with only a few imports of pottery or glass recognizable after the end of the seventh 
+century (2007: 125–39).
+The Mediterranean imports identify sites that were in use around AD 500. These 
+lie most densely in a zone centered on Cornwall, west Devon, Somerset, and south 
+Wales, with occasional outliers in north Wales, Ireland, and southern Scotland. Such 
+imports seem to be absent from the English west and north. With some exceptions 
+they allow us to identify enclosed and defended sites that are likely to be those belonging to the kind of British military aristocracy glimpsed in Gildas’s denunciations. 
+The key sites are still those reported by Alcock in 1971 and here I only have space 
+to mention briefl y the most important in the southern core zone.
+Tintagel
+Tintagel, a dramatic cliff-girt coastal promontory sited on the north Cornish coast, 
+has fi gured in Arthurian discussion since Geoffrey of Monmouth located Arthur’s 
+conception there. It has also been central to debates about the post-Roman imported 
+pottery since the 1930s. Initially interpreted as a monastery and virtually viewed as 
+the beachhead for desert monasticism in the Celtic west, it was convincingly reinterpreted as a defended secular site in the 1970s (Burrow 1973). It is now generally 
+regarded as the primary royal site of the kings of Dumnonia (whose name survives in 
+the modern Devon). Its importance and remembered symbolism may be indicated by 
+the presence of a medieval castle of the mid-thirteenth century built on top of it as 
+well as a possible footprint inauguration carving. Defended by a deep rock-cut ditch 
+and bank as well as its natural defenses, it is a naturally impressive site. By far the 
+largest quantities of Mediterranean imports in Britain have been found here in spite 
+of quite limited excavation. There is no doubt, then, that this was an important site 
+in the fi fth and sixth centuries, but the precise nature of its function and use is the 
+subject of continuing debate: suggestions include an entrepot for Mediterranean merchants, a Byzantine diplomatic outpost, a defended royal citadel, an occasional summer 
+residence, or even a town (Dark 2000: 153–6).
+Tintagel has no E ware and seems to have lost its importance by the time these 
+western French imports reach the area, though radiocarbon dates may show some 
+continued use. Stone foundations for more than one hundred buildings were traced 
+on the summit area and slope terraces after a grass fi re removed surface cover, but we 
+do not know how many were in occupation at any one time (Harry & Morris 1997: 
+fi g. 2). Some of the more obvious rectangular structures are thought to be medieval 
+and belong to the thirteenth-century castle phase. Nevertheless, recent excavations on 
+c01.indd 24 01.indd 24 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+ The End of Roman Britain and the Coming of the Saxons 25
+one of the terraces have confi rmed the presence of irregular square and sub-rectangular 
+stone footings, possibly for turf-walled structures (Harry & Morris 1997: 121–5). Very 
+little of the site has seen modern excavation but the suggestion that it had substantial 
+numbers of rather temporary-looking structures seems to have widespread agreement. 
+Dark, however, envisages more substantial structures and an internal organization 
+that he compares to a Roman “small town” (2000: 156). There is no doubt that 
+Tintagel is an important site though the limited modern excavation inhibits secure 
+interpretation. That it is the major royal site of the Dumnonian kings seems probable 
+though we cannot currently identify any other high-status structures or artifacts to 
+associate with the richness of its ceramic material.
+Cadbury Castle
+Cadbury Castle (variously South Cadbury or Cadbury Camelot), dug by Leslie Alcock 
+in the 1960s, is a major multi-walled Iron Age hill fort, occupied in the late fi fth 
+century and early sixth century. The apparent re-defense of the entire eight-hectare 
+enclosure makes it the biggest of the defi nite post-Roman hill forts. The use of timberlaced stonework is comparable to sites found in north Britain though Alcock was 
+inclined to see some Roman military experience in the apparent gateway tower.
+Unfortunately the fi nds and structural evidence for the site are limited as the interior 
+had been heavily plowed, removing the stratigraphy and presenting a 3,000-year 
+palimpsest of pits, postholes, gullies, and other structural features for interpretation. 
+From these postholes Alcock suggested a large rectangular summit hall dated by the 
+presence of PRS, ARS, and amphorae. There is no doubt about the presence of a structure and the associated pottery concentration, but doubt must persist about the precise 
+form of the building. Round houses also occur on the site but could be of Iron Age 
+date. There is no way of knowing how much of the site was in use or the likely population involved. The site has no evidence of E ware and it is thought to have been abandoned in the sixth century, perhaps due to Anglo-Saxon encroachment (Alcock 1995). 
+Although the Arthurian association of the site cannot be shown to be earlier than the 
+fi fteenth century, this was clearly an important site c. 500, though given the small scale 
+of excavation and poor preservation little more can currently be said.
+Dinas Powys
+The location of the bulk of Mediterranean fi nds on both sides of the “Severn Sea” 
+suggests links across the Bristol Channel and Severn estuary between Wales, Somerset, 
+and Dumnonia. The short distance and intervisibility of the Welsh and Somerset 
+coasts allow the possibility of signifi cant political linkages – the sea facilitates as well 
+as separates pre-modern contact – and it is generally thought that Tintagel may have 
+had primacy in the distribution of the wine and oil that the imported amphorae are 
+thought to have contained.
+c01.indd 25 01.indd 25 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+26 Alan Lane
+As in Dumnonia, the putative high-status sites in Wales are hill forts. Dinas Powys, 
+a small inland promontory site near Cardiff in south Wales, remains the richest and 
+best-explored site in Wales nearly fi fty years after it was excavated (Alcock 1963). 
+Alcock’s proposed chronological sequence, which envisaged the triple multi-vallation 
+(outer defensive walling) as belonging to the Norman period, has been disputed by 
+Campbell and Dark, and it seems clear that the whole defensive sequence should be 
+placed in the fi fth to seventh centuries (Edwards & Lane 1988: 58–61; Campbell 
+2007: 96–7, fi gs 67 and 68). This means that the initial rather weak single rampart 
+enclosure was replaced in the sixth or seventh century by massive triple ramparts. The 
+enclosure is quite small – roughly 0.2 hectares – but the input of labor and the seriousness of the defenses cannot be doubted. The large assemblage of pottery, glass, 
+metalwork, metalworking debris, bonework, and stone implements gives us some idea 
+of what might be expected on a reasonably rich site with good preservation. The evidence of fi ne metalworking in copper alloy, silver, and gold is particularly important. 
+The animal-bone assemblages suggest that food was supplied from neighboring settlements. The house structural evidence is poor and Campbell rejects Alcock’s hypothetical stone buildings, arguing instead for timber structures within the outlines of the 
+drip gullies. The presence of E ware takes us into the seventh century, by which time 
+Tintagel may have lost its trading dominance and all the Somerset sites, save Carhampton on the north coast, have been cut off from the later sixth- to seventh-century 
+trading network.
+Western and Northern England
+Few advances have been made in identifying British sites beyond the core import zone 
+described above, though various sites have been postulated without secure artifactual 
+sequences. The ceramic imports are strangely missing in the western English zone 
+north from Somerset as far as the modern Scottish border, as if there were a political 
+boundary on the Severn blocking the Mediterranean trade. Early to mid-fi fth-century 
+activity in York – described as “grandee feasting” in a declining post-imperial twilight (Roskams 1996) – or possible evidence of activity on Hadrian’s Wall could both 
+provide a context for our Arthurian search but it is only in southern Scotland that we 
+again meet the Mediterranean dating and accompanying fi nds which allow secure 
+dating of c. 500, as at the Strathclyde royal citadel of Dumbarton (Alcock & Alcock 
+1990).
+Conclusion
+The archaeological interpretation of fi fth-century Britain remains highly contentious. 
+Only limited areas of the British west have well-dated sites and fi nds, as we have 
+demonstrated at Cadbury, Tintagel, and Dinas Powys, and some areas of England have 
+c01.indd 26 01.indd 26 8/26/2008 6:54:24 PM /26/2008 6:54:24 PM
+K1
+ The End of Roman Britain and the Coming of the Saxons 27
+virtually no evidence until securely dated Anglo-Saxon material appears much later. 
+Most of the western British sites have been known since the early 1970s. New discoveries do occur, particularly of the later E ware phase of importation in Ireland and 
+Scotland, but it is striking how few new discoveries of the earlier imports have been 
+made. This may be partly because they are largely confi ned to enclosed and defended 
+sites, which are less likely to be excavated by rescue archaeology (mandatory excavations preceding planned building development).
+The distribution of the Mediterranean imports remains fi rmly rooted in Dumnonia 
+and Wales and shows no sign of occurring in the Roman towns of central and western 
+England. Whether this means these sites were genuinely abandoned, as Gildas says, 
+or some other economic/social/ethnic explanation should be preferred remains to be 
+seen. But the imports do allow us to identify some fi fth- and sixth-century sites and 
+assemblages.
+What social context does this give us for a hypothetical British “Arthur”? Faulkner 
+posits a period of fi fth-century anarchy or revolution followed c. 500 by the rise of 
+exploitative chieftains or self-styled kings (Gildas’s “tyrants”) in their hill forts (2004). 
+Alternatively, Dark envisages a gradually declining Romanitas in a successful lateantique Romano-Christian West (2000: 227–30). Unfortunately, much of the evidence remains vague and open to very different interpretations.
+We can say, then, that the archaeological picture presented by Leslie Alcock in 
+1971 has been modifi ed but the account of Dumnonia/Wales/Somerset remains stubbornly close to how it is presented in Arthur’s Britain. No modern scholar would seek 
+to place Camelot at Cadbury rather than in the pages of Chrétien de Troyes. Nor 
+would anyone claim we can show that a historical fi gure called Arthur had any association with the fi fth- and sixth-century hill fort sites of the British west. Only with 
+the unlikely discovery of new historical sources proving that King Arthur was located 
+in a specifi c place and time could archaeology tell us anything about him. Until that 
+happens archaeologists will follow Dumville and keep him from their reconstructions 
+– if not their chapter titles.

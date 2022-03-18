@@ -1,0 +1,26 @@
+AT&T is shutting down its 3G network. Here's how it could impact you
+Samantha Murphy Kelly byline
+By Samantha Murphy Kelly, CNN Business
+
+Updated 1511 GMT (2311 HKT) February 22, 2022
+Twenty years after 3G was first introduced in the United States, paving the way for a new generation of mobile apps, the network is officially being phased out.
+
+AT&T is set to pull the plug on its 3G network Tuesday, with other major US carriers expected to follow suit later this year. The move impacts everything from older phones to home alarm systems and roadside assistance systems.
+The 3G shutdown will affect everyday devices you probably own
+The 3G shutdown will affect everyday devices you probably own
+To move its mobile customers over to 4G without service interruptions, AT&T (T), which owns CNN's parent company, has been providing free replacement phones to many users with a 3G device. It has also been attempting to alert customers to the network changes through various methods.
+"For nearly two years, we've proactively sent numerous communications via direct mail, bill messaging, emails and text messages to help customers transition to next generation networks before 3G services end on February 22," AT&T told CNN Business in a statement.
+AT&T is shutting down its 3G networks as part of a greater effort to re-use the spectrum for 4G and 5G — newer standards that are more efficient than 3G. T-Mobile (TMUS) will do the same in the third quarter and Verizon (VZ) will do so by the end of the year.
+Here's what you should know about the 3G shutdown.
+What products will be impacted?
+The shutdown will impact people still using 3G Kindles, 3G flip phones, the iPhone 5 and older models as well as various Android phones. It will also affect home alarm systems and medical devices such as fall detectors. Some in-car crash notification and roadside assistance systems like OnStar will need to be updated or replaced, too.
+If you're not sure which network your phone is on, open Settings, tap Network and Internet, and then select Mobile Network on Android devices. On iOS, choose Settings, Cellular and then pick Cellular Data Options. AT&T also has a dedicated webpage to determine if your device will be impacted by the shut down.
+It can be harder to tell with other everyday products. If you're not sure whether the device relies on 3G, you can call the manufacturer or car dealer.
+What can I do about it?
+For those who don't want to get rid of their 3G mobile devices, there are some workarounds. In theory, it will be possible to access a web browser via Wi-Fi or make calls over wireless on a 3G phone if the user has an app enabling voice-over-internet protocol, such as Facebook Messenger. Similarly, people with a 3G e-reader will still be able to download new books on the device via Wi-Fi.
+Other 3G products may be more complicated. My Alarm Center, a home security systems business, has warned customers that certain alarm systems will need to be replaced by a technician to avoid potential disruptions. "Even if your alarm appears to function, it will no longer communicate with our central service station to notify us that emergency services are needed," the company states on its website.
+General Motors (GM), which owns OnStar, started pushing over-the-air updates in October to vehicles released as far back as 2015, including models from Chevrolet, Buick and Cadillac, which may be impacted by the transition. As a general rule, most cars built in the last five years with connectivity are using 4G modems. If the car does run on 3G, the manufacturer may offer an upgrade program or the wireless carrier can provide an adapter with a modem that can be plugged into a vehicle.
+Why is this happening?
+The 3G network launched in 2002 and became the driving force behind the early App Store boom around the end of that decade. The wireless companies later moved on to 4G and more recently 5G networks.
+Last month, AT&T and Verizon turned on C-band 5G networks, an important set of higher radio frequencies that will supercharge the internet. The change will allow users to, for example, stream a Netflix movie in 4K resolution or download a movie in seconds. (Verizon said its C-band speeds reach nearly 1 gigabyte per second, about 10 times as fast as 4G LTE.)
+Only a small portion of wireless customers are still using 3G networks. Verizon said in a blog post that 99% of its customers have already upgraded to 4G LTE or 5G, and AT&T said less than 1% of its mobile data traffic runs on 3G networks. T-Mobile did not respond to a request for comment about its 3G user base.

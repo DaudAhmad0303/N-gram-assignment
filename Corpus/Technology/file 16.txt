@@ -1,0 +1,44 @@
+Ukraine accuses Russia of cyber-attack on two banks and its defence ministry
+Kremlin denies it was behind the attack, which Ukraine’s deputy prime minister said was the largest of its type ever seen
+
+Russia and Ukraine crisis latest news: live updates as US warns of Russian invasion
+Twitter page of the Ministry of Defence of Ukraine is displayed on a mobile phone screen.
+Kremlin spokesperson Dmitry Peskov said: ‘We do not know anything. As expected, Ukraine continues blaming Russia for everything.’ Photograph: Beata Zawrzel/NurPhoto/REX/Shutterstock
+Dan Sabbagh Defence and security correspondent
+Wed 16 Feb 2022 19.12 GMT
+
+Ukraine accused Russia on Wednesday of being behind a cyber-attack that targeted two banks and its defence ministry, which the country’s deputy prime minister said was the largest of its type ever seen.
+
+The Kremlin denied it was behind the denial of service attacks – attempts to overwhelm a website by flooding it with millions of requests – but the disruption reignited wider concerns of ongoing cyberconflict.
+
+Ilya Vityuk, cybersecurity chief of Ukraine’s SBU intelligence agency, said it was too early to definitively identify specific perpetrators, as is typically the case with cyber-attacks, where perpetrators make efforts to cover their tracks.
+
+Advertisement
+
+But the official added: “The only country that is interested in such … attacks on our state, especially against the backdrop of massive panic about a possible military invasion, the only country that is interested is the Russian Federation.”
+
+Denying responsibility, Kremlin spokesperson Dmitry Peskov said: “We do not know anything. As expected, Ukraine continues blaming Russia for everything”. He added that Russia had had “nothing to do with” the denial of service attacks.
+
+Russia has been accused of being behind a string of cyber-attacks against Ukraine since the 2014 war between the two countries, and some experts believe that if the Kremlin does de-escalate militarily, similar deniable attacks could follow.
+
+Danny Lopez, a former diplomat who runs cybersecurity firm Glasswall, said: “While we trying to find out if de-escalation is real, it’s in Russia’s interest to keep everybody guessing. Cyber-attacks could now play an important role, to keep the pot warm on the stove but not spilling over into actual conflict.”
+
+Some of the incidents in the years following the war alarmed the west. Two brief regional power outages in December 2015 and 2016 were blamed on Russian hackers from the GRU military intelligence, according to a US indictment.
+
+The first affected 225,000 customers in the west of Ukraine. The second, affecting northern Kyiv, lasted about an hour, but amounted to the loss of about one-fifth of the capital’s power consumption.
+
+The same group, members of Unit 74455, according to the US Department of Justice, was also accused of being behind the NotPetya malware attack of June 2017. That initially targeted Ukraine’s financial, energy and government sectors but spread indiscriminately, causing billions in financial damage to western and even Russian companies.
+
+Ciaran Martin, the former chief of the UK’s NCSC cyber-agency, warned: “If Russia escalates against Ukraine, there’s the risk of another NotPetya-style accident. After all, NotPetya, perhaps the most economically damaging cyber-attack of all time, was the accidental fallout against the west of the Russians hacking Ukraine.”
+
+Such attacks may suggest what is possible in an all out conflict, but Ukraine’s defences have been improving. Mindful of the risks, Kyiv signed a cybersecurity pact with the US in November. Help followed Tuesday’s attack, which disrupted banking services and, less seriously, knocked out the Ministry of Defence website.
+
+Other analysts, however, also believe that the attacks likely emanating from Russia have become more carefully calibrated to avoid international condemnation. Jamie MacColl, a research fellow at the Rusi thinktank, said: “Since NotPetya, the more disruptive ops have been more limited.”
+
+A recent example of a more limited attack, according to MacColl, was the WhisperGate malware, which Microsoft detected in Ukraine in the middle of January. It was designed to look like ransomware, a virus that encrypts an organisation’s data, but without the unlock for payment mechanism that is a feature of such attacks.
+
+The political cost of such attacks is relatively low. Periodically western intelligence agencies will accuse the Russian actors as being behind such hacking, but the Kremlin is resistant to embarrassment. The US also seeks to indict individuals but as Russia will not extradite them, there is no danger of any trials going ahead.
+
+Yet the goal of any cyber-attacks need not be a dramatic effort to knock out a utility or banking system; it could simply be to wear out the morale of a country like Ukraine.
+
+Esther Naylor, a research analyst at Chatham House, said: “Attacks don’t have to do anything more destructive than a denial of service. Their goal is to cause panic, and to make people think what might come next.”

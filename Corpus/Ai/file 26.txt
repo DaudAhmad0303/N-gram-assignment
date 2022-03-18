@@ -1,0 +1,110 @@
+Abstract
+Solar absorber is required to absorb most of the energy of the solar spectral irradiance. We propose a graphene-based solar absorber design with two different metasurfaces to improve this absorption and increase the efficiency of the solar absorber. The metasurfaces are selected based on their symmetrical/asymmetrical nature (O-shape and L-shape). The O-shape metasurface design is showing better performance over the L-shape metasurface design. The absorption performance is also compared with AM 1.5 solar spectral irradiance to show the effectiveness of the solar absorber. The absorption values are also enhanced by varying the parameters like resonator thickness and substrate thickness. The proposed solar absorber design gives maximum absorption in the ultraviolet and visible range. Furthermore, the design is also showing a high and similar absorption rate over a wide angle of incidence. The absorption of O-shape metasurface design is also predicted using machine learning. 1D-Convolutional Neural Network Regression is used to develop a Machine Learning model to determine absorption values of intermediate wavelength for assorted values of angle of incidence, resonator thickness, and substrate thickness. The results of experiments reveal that absorption values may be predicted with a high degree of accuracy. The proposed absorber with its high absorbing capacity can be applied for green energy applications.
+
+Introduction
+Energy demand is increasing day by day because of rapid industrialization and an increase in household energy consumption. Renewable and clean energy is the ultimate solution for these increasing energy demands as it is not affecting the environment. Solar energy is one of the best clean, renewable natural sources because of its ease of availability. It can be one of the best ways to cope up with the increasing energy demand. Still to make the solar energy utilization more efficient. Solar energy can also be easily converted into other forms of energy which can be applied for the designing purpose of solar cells, photovoltaic devices, and solar absorbers, etc. A perfect absorber is quietly prudent for various applications consisting of solar energy harvesting, light modulation, and sensing, etc.1,2,3,4,5,6. Metamaterials have attracted a lot of attention and they are the unique candidate due to their unique electro-optical characteristics and compact size rather than bulky optical devices7,8,9,10,11,12. Due to this, they have various applications comprising from polarizers, detectors to absorbers13,14,15,16,17 each working at various operating frequencies, i.e., microwave, terahertz, ultraviolet, visible, infrared, etc.18,19,20,21,22.
+
+Graphene is also an essential element for the advancement of physics, photonics-like fields. From the available research on graphene, we can say that graphene is a two-dimensional element with an astonishing electro-crystal characteristic that plays a major role in designing applications that are based on recent physics and other concerned domains. To conclude, graphene is a new group of elements that is only an atom-thick but has helped to obtain the results in the subdomain of physics known as low magnitude physics23. Graphene has remarkable electro-optical, thermal, mechanical properties which can be applied with a solar absorber24. As per the research, filtered graphene sheet is highly transparent and flexible because graphene’s every single layer with refractivity of 0.1% absorbs up to 2.3% of white light25. Studies also indicate that as the no. of graphene sheet increases so does the absorption rate26.
+
+Rifat et al. reported a near-perfect solar absorber that achieved 99.8% absorption at 932 nm wavelength27. Yu et al. presented a solar absorber design based on refractory metal which obtained around 90% absorption in the wide range of visible and near-infrared (NIR) range of 360 to 1600 nm28. Patel and co-authors presented a highly efficient terahertz range which obtained 89.57%, 97.5%, and 92.7% absorption in the ultraviolet, visible, and overall solar range29. Al-RJoub et al. fabricated a solar absorber design with high-temperature application in mind which achieved an absorption of 95%30. Wu and co-authors presented a metamaterial-based near-perfect and ultra-broadband solar absorber that achieved around 95% for the 400 to 2000 nm range of visible and NIR31. Liu et al. reported a solar absorber that achieved around 90% absorption in the range of 316 to 1400 nm comprising visible and NIR ranges32. Bilal et al. presented a tungsten nanowire consisting of a solar absorber design which obtained near-unity absorption in the ultraviolet region but only 85% absorption in visible range33.
+
+In this paper, we have proposed a high absorption graphene-based absorber that is broadband for the ultraviolet and visible range. We have also carried out a detailed comparative analysis of the o-shape metasurface design that gives better absorption by varying the different physical parameters of the design. The second section presents the graphene-based metasurface design, the third section presents parametric analysis and the fourth section presents the design of 1D-Convolutional Neural Network (CNN) regression model to predict the absorption values of intermediate wavelengths and corresponding experimental results. The concluding remarks are presented in the fifth section.
+
+Graphene-based metasurface design
+Graphene-based metasurface absorber design is presented in Fig. 1 for two different metasurfaces (O-shape metasurface and L-shape metasurface). The reason for selecting these two shapes is because one is symmetrical design and the other one is asymmetrical design. The design is made with a gold resonator based on SiO2 substrate with graphene monolayer as a spacer sandwiched between the two layers. The two different metasurfaces are created by changing the shape of the metasurface as presented in their top views (Fig. 1a,d). The side views and 3d views are also presented in the schematic. The light is falling on the top of the resonator which is an O-shape and L-shape for two metasurface absorbers. The O-shape metasurface absorber is increasing the inductance by connected resonator shape and it is also symmetrical. The L-shape metasurface is having a change in inductance and capacitance compared to the O-shape metasurface as there is no connected path like the O-shape metasurface. The L-shape is also not symmetric which gives rise to the polarization sensitiveness34 compared to the symmetric shape of the O-shape metasurface which is polarization insensitive. The metasurface absorber structure presented in Fig. 1 is a periodic structure with a period of 3 µm in both directions. The different geometrical parameter values presented in Fig. 1 are L: 3 µm, L1: 2.4 µm, L2: 1 µm, L3: 2.4 µm, L4: 2.2 µm hs: 1 µm; hg: 0.6 µm and the graphene monolayer thickness is 0.34 nm. The use of graphene material is essential in this design because the graphene with its high conductivity contributes to enhancing the absorption and achieving the broadband design. The conductivity (σs) of graphene depends on graphene chemical potential (μc) and is presented in Eqs. (1–4).
+
+Figure 1
+figure 1
+Graphene-based metasurface design (a) O-shape metasurface design top view having size L1 = 2.4 µm, L2 = 1 µm (b) O-shape metasurface design 3D view (c) O-shape metasurface design front view (d) O-shape metasurface design top view having size L3 = 2.4 µm, L4 = 2.2 µm (e) O-shape metasurface design 3D view (f) O-shape metasurface design front view. The overall area of the structure 3 × 3 µm2 The dimensions are not up to the scale.
+
+Full size image
+ε(ω)=1+σsε0ωΔ,
+(1)
+σintra=−je2kBTπℏ2(ω−j2Γ)(μckBT+2ln(e−μckBT+1)),
+(2)
+σinter=−je24πℏln(2|μc|−(ω−j2Γ)ℏ2|μc|+(ω−j2Γ)ℏ),
+(3)
+σs=σinter+σintra.
+(4)
+The different parameters used in the equations are: scattering rate (Γ), Reduced plank constant (ℏ), Boltzmann constant (kB), Electron relaxation time (τ−1) and Δ is the thickness of graphene which is 0.34 nm. The fabrication of graphene monolayer sheets can be done with chemical vapour deposition (CVD)35 or cleavage technique36 or lithography37.
+
+The metasurface designs are simulated using the Finite Element Method (FEM) based COMSOL Simulator and the results in the form of absorption are presented and compared38,39,40,41,42,43,44,45,46 in Fig. 2 and Table 1. The light is falling from the top of the resonator structure and periodic boundary conditions are used for the simulations. The meshing condition of the structure is set as tetrahedral Delaunay tessellation. The absorption response for O-shape metasurface absorber design and L-shape metasurface absorber design is presented in Fig. 2a,b respectively. The blue colour region shows the absorption plot and its values on the left-hand side for our proposed design and the orange colour shows the AM 1.5 spectral irradiance plot with its values on the right-hand side. The absorption response is also compared with AM 1.5 spectral irradiance. The comparison with irradiance shows the effectiveness of the absorber as more absorption in high irradiance shows the higher efficiency of the absorber. The response shows that the O-shape metasurface absorber design is showing near to unity absorption for the high spectral irradiance in the visible region which makes the O-shape metasurface more effective in solar energy harvesting applications. The L-shape metasurface absorber is having less absorption for the high spectral irradiance region as presented in Fig. 2b.
+
+Figure 2
+figure 2
+Absorption response comparison with AM1.5 specral irridance for (a) O-shape metasurface absorber design (b) L-shape metasurface absorber design. The O-shape metasurface absorber is having better absorption for all the regions.
+
+Full size image
+Table 1 Comparison of solar absorber designs.
+Full size table
+We have also analyzed the electric field for O-shape metasurface design (Fig. 3) to observe and verify the absorption in terms of the electric field. The selection of three different wavelengths is carried out to observe the electric field at different absorption levels. The three wavelengths selected are 0.5 µm, 0.8 µm, and 1.2 µm. The results clearly show that for the initial wavelength the electric field is more around the resonator and as the wavelength increases the absorption increases in the substrate. The electric field is measured in V/m and its values are given in a scale on the right-hand side of Fig. 3. The red colour indicated the high electric field (6.6 × 106 V/m).
+
+Figure 3
+figure 3
+Electric field intensity (V/m) of graphene-based O-shape metasurface absorber for wavelengths (a) 0.5 µm (b) 0.8 µm (c) 1.2 µm. The color bar indicates color values of electric field intensity in V/m. Three different wavelengths are selected to show the overall absorption for visible and near infrared regions.
+
+Full size image
+Parametric analysis
+The absorption of the absorber is dependent on its geometrical parameters so we have applied the parametric analysis of two geometrical parameters namely substrate thickness and resonator thickness (Fig. 4a,b). We have also varied the angle of incidence and graphene chemical potential (Fig. 4c,d) to observe its effect on absorption. The analysis is presented for the 0.2 to 1.2 µm wavelength range. The resonator thickness is varied for 0.6 to 1.4 µm and substrate thickness is varied from 0.2 to 1 µm and absorption results are presented in Fig. 4a,b respectively. The colour plot for the variation is presented as an inset in the figure for a better understanding of the results. The variation in resonator thickness clearly shows that for 0.6 µm value, the absorption is highest in overall best with more than 92% average absorption in visible and ultraviolet regions. As we increase the resonator thickness greater than 0.6 µm, the absorption decreases in the visible and ultraviolet region but increase in the infrared region because the inductance effect is increased as the thickness of the resonator is increasing which results in a change in absorption in higher wavelength. The substrate thickness is varied from 0.2 to 1 µm and the results clearly show that as the thickness is increased, the absorption is increasing and the best values are available for 1 µm thickness. The reason for the increase in absorption is because the higher thickness increases the area of the substrate, which increases the absorption in the substrate. The resonator thickness of 0.6 µm and substrate thickness is 1 µm is fixed after this parametric analysis.
+
+Figure 4
+figure 4
+Absorption response of graphene-based O-shape metasurface absorber for (a) Different resonator thicknesses (0.6 to 1.4 µm). (b) Different substrate thicknesses (0.2 to 1 µm). (c) Difference angles of incidence (0° to 80°). (d) Different graphene’s chemical potential (0.1 to 0.9 eV. The inset shows the color plot of absorption for different resonator/substrate thickness/angle of absorption/graphene chemical potential for the wavelength range of 0.2 to 1.5 µm.
+
+Full size image
+The graphene chemical potential is varied from 0.1 to 0.9 eV and we are getting similar absorption for all the variation which clearly show that at visible and ultraviolet wavelength range the effect of graphene’s chemical potential is minimum. The angle of incidence is very important for designing solar absorbers so we have also varied the angle of incidence from 0° to 80° and the results clearly show that we are getting a wide-angle of incidence and the absorption is almost the same for all angles except 30° and 80°. The results clearly show that for angle of incidence 30° and 80°, the average absorption is more than 60% and for the rest of the angles it is more than 92%. These parameter variations clearly show that graphene chemical potential has minimum effect in absorption response while the wide-angle of incidence is also achieved for the angle of incidence variation of light falling on the structure.
+
+Machine learning (1D-CNN regression model for prediction)
+Machine learning is used to predict the absorption values for intermediate/missing wavelengths so that simulation and experimentation time can be reduced. 1D-Convolutional Neural Network (1D-CNN) in comparison to Multilayer Perceptron Regression and other traditional machine learning regression algorithms, can capture the complicated relationship between two parameters/variables with more minute details47. Thus, experiments are performed using 1D-CNN Regression to build the model for predicting absorption values.
+
+Layer structure of 1D-CNN Regression model is depicted in Fig. 5a. First Layer contains 128 neurons with kernel size of 2. Layer 2, layer 5 are batch normalization layers. Layer 3 and layer 5 are dropout layers that prevent models from overfitting. Layer 4, layer 7 contains 64, 16 neurons respectively. Layer 8 is single neuron output layer. Relu activation function is used in layer1 and layer 4. 1D-CNN Regression model is trained using 1000 epochs. Machine Learning models are built using Python 3.8, scikit-learn library version 1.0, and tensorflow library version 2.7.
+
+Figure 5
+figure 5
+(a) Layer structure of 1D-CNN regressor (b) Prediction accuracy (R2 Score) of 1D-CNN Regressor models trained for assorted values of substrate thickness and polynomial degree features (Test Case C-0.5).
+
+Full size image
+Four Test Cases (T.C.-0.2, T.C.-0.3, T.C.-0.4, T.C.-0.5) are used to test the prediction accuracy. Two non-overlapping subsets of data are generated by randomly selecting 20%, 30%, 40%, 50% records from simulated data in Test cases T.C.-0.2, T.C.-0.3, T.C.-0.4, and T.C.-0.5 respectively. Randomly selected records are used to evaluate the performance of Machine Learning model which is trained using remaining records of simulated data. R2 score is used as a metric to evaluate the prediction accuracy of regression models. R2 score is calculated using Eq. (5).
+
+R2=1−SSredSStot,
+(5)
+SStot=∑i=1N(ActualTargeti−AverageTargetValue)2,
+(6)
+SSres=∑N1(PredictedTargetValuei−ActualTargetValuei)2.
+(7)
+Here, SSres is the sum of squares of the residual errors and SStot is the total sum of the errors and N is the number of testing records.
+
+All R2 score values are rounded off to four decimal places while representing the results. Reason for using higher degree polynomial features for training 1D-CNN regressor models is explained in supplementary material with the help of Supplementary Fig. S1.
+
+Substrate thickness
+R2 scores obtained by trained 1D-CNN Regression models (Test Case-0.5) for assorted combinations of substrate thickness values with polynomial degree features are depicted using heat map in Fig. 5b. Highest R2 score of 0.9999, 0.9999, 0.9999, 0.9999, 0.9998 is achieved for substrate thickness value 0.2 µm, 0.4 µm, 0.6 µm, 0.8 µm, 1.0 µm respectively. Scatter plots of predicted absorption values by different 1D-CNN Regression models vs actual absorption values for test case-0.5 and substrate thickness 0.2 µm, 0.4 µm, 0.6 µm are shown in Fig. 7a–c respectively.
+
+R2 scores obtained by trained 1D-CNN Regression models for Test Case-0.4, Test Case-0.3, Test Case-0.2, and assorted combinations of substrate thickness values with polynomial degree features are depicted using heat map in Supplementary Fig. S2a–c. Scatter plots of predicted absorption values by different 1D-CNN Regression models vs actual absorption values for test case-0.5 and substrate thickness 0.8 µm, 1.0 µm are shown in Supplementary Fig. S5a,b respectively. Similarly for test case-0.4 and substrate thickness 0.2 µm, 0.4 µm, 0.6 µm, 0.8 µm, 1.0 µm scatter plots are shown in Supplementary Figs. S6a–c, S7a,b respectively.
+
+Resonator thickness
+R2 scores obtained by trained 1D-CNN Regression models (Test Case-0.5) for assorted combinations of resonator thickness values with polynomial degree features are depicted using heat map in Fig. 6a. Highest R2 score of 0.9984, 0.9995, 0.9999, 0.9998, 0.9976 is achieved for resonator thickness value 0.6 µm, 0.8 µm, 1.0 µm, 1.2 µm, 1.4 µm respectively. Scatter plots of predicted absorption values by different 1D-CNN Regression models vs actual absorption values for test case-0.5 and resonator thickness 0.6 µm, 0.8 µm, 1.0 µm are shown in Fig. 7d–f respectively.
+
+Figure 6
+figure 6
+Prediction accuracy (R2 Score) of 1D-CNN Regressor models trained for assorted values of (a) Resonator thickness and polynomial degree features (Test Case C-0.5) (b) Angle of incidence and polynomial degree features (Test Case C-0.5).
+
+Full size image
+Figure 7
+figure 7
+Predicted absorption value by different 1D CNN Regressors vs Actual absorption value for test case C-0.5 and (a) Substrate thickness = 0.2 µm (b) Substrate thickness = 0.4 µm (c) Substrate thickness = 0.6 µm (d) Resonator thickness = 0.6 µm (e) Resonator thickness = 0.8 µm (f) Resonator thickness = 1.0 µm (g) Angle of incidence = 0° (h) Angle of incidence = 10° (i) Angle of incidence = 20°.
+
+Full size image
+R2 scores obtained by trained 1D-CNN Regression models for Test Case-0.4, Test Case-0.3, Test Case-0.2, and assorted combinations of resonator thickness values with polynomial degree features are depicted using heat map in Supplementary Fig. S3a–c. Scatter plots of predicted absorption values by different 1D-CNN Regression models vs actual absorption values for test case-0.5 and resonator thickness 1.2 µm, 1.4 µm are shown in Supplementary Fig. S5c,d respectively. Similarly for test case-0.4 and resonator thickness 0.6 µm, 0.8 µm, 1.0 µm, 1.2 µm, 1.4 µm scatter plots are shown in Supplementary Fig. S6d–f, S7c,d respectively.
+
+Angle of incidence
+R2 scores obtained by trained 1D-CNN Regression models (Test Case-0.5) for assorted combinations of angle of incidence values with polynomial degree features are depicted using heat map in Fig. 6b. Highest R2 score of 0.9973, 0.9994, 0.9987, 1.0, 0.9979, 0.999, 0.9991, 0.9986, 0.9992 is achieved for angle of incidence value 00, 10°, 20°, 30°, 40°, 50°, 60°, 70°, 80° respectively. Scatter plots of predicted absorption values by different 1D-CNN Regression models vs actual absorption values for test case-0.5 and angle of incidence value 0°, 10°, 20° are shown in Fig. 7g–i respectively.
+
+R2 scores obtained by trained 1D-CNN Regression models for Test Case-0.4, Test Case-0.3, Test Case-0.2, and assorted combinations of angle of incidence values with polynomial degree features are depicted using heat map in Supplementary Fig. S4a–c. Scatter plots of predicted absorption values by different 1D-CNN Regression models vs actual absorption values for test case-0.5 and angle of incidence 30°, 40°, 50° are shown in Supplementary Fig. S5e–g respectively. Similarly for test case-0.4 and angle of incidence 0°, 10°, 20°, 30°, 40°, 50°, 60°, 70°, 80° scatter plots are shown in Supplementary Fig. S6g–i, S7e–g respectively.
+
+Conclusion
+In conclusion, we have presented the two different graphene-metasurface absorber designs and obtained the high absorption for a broadband range including the ultraviolet and visible range. The O-shape design achieves absorption of 91% and 94% for the ultraviolet and visible range, respectively. We have also carried out the detailed analysis by varying the physical parameters such as resonator thickness and substrate thickness which slightly affects the absorption rate. The absorption response also remains unchanged for the wide angle of incidence. The response also remains the same with respect to the variation in graphene chemical potential.
+
+It is demonstrated using experimental results that, 1D-CNN Regression is an efficient method for building the prediction model. It can predict absorption values of intermediate wavelengths with high accuracy (more than 0.999 R2 Score). It is also observed that high prediction accuracy is achieved in most of the cases when model is built using higher polynomial degree features.
+
+Data availability
+The data will be made available at a reasonable request to the corresponding author.

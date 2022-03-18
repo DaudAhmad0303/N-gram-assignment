@@ -1,0 +1,79 @@
+Chinese graphite dominance threatens electric car ambitions
+A rise in demand for electric cars is boosting demand for graphite, a key battery component. As battery and car makers try to secure supplies, China's domination of the graphite market has become a problem.
+
+    
+A worker covered in graphite dust at a warehouse where graphite is processed
+China produces almost all of the graphite used for lithium-ion batteries
+
+Ripples of last year's power crunch in China are still being felt by global battery and electric-car makers.
+
+A shortage of coal supplies caused by an Indonesian export ban, a trade war with major supplier Australia and a steep rise in post-COVID-19 domestic demand prompted local Chinese authorities to ration power to energy-intensive industries, including graphite.
+
+The rolling power blackouts as well as the suspension of graphite production in winter further squeezed global graphite supply, already struggling to keep up with strong demand for lithium-ion batteries as global electric vehicle sales went through the roof.
+
+As a result, the mineral, which has often been overlooked when it comes to battery materials, has added to the troubles of battery and car manufacturers, who have been scouring the planet to secure supplies of other battery constituents like lithium, nickel and cobalt.
+
+The supply squeeze, which has driven up graphite prices, has yet again turned the focus on the global overreliance on China for graphite, the biggest component in lithium-ion batteries by volume with few viable alternatives.
+
+Electric car getting charged
+The market for electric cars continues to boom
+
+China dominates the global graphite market, producing almost all of the graphite that's used for anode, the negative end of a lithium-ion battery.
+
+"We hardly have any supply in Europe to even scratch the surface of future graphite demand for the lithium-ion battery industry so far," Burkhard Straube, the head of the graphite solutions unit at SGL Carbon, told DW.
+
+"Without the further development of a European battery value chain including raw materials and components I would be highly concerned how companies in Europe as well as in North America would satisfy the demand for instance for graphite in the future," he told DW.
+
+Graphite shortfall
+Graphite is a crystalline form of carbon. It is an excellent conductor of heat and electricity and is chemically inert with high thermal resistance and lubricity. These properties make the mineral almost irreplaceable in a vast array of industries ranging from semiconductors to nuclear reactors. It is an abundant mineral around the world but is also produced synthetically.
+
+The demand for graphite has received a major boost from the auto industry that is undergoing a transition to electric vehicles (EV), powered by lithium-ion batteries, for now.
+
+Tens of millions of EVs are expected to hit the roads in the next decade as part of global net-zero carbon pledges, driving a fivefold increase in demand for anodes by 2030, according to BloombergNEF. Graphite producers are unlikely to meet the massive demand at the current rate of production.
+
+The world could witness a deficit of 85,000 tons of the mineral this year alone with electric vehicle sales expected to touch 10 million units, Benchmark Mineral Intelligence analyst George Miller told DW.
+
+"Graphite is often a very underrepresented critical mineral in the lithium-ion battery," Miller said. "Especially, not enough attention is paid to the potential for supply deficit and to the potential for the graphite market itself to become structurally affected by demand from electric vehicles."
+
+Graphite flake prices in China stood at $760 per ton in early February, up by 11.8% from January and up by 38.2% from a year ago, according to Rystad Energy's monthly price index.
+
+The deficit is likely to keep graphite prices elevated for a while, further boosting battery costs which are already under pressure from high lithium and cobalt prices. That would be a setback for battery and automakers who are striving to bring down battery costs, which currently account for about 20%-40% of the price of an EV, in a bid to reach price parity with petrol and diesel cars.
+
+Real cost of Chinese graphite
+Battery makers currently use a mixture of both natural and synthetic graphite in different ratios in their anodes. They, however, favor synthetic graphite because it's more consistent, has extremely low levels of impurities, its specifications can be easily controlled since it is manufactured and offers better performance.
+
+But producing synthetic graphite is costlier and a more energy-intensive process, requiring temperatures as high as 3,000 degrees Celsius (5,432 degrees Fahrenheit). Manufacturing synthetic graphite in China is even worse given that most of the electricity there is generated from highly polluting coal.
+
+Man-made graphite, as a result, is more vulnerable to soaring energy costs and power rationing. Experts say synthetic graphite production in China could also suffer from the country's pledge to go carbon-neutral by 2060, potentially making natural graphite, which requires less energy, more attractive to some battery producers.
+
+Even that would be less than ideal for carmakers in the West looking to burnish their environmental, social and governance credentials.
+
+Natural graphite mining in China has been historically called out for lax environmental regulations and discharging dust pollutants that cause respiratory illnesses and contaminate water bodies. The use of large amounts of hydrochloric acid during graphite processing is also seen as harmful to both the workers and the environment.
+
+Europe sees synthetic graphite as a viable alternative despite its higher energy requirements to ensure a resilient and sustainable battery value chain. 
+
+Watch video04:12
+EV battery production: Too late for Germany?
+Reshoring graphite production
+The graphite supply squeeze is already prompting European and US battery and EV-makers to speed up their efforts to source more graphite from outside of China as they look to cut their reliance on the Asian country and shorten their supply chain.
+
+Tesla — which in December bemoaned US tariffs on Chinese graphite and asked the government to waive them, saying there was just not enough of the mineral elsewhere —  signed a supply agreement with Australia's Syrah Resources for graphite anode material from a production plant that it is setting up in Louisiana.     
+
+Syrah's Vidalia plant, which would process graphite mined in Mozambique, would be the first US-based facility producing graphite anodes.
+
+Canadian developer Nouveau Monde Graphite is also planning to set up a battery anode facility near Montreal in Canada.
+
+Europe's budding battery industry
+Europe, which has set itself an ambitious target when it comes to producing lithium-ion batteries at home and has been putting in more money than any other region in its battery industry, is also looking to shed its overreliance on China for the critical battery material.
+
+While Europe is investing in developing graphite resources, it's falling short in boosting its processing capabilities, an area where China is the undisputed leader.
+
+"What has been left, is the middle bit, the crucial bit —  the bit where the value is added. For graphite, all of that processing is happening in China and then the anode production a step further down between that and batteries, that's happening in Japan, South Korea and China," Suzanne Shaw, lead graphite expert at Wood Mackenzie, told DW. "Certainly, that has been so neglected, but it's also hard to be able to attract that. If your supply and demand are all in Asia. Why produce that in Europe?"
+
+Shaw said with new battery plants coming up in Europe, that could change.
+
+"We will then work back to maybe perhaps having anode production nearby and then we will go back up the supply chain into processing, and that allows perhaps more investment in the upstream side. But I think that could take quite a long time to happen," she said.
+
+Watch video04:45
+Northvolt invests more in battery tech
+Edited by: Hardy Graupner

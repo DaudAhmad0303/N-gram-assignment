@@ -1,0 +1,36 @@
+Internet and mobile services down across Tasmania after two cables cut
+Much of the state is without internet, but Telstra says some voice calls and emergency calls are working
+
+NSW and Queensland flood updates – live news
+Get our free news app; get our morning email briefing
+A person uses a smart phone
+The outage in internet and mobile data services in Tasmania began around 1pm on Tuesday. Photograph: AP
+Josh Taylor
+@joshgnosis
+Tue 1 Mar 2022 04.35 GMT
+
+Tasmania is experiencing widespread internet and mobile outages after two of the three cables connecting the island state to the mainland were cut on Tuesday.
+
+Around 1pm, Tasmanians began reporting being cut off from the internet and being unable to make calls. The outage also affected electronic payment services in the state, with stores reportedly requiring customers to pay with cash.
+
+
+As of 4pm, a Telstra spokesperson said the company was urgently working to fix the issue, and had identified that two cables carrying mobile and fixed data traffic to the state had been taken out. One had been cut during civil works, while the cause of the problem with the other cable was under investigation.
+
+“Our network across the Bass Strait is configured with multiple redundancies, with the two main links providing back up for each other, and a third, smaller link being available for priority traffic – such as triple zero and voice – on the very rare chance both main links go down,” the spokesperson said.
+
+“Unfortunately this is what has occurred.
+
+“We have crews at the separate sites to repair the cable and get traffic back online. The issues at each site are unrelated.”
+
+Sign up to receive an email with the top stories from Guardian Australia every morning
+
+Sign up to receive the top stories from Guardian Australia every morning
+Advertisement
+
+The outage is affecting ADSL and NBN internet services, some free-to-air TV, radio stations and mobile data services, which the company said had been congested. Triple-zero calls can still be made and the company is prioritising voice calls.
+
+“Now we’ve identified where the damage has occurred, we’re working as quickly as we can to repair things and restore services as soon as possible,” the spokesperson said.
+
+Tasmania is connected to the internet via three cables – two from Telstra and one from Basslink. The Basslink cable is unaffected by the outage.
+
+Network data showed connectivity in the early afternoon was about 30% of normal levels for the state.

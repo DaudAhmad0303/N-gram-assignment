@@ -1,0 +1,2472 @@
+FIXING FASHION: 
+clothing consumption 
+and sustainability
+
+House of Commons
+Environmental Audit Committee
+Fixing fashion: clothing 
+consumption and 
+sustainability
+Sixteenth Report of Session 2017–19
+Report, together with formal minutes relating 
+to the report
+Ordered by the House of Commons 
+to be printed 5 February 2019
+HC 1952
+Published on 19 February 2019
+by authority of the House of Commons
+Environmental Audit Committee
+The Environmental Audit Committee is appointed by the House of Commons to 
+consider to what extent the policies and programmes of government departments 
+and non-departmental public bodies contribute to environmental protection and 
+sustainable development; to audit their performance against such targets as may be 
+set for them by Her Majesty’s Ministers; and to report thereon to the House.
+Current membership
+Mary Creagh MP (Labour, Wakefield) (Chair)
+Colin Clark MP (Conservative, Gordon)
+Dr Thérèse Coffey MP (Conservative, Suffolk Coastal)
+Geraint Davies MP (Labour (Co-op), Swansea West)
+Mr Philip Dunne MP (Conservative, Ludlow)
+Zac Goldsmith MP (Conservative, Richmond Park)
+Mr Robert Goodwill MP (Conservative, Scarborough and Whitby)
+James Gray MP (Conservative, North Wiltshire)
+Caroline Lucas MP (Green Party, Brighton, Pavilion)
+Kerry McCarthy MP (Labour, Bristol East)
+Anna McMorrin MP (Labour, Cardiff North)
+John McNally MP (Scottish National Party, Falkirk)
+Dr Matthew Offord MP (Conservative, Hendon)
+Dr Dan Poulter MP (Conservative, Central Suffolk and North Ipswich)
+Joan Ryan MP (Labour, Enfield North)
+Alex Sobel MP (Labour (Co-op), Leeds North West)
+Powers
+The constitution and powers are set out in House of Commons Standing Orders, 
+principally in SO No 152A. These are available on the internet via www.parliament.uk.
+Publications
+© Parliamentary Copyright House of Commons 2019. This publication may be 
+reproduced under the terms of the Open Parliament Licence, which is published at 
+www.parliament.uk/copyright.
+Committee reports are published on the Committee’s website at www.parliament.uk/
+eacom and in print by Order of the House.
+Evidence relating to this report is published on the inquiry publications page of the 
+Committee’s website.
+Committee staff
+The current staff of the Committee are Lloyd Owen (Clerk), Leoni Kurt (Second Clerk), 
+Ruth Cahir (Committee Specialist), Nicholas Davies (Committee Specialist), Laura Grant 
+(Committee Specialist), Laura Scott (Committee Specialist), Jonathan Wright (Senior 
+Committee Assistant), Baris Tufekci (Committee Assistant), Anne Peacock (Media 
+Officer) and Simon Horswell (Media Officer).
+Contacts
+All correspondence should be addressed to the Clerk of the Environmental Audit 
+Committee, House of Commons, London SW1A 0AA. The telephone number for general 
+enquiries is 020 7219 8890; the Committee’s email address is eacom@parliament.uk.
+You can follow the Committee on Twitter using @CommonsEAC.
+Fixing fashion: clothing consumption and sustainability 1
+Contents
+Summary 3
+1 Introduction - fashion & sustainability 5
+Fashion industry 5
+Fast fashion 6
+Sustainability of the industry 8
+Interim report - retailer engagement 8
+Growth of the industry 8
+The sustainability challenge 9
+UK commitments on sustainability 9
+Consumption levels 10
+Our report 11
+2 The social cost of our clothes 12
+Social impact of garment production 12
+Union representation Vs Corporate Social Responsibility 14
+Cheap clothing 15
+Reshoring production 15
+Labour exploitation in UK garment factories 16
+National Minimum Wage 16
+Labour Market Enforcement 20
+Enforcing labour market law in UK garment factories 21
+Forced labour in fashion supply chains 22
+Transparency 23
+Modern Slavery Act 23
+Due diligence law 25
+3 Fashion’s environmental price tag 28
+Environmental impact 28
+Energy and climate 28
+Water consumption 29
+Land use 30
+Natural Vs Synthetic Fibres 30
+Natural fibres 30
+Synthetic fibres 31
+Recycled fibres 31
+Microfibre shedding 32
+Reducing microfibre shedding 34
+Measuring impact 36
+Sustainable Clothing Action Plan life cycle waste targets 37
+4 Textile waste and collection 40
+Repairing 40
+Craft education 41
+Reusing second hand clothes and upcycling 42
+Pre-consumer waste 43
+Textile collection 43
+Stock burning 44
+Take-back schemes 45
+Extended Producer Responsibility for textiles 46
+5 New economic models for the fashion industry 50
+Levelling the playing field 50
+Encouraging change 52
+Sharing economy 53
+6 Background & acknowledgements 55
+Acknowledgements 55
+Conclusions and recommendations 56
+Annex 1: Table of retailers’ responses 61
+Appendix: Research by Dr Mark Sumner, School of Design, University of Leeds 62
+Formal minutes 63
+Witnesses 64
+Published written evidence 65
+List of Reports from the Committee during the current Parliament 68
+Fixing fashion: clothing consumption and sustainability 3
+Summary
+The way we make, use and throwaway our clothes is unsustainable. Textile production 
+contributes more to climate change than international aviation and shipping combined, 
+consumes lake-sized volumes of fresh water and creates chemical and plastic pollution. 
+Synthetic fibres are being found in the deep sea, in Arctic sea ice, in fish and shellfish. 
+Our biggest retailers have ‘chased the cheap needle around the planet’, commissioning 
+production in countries with low pay, little trade union representation and weak 
+environmental protection. In many countries, poverty pay and conditions are standard 
+for garment workers, most of whom are women. We are also concerned about the use 
+of child labour, prison labour, forced labour and bonded labour in factories and the 
+garment supply chain. Fast fashions’ overproduction and overconsumption of clothing 
+is based on the globalisation of indifference towards these manual workers.
+Forced labour is used to pick cotton in two of the world’s biggest cotton producing 
+countries, Turkmenistan and Uzbekistan. Labour exploitation is also taking place in 
+the UK. ‘Made in the UK’ should mean workers are paid at least the minimum wage. 
+But we were told it is an open secret that some garment factories in places like Leicester 
+are not paying the minimum wage. This must stop. But if the risk of being caught is 
+low, then the incentive to cut corners is high. The same fast fashion retailers sourcing 
+from Leicester are also selling clothes so cheaply that they are being treated as single use 
+items. We buy more clothes per person in the UK than any other country in Europe. A 
+glut of second hand clothing swamping the market is depressing prices for used textiles. 
+What can’t be sold is torn up and turned into insulation and mattress stuffing. Worse 
+still, around 300,000 tonnes of textile waste ends up in household black bins every year, 
+sent to landfill or incinerators. Less than 1% of material used to produce clothing is 
+recycled into new clothing at the end of its life. Meanwhile, retailers are burning new 
+unsold stock merely to preserve their brand.
+Fashion shouldn’t cost the earth. But the fashion industry has marked its own 
+homework for too long. Voluntary corporate social responsibility initiatives have failed 
+significantly to improve pay and working conditions or reduce waste. The scientific 
+warnings are stark on sustainability. Overconsumption and climate change are driving 
+mass extinction. We need a new economic model for fashion. Business as usual no 
+longer works. The Government should change the law to require companies to perform 
+due diligence checks across their supply chains.
+UK designers are already taking a lead on sustainable fashion. We heard from a range 
+of exciting, innovative and sustainable fashion businesses and designers in the UK who 
+are forging a new vision for fashion. These innovators are faced with competition from 
+businesses who are focused on reducing costs and maximising profits regardless of the 
+environmental or social costs. Government needs to provide clear economic incentives 
+for retailers to do the right thing. We recommend that the Government reforms taxation 
+to reward fashion companies that design products with lower environmental impacts 
+and penalise those that do not. Moving from conventional to organic cotton and from 
+virgin polyester to recycled PET (in garments designed to minimise shedding) would 
+help to reduce the negative impact of the clothing industry. The Government should 
+4 Fixing fashion: clothing consumption and sustainability
+investigate whether its proposed tax on virgin plastics, which comes into force in 
+2022, should be applied to textile products that contain less than 50% recycled PET to 
+stimulate the market for recycled fibres in the UK.
+We recognise that fast fashion has made it affordable for everyone to experience the 
+pleasure of style, design and the latest trends. We were told however that the most 
+sustainable garment is the one we already own and that repairing, rewearing, reusing, 
+and renting are preferable to recycling or discarding clothes.
+The Government must change the system to end the throwaway society. Often it is more 
+expensive to repair an item than buy a new one. Many of us also lack the skills to perform 
+more than basic clothing repairs. The Government should make fashion retailers take 
+responsibility for the waste they create and reward companies that take positive action 
+to reduce waste. A charge of one penny per garment on producers could raise £35 
+million to invest in better clothing collection and sorting in the UK. The Government’s 
+recent pledge to review and consult on extended producer responsibility for the textile 
+industry by 2025 is too slow. We need action before the end of this parliament.
+Fixing fashion: clothing consumption and sustainability 5
+1 Introduction - fashion & sustainability
+Fashion industry
+1. Fashion is big business in the UK. We buy more clothes per person in the UK 
+than any other country in Europe.1 The fashion industry was worth £32 billion to the 
+UK economy in 2017.2 This was an increase of 5.4% on 2016; a growth rate 1.6% higher 
+than the rest of the economy.3 The industry employs 890,000 people in the UK in retail, 
+manufacturing, brands and fashion design businesses.4 According to consultants 
+McKinsey the global apparel, fashion and luxury industry outperformed all other market 
+indexes in profitability between 2003 - 2013 ‘outstripping even high-growth sectors like 
+technology and telecommunications.’5 In recent years some UK high street retailers have 
+struggled in the face of online competition, but UK manufacturing is seeing some growth 
+and our fashion designers are going from ‘strength to strength’, according to the British 
+Fashion Council.6
+Key facts & figures on fashion and sustainability
+More than $500 billion of value is lost every year due to clothing underutilisation and 
+the lack of recycling, according to the Ellen MacArthur Foundation.7
+By 2030 global apparel consumption is projected to rise by 63%, from 62 million tons 
+today to 102 million tons—equivalent to more than 500 billion additional T-shirts.8
+The UN says that by 2050 the equivalent of almost three planets could be required to 
+provide the natural resources needed to sustain current lifestyles given the growth in 
+global population.9
+In September 2015, the UK signed up to the United Nations Sustainable Development 
+Goals including a commitment (SDG 12) to ensure sustainable consumption and 
+production patterns.10
+2. The garment industry is reportedly the world’s third biggest manufacturing industry 
+after automotive and technology industries.11 Our consumption creates jobs and growth 
+in developing nations. It also leaves them with the bulk of the environmental and social 
+costs.12 Eco Age warned that competition between countries for inward investment was 
+driving a race to the bottom in terms of standards:
+1 European Clothing Action Plan, Used Textile Collection in European Cities (March 2018)
+2 British Fashion Council, London Fashion Week September 2018 Facts and Figures
+3 British Fashion Council, London Fashion Week September 2018 Facts and Figures
+4 British Fashion Council, London Fashion Week September 2018 Facts and Figures
+5 McKinsey & Company, Creating value in fashion: How to make the dream come true (May 2015)
+6 Evening Standard, The UK fashion industry is worth £32 billion to the UK economy, says British Fashion Council 
+CEO (September 2018)
+7 Ellen Macarthur Foundation, a New Textiles Economy: Redesigning Fashion’s Future (2017)
+8 Global Fashion Agenda & Boston Consulting Group, Pulse of the Fashion Industry (2017)
+9 United Nations, Sustainable Development Goals, Goal 12: Ensure sustainable consumption and production 
+patterns
+10 17 Goals
+11 Fashion Revolution (SFI0056)
+12 Dr Mark Sumner, University of Leeds (SFI0026)
+6 Fixing fashion: clothing consumption and sustainability
+Countries have to compete against each other for inward investment and 
+production in their jurisdiction. Because of this competition for lower 
+wages and standards they are unable to raise their minimum wage to a level 
+that provides for a decent life, that is, a living wage. There is a race to the 
+bottom in terms of wages and environmental standards.13
+Fast fashion
+3. Concerns have been raised throughout the inquiry that the current ‘fast fashion’ 
+business model is encouraging over-consumption and generating excessive waste.14 It 
+demands a high throughput of garments and is based on a linear economy, according to the 
+Clothing Sustainability Research Group at Nottingham Trent University.15 Such garments 
+are relatively cheap, aimed at consumers who want to change their wardrobe on a regular, 
+trend driven, basis. They are offered at pocket money prices. Short lead times means that 
+wash tests and wearer trials are often not feasible, with implications for garment quality. 
+Many are not made from single fibre materials and cannot be recycled.16 This trend is 
+being copied by luxury retailers such as Louis Vuitton which offers small collections every 
+two weeks. ‘Fast luxury’ collections are often stitched in the same factories producing 
+cheap ‘fast fashion’.17
+What is fast fashion?
+‘Fast fashion’ is a term used to describe a new accelerated fashion business model that 
+has evolved since the 1980s. It involves increased numbers of new fashion collections 
+every year, quick turnarounds and often lower prices. Reacting rapidly to offer new 
+products to meet consumer demand is crucial to this business model.
+4. Many of our witnesses criticised the fast fashion business model for driving 
+overconsumption, the production of clothes so cheap they are being treated disposably, 
+and excessive waste. Stella Claxton from the Clothing Sustainability Research Group at 
+Nottingham Trent University said that the value of much fast fashion clothing was low, 
+not only in financial but also in emotional terms:
+… if you look at where the growth in the retail market in the UK is coming 
+from, it is very much from the low value end, particularly the success of 
+online retailers—such as ASOS and Boohoo—who are competing on low 
+prices and fast turnaround. I saw a dress on Boohoo that retailed at full 
+price for £5 at the weekend. We have a market where these garments are 
+mainly aimed at young women who are … [gaining] pleasure from what 
+they wear and expressing their identity through their clothing, but the 
+actual value of the item is very low in real terms, in quality terms and in 
+emotional terms to them. The incentive for them to then recycle or want 
+13 ECO AGE LTD (SFI0075)
+14 Phoebe English (SFI0055); Fashion Revolution (SFI0056); TRAID (Textile Reuse & International Development) 
+(SFI0010); Professor Tim Cooper (SFI0049); ECO AGE LTD (SFI0075)
+15 Professor Tim Cooper (SFI0049)
+16 Professor Tim Cooper (SFI0049)
+17 Clean Clothes Campaign (2014) Stitched Up: Poverty wages for garment workers in Eastern Europe and Turkey; 
+The Guardian (10 December 2014), Luxury brands: higher standards or just a higher mark-up?
+Fixing fashion: clothing consumption and sustainability 7
+to pass that on in some way, or even for charity shops to want that kind 
+of product in their shops, is very low. The opportunity for that end of the 
+market to have a second hand opportunity is quite limited.18
+5. The fashion designer Phoebe English says that ‘fast fashion’ has made the sector a 
+‘monstrous disposable industry’:
+The overproduction of ‘fast’ fashion which will never be purchased or used 
+and the insane speed which the sector churns out new designs almost every 
+week means that the never-ending production of cheap fashion which is 
+poorly made and will last only a few weeks and then be thrown away, has 
+made our sector a monstrous disposable industry. The entire way the sector 
+is structured so that the prospective sales orders are put into production 
+rather than only making the production which has been actually ordered 
+means that countless levels of wasted garments are produced.19
+6. Others have hailed benefits of fast fashion. Dr Sumner of Leeds University School 
+of Design said that the phenomenon was successful because it had ‘democratised’ the 
+benefits of fashion:
+Fast fashion has allowed all segments of society, irrespective of class, income 
+or background to engage in the hedonistic and psychogenic pleasures of 
+fashion. At no other time in human history has fashion been so accessible 
+to so many people across our society. This is the power of fast fashion.20
+7. The British Retail Consortium suggested that fast fashion resulted in less waste at 
+the store and warehouse as it is characterised by smaller quantities of each fashion line 
+sourced and quickly sold. It said that fashion retailers are using insights from production 
+and consumption data to streamline their products and to minimise waste throughout 
+the supply chain.21
+8. We heard some concern that social media was driving faster fashion and encouraging 
+over consumption and waste. Research by the Hubbub Foundation suggested that 17% of 
+young people questioned said they wouldn’t wear an outfit again if it had been on Instagram.22
+Online fashion companies have established relationships with online ‘influencers’ who 
+advertise the latest fast fashion by modelling it on their Instagram and other social media 
+feeds. Website cookies mean that retailers can target individuals with fast fashion adverts 
+as they browse the Internet. Users now only have to tap on the photo to be told the price 
+and get an online link to the clothes that influencers or reality TV stars are wearing.23
+Eco Age said that stricter regulation for online marketing should be considered, arguing 
+that there are psychological issues connected with high levels of consumption, as well as 
+detrimental environmental and social effects caused by overconsumption.24
+18 Q22
+19 Phoebe English (SFI0055)
+20 Dr Mark Sumner, University of Leeds (SFI0026)
+21 British Retail Consortium (SFI0019)
+22 London Waste and Recycling Board (SFI0022)
+23 Where Does it Come From (SFI0035)
+24 ECO AGE LTD (SFI0075)
+8 Fixing fashion: clothing consumption and sustainability
+Sustainability of the industry
+9. In 2017, the Ellen Macarthur Foundation published a New Textiles Economy: 
+Redesigning Fashion’s Future. The report set out how the textiles system operates in a 
+linear way with large amounts of non-renewable resources extracted to produce clothes 
+‘that are often used for only a short time, after which the materials are mostly sent to 
+landfill or incinerated.’25 It calculated that more than $500 billion of value is lost every year 
+due to clothing underutilisation and the lack of recycling.26 In the UK WRAP estimates 
+that £140 million worth of clothing goes to landfill every year.27
+10. According to research carried out by Boston Consulting Group and Global Fashion 
+Agenda for the Copenhagen Fashion Summit in 2017, the sustainability ‘pulse’ of the 
+industry is weak. It developed a scoring system to measure the sustainability of the sector 
+and gave the industry a score of 32 out of 100 saying it is ‘not yet where it could and should 
+be.’28 It noted that:
+The best performers on sustainability are the very big players as well as 
+some mid-sized, family owned companies, while over half of the market, 
+mainly small to medium-sized players, has shown little effort so far. The 
+rest of the industry is somewhere in between. This is confirmed by the 
+Pulse Survey, where two-thirds of polled fashion executives have not made 
+environmental and social factors guiding principles for their companies’ 
+strategy.29
+Interim report - retailer engagement
+11. Our interim report on the sustainability of the fashion industry, published in January 
+2019, found similar results. We wrote to sixteen leading UK fashion retailers to ask what 
+steps they are taking to reduce the environmental and social impact of the clothes they sell. 
+As that report noted, we were impressed with the level of engagement by some retailers. 
+Others expressed openness to engaging on these issues and have made some small 
+steps. A few retailers, unfortunately, do not seem to consider social and environmental 
+responsibility as a priority.30 We concluded that retailers have an obligation to engage 
+with these issues and recommended that they show leadership through engagement with 
+industry initiatives. A table of the retailers’ responses is reproduced at Annex 1. This 
+report will consider recommendations to Government for policies to encourage a more 
+transparent, fair and sustainable fashion system.
+Growth of the industry
+12. As the world population exceeds 8 billion in the coming decade, the fashion industry 
+is expected to expand further. The Pulse of Fashion report projects that by 2030 global 
+apparel consumption could rise by 63%, from 62 million tons today to 102 million tons—
+equivalent to more than 500 billion additional T-shirts. ‘Concurrently, soaring demand 
+25 Ellen Macarthur Foundation, a New Textiles Economy: Redesigning Fashion’s Future (2017)
+26 Ellen Macarthur Foundation, a New Textiles Economy: Redesigning Fashion’s Future (2017)
+27 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+28 Global Fashion Agenda & Boston Consulting Group, Pulse of the Fashion Industry (2017)
+29 Global Fashion Agenda & Boston Consulting Group, Pulse of the Fashion Industry (2017)
+30 Environmental Audit Committee, Interim Report on the Sustainability of the Fashion Industry (Jan 2018)
+Fixing fashion: clothing consumption and sustainability 9
+for apparel—much of it from developing nations—will see the annual retail value of 
+apparel and footwear reach at least €2 trillion by 2030 (an over 30% increase of €500 
+billion between now and then).’31
+The sustainability challenge
+13. Securing a sustainable future for the planet and people is the defining challenge 
+of our time. In October 2018, the Intergovernmental Panel on Climate Change (IPCC) 
+warned that the Paris Agreement target of limiting global temperature rises to 1.5C will be 
+exceeded if we continue on our current path. Projections published in December suggest 
+that global emissions from burning fossil fuels hit an all-time high in 2018–after remaining 
+relatively static between 2014 to 2016.32 Current emission trends put us on course for a 
+dramatic 3C climate shift by 2100, which will have major consequences for wildlife and 
+communities around the world. Achieving Paris Agreement temperature goals requires 
+climate-changing emissions to peak as soon as possible and fall rapidly thereafter.33
+14. Recent projections suggest the world is failing to meet most of the existing 
+international targets on biodiversity - the Aichi Biodiversity Targets - to slow the rate of 
+habitat and species loss by 2020.34 The latest Living Planet Index–published by WWF and 
+the Zoological Society of London - showed a 60% fall in wildlife populations in 40 years.35
+Scientists are warning that the planet is now in the midst of a sixth mass extinction of 
+species driven by human activities.36
+UK commitments on sustainability
+15. The UK has taken the crucial first step in its sustainability transition by shifting to 
+cleaner sources of electricity since the Climate Change Act was passed in 2008.37 To meet 
+our future carbon budgets and reach net zero emissions by 2050 - which the IPCC tells us 
+is needed - the UK will have to go further and ensure that all industries play their part in 
+reducing their carbon footprint to near zero. That will require changing our consumption 
+patterns and improving our resource productivity.
+16. In September 2015, global agreement was reached at the United Nations on a set of 17 
+Sustainable Development Goals to guide global development until 2030.38 In conducting 
+our inquiry into the sustainability of the fashion industry we decided to focus on both 
+environmental and social sustainability in line with the UN Sustainable Development 
+Goals, which the UK Government signed up to in 2015. Tackling the problems highlighted 
+in this inquiry will help to achieve a range of Sustainable Development Goals, including:
+• SDG 5: Achieve gender equality and empower all women & girls
+• SDG 6: Clean water and sanitation;
+31 Global Fashion Agenda & Boston Consulting Group, Pulse of the Fashion Industry (2017), p. 8.
+32 Global Carbon Project, Strong growth in global CO2 emissions expected for 2018 (November 2018)
+33 International Energy Agency email newsletter ‘the energy mix: COP, CO2 & CCUS’, (10 Dec 2018)
+34 WWF and ZSL, Living Planet Report 2018
+35 WWF and ZSL, Living Planet Report 2018
+36 Gerardo Ceballos, Paul R. Ehrlich, and Rodolfo Dirzo, Biological annihilation via the ongoing sixth mass 
+extinction signaled by vertebrate population losses and declines (July 2017)
+37 Environmental Audit Committee, Green Finance: Mobilising investment in clean energy and sustainable 
+development (May 2018)
+38 17 Goals
+10 Fixing fashion: clothing consumption and sustainability
+• SDG 8: Decent work and economic growth;
+• SDG 12: Responsible consumption and production;
+• SDG 13: Climate action
+• SDG 14: Life below water.
+• SDG 15: Life on land.
+Consumption levels
+17. The clothing charity TRAID warned that ‘the over-consumption of clothes in the 
+UK plays its part in deepening the main environmental challenges that we face at national 
+and global level.’39 The UN Sustainable Development Goal 12 on sustainable consumption 
+and production aims to promote resource and energy efficiency.40 At the current time, 
+material consumption of natural resources is increasing. The UN says that should the 
+global population reach 9.6 billion by 2050, the equivalent of almost three planets could 
+be required to provide the natural resources needed to sustain current lifestyles.41 At the 
+Committee’s V&A event, the author Lucy Siegle suggested that:
+A useful way of thinking about it is when we talk about the Paris agreement 
+and carbon emissions, and we set a baseline of 1990, whatever we need to 
+get the emissions down to, we should think about this problem in that way. 
+If we use 2000 as baseline, we should be doing everything we can to reduce 
+consumption to 2000 levels because that would solve a lot of problems.42
+18. Professor Tim Cooper from the Clothing Sustainability Research Group at 
+Nottingham Trent University argues garments should be designed and manufactured for 
+longevity, but that a more difficult problem is how to reduce consumer demand for cheap, 
+short-lived garments.43 He said:
+Sustainable consumption demands cultural change. The throwaway culture 
+applies to the whole economy, not merely the clothing sector. If consumers 
+are to be encouraged to buy fewer clothes there needs to be a wider public 
+debate on [the] future of the ‘consumer society’, including an evaluation of 
+its benefits and costs.44
+19. Professor Dilys Williams from the London College of Fashion echoed this, arguing 
+that technocentric efficiency improvements are not sufficient to make fashion items 
+sustainable if we are ‘still producing more and more of them.’45 She suggested that society 
+would have to challenge ‘growth logic’ and develop different business models that involve 
+less material consumption:
+39 TRAID (SFI0010)
+40 United Nations, Sustainable Development Goals, Goal 12: Ensure sustainable consumption and production 
+patterns
+41 United Nations, Sustainable Development Goals, Goal 12: Ensure sustainable consumption and production 
+patterns
+42 Q108
+43 Clothing Sustainability Research Group, Nottingham Trent University (SFI0049)
+44 Clothing Sustainability Research Group, Nottingham Trent University (SFI0049)
+45 Q90
+Fixing fashion: clothing consumption and sustainability 11
+… technocentric approaches are not sufficient. In fact, there is evidence to 
+say that efficiencies in creating one garment better have a rebound effect 
+and we are actually using more resources by taking that approach. […] Do 
+we want to sustain the fashion industry as it currently is or do we want to 
+live within planetary boundaries and honour human equality? If we do, we 
+do need to take a more eco-centric perspective.46
+20. The designer Phoebe English said history would look unkindly on the waste and 
+exploitation involved in today’s fashion industry:
+I believe that we, and the waves of the new generation, will look back on the 
+practices of today’s fashion industry in the same way we now look back at 
+Victorian Workhouses, with utter incredulous horror. It is up to legislators 
+and British law to keep up with the massive swing of ethical commercial 
+consumer desire and how it can help form a better fashion industry and 
+help obliterate its disgustingly wasteful practices.47
+Our report
+21. The way we make, use and dispose of our clothes all has an environmental impact. 
+The structure of this report reflects these stages in the lifecycle. Chapters Two and Three 
+will look at the social and environmental impact of how we currently make clothes. 
+The amount of clothes we throwaway will be examined in chapter Four. New economic 
+models that could help improve the sustainability of the fashion industry will be explored 
+in chapter Five.
+22. We want to see a thriving fashion industry in the UK that provides decent work, 
+inspires creativity and contributes to the economic success of the UK. The fashion 
+industry’s current business model is unsustainable, especially with growing populations 
+and rising levels of consumption across the globe. Over-consumption and climate 
+change are driving widespread environmental damage. The exploitative and linear 
+business model for fashion must change. The various parts of the fashion industry 
+must come together to set out their blueprint for a net zero emissions world. This will 
+require reducing their carbon consumption back to 1990 levels. Given scientists’ stark 
+warnings on climate change and biodiversity loss, we need to fix fashion.
+46 Q90
+47 Phoebe English (SFI0055)
+12 Fixing fashion: clothing consumption and sustainability
+2 The social cost of our clothes
+Social impact of garment production
+23. Garment production is one of the world’s biggest and most labour-intensive 
+manufacturing industries with estimates of those directly employed ranging from 25 to 
+60 million people.48 Since the 1980s many leading Western fashion retailers have been 
+‘chasing the cheap needle round the planet’49 and sourcing their clothes from countries 
+with low labour costs and poor environmental governance. This shift in production 
+has been facilitated by a 90% fall in shipping costs between the late 1950s and 2015, as 
+shipping containers revolutionised trade in goods.50 Most of the garments sold in the UK 
+are produced in Asian countries.51 In evidence, Dr Mark Sumner noted that this fashion 
+model means that consumers in the UK ‘are getting pleasure and enjoyment from fashion 
+and that is coming at a cost to workers and the environment in exterritorial, overseas 
+production routes as well as agriculture.’52
+24. Fashion supply chains provide a source of jobs and GDP growth for people in poorer 
+countries with the garment industry providing a crucial source of foreign exchange (when 
+payments and investment are made in the local currency).53 However, poor pay and 
+conditions are standard in global garment supply chains according to evidence submitted 
+by the global trade union IndustriALL.54 It stated that:
+Workers work long hours, often far beyond legal limits, for poverty wages 
+and in conditions that breach Occupational Health and Safety (OHS) 
+standards. Continual downward price pressure by companies keeps wages 
+low while their real value declines against inflationary increases. The wages 
+of most garment workers are no higher than the level of the minimum wage 
+in their country, which in many cases is well below the level of subsistence. 
+Excessive working hours are a continuing and entrenched problem. 
+Production peaks are managed by relying on excessive overtime. Workers 
+are compelled to work extremely long hours in order to supplement their 
+basic earnings towards a level where they can support themselves and 
+their families. Precarious employment conditions are rife, with temporary 
+contracts, agency work and sub-contracting the norm. Violations of the 
+right to freedom of association are commonplace, unionization rates are 
+extremely low and collective bargaining is rare.55
+25. A 2016 report into Corporate Leadership on Modern Slavery found that of 71 leading 
+retailers in the UK, 77% believed there was a likelihood of modern slavery occurring at 
+some stage in their supply chains.56 The majority of global garment workers and artisans 
+are women and girls, ‘the bulk of which make far less than a living wage, persistently face 
+48 Sandy Black (editor) Sustainable Fashion Handbook (2013)
+49 Sarah O’Connor, Financial Times, Dark factories: labour exploitation in Britain’s garment industry (17 May 2018)
+50 Edwina Ehrman (ed), Fashioned from Nature (2018)
+51 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+52 Q3
+53 Sandy Black (editor) Sustainable Fashion Handbook (2013)
+54 IndustriALL
+55 IndustriALL(SFI0073)
+56 Hult Research and Ethical Trading Initiative (2016), Corporate Leadership on Modern Slavery, p. 8.
+Fixing fashion: clothing consumption and sustainability 13
+poor working conditions and live in poverty.’57 Most work long hours up to six or seven 
+days a week with reports of being burnt out and physically unable to continue beyond 
+their 30s.58 We were told that women and girls face the brunt of the exploitation in the 
+fashion industry, often at the bottom of the value chain working in the fields or factories. 
+It is notable that the majority of fashion CEOs are men.59 All of the Chief Executives of the 
+top ten UK fashion retailers (by market share) are men. Sarah Ditty, who was then policy 
+director of Fashion Revolution, argued that the ‘fashion industry and all the problems that 
+persist across the value chain is a huge feminist issue.’60
+Key facts & figures on the social cost of our clothes
+Most of the garments sold in the UK are produced in Asian countries.61
+Over 90% of workers in the global garment industry have no possibility to negotiate 
+their wages and conditions, according to the global trade union IndustriALL.62
+Leicester has the second highest concentration of textile manufacturers in the country 
+with 700 factories employing 10,000 textile workers.63
+Written evidence from HMRC shows that UK-based garment factory owners have 
+been forced to pay out almost £90,000 to employees for non-payment of minimum 
+wage.64
+26. Poor working conditions in fashion supply chains hit the headlines on 24 April 
+2013 when the Rana Plaza building in Bangladesh collapsed. The building housed five 
+garment factories where 1,138 people died and another 2,500 were injured, making it one 
+the largest industrial disasters in history. The victims were mostly young women. The 
+Fashion Revolution campaign was founded by Carry Somers and Orsola de Castro in 
+response. Fashion Revolution argue that the Rana Plaza disaster was the ‘direct result 
+of the opaque, complex and speedy way in which the industry functions today’.65 The 
+Bangladesh Accord on Fire and Building Safety was set up in the aftermath of the Rana 
+Plaza disaster to improve factory standards through building inspections by structural 
+engineers and safety training. Five years since, the vast majority of factories are behind 
+schedule implementing the Accord, a cause for concern as workers continue to be put at 
+risk.66 Bangladesh saw widespread protests by garment workers over low wages in early 
+January 2019.67
+27. The sustainability consultancy Eco Age argued that unrealistic pricing throughout 
+the supply chain is a major issue ‘from fabric buyers needing to prioritise cost targets 
+over sustainability, to manufacturers being left without profit margins.’68 It says retailers 
+impose ‘unrealistic requirements on suppliers that compete to offer the lowest prices and 
+57 Fashion Revolution (SFI0056)
+58 Apparel Insider, Why garment worker burnout is bad for business
+59 Mic, Here’s how many female CEOs actually run the biggest clothing companies (October 2015)
+60 Q41
+61 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+62 IndustriALL (SFI0073)
+63 Letter from the Mayor of Leicester Sir Peter Soulsby to the Chair (21 Dec 2018)
+64 Environmental Audit Committee, HMRC figures reveal exploitation in UK fashion industry (January 2019)
+65 Fashion Revolution (SFI0056)
+66 Accord on Fire and Building Safety in Bangladesh, Quarterly Aggregate Report (October 2018), p. 9.
+67 Al Jazeera, Almost 5,000 Bangladeshi garment workers sacked over strikes (January 2019)
+68 ECO AGE LTD (SFI0075)
+14 Fixing fashion: clothing consumption and sustainability
+shortest lead times, often resulting in corner cutting, impacting both worker welfare and 
+the environment.’69 Apparel supply chain consultant Olivia Windham Stewart said that 
+she feared the voice of suppliers was not being heard in the debate. She said:
+While wages low and working conditions can be poor, many apparel 
+companies continue to report profits in the millions or billions of dollars; 
+they continue to deliver returns to shareholders; their owners continue to 
+appear at the top of rich lists from Spain, to Sweden to Japan. Meanwhile, 
+what do suppliers experience? In the five years since the Rana Plaza incident, 
+the price paid by lead firms to supplier factories in Bangladesh has declined 
+by 13%, with a resulting 13.3% decrease in profit margins from 2011 to 2016 
+. This in a context where brands are asking more of suppliers in terms of 
+compliance and remediation–i.e. higher costs. A number of Bangladeshi 
+suppliers told me directly, and off the record, that UK brands were not 
+prepared to adjust their prices in response to exchange rate fluctuations 
+after the Brexit vote. This means suppliers were being asked to produce the 
+same quantity and quality of work at a significantly reduced price.70
+28. This pressure on suppliers to offer unrealistically low prices was also recognised by 
+manufacturers. UK factory owner and chairman of the Textile Manufacturer Association 
+of Leicestershire, Saeed Khliji, has been quoted as saying:
+None of the retailers are giving us an ethical price. An extra £2 or £2.50 on 
+a garment would sort everything out. Instead they squeeze us for pennies. If 
+they don’t sell everything, they send it back and charge us for the carriage. 
+If we are an hour or 30 minutes late with delivery they fine us £500. I have 
+been told of one retailer who is making £2 million a year from fines.71
+Union representation Vs Corporate Social Responsibility
+29. Garment workers’ access to trade union representation is low according to 
+IndustriALL.72 In many garment producing countries, collective bargaining structures 
+are weak or absent: over 90% of workers in the global garment industry have no possibility 
+to negotiate their wages and conditions and so are not able to claim a fair share of the 
+value that they generate.73 IndustriALL argues that collective bargaining at industry level 
+is ‘the missing mechanism’ which would enable significant progress to be made towards 
+living wages for garment workers.74 It argues that Corporate Social Responsibility (CSR) 
+programmes have failed to address the problems of poor working conditions and low pay 
+in the garment industry. It says that CSR programs rely largely on auditing and compliance 
+to attempt to improve conditions in the factories that produce for them:
+These unilateral, voluntary and nonbinding efforts have overwhelmingly 
+failed to improve wages and working hours or to ensure respect for workers’ 
+right to join a union. Not only have they proved to be ineffective, but, in 
+giving reassurance that something is being done, have become obstacles 
+69 ECO AGE LTD (SFI0075)
+70 Olivia Windham Stewart (SFI0092)
+71 Sunday Mirror (2018), Brit sweatshop workers earning as little as £3 an hour making copycat celeb outfits.
+72 IndustriALL (SFI0073)
+73 IndustriALL (SFI0073)
+74 IndustriALL (SFI0073)
+Fixing fashion: clothing consumption and sustainability 15
+to finding genuine solutions to the root causes of low pay and excessive 
+working hours. Where freedom of association is respected, and workers 
+are allowed to organize unions and bargain collectively, workers are able 
+to defend themselves from exploitation and obtain decent incomes and 
+working conditions. Where these rights are denied, the CSR model is 
+unable to fill the gap.75
+Cheap clothing
+30. We asked fast fashion retailers how they could pay workers decent wages while 
+charging such low prices. Paul Lister of Primark said that its business model enabled it to 
+sell T-shirts for £2 and still make a profit:
+That is a question that is often put to us. I think it is because our business 
+model is slightly different from perhaps others. We do no advertising. You 
+will have seen no billboards, no television advertising. Primark has never 
+done any significant advertising at all. That can save us, in any year, £100 
+million to £150 million compared to some of our larger rivals. That goes 
+straight into price, so that keeps our pricing low.
+With our arrangements with our factory, we often buy on longer lead times, 
+in quiet periods for the factories, and then we pay the factories early. If 
+you are a factory owner, you will be able to give Primark a better price to 
+reflect that. Then from the factory through to the store, we keep our costs 
+to the absolute minimum and in the store our margins are very tight. Our 
+published margins are between 9% and 12%. It is our business model that 
+takes us to the £2 T-shirts.76
+Reshoring production
+31. After significant decline in recent decades, the UK garment manufacturing industry 
+has experienced renewed growth recently as retailers have commenced or increased 
+sourcing from UK suppliers. In some cases, this is for ethical reasons, such as Huit Denim 
+setting up in Cardigan or Phoebe English producing her clothes where she can oversee 
+production in the UK (both of whom gave evidence at our hearing at the V&A museum). 
+In other cases, clothing production has been ‘reshored’ to small garment factories in the 
+UK because of their ability to rapidly supply ‘fast fashion’ retailers like ASOS, Boohoo and 
+Missguided. This presents opportunities for regional economies as it can offer local garment 
+manufacturers entry points into global value chains as well as employment opportunities 
+for communities. However, we also heard concerns about working conditions and illegally 
+low pay in the garment manufacturing hub of Leicester.
+75 IndustriALL (SFI0073)
+76 Q152
+16 Fixing fashion: clothing consumption and sustainability
+Labour exploitation in UK garment factories
+32. Leicester has the second highest concentration of textile manufacturers in the country 
+with 700 factories employing 10,000 textile workers.77 These workers produce around one 
+million items of clothing per week for online retailers.78 Unite the Union said that while 
+the majority of the factories are compliant, there are a small number of factories which 
+break the law to maximise profits. As low-end supply chains, garments have become 
+marked by intense cost competition and unstable orders.79
+33. A study by the University of Leicester in 2015, commissioned by the Ethical 
+Trading Initiative, examined concerns relating to both registered factories and smaller 
+unregulated production units in Leicester. The study concluded the majority of the city’s 
+garment workers were paid below the National Minimum Wage, do not have employment 
+contracts, and are subject to intense and arbitrary work practices.80 Workers’ rights issues 
+included excessive working hours, night shift subcontracting and poor health and safety 
+conditions in the workplace. We received anonymous evidence from a former employee 
+at an online retailer who visited a factory in Leicester where the fire door was padlocked 
+shut.81 Leicester has also been identified as a hotspot for human trafficking by the Stop the 
+Traffick coalition’s Centre for Intelligence-Led Prevention (CfILP). Stop the Traffick found 
+abuse in the garment industry among other sectors.82
+National Minimum Wage
+34. The National Minimum Wage (NMW) was introduced in 1999 and is currently £7.83 
+for workers over 25. In April 2019 this will increase to £8.21. HMRC enforces the NMW in 
+line with the law and policy set out by the Department for Business, Energy and Industrial 
+Strategy (BEIS). In 2018, journalist Sarah O’Connor carried out an investigation for the 
+FT newspaper which revealed how small garment factories in Leicester supplying British 
+online retailers were not paying the minimum wage. At our first hearing she told us:
+The going rate for a garment worker in lots of places in Leicester is £3.50, 
+£4 an hour. I was told that £5 was like a really top rate. You would walk 
+out of a factory with your head held high if you were on £5 an hour. That 
+shows that you are skilled. You have a lot of experience. […] The strangest 
+thing about all of this is that it is a totally open secret. Central government 
+knows about it; local government knows about it. All of the retailers know 
+about it.’ […] ‘Enforcing the minimum wage is HMRC’s responsibility. I 
+have some figures. HMRC in the five years to 2016–17 identified 232,000 
+people who had been underpaid the minimum wage. Of those, only 83 were 
+textile workers so, even though this is endemic in the textile sector, they are 
+not looking there.83
+77 Letter from the Mayor of Leicester Sir Peter Soulsby to the Chair (21 Dec 2018)
+78 Unite (SFI0084)
+79 Unite the Union (SFI0084)
+80 University of Leicester, New Industry on a Skewed Playing Field: Supply Chain Relations and Working Conditions 
+in UK Garment Manufacturing (2015)
+81 Communication received by a committee member from a whistle-blower, December 2018
+82 Director of Labour Market Enforcement, United Kingdom Labour Market Enforcement Strategy 2018/19 (May 
+2018)
+83 Q47-Q48
+Fixing fashion: clothing consumption and sustainability 17
+35. We heard that the buying practices of some online fashion retailers may be putting 
+UK clothing manufacturers in the position where they can only afford to pay garment 
+workers illegally low wages. Sarah O’Connor described how ‘buyers’ for the retailer play 
+suppliers off against each other to drive down costs:
+Boohoo holds weekly meetings at its Manchester head office, where suppliers 
+bring samples to the product teams in a single room with 10 to 12 large 
+tables. ‘It’s like a cattle market,’ says one person from a supplier who did not 
+want to be named. ‘Say I’m the buyer, and [you’ve] just given me the price 
+of this [dress] for £5. I will literally hold it up to the next table and say, ‘How 
+much for that?’ and he’ll tell you £4. It’s ruthless.’84
+36. We wrote to the Chief Executives of Amazon, Boohoo, Missguided, and ASOS 
+following Sarah O’Connor’s testimony at our first hearing in October. We also invited 
+Chief Executives from ASOS, Boohoo and Misguided to parliament to discuss the 
+situation in Leicester and concerns about the low quality of some ‘fast fashion’ garments 
+and the excessive waste that this business model is generating. Responding to allegations 
+raised at our first hearing, Boohoo Group’s co-founder and joint Chief Executive Carol 
+Kane admitted that negotiations were carried out in front of other suppliers, but denied 
+that manufacturers were played off against each other. She told us:
+The comments made on the cattle market in Manchester, we have a 
+building that is currently going through renovation in the last two years. 
+We have private meeting rooms upstairs as well, so suppliers who are not 
+comfortable in a negotiation process next to other suppliers we do house in 
+other parts of the building. That space is currently our trading floor. I do 
+not know of any instances and I do not accept there are any instances where 
+suppliers are played off against each other. I used to be very much a part of 
+that supply chain for many years before I became a founder of Boohoo.com, 
+so I do understand the sensitivity of costing from one supplier to another. 
+I took that allegation on board. I have asked if that does happen. I have sat 
+in meetings and I have not witnessed that ever happening on our buying 
+floor.85
+37. Boohoo denied that its buying practices and discount prices were to blame for 
+illegally low wages in Leicester garment factories. The online retailer said that it lawfully 
+produces affordable garments. It says that its £5 dresses are merely a ‘marketing tool to 
+attract customers to visit our website and these loss leading garments make up only 80 out 
+of over 6,700 dress styles on the Boohoo website.’86 It said that ‘the suppliers receive the 
+full cost of making these garments and we take the loss of any margin in relation to these 
+promotions,’87 that it does not allow its buyers ‘to order garments from suppliers at any 
+price’; and that it gives them training on the costing of a garment.88
+84 Sarah O’Connor, Financial Times, Dark factories: labour exploitation in Britain’s garment industry (17 May 2018)
+85 Q289
+86 Boohoo response (SFI0082)
+87 Boohoo response (SFI0082)
+88 Boohoo response (SFI0082)
+18 Fixing fashion: clothing consumption and sustainability
+38. Missguided said that since signing up to the Ethical Trading Initiative (ETI) it had 
+‘consolidated’ the number of factories producing its goods in Leicester from 80 to 11.89 The 
+budget retailer’s Head of Product Quality & Supply, Paul Smith, said that two members of 
+the Missguided team had been threatened and physically assaulted by factory owners in 
+Leicester in the past 18 months. We asked why they had been assaulted:
+Because they did not want us to enter their premises. These I must add were 
+people that we were not currently manufacturing with but were scoping out, 
+and they did not like the questions that we were asking. On one occasion 
+a former director of Missguided was chased out of the building and one of 
+my employees was gripped by the throat and pushed out the door.90
+39. When asked what he thought they were hiding, he said:
+Underpayments of workers is usual.91
+The Ethical Trading Initiative (ETI) is an alliance of companies, trade unions and 
+NGOs that promotes respect for workers’ rights around the globe.92 All corporate 
+members of ETI agree to adopt the ETI Base Code of labour practice, which is based 
+on the standards of the International Labour Organisation (ILO). ETI works out 
+the most effective steps companies can take to implement the Base Code in their 
+supply chains.93 ETI’s website says that member companies report annually on their 
+efforts and the results they are achieving at factory level. ETI says that it expects 
+companies to improve their ethical trade performance over time, and that it has ‘a 
+robust disciplinary procedure for companies that fail to make sufficient progress 
+or to honour their membership obligations.’94 ETI has established a collaborative 
+company-led programme to improve legal and ethical labour standards in suppliers’ 
+factories called Fast Forward, which combines auditing techniques and a worker 
+helpline.95
+40. Missguided said it recognised the importance of the issues raised by our inquiry 
+and told us it had ‘made the commitment to join, and be an active member, of the Ethical 
+Trading Initiative (ETI) in 2017’.96 It said it was disappointed that many of its ‘direct 
+competitors’ had not signed up ‘because we know some of the challenges you outline need 
+co-ordinated action from all retailers to be impactful.’97 Carol Kane said that Boohoo 
+Group was still considering joining the ETI, but:
+… we have been struggling to see where the benefits would be to some of 
+our suppliers. We are not closed to the idea. We are still considering it at 
+the moment. There are a few areas where I would say within Leicester for 
+sure we probably use the most factories and we probably use the most CMT 
+89 Missguided (SFI0076)
+90 Q313
+91 Q314
+92 Ethical Trading Initiative
+93 Ethical Trading Initiative
+94 Ethical Trading Initiative
+95 Anti-Slavery and Ethical Trading Initiative, Base Code Guidance: Modern Slavery
+96 Missguided (SFI0076)
+97 Missguided (SFI0076)
+Fixing fashion: clothing consumption and sustainability 19
+[cut, make and trim] units, all of which we have in the last couple of years 
+successfully managed to get through our audit process without being a 
+member of the ETI.98
+41. When we pressed Carol Kane on why Boohoo Group would not sign up to the ETI, 
+Ms Kane replied:
+… we are using all of the same standards. We are not doing anything 
+differently from the ETI. All our audits and all our standards are based 
+upon their code and their conduct, so we are utilising all of that. The only 
+difference today is one of a commercial decision. Being members we will be 
+required to publish our whole supply chain, which is currently our engine 
+room.99
+42. The ETI wrote to us following the hearing to contest Boohoo’s evidence. ETI said 
+that Carol Kane’s claim that ‘we are not doing anything differently from the ETI’ appears 
+to be ‘based on a limited understanding of what ETI does and what we expect from our 
+members.’100 ETI said that adoption of its labour standards (the ETI Basecode) is just 
+one of the basic requirements for company membership. ‘We also expect our members to 
+show active engagement around the core principles of ethical trade and to demonstrate 
+continuous improvement in their supply chain practices.’101 ETI said it expects its members 
+‘to take a proactive approach to identifying and resolving issues, and to demonstrate 
+clear improvement over time. As well as adopting the Base Code, they sign up to a set of 
+principles outlining our approach to ethical trade. These require companies to:
+• Demonstrate a clear commitment to ethical trade;
+• Integrate ethical trade into their core business practices;
+• Drive year-on-year improvements in working conditions;
+• Support suppliers to improve working conditions e.g. through advice and 
+training;
+• Provide remedy if they have caused or contributed to a breach in workers’ rights;
+• Report openly and accurately about their activities.102
+43. We also asked Ms Kane whether Boohoo recognised trade unions. She told us that 
+Boohoo would recognise a union ‘if the workers would like it’ but that ‘there does not 
+currently appear to be a demand for our workers in our Burnley warehouse to require 
+a union.’103 Following the evidence session this was contradicted by written evidence 
+from the union of Shop, Distributive and Allied Workers (Usdaw), contesting Boohoo’s 
+statements. This included evidence of 23 recruitment and awareness activities, dating back 
+to January 2017, for Boohoo’s Burnley staff and written communications from Usdaw to 
+Carol Kane and Boohoo’s HR Director asking to secure union recognition for Boohoo 
+workers:
+98 Q328
+99 Q330
+100 Ethical Trading Initiative (SFI0089)
+101 Ethical Trading Initiative (SFI0089)
+102 Ethical Trading Initiative (SFI0089)
+103 Qq336–339
+20 Fixing fashion: clothing consumption and sustainability
+Overall, it is clear that despite Carol Kane’s assertion to the committee that 
+Boohoo is open to recognising a trade union to represent their workers, 
+the company has, over a prolonged period of time refused even the most 
+basic level of engagement with Usdaw and appears hostile to the very idea 
+of recognising a trade union.104
+44. Unite the Union provided further evidence to us on the situation in Leicester.105 It said 
+‘it is not enough to simply blame unethical factory owners. Retailers purchasing practices 
+create a race to the bottom culture in the industry through their demand for cheap prices, 
+rapid deliveries and a punitive financial culture which imposes huge fines on producers 
+[for late production].’106 This creates an environment for precarious employment shifting 
+the trend from permanent workers to temporary workers through the ‘availability’ of a 
+transient, disposable mainly migrant workforce.107 Unite says that:
+Whenever competition has pushed down garment prices, labour costs 
+have always been the first to be put under pressure. The very nature of the 
+garment industry requires higher labour productivity due to the limitations 
+to technology-led productivity in an industry which requires manual 
+labour. Accordingly, manufacturer’s wages are the highest single cost, thus 
+in ‘high-wage countries’ clothing producers continually attempt to drive 
+down wages for profit.108
+Labour Market Enforcement
+45. The British Retail Consortium argued that there should be more proactive labour 
+law enforcement from Government agencies in the UK garment manufacturing sector 
+in order to give retailers the confidence to source more products from UK factories. It 
+suggested that licensing could be used to tackle poor working conditions in UK factories.109
+46. In May 2018, the Director of Labour Market Enforcement, Sir David Metcalf, published 
+his office’s first annual strategy on labour market enforcement calling for a shift to more 
+proactive enforcement methods.110 The report recommended a ‘significant increase’ in 
+fines for non-compliance and greater use of prosecution. He argued that the current level 
+of fines for non-payment of the minimum wage do not provide a strong enough incentive 
+to comply - especially given the low probability of inspection and detection. For example, 
+the report noted that HMRC’s National Minimum Wage team completed nearly 2,700 
+investigations in 2016/17. It said that with 1.3 million employers in the UK this suggests 
+that the average employer can expect an inspection around once every 500 years. The 
+report points out that for non-compliance with NMW employers only face a penalty of up 
+to 200 per cent of the wage arrears–in addition to repayment of the arrears. In 2016/17, the 
+average wage arrears were £110 per worker, implying a fine of only £220. Written evidence 
+we received from HMRC shows that UK-based garment factory owners have been forced 
+104 USDAW (SFI0096)
+105 Unite the Union (SFI0084)
+106 Unite (SFI0084)
+107 Unite (SFI0084)
+108 Unite (SFI0084)
+109 British Retail Consortium (SFI0019)
+110 Director of Labour Market Enforcement, United Kingdom Labour Market Enforcement Strategy 2018/19 (May 
+2018)
+Fixing fashion: clothing consumption and sustainability 21
+to pay out almost £90,000 to employees for non-payment of minimum wage. Since 2012 
+an average of £900 has been paid out to 126 factory workers, far exceeding the national 
+average.111
+47. Sir David Metcalf suggested that there may be a case for using fines linked to 
+turnover. His report argued that there has been insufficient use of prosecutions with only 
+14 minimum wage prosecutions since 1999.112 He also noted that more can be done to 
+ensure compliance with labour rights throughout supply chains. He recommended that 
+joint responsibility measures, where retailers take on a share of responsibility for any 
+non-compliance with labour rights in their supply chains, should be introduced. This 
+would allow for enforcement agencies to work with major retailers if non-compliance 
+was identified in their supply chain, harnessing the leverage of retailers to ensure labour 
+rights are upheld.113 In December 2018 the Government published its response to Sir 
+David’s report. It accepted his recommendation that state enforcement should shift to 
+more proactive enforcement methods, but it rejected his call for increased penalties for 
+non-compliance.114 The Government said that:
+… where non-compliance is identified in a supply chain, the Government 
+envisages an approach whereby the enforcement body could privately 
+notify both the supplier and the head of the chain. This could enable the 
+head of the chain to work with the supplier to take corrective action. The 
+Government will consult on this and how to address non-compliance in 
+supply chains, working with business, trade unions and the enforcement 
+bodies before responding to this recommendation.115
+48. At our hearing with Ministers, it was revealed that a ‘week of action’ had taken place in 
+September 2018 where the Gangmasters and Labour Abuse Authority (GLAA), alongside 
+Leicester Police, HMRC and the Health and Safety Executive, visited 28 textile factories 
+in Leicester. Kelly Tolhurst, Parliamentary Under Secretary of State at the Department for 
+Business, Energy and Industrial Strategy, refused to give the details of the enforcement 
+action that had been taken. However, Janet Alexander from HMRC confirmed that 14 
+premises are under further investigation and that it is taking forward some national 
+minimum wage cases. Two cases have been referred to the GLAA.116
+Enforcing labour market law in UK garment factories
+49. We were shocked by the treatment of Missguided’s auditors. If this is how factory 
+owners treat potential customers, we dread to think of the conditions endured by their 
+workers.
+50. ‘Made in the UK’ should mean workers are paid at least the minimum wage in a 
+safe workspace. It is unacceptable that some workers in the UK making clothes for fast 
+111 Letter from HM Revenue & Customs to the Chair (14 January 2019)
+112 Director of Labour Market Enforcement, United Kingdom Labour Market Enforcement Strategy 2018/19 (May 
+2018)
+113 Director of Labour Market Enforcement, United Kingdom Labour Market Enforcement Strategy 2018/19 (May 
+2018)
+114 BEIS & Home Office, United Kingdom Labour Market Enforcement Strategy 2018/19: Government response
+(December 2018)
+115 BEIS & Home Office, United Kingdom Labour Market Enforcement Strategy 2018/19: Government response
+(December 2018)
+116 Q470–478
+22 Fixing fashion: clothing consumption and sustainability
+fashion retailers are not paid the minimum wage and are suffering serious breaches of 
+health and safety law in their workplaces. We support calls from the Director of Labour 
+Market Enforcement for a more proactive approach to the enforcement of the national 
+minimum wage. HMRC’s National Minimum Wage team needs greater resourcing 
+in order to increase their inspection and detection work. We also recommend that 
+Boohoo engage with Usdaw as a priority and recognise unions for its workers. We 
+recommend that textile retailers operating internationally follow the example of Asos, 
+H&M, Esprit and Inditex in signing up to Global Framework Agreements. These put 
+in place the highest standards of trade union rights, health, safety and environmental 
+practices, across the retailers’ global operations, regardless of local country standards.
+Forced labour in fashion supply chains
+51. We heard disturbing evidence that forced labour is still present in fashion supply 
+chains. In a practice dating from Soviet times, the repressive governments of Uzbekistan 
+and Turkmenistan continue to force their own citizens to pick cotton under harsh 
+conditions each harvest season.117 Both Turkmenistan and Uzbekistan are in the top ten 
+cotton producers in the world.118 There are reports that prison labour in China has been 
+used to produce garments for well-known Western brands.119
+52. Anti-Slavery International campaigner Kate Elsayed-Ali also highlighted the 
+Sumangali system practiced in India to illustrate the often ‘gendered’ nature of forced and 
+child labour in fashion supply chains:
+What I see globally is that women and girls really do comprise the majority 
+of people in forced labour and slavery situations. There are particular 
+vulnerabilities. There are also gendered forms of forced labour and child 
+labour. If I take the example of India, a massive cotton yarn producer after 
+China, there is a very specific form of forced labour within the cotton 
+mills that only affects women and girls. It is called the sumangali system. 
+It is pretty widespread in Tamil Nadu where most of those spinning mills 
+operate. Girls are bonded to a particular mill for a period of up to three 
+years. Their parents take an advance payment. The intention behind that 
+is that at the end of the three-year period that would be used to arrange 
+their marriage, essentially, but the girls go to the mills with an agent, will 
+have signed contracts that they don’t have a copy of and, in most cases, they 
+will not have been able to read. We are talking about quite young, 13 to 18 
+year-olds working 12-hour days. They will be living in camps associated 
+with that mill. They will not be able to go home and visit their parents, in 
+the hope that at the end of those three years they will have this advance 
+payment. It very much is bonded child labour.120
+117 Anti-Slavery, Cotton Crimes: Uzbekistan and Turkmenistan
+118 The Daily Records, Top 10 Largest Cotton Producing Countries In The World (January 2019)
+119 Financial Times, ‘I was locked inside a steel cage’: Peter Humphrey on his life inside a Chinese prison (Feb 2018)
+120 Q45
+Fixing fashion: clothing consumption and sustainability 23
+53. In written evidence Burberry said that it refuses to source from countries if it considers 
+labour and environmental rights to fall below Burberry’s standards, particularly if there 
+are concerns around modern slavery. These countries include: Bangladesh, Pakistan, 
+Cambodia and Myanmar. Burberry stated that the list is reviewed in collaboration with 
+its supply chain team.121
+Transparency
+54. Most brands source materials and products from long, disjointed supply chains in 
+the global south. The fashion industry depends on unequal power relationships and the 
+‘invisibilisation’ of mostly female manual workers. We do not see the faces of the people 
+who make our clothes.122 According to lecturer in Sustainability, Retail & Fashion at the 
+University of Leeds, Dr Mark Sumner, ‘these brands and suppliers have little awareness of 
+or understanding of each other.’123 This has led to concerns that retailers can simply pass 
+the responsibility for labour exploitation down the supply chain, with no accountability.124
+Eco Age described this low cost, high volume, zero consequence production method. They 
+said that:
+Because the major brands do not employ the workers directly, or own the 
+factories they produce in, they are able to profit hugely, all while remaining 
+free of responsibility for the effects of poverty wages, factory disasters, and 
+the ongoing violent treatment of workers.125
+55. Dr Sumner argued that legislation requiring greater transparency would have a major 
+impact in driving positive change. He says:
+A very simple requirement for brands to declare the source of raw material 
+used in their garments would lead to a paradigm shift in attitudes. This 
+type approach would be ground breaking for the industry, setting an 
+aspirational, but achievable standard that would be the envy of the rest of 
+the developed world.126
+Modern Slavery Act
+56. In 2014 the Home Office introduced the Modern Slavery Strategy to tackle slavery, 
+servitude, forced labour and human trafficking, and in 2015 Parliament passed the 
+Modern Slavery Act. The Transparency in Supply Chains clause in the Act requires 
+companies with a turnover of more than £36 million to produce a statement on slavery 
+and human trafficking each year setting out the steps the organisation has taken to ensure 
+that modern slavery is not taking place in their business or supply chain, including if the 
+organisation has taken no steps.127
+121 Burberry (SFI0083)
+122 Q86
+123 Dr Mark Sumner, University of Leeds (SFI0026)
+124 London Textile Forum (SFI0044); Fashion Revolution (SFI0056); ECO AGE LTD (SFI0075)
+125 ECO AGE LTD (SFI0075)
+126 Dr Mark Sumner, University of Leeds (SFI0026)
+127 Public Accounts Committee, Reducing modern slavery (May 2018)
+24 Fixing fashion: clothing consumption and sustainability
+57. The Government says that the Act has increased transparency in supply chains. 
+However, concerns have been raised by the Public Accounts Committee (PAC) that the 
+Government does not monitor whether statements made under the Modern Slavery Act 
+comply with the legislation and has never used its powers to penalise companies that do not 
+comply.128 PAC reported that as of October 2017, the Modern Slavery Registry (produced 
+by the Business and Human Rights Resource Centre) held around 3,000 statements out 
+of an estimated 9,000–11,000 businesses that the Department estimates the legislation 
+applies to.
+58. The Home Office Minister Victoria Atkins MP was unable to tell us how many of the 
+UK’s major fashion retailers have already completed modern slavery statements:
+In terms of companies that have reported: we know that around 60% of 
+businesses that we believe to be within scope have put up statements; 60% 
+of companies in total. I do not have the breakdown for fashion companies 
+because one of the difficulties, and not just in this exercise—it applies to 
+the exercise that required companies to issue their gender pay gap—is that 
+people assume that there is some giant Government database of companies 
+that fall within these scopes and there isn’t. There has been a great deal of 
+work in the modern slavery sphere, but also in the gender pay gap sphere, 
+to try to find the companies that are in scope for this legislation and from 
+there make it clear that they should comply.
+We were concerned that only 60%—although it is more than half; frankly, it 
+should be 100%—have complied with their requirements under section 54. 
+Last month my Department wrote to around 17,000 businesses to ask them, 
+first, to confirm that they are in scope under section 54 and secondly, if 
+they have not already put up statements that they should do so by 31 March 
+next year, and then also inviting them to sign up to a database whereby we 
+can share information and guidance as to good practice. I am pleased to 
+say, around 2,500 businesses that we have written to have signed up to that 
+database.129
+The Companies Act 2006 requires that a statement be made on human rights issues in a 
+company’s Annual Report only ‘where necessary for an understanding of the development, 
+performance or position of the company’s business.’130 The Companies Act 2006 does not 
+mention supply chains or modern slavery. This means it is the choice of the business what 
+policies are relevant and what detail necessary when reporting on human rights issues 
+within its operations. This system lacks accountability and places too much reliance on 
+companies to self-disclose.
+59. Ongoing research at Leeds University by Dr Mark Sumner has identified 24 leading 
+retailers, including Foot Locker and Valentino, who are non-compliant with the Modern 
+Slavery Act by not making available their modern slavery statements as of December 2018 
+(see Appendix 1). Such wide non-compliance with the de minimis reporting requirements 
+shows that many household names have failed utterly to engage with this legislation.
+128 Public Accounts Committee, Reducing modern slavery (May 2018)
+129 Q466
+130 Home Office (2017), p.25.
+Fixing fashion: clothing consumption and sustainability 25
+Due diligence law
+60. We heard a number of calls for the Modern Slavery Act to be strengthened to introduce 
+mandatory due diligence for companies.131 Anti-Slavery International campaigner Kate 
+Elsayed-Ali told us that the Modern Slavery Act was an ‘important step forwards’ but that 
+it had limitations that needed to be addressed. She said that:
+Businesses are required to publish a statement saying what they are doing 
+to address slavery in their supply chains, but technically a business could 
+publish a slavery statement saying, “We are not doing anything” and they 
+would still be compliant with the transparency in supply chains clause of 
+that Act. I think we need to look beyond compliance. What my organisation 
+is calling for is mandatory supply chains transparency but also mandatory 
+due diligence. That is businesses looking proactively at the entirety of their 
+supply chains to establish what are their forced labour risks, what are their 
+child labour risks, how can we address those?132
+61. In the absence of supply chain traceability standards, concerns have been raised 
+by Fashion Revolution and the London Textile Forum that brands can simply pass the 
+responsibility down the supply chain, with no accountability.133 A Behind the Barcode 
+report in 2015 found that of 219 retailers surveyed, 91% did not have full knowledge of 
+where their cotton comes from, 75% did not know the source of all their fabrics, and 
+only half could trace where their products are cut and sewn.134 Fashion Revolution also 
+called for the Government to pass mandatory ‘due diligence’ laws, and pointed to recent 
+regulatory examples in France and Switzerland. It said that introducing such a law would 
+require companies to identify, prevent, mitigate and account for how they address their 
+actual and potential adverse social and environmental impacts.135 Fashion Revolution 
+recommended that the Modern Slavery Act be strengthened with further transparency 
+requirements:
+• Extending the legislation to cover public procurement;
+• Establishing, maintaining and monitoring an easily searchable public database 
+of companies that are required to comply, including a copy of their annual MSA 
+statements;
+• Require common, robust and comparable standards for reporting transparency 
+information;
+• Establish and enforce penalties for companies that do not comply.136
+131 Anti-Slavery International (SFI0071); Fashion Revolution (SFI0056); Labour Behind the Label (SFI0067)
+132 Q43
+133 London Textile Forum (SFI0044)
+134 Baptist World Aid Australia (2015), The Truth Behind the Barcode: Australian Fashion Report 2015.
+135 Fashion Revolution (SFI0056)
+136 Fashion Revolution (SFI0056)
+26 Fixing fashion: clothing consumption and sustainability
+The French Corporate Duty of Vigilance Law passed in 2017 requires all French 
+companies that have more than 5,000 employees domestically, or employ 10,000 
+employees or more worldwide, to implement an effective ‘vigilance’ plan to address 
+environmental, health and safety and human rights both in their own operations 
+and at their suppliers and sub-contractors.137 This is stronger than the UK’s Modern 
+Slavery Act and California’s Transparency in Supply Chains Act, which only require 
+firms to report on any efforts they have taken to identify human rights’ risks.138
+62. In August the Government announced a review of the operation and effectiveness 
+the Modern Slavery Act 2015 to identify potential improvements. The review will consider 
+how to ensure compliance and drive up the quality of statements produced by eligible 
+companies.139 The review aims to report to the Home Secretary before the end of March 
+2019.
+63. There must be more transparency in supply chains and there is a strong case for 
+the Modern Slavery Act to be strengthened. The current requirement to produce a 
+statement does not ensure that action is taken by big retailers and even this is not 
+adequately monitored. The Government should publish a publicly accessible list of all 
+those retailers required to release a modern slavery statement. This should be supported 
+by an appropriate penalty for those companies who fail to report and comply with the 
+Modern Slavery Act. This will increase transparency and require the establishment of 
+formal monitoring of whether statements comply with legislation.
+64. The Companies Act 2006 requires that a statement be made on human rights issues 
+in a company’s Annual Report only ‘where necessary’. This system lacks accountability 
+and places too much reliance on companies to self-disclose. We recommend that the 
+Companies Act 2006 be updated to include explicit reference to ‘modern slavery’ and 
+‘supply chains’. Statements on a business’ approach to human rights in its supply chain 
+should be mandatory as part of the Annual Report. The Financial Reporting Council’s 
+(FRC) Corporate Governance Code and UK Stewardship Code, and the Financial 
+Conduct Authority’s (FCA) listing rules should likewise be amended to require modern 
+slavery disclosures on a comply or explain basis by 2022. If this is not possible then a 
+Corporate Duty of Vigilance Law, as in France, should be considered. Fashion retailers 
+must not be allowed to turn a blind eye to labour and environmental abuses in their 
+supply chains. Retailers should be investing in technology that allows them - and their 
+customers - to track where their materials and products are sourced and made. We 
+recommend that the Government strengthen the Modern Slavery Act to require large 
+companies to perform due diligence checks across their supply chains to ensure their 
+materials and products are being produced without forced or child labour. We also 
+recommend that Government procurement should be covered by the Modern Slavery 
+Act.
+65. We recommend that the Government works with industry to trace the source of raw 
+material in garments to tackle social and environmental abuses in their supply chains. 
+Digital technology is widely used in other supply chains. We do not understand why a 
+modern high-tech industry like fashion does not have these systems already in place. 
+137 Fashion Revolution (SFI0056)
+138 Corporate Social Responsibility and the law, The French Duty of Vigilance Law: What You Need to Know (August 
+2017)
+139 Home Office, Review of the Modern Slavery Act 2015: terms of reference (August 2018)
+Fixing fashion: clothing consumption and sustainability 27
+Some companies told us they can trace their materials down to Tier 4 suppliers. This 
+begs the question - if one can do it, why can’t all? This first step is essential if fashion 
+is to tackle its waste, water, chemical and carbon footprint. This also reduces the 
+opportunities for sub-contractors to take their cut along the supply chain.
+28 Fixing fashion: clothing consumption and sustainability
+3 Fashion’s environmental price tag
+Environmental impact
+66. Everything we wear has an embedded environmental cost in terms of energy, water, 
+land and chemicals used. This depends on multiple factors. The fibres that are used 
+and whether they were grown or made, the production methods used, how they are 
+processed into yarn, transported, dyed, printed and made into clothes. We heard that 
+the environmental price tag for our clothes is largely determined during the design and 
+production phase:
+• Production of fibres by polymer extrusion or agriculture makes the largest 
+contribution to the carbon footprint of clothing;140
+• The greatest quantity of water is used during the growing and production of 
+fibres;141
+• Choice of synthetic fibre and design of garments can result in significant 
+differences in the emission of plastic microfibres to the environment;142
+• The best opportunity within the clothing lifecycle to increase longevity is at the 
+design stage, as changes to design practices can have a significant impact on how 
+long items remain wearable.143
+Key facts & figures on the carbon, water and land-use footprint of textiles
+A polyester shirt has more than double the carbon footprint of a cotton shirt (5.5 kg 
+CO2e vs. 2.1 kg CO2e).144
+One kilogram of cotton - equivalent to the weight of a shirt and pair of jeans - can 
+take as much as 10,000–20,000 litres of water to produce.145
+The fashion industry is projected to use 35% more land for fibre production by 2030—
+an extra 115 million hectares that could be left for biodiversity or used to grow crops 
+to feed an expanding population.146
+Energy and climate
+67. Textile production is a major contributor to climate change. It produces an estimated 
+1.2 billion tonnes of CO2 equivalent (CO2e) per year - more than international flights and 
+maritime shipping combined.147 It is estimated that across the full lifecycle of clothing 
+globally, the industry has an annual carbon footprint of 3.3 billion tonnes CO2e.148 That 
+figure is close to the combined carbon footprint of all 28 current members of the EU (3.5 
+140 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+141 WRAP (the Waste & Resources Action Programme) (SFI0050)
+142 Professor Richard Thompson (SFI0007)
+143 Clothing Sustainability Research Group, Nottingham Trent University (SFI0049)
+144 Kirchain, R., Olivetti, E., Reed Miller, T. & Greene, S. Sustainable Apparel Materials (Materials Systems 
+Laboratory, Massachusetts Institute of Technology, 2015).
+145 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+146 Global Fashion Agenda & Boston Consulting Group, Pulse of the Fashion Industry (2017)
+147 Ellen Macarthur Foundation, a New Textiles Economy: Redesigning Fashion’s Future (2017)
+148 School of Design, University of Leeds (SFI0026)
+Fixing fashion: clothing consumption and sustainability 29
+billion tonnes).149 The total carbon footprint of clothing in the UK is growing - rising from 
+24 million tonnes to 26.2 million tonnes per year in 2016, according to WRAP.150 If fashion 
+continues on its current path, it could use more than 26% of the global carbon budget 
+associated with a 2°C pathway by 2050, according to the Ellen MacArthur Foundation.151
+Water consumption
+68. Large quantities of water are also used. In 2016, WRAP estimated that the water 
+footprint of clothes used in the UK was 8 billion cubic metres.152 Globally, the fashion 
+industry consumes an estimated 79 billion cubic metres of fresh water annually. The 
+growing and production of fibres consumes the greatest quantity of water. Water is also 
+used when dyeing, finishing and washing clothes.153 Adding rips and tears to jeans by the 
+application of chemicals is harmful to workers and the environment.154 Textile production 
+is responsible for high volumes of water containing hazardous chemicals being discharged 
+into rivers and water courses.155 Twenty per cent of industrial water pollution globally is 
+attributable to the dyeing and treatment of textiles, according to the Ellen MacArthur 
+Foundation.156 Reliance on chemicals in the cotton production process is linked to high 
+rates of water use - with up to one fifth of water use related to diluting chemicals according 
+to the Soil Association.157
+69. Cotton is one of the thirstiest fibres in fashion. According to WRAP, cotton production 
+accounts for 69% of the water footprint of fibre production for textiles.158 One kilogram 
+of cotton - equivalent to the weight of a shirt and pair of jeans - can take as much as 
+10,000–20,000 litres to produce, depending on where in the world it is grown.159 The Aral 
+Sea, formerly one of the four largest lakes in the world, has almost entirely dried up, in 
+large part due to intensive industrial cotton farming in Central Asia.160 It is now called the 
+Aralkum Desert.161 This is an ecological, economic and social disaster.
+70. The water scarcity exacerbated by cotton production in arid regions has an impact 
+on local communities - especially in low income countries.162 Major cotton producing 
+countries such as China and India are already suffering from medium to high levels of 
+water stress in certain areas.163 The Pulse of Fashion report warns that as water scarcity 
+worsens in the future some cotton growing nations ‘may face the dilemma of choosing 
+between cotton production and securing clean drinking water’.164
+149 Global Carbon Atlas - CO2 Emissions
+150 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+151 Ellen Macarthur Foundation, a New Textiles Economy: Redesigning Fashion’s Future (2017)
+152 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+153 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+154 Heddels, The environmental benefits of raw denim (June 2014)
+155 Ellen Macarthur Foundation, a New Textiles Economy: Redesigning Fashion’s Future (2017)
+156 Ellen Macarthur Foundation, a New Textiles Economy: Redesigning Fashion’s Future (2017)
+157 Soil Association (SFI0011)
+158 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+159 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+160 Fashion Revolution (SFI0056)
+161 Euronews, Facing up to the challenges of the fast disappearing Aral Sea (August 2018)
+162 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+163 Global Fashion Agenda & Boston Consulting Group, Pulse of the Fashion Industry (2017)
+164 Global Fashion Agenda & Boston Consulting Group, Pulse of the Fashion Industry (2017)
+30 Fixing fashion: clothing consumption and sustainability
+Land use
+71. The use of land for the production of natural fibres can also be a cause of deforestation 
+and biodiversity loss.165 The fashion industry is projected to use 35% more land for fibre 
+production by 2030—an extra 115 million hectares that could be used to grow crops for 
+an increasing population or preserve forest to store carbon.166
+72. We are unwittingly wearing the fresh water supply of central Asia and destroying 
+fragile ecosystems. Consumers can play their part by avoiding products with premade rips and tears and seeking sustainable or organic cotton wherever possible. 
+Governments should oblige retailers to ensure full traceability in their supply chains 
+to prove decent livelihoods and sustainably sourced materials.
+Natural Vs Synthetic Fibres
+73. There are ethical and environmental problems associated with both natural and 
+synthetic fibres used in clothing production. To produce natural fibres like cotton, wool, 
+leather, cashmere and silk, it requires the use of land, water, animals, feed and chemicals. 
+Synthetic fibres like polyester, are made from petroleum, a non-renewable resource, and 
+require an energy intensive production process.
+Natural fibres
+74. Cotton is the most widely used natural fibre in the world. It is a global commodity and 
+hard to trace. It uses land, large quantities of water and is often grown using insecticides. 
+Nitrogen rich fertilisers are used in cotton agriculture which increase soil acidity.167
+The Soil Association argued that increasing organic cotton production could make a 
+significant contribution to minimising the environmental impact of the fashion industry.168
+It would reduce the use of chemical fertilisers, pesticides, and associated water use. At our 
+hearing with fashion retailers, Primark’s Paul Lister cited a project that Primark had been 
+involved in, where better irrigation and organic pest control methods had reduced water 
+use, increased yield by 6% and doubled farmers’ income.169
+75. There are also ethical concerns around the use of some natural fibres. Animal 
+welfare is of increasing concern to consumers and a number of companies have recently 
+announced that they are abandoning the use of fur. Stella McCartney’s Sustainability and 
+Innovation Director Claire Bergkamp told us:
+More and more people are recognising that we do not have to kill animals 
+for the sake of fashion, that it is not necessary and you can have beautiful 
+products that do not involve slaughter. The movement towards companies 
+going fur free has been very exciting to see. We do not need fur anymore. 
+It is really an archaic fabric and is not something that is necessary. The UK 
+banned the manufacturing of fur and there is a possibility for the UK to 
+ban the sale of fur, which is of course something we support at Stella.170
+165 Carbon Trust, Three sustainability trends shaping the future of the fashion industry (March 2018)
+166 Global Fashion Agenda & Boston Consulting Group, Pulse of the Fashion Industry (2017)
+167 London Textile Forum (SFI0044)
+168 Soil Association (SFI0011)
+169 Q222
+170 Q91
+Fixing fashion: clothing consumption and sustainability 31
+76. The International Fur Federation (IFF) contends, however, that fur should be 
+considered as a more sustainable fibre than fake fur, as it is biodegradable and does not 
+contribute to microplastic pollution. The IFF claims that ‘animal welfare is the uppermost 
+priority for the fur industry and across the globe a number of programs are in place to 
+ensure that fur derived from farms or from Government authorised conservation programs 
+are subject to rigorous inspection and certification’. It says that from 2020 the sector will 
+be launching FURMARK, ‘a global certification and traceability system that brings these 
+various programs together under an umbrella system’.171 Animal welfare campaigners 
+question whether these standards go far enough. Our colleagues on the Environment 
+Food and Rural Affairs Committee recently recommended that the Government holds a 
+public consultation to consider whether to ban fur altogether.172
+Synthetic fibres
+77. Synthetic textiles can either be made from plastics, such as polyester, polyamide and 
+acrylic, or from plant materials that are chemically dissolved and then spun into fibres, such 
+as rayon, viscose, lyocell, modal and cupro. The plastic most commonly used in textiles 
+is polyethylene terephthalate (PET) or polyester.173 Most synthetic fibres (approximately 
+70%) are made from polyester and it is now used in around 60% of our garments.174 This 
+quantity has doubled since 2000, according to the London Textile Forum.175 The vast 
+majority of synthetic fibres come from virgin plastics. One problem preventing greater 
+uptake of recycled polyester is that low oil prices make new virgin plastics cheaper than 
+recycled PET.176
+78. Petroleum based synthetic fibres like polyester have less impact on water and land 
+than cotton, but they emit more greenhouse gasses per kilogram. According to one 
+academic analysis, a polyester shirt has more than double the carbon footprint of a cotton 
+shirt (5.5 kg CO2e vs. 2.1 kg CO2e).177 The London Textile Forum says that bio-based 
+synthetic polymers made from renewable crops such as corn and sugar cane require less 
+energy. It claims that these release ‘up to 60% less carbon emissions, partly due to the 
+crops creating carbon sinks’.178
+Recycled fibres
+79. Developing the technology and market for recycled fibres is a key challenge in the 
+move to a more circular fashion system. The Director of the Textile Recycling Association 
+Alan Wheeler told us that there is interesting R&D work going on to develop ‘new 
+techniques to recycle post-consumer polyester and cotton waste, and it is already possible 
+to produce a wool yarn from recycled fibres that performs as well as one made from virgin 
+fibres.’179 However, he noted that:
+171 International Fur Federation (SFI0045)
+172 Environment Food and Rural Affairs, Fur Trade in the UK (July 2018)
+173 O ECOTEXTILES, Why is recycled polyester considered a sustainable textile?
+174 London Textile Forum (SFI0044)
+175 London Textile Forum (SFI0044)
+176 Environmental Audit Committee, Plastic Bottles: Turning Back the Plastic Tide (Dec 2017)
+177 Kirchain, R., Olivetti, E., Reed Miller, T. & Greene, S. Sustainable Apparel Materials (Materials Systems 
+Laboratory, Massachusetts Institute of Technology, 2015).
+178 London Textile Forum (SFI0044)
+179 Recycling & Waste World, A stitch in time (May 2017)
+32 Fixing fashion: clothing consumption and sustainability
+… ability for our sector to recycle fibres is the Achilles heel of our industry 
+and is perhaps the biggest stumbling block that the fashion industry will 
+need to overcome if it is to achieve actual circularity and not merely an 
+improvement of the current linear industry.180
+80. The ability to recycle textiles into high value new products is limited. Current 
+mechanical recycling processes damage the original fibre and shorten the fibre length.181
+This limits the options and range of markets for recycled fibres and in most cases they can 
+only be recycled once. Demand from existing markets is low and hence the value that can 
+be achieved for recycled textiles are low.182
+81. There are some moves within industry to use more recycled fibres. The Textile 
+Exchange has brought together fifty nine major textile, apparel and retailers - including 
+adidas, Dibella, Eileen Fisher, Gap Inc., H&M, IKEA, Lindex, MetaWear, Target and 
+Timberland—to aim to increase their use of Recycled Polyester (rPET) by at least 25% by 
+2020.183 At the moment most plastic recycling infrastructure is set up for PET bottles and 
+the technology for recycling old synthetic fabrics into new ones is in its infancy.184 The 
+fashion label Christopher Raeburn suggested that the Government reduce VAT based ‘on 
+proven recycled content garments; this could be on a sliding scale, to encourage migration 
+to entirely circular materials.’185
+Microfibre shedding
+82. In 2016, our predecessor Committee highlighted how trillions of tiny pieces of plastic 
+are accumulating in the world’s oceans, harming marine life and entering the food chain.186
+Research has shown that marine habitats worldwide including shorelines, sea surface, deep 
+sea and arctic sea ice are polluted with small plastic pieces less than five millimetres long. 
+Synthetic fibres are common in most samples and have also been detected in commercially 
+important fish and shellfish.187 Laboratory studies have demonstrated the potential for 
+microplastics to have harmful effects on marine life when ingested, although most of this 
+research has focused on spherical microplastics.188
+180 Textile Recycling Association (SFI0013)
+181 Textile Recycling Association (SFI0013)
+182 Textile Recycling Association (SFI0013)
+183 Textile Exchange, Recycled Polyester Commitment
+184 Time to Sew, Recycled polyester – a sustainable solution? (December 2017)
+185 Christopher Raeburn (SFI0095)
+186 Environmental Audit Committee, Environmental impact of microplastics (August 2016)
+187 Professor Richard Thompson (SFI0007)
+188 Professor Richard Thompson (SFI0007)
+Fixing fashion: clothing consumption and sustainability 33
+Key facts & figures on microplastic shedding
+As much as 20% to 35% of all primary source microplastics in the marine environment 
+are from synthetic clothing, according to academic estimates.189
+A single 6kg domestic wash has the potential to release as many as 700,000 fibres.190
+Over nine trillion fibres could be released per week in the UK, according to figures 
+cited in the National Federation of Women’s Institutes (NFWI) In a Spin report.191
+83. Textiles are estimated to be the largest source of synthetic fibres in the oceans with 
+microplastics shedding into the water system every time garments are washed. A single 
+6kg domestic wash has the potential to release as many as 700,000 fibres.192 Evidence 
+suggests that when synthetic textiles are landfilled or incinerated they can also leach 
+microfibres into the environment.193 Synthetic cellulosic fibres - made from plant matter 
+rather than plastic - are sometimes said to be biodegradable, but Friends of the Earth 
+warned that there is also evidence that they persist in the environment.194 It said rayon has 
+also been found in the digestive tracts of commercial fish species.
+84. Fashion’s microplastic pollution probably begins during the manufacturing phase. 
+When synthetic fibres are produced, combined into yarn and woven into fabrics, it is 
+possible that fibres are released into the air and environment.195 There is emerging evidence 
+that this may pose a health and safety risk for textile factory workers. According to a 
+recent academic study: ‘interstitial lung disease is a work-related condition that induces 
+coughing, dyspnoea (breathlessness), and reduced lung capacity in workers processing 
+either para-aramid, polyester, and/or nylon fibers. […] Whilst these effects are distinct 
+from those seen after asbestos exposure, the legacy of asbestos toxicology can in-part help 
+predict health effects of fibrous microplastics.’196 The blog and shop Amberoot said that 
+synthetic plastic fibres should be classified as a health hazard because they are ending 
+up in our ‘soil, food and the air we breathe’.197 Natural fibres have also been linked to 
+occupational health hazards. Byssinosis, also called brown lung disease, is caused by 
+exposure to cotton dust in poorly ventilated workspaces.198
+189 Kirsi Laitala, Ingun Grimstad Klepp and Beverley Henry, Does Use Matter? Comparison of Environmental Impacts 
+of Clothing Based on Fiber Type (July 2018)
+190 Professor Richard Thompson (SFI0007)
+191 National Federation of Women’s Institutes, In a Spin: How our laundry is contributing to plastic pollution
+(October 2018)
+192 Professor Richard Thompson (SFI0007)
+193 Fashion Revolution (SFI0056)
+194 Friends of the Earth (SFI
+195 Friends of the Earth (SFI0069)
+196 Gasperi et al in Current Opinion in Environmental Science & Health, Microplastics in air: Are we breathing it in?
+(Volume 1, February 2018)
+197 Amberoot (SFI0023)
+198 American Lung Association, Lung Health & Diseases: Byssinosis
+34 Fixing fashion: clothing consumption and sustainability
+85. There are three points where interventions could be made to reduce the number of 
+synthetic fibres finding their way into our waters:
+• Changes in the type of yarn and garment design / construction;
+• Modification of laundering processes, for example capture via filters in washing 
+machines;
+• Better filters to capture fibres in wastewater treatment.199
+86. Significant numbers of synthetic micro-fibres are already intercepted in wastewater 
+treatment, according to evidence we received from Plymouth University. Given the 
+considerable volumes of textiles in use, however, even relatively high capture rates in 
+wastewater treatment may still result in substantial emissions.200 When fibres are captured 
+in wastewater treatment they may still be returned to the environment when sewage sludge 
+is spread on the land as fertiliser.201
+87. The National Federation of Women’s Institutes (NFWI) carried out consumer 
+research on day-to-day washing habits and the types of fibres people are washing on a 
+regular basis. Its In a Spin report estimated that:
+• Nearly half of respondents’ most washed items contained more than 30% 
+synthetic fibres
+• Respondents were doing 2.5 loads of washing per week per household on average, 
+equating to 68 million loads of laundry per week in the UK
+• At least 9.4 trillion fibres could be released per week in the UK (based on 2016 
+Napper and Thompson results of a 6kg polyester-cotton wash)202
+Reducing microfibre shedding
+88. Research by the marine biologist Professor Richard Thompson suggests that there 
+are considerable variations (over 70–80% in some cases) in the quantity of fibres released 
+from different types of synthetic garment. For example, preliminary trials suggest that 
+acrylic garments release more fibres then polyester. This suggests that interventions by 
+brands at the design stage may be the most effective way to reduce synthetic microfibre 
+pollution.203 The length of the yarn, type of weave, and method for finishing seams may 
+all be factors that could affect shedding rates.204
+89. Professor Thompson argued that changes at the design stage were the most effective 
+way to tackle the problem:
+‘I think it is important to look at how easy is it to fix. If I take some of the 
+work that we have done in our own labs—I am a marine biologist, I am not 
+a textile designer—with a range of products that I have bought in a local 
+high street supermarket and I wash them, I find that some are shedding 
+199 Professor Richard C Thompson, University of Plymouth (SFI0007)
+200 Professor Thompson, University of Plymouth (SFI0007)
+201 Professor Richard Thompson (SFI0007)
+202 National Federation of Women’s Institutes (SFI0068)
+203 Professor Richard C Thompson, University of Plymouth (SFI0007)
+204 Friends of the Earth (SFI0069)
+Fixing fashion: clothing consumption and sustainability 35
+fibres four or five times more quickly than others and these are identical 
+looking, fleece-like garments. It is saying to me that there are things that 
+we have not needed to think about historically at the design stage about 
+life in service and fibres that are shed. It is not about not using clothing, it 
+is not about eliminating fibres, but if we have identical looking garments 
+and some of them are shedding fibres four times faster than others, it is 
+suggesting to me that it has not been in the design brief to consider that. 
+Some of those fibres will be intercepted by waste waster treatment but a 
+good number of them will escape and because of the volumes of fibres and 
+clothing that are used, even a relatively efficient waste water treatment plant 
+can end up with a fairly substantial emission. My plea would be, as you 
+are starting to consider sustainability right from the material source to the 
+end of life recycling, is also to factor in at the design stage what is the wear, 
+what is the life in service going to be like and is there a way we can design 
+clothing to minimise those emissions.205
+90. Multiple stakeholders have a role to play in solving the problem of microplastic fibre 
+pollution from fashion brands to washing machine manufacturers and water companies. 
+The NFWI said that it would like to see a collaborative cross-sector group of retailers, 
+washing machine manufacturers, water industry, and Defra assembled to discuss how 
+best to tackle the issue.206
+91. The British Retail Consortium called for ‘comprehensive research’ to establish all 
+the sources of marine microplastics to inform a multi industry approach. It argued 
+that ‘research into microfibres is still in its early stages and there are a number of other 
+potential sources of microplastics in ocean ecosystems, including vehicle tyre dust, fishing 
+net debris, and plastic pellet spillages.’207
+92. The Government should facilitate collaboration between fashion retailers, water 
+companies and washing machine manufacturers and take a lead on solving the problem 
+of microfibre pollution. Ultimate responsibility for stopping this pollution, however, 
+must lie with the companies making the products that are shedding the fibres. Further 
+research needs to be carried out into how design can be used to limit emissions of 
+synthetic fibres and the lessons applied quickly. The need for more research should not 
+be used as an excuse for inaction by retailers. Fashion retailers should be testing new 
+synthetic garments for fibre release and publishing figures.
+93. More research also needs to be carried out urgently into the occupational health 
+risks of working with synthetic fibres. The Government should ask the Health and Safety 
+Executive to review the evidence and take action accordingly. Manufacturers must 
+be mindful of potential risks now and should seek to reduce the exposure of garment 
+workers to airborne synthetic fibres.
+205 Q5
+206 National Federation of Women’s Institutes (SFI0068)
+207 British Retail Consortium (SFI0019)
+36 Fixing fashion: clothing consumption and sustainability
+Measuring impact
+94. In our first hearing we heard how important full life cycle analysis is to avoid 
+unintended consequences in policy decisions about clothes. For example, we were told that 
+some durable garments made with synthetic fibres may be less environmentally harmful 
+across their whole life cycle than some clothes produced with natural fibres–even though 
+synthetic fibres are polluting marine habitats worldwide. Dr Mark Sumner from Leeds 
+University argued that:
+The life cycle analysis data tell us that the fibres that have the biggest 
+environmental impact, because of the way they are grown, are cotton fibres, 
+cellulosic fibres. There are significant challenges in the use of highly toxic 
+pesticides and overuse of fertilisers. There are issues of health and safety 
+for workers, water consumption, carbon footprints. […] A direct switch 
+across to natural fibres has all sorts of unintended consequences. We don’t 
+know about the microfibre impacts because we don’t fully understand the 
+biodegradability of cotton in the system. We also don’t know what happens 
+to the chemicals that we apply to the cotton. All of us are wearing cotton 
+now, it is by far the most common fibre, but all of the cotton we are wearing 
+now has some sort of chemical applied to it. It might be a cross link resin, 
+a colour, a performance chemical. That will be carried down through to 
+the ocean on the fibre and we don’t know what happens to that. [When 
+we talk about microplastic pollution] we are talking about very miniscule 
+amounts of release per garment. In some of the work that we have looked at 
+we are talking about 0.04% of the weight of garment may be flushed out in a 
+washing machine. I am not saying that we have to ignore it; we have to bear 
+in mind how many garments are in the world and being washed. It is trying 
+to understand the unintended consequences of taking a kneejerk reaction.208
+95. A number of tools have been developed to compare the environmental costs of 
+different textiles, such as the Higg Materials Sustainability Index (MSI) and MADEBY Fiber Benchmark.209 Textile Exchange has developed a number of global standards 
+‘to assure and verify sustainability claims.’210 For example, the Higg MSI, developed by 
+the Sustainable Apparel Coalition, is a suite of self-assessment tools that enable brands, 
+retailers and suppliers compare and understand environmental and social trade-offs 
+between different materials and identify areas for improvement.211
+96. In the Higg MSI, silk, cotton and wool are given high environmental impact scores of 
+128, 98 and 82 respectively, while fossil fuel based fibres like nylon, acrylic and polyester 
+are rated as lower impact at 60, 52 and 44.212 Some academics and industry bodies have 
+raised concerns about what the metrics do and do not include.213 The International Wool 
+Textile Organisation complained that the Higg MSI costed nature’s carbon cycle ‘for 
+208 Q8
+209 Kirsi Laitala, Ingun Grimstad Klepp and Beverley Henry, Does Use Matter? Comparison of Environmental Impacts 
+of Clothing Based on Fiber Type (July 2018)
+210 Textile Exchange (SFI0046)
+211 Higg MSI Materials Sustainability Index; Global Fashion Agenda & Boston Consulting Group, Pulse of the Fashion 
+Industry (2017)
+212 Higg MSI Materials Sustainability Index
+213 Kirsi Laitala, Ingun Grimstad Klepp and Beverley Henry, Does Use Matter? Comparison of Environmental Impacts 
+of Clothing Based on Fiber Type (July 2018)
+Fixing fashion: clothing consumption and sustainability 37
+natural fibres, but not for fossil fuel-based fibres.’214 It also argued that the index does not 
+‘adequately assess end-of-life impacts.’215 Others have argued that the tools often neglect 
+to include the use phase, where washing can increase the carbon and water footprint 
+depending on the fibres.216
+Sustainable Clothing Action Plan life cycle waste targets
+97. The Sustainable Clothing Action Plan (SCAP) was launched by WRAP in 2012 to 
+provide a collaborative voluntary framework for fashion companies to reduce their carbon, 
+water, and waste impacts. Arcadia Group, ASOS, Primark, and M&S are all signatories 
+and have agreed voluntary targets to reduce the carbon and water footprints of clothing 
+by 15% and reduce waste by 3.5% by 2020 compared with 2012.217
+98. Dr Mark Sumner noted that the use of Best Available Technologies (BAT) offers a 
+wide range of measures to help minimise the water and carbon footprints in the textile 
+industry. The use of such BAT by retailers signed up to SCAP has supported significant 
+progress against their carbon and water targets. SCAP signatories report an 11.9% 
+reduction in the carbon footprint per tonne of garments and a 17.7% reduction in the 
+water footprint per tonne of garments (exceeding target).218 However, they are failing to 
+make significant reductions to the waste produced across the product life cycle of their 
+products with a reduction of just 1.1% per tonne of clothing since 2012.219 Dr Sumner 
+warned that many retailers not signed up to SCAP are not making use of BAT suggesting 
+‘there is a lack of policy pressure to incentivise best practice’.220 Furthermore the impact 
+of the increased volumes of clothing being sold in the UK outweigh the efficiency savings 
+that have been made on carbon and water.221
+99. The Soil Association said that SCAP is too focused on end of life issues rather than 
+on production and supply chains. It says that it ‘would like to see the SCAP do more on 
+fibre selection, as even though this is taken into account in the tool that retailers use, it is 
+not a major focus.’222 Some of the retailers we heard from who are signed up to SCAP are 
+setting targets in this area. ASOS told us that:
+We’ve committed to 60% of raw materials for ASOS brands to be sustainably 
+sourced by 2020 and our goal is to work towards 100% by 2025. 100% of 
+our ASOS Design cotton-based jeans will be made from sustainable cotton 
+from Jan 2019.223
+214 International Wool Textile Organisation (IWTO) (SFI0054)
+215 International Wool Textile Organisation (IWTO) (SFI0054)
+216 Kirsi Laitala, Ingun Grimstad Klepp and Beverley Henry, Does Use Matter? Comparison of Environmental Impacts 
+of Clothing Based on Fiber Type (July 2018)
+217 WRAP, Sustainable Clothing Action Plan (SCAP) Signatories; WRAP, Valuing Our Clothes: the cost of UK fashion
+(July 2017)
+218 WRAP SCAP 2020 progress 2012–2017 (December 2018)
+219 WRAP, Sustainable Clothing Action Plan 2020 Commitment: progress against footprint reduction targets 
+2012–2017, (18 Dec 2018)
+220 School of Design, University of Leeds (SF10026)
+221 WRAP (SFI0050)
+222 Soil Association (SFI0011)
+223 ASOS (SFI0080)
+38 Fixing fashion: clothing consumption and sustainability
+100. The British Retail Consortium called for Government funding to support the 
+Sustainable Clothing Action Plan. It said that companies used to be able to participate in 
+the SCAP without a fee, but that WRAP had introduced a charge for business participation 
+when the high street faces a challenging economic climate.224 It argued that ‘public 
+funding for SCAP could make the initiative much more accessible for a wider range of 
+fashion businesses, and therefore more impactful in addressing the environmental and 
+social issues of the industry.’225
+EU Ecodesign Directive
+To date the EU Ecodesign Directive and accompanying Energy Labelling Regulation 
+have focused on ensuring more energy-efficient products are placed on the EU market 
+and consumers are sufficiently informed to purchase the most efficient products.226
+Proposals in the Ecodesign Working Plan 2016–2019 aim to use ecodesign to 
+contribute to the circular economy by ‘more systematically tackling material efficiency 
+issues such as durability and recyclability’.227 This includes considering the repair, 
+remanufacture and recyclability of a product in the initial design and exploring 
+specific requirements in areas such as durability, reparability, upgradeability and 
+design for disassembly.228
+101. Gaining a full picture of the impact of different fibres is important so that 
+businesses, consumers and policymakers can decide on the most effective solutions. 
+The work that WRAP has done to document the impact of fashion consumption and 
+bring businesses together to share best practice and facilitate change is commendable. 
+However, WRAP has faced significant funding cuts, with budget allocation reducing 
+from £56 million in 2009/10 to less than £10 million for 2017/18.229 The Government 
+must ensure that WRAP’s Sustainable Clothing Action Plan (SCAP) is adequately 
+funded to provide its services to any retailer that wants to improve its sustainability 
+performance - regardless of its size. Post 2020, SCAP target ambitions must increase. 
+To ensure the scheme continues we recommend that retailers pay for the funding 
+of SCAP. This should ideally be included in the Extended Producer Responsibility 
+Scheme. This should happen whether or not an EPR scheme is introduced. This could 
+be set relative to revenue with discounts available for SMEs. SCAP does not currently 
+include any commitments to reduce microplastic pollution from synthetic garments. 
+Post 2020 SCAP should include new targets following the Ecodesign Directive, including 
+reducing microplastic shedding.
+102. Members of SCAP have made some progress in reducing their carbon and 
+water consumption, but action has not been swift enough on reducing waste. We are 
+disappointed that just 11 fashion retailers are signatories.230 These improvements 
+have been outweighed by the increased volumes of clothing being sold. A voluntary 
+approach has failed. A retailers’ commitment to SCAP targets should be seen as a 
+‘licence to practice’. We recommend that compliance with SCAP targets should be made 
+mandatory for all retailers with a turnover of more than £36 million–a threshold in 
+224 British Retail Consortium (SFI0019)
+225 British Retail Consortium (SFI0019)
+226 European Commission (2016), Ecodesign Working Plan 2016–2019, p.2.
+227 European Commission (2016), Ecodesign Working Plan 2016–2019, p.3.
+228 European Commission (2016), Ecodesign Working Plan 2016–2019, pp 8–9.
+229 Resource (January 2018), WRAP funding issues to lead to the loss of 25 jobs.
+230 WRAP, Sustainable Clothing Action Plan (SCAP) Signatories.
+Fixing fashion: clothing consumption and sustainability 39
+line with the Modern Slavery Act. This should be done under a new Extended Producer 
+Responsibility Scheme. The Government needs to provide clear economic incentives 
+for retailers to minimise their environmental footprint. It should implement the EU’s 
+Ecodesign Directive in the Circular Economy Package into UK law in its Resources 
+and Waste Strategy and upcoming Environment Act.
+103. A kneejerk switch from synthetic to natural fibres in response to the problem of 
+ocean microfibre pollution would result in greater pressures on land and water use - 
+given current consumption rates. Encouraging a move from conventional to organic 
+cotton and from virgin polyester to recycled PET (in garments designed to minimise 
+shedding) could help to reduce the impact of the clothing industry. We recommend that 
+the Government reforms taxation to reward fashion companies that design products 
+with lower environmental impacts and penalise those that do not. The Government 
+should investigate whether its proposed tax on virgin plastics, which comes into force 
+in 2022, should be applied to textile products that contain less than 50% recycled PET 
+to stimulate the market for recycled fibres in the UK. As part of the new EPR scheme, 
+Government and industry should accelerate research into the relative environmental 
+performance of different materials, particularly with respect to measures to reduce 
+microfibre pollution.
+40 Fixing fashion: clothing consumption and sustainability
+4 Textile waste and collection
+104. Our fashion consumption is causing a waste problem in the UK and other countries. 
+The sector is becoming more resource efficient, as we discussed in Chapter two, but it still 
+operates on a linear model of ‘make, use, dispose’.231 We buy more clothes per person 
+in the UK than any other country in Europe,232 five times what we bought in the 1980s, 
+according to some estimates.233 UK citizens discard around a million tonnes of textiles 
+per year.234 Charity shop donation rates are high, but around three hundred thousand 
+tonnes of clothing still ends up in household bins every year with around 20% of this 
+going to landfill and 80% incinerated.235 Clothing that enters the municipal waste stream 
+generally becomes contaminated or damaged, losing its reuse or recycling value.236
+Key facts & figures on textile consumption and waste
+Consumption of new clothing is estimated to be higher in the UK than any other 
+European country–26.7kg per capita. This compares to 16.7kg in Germany, 16kg in 
+Denmark, 14.5kg in Italy, 14kg in the Netherlands and 12.6kg in Sweden.237
+Using HMRC figures, it has been estimated that 1,130,000 tonnes of clothing was 
+purchased in the UK in 2016, an increase of almost 200,000 tonnes since 2012.238
+A one pence levy on garments produced for sale in the UK could raise around £35 
+million for investment in clothing collection points, sorting and recycling.239
+Repairing
+105. Increasing garment lifetimes is one of the most effective means of reducing their 
+environmental footprint. Extending the life of clothing by an extra nine months could 
+reduce carbon, waste and water footprints by around 20–30% each.240 Academics at the 
+Centre for Sustainable Fashion at the London College of Fashion argue that carbon emissions 
+and demand for water can be reduced through developing clothing maintenance skills, 
+enhancing an appreciation of material qualities, and a ‘habit of mind’ that prefers existing 
+items to new ones which then acts to slow cycles and volumes of consumption (Craft 
+of Use).241 Professor Dilys Williams says that the practical skills associated with repair, 
+including of clothes, should be mandated as part of the national curriculum at Key Stage 
+1, 2 and 3.242 The Centre also recommends increasing opportunities for apprenticeships 
+and training in technical and craft skills for textile and garment production.243
+231 WRAP (SFI0050)
+232 European Clothing Action Plan, Used Textile Collection in European Cities (March 2018)
+233 Textile Recycling Association (SFI0013)
+234 WRAP, Time to unlock the value of household textile waste, says WRAP (September 2012)
+235 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017); Defra, Statistics on waste managed by local 
+authorities in England in 2017/18, (Dec 2018)
+236 Dr Mark Sumner, University of Leeds (SFI0026)
+237 European Clothing Action Plan, Used Textile Collection in European Cities (March 2018)
+238 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+239 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+240 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+241 Centre for Sustainable Fashion, London College of Fashion (SFI0034)
+242 Centre for Sustainable Fashion, London College of Fashion (SFI0034)
+243 Centre for Sustainable Fashion, London College of Fashion (SFI0034)
+Fixing fashion: clothing consumption and sustainability 41
+Craft education
+106. The role that schools and colleges could play, both raising sustainability awareness 
+and fostering the skills and habits necessary to create, mend and care for clothes was 
+highlighted by many of the contributors to the inquiry.244 Many people currently lack 
+the skills, ability or confidence to create, repair or alter clothing and want to gain them, 
+according to Professor Tim Cooper.245 We heard anecdotal evidence about the prevailing 
+throwaway culture. Dr Sumner recalled a conversation he had overhead amongst his 
+fashion students:
+They are designers who spend all of their time working in the design studio 
+with a sewing machine and a needle and thread and everything. One of the 
+students said to her friend, ‘I have to go down to Trinity Shopping Centre 
+to buy a new coat. A button has fallen off my coat’. That is one example, 
+and it is a very bad example but there are real challenges around that whole 
+thing about repair. There is definitely a niche where repair and making your 
+own garment is important. I suggest it is quite a small niche in relation to 
+mainstream, and what we are seeing is more and more people just thinking, 
+‘You know what, I am going to buy a new outfit because I can’t be bothered 
+to fix it’ or, ‘It is so cheap to buy the outfit I am going to do that’.
+107. The Clothing Sustainability Research Group at Nottingham Trent University argued 
+that policy measures were needed to encourage routine clothing maintenance and fabric 
+reuse. It recommended that:
+• Fiscal reform should be used to encourage the repair and maintenance of 
+clothing by phasing out employers’ national insurance contributions and zerorating VAT.
+• There should be government support for community initiatives such as Repair 
+Cafés,
+• The Government should support the provision of relevant courses in local 
+colleges and take action to reverse the declining number of design and technology 
+courses in schools.246
+108. TRAID argues that social responsibility should be encouraged through sustainable 
+education initiatives which give the public the information and skills to understand the 
+real social and environmental cost of consumption of cheap clothes. TRAID has been 
+helping local authorities deliver educational activities to thousands of residents, as well as 
+teaching practical repair skills.247 The up-cyclers collective Waste Not Want Not warned 
+that textile education was being neglected in schools:
+244 ECO AGE LTD (SFI0075); TRAID (Textile Reuse & International Development) (SFI0010); WASTE NOT WANT NOT - 
+Artisans and Crafters Facebook group (SFI0014); Professor Tim Cooper (SFI0049); Centre for Sustainable Fashion, 
+London College of Fashion (SFI0058)
+245 Professor Tim Cooper (SFI0049)
+246 Clothing Sustainability Research Group, Nottingham Trent University (SFI0049)
+247 TRAID (SFI0010)
+42 Fixing fashion: clothing consumption and sustainability
+UK undergraduate and postgraduate fashion and textile education is 
+recognised as being the best in the world, yet these subjects are not really 
+valued in schools. This needs to change and alongside that sustainability 
+and waste issues need to be covered at all levels to raise awareness.248
+Reusing second hand clothes and upcycling
+109. An increase of 10% in second-hand sales could deliver environmental benefits, cutting 
+carbon emissions per tonne of clothing by 3% and water use by 4% water, WRAP estimates, 
+if it extends garment life by 50%.249 The charity suggests that providing opportunities for 
+resale in places where new sales take place can make it easier for customers to extend the 
+life of their unwanted garments. However, it warns that the scope to increase second hand 
+sales is limited. Although more take back schemes and availability of second hand clothes 
+in mainstream stores could increase second hand sales, WRAP warns that the ‘number 
+of new garments that they are expected to displace is limited and so the savings potential 
+is low’.250
+110. The UK has a growing community of artisans, crafters and micro-businesses who 
+‘up-cycle’ old, damaged and discarded textiles. Jane Grice created the Waste Not Want 
+Not Facebook group as a networking platform for upcyclers. It now has around 7,500 
+members of whom 3,270 are resident in the UK. She surveyed its members in August 2018 
+and submitted their views to our inquiry. Their submission describes the barriers that 
+upcyclers face when trying to access waste clothing from charity shops:
+Many [up-cyclers] source materials from charity shops and a few have 
+succeeded in persuading charity shops to set aside damaged or lightly soiled 
+items for them rather than automatically sending them to the ‘ragman’. 
+However often such items are never made available to the up-cycling 
+community. Instead they are bagged up and reserved for textile reprocessing 
+(the ‘ragman’), which usually means wearable clothing is sent abroad to be 
+sold in developing countries and the rest is shredded or incinerated.251
+111. Members of the group said there should be a new approach to dealing with postconsumer fashion. They argued for ‘regular kerbside collection of clothing waste 
+(nationwide, co-ordinated with councils), which could be operated by local charities or 
+textile recyclers’252 and called for the creation of Regional Textile Sorting Centres. At these 
+centres items would be graded according to their resale potential. They wanted more tip 
+shops and scrap stores to allow upcyclers more access to used fabrics.
+112. Oxfam said that some Local Authorities have encouraged the establishment of 
+recycling centres, for example at supermarket car parks and operate kerbside collection 
+schemes to make disposal of clothing easier. It said that the availability of kerbside 
+collection of clothing doubled since 2002 to over 30% of households, but is still less than 
+half of that for other recyclables such as glass and plastics.253 In London only 11 of the 33 
+248 Waste Not Want Not (SFI0014)
+249 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+250 WRAP, Valuing Our Clothes: the cost of UK fashion (July 2017)
+251 WASTE NOT WANT NOT (SFI0014)
+252 Waste Not Want Not (SFI0014)
+253 Oxfam (SFI0087)
+Fixing fashion: clothing consumption and sustainability 43
+boroughs offer kerbside textile collection for recycling and reuse.254 The Textile Recycling 
+Association estimate that there are approximately 15,000 kerbside clothing banks for the 
+whole of the UK.255
+Pre-consumer waste
+113. Hundreds of thousands of tonnes of fabric are wasted at the design and production 
+stage before clothing reaches the customer. When garments are cut out as patterns, for 
+instance, as much as 15% of the fabric can end up on the cutting room floor.256 The 
+designer Phoebe English explained:
+For those of you who are not familiar with the production process of a 
+garment, you have your flat fabric laid out on the table, you have your 
+pattern pieces—your sleeve piece, your front piece and your back piece—
+you lay them on the fabric, you cut around your pattern piece, you get 
+your garment pieces and you put them together, but you are left with waste 
+fabric. If you imagine every shop on Oxford Street and every garment that is 
+hanging on a hanger in those shops … then imagine that the space around 
+that garment, every single garment, is waste.257
+114. In 2016, this supply chain waste for clothing in active use in the UK was estimated 
+at over 800,000 tonnes compared to just under 700,000 tonnes in 2012.258 This increase 
+is driven primarily by the increase in clothing consumption. Around 440,000 tonnes of 
+supply chain waste arises during preparation of fibres to make yarn and during garment 
+production, most notably in China and India. The amount of waste varies by fabric and 
+fibre type.259 Some designers, such as Mark Liu and Phoebe English, are experimenting 
+with zero waste pattern cutting techniques in which the garment pieces are designed to fit 
+together like a jigsaw so that nothing is wasted when they are cut.260
+115. Phoebe English highlighted legislation in New York State as an example of how to deal 
+with pre-consumer waste.261 Businesses there are required by law to separate and recycle 
+or repurpose all textile waste including fabric scraps, clothing, belts, bags, and shoes if 
+textiles make up more than 10% of their waste during any month.262 This has led to the 
+creation of organisations like FABSCRAP and HELPSY which collects bags of excess 
+fabrics and scrap fabrics directly from fashion studios on a weekly basis around New York.
+Textile collection
+116. Charity shops are currently the UK’s main clothing collection infrastructure. The 
+UK has one of the highest collection rates of used clothes in the world (per head of 
+population) according to the Textile Recycling Association.263 Around 650,000 tonnes 
+of unwanted clothing is collected annually from charity shop donations, door-to-door 
+254 London Waste and Recycling Board (SFI0022)
+255 Email from the Director of the Textile Recycling Association to committee staff (10 Jan 2019)
+256 TED Research, TED’s Ten: 1 - Design to Minimise Waste
+257 Q87
+258 Defra (SFI0047)
+259 Defra (SFI0047)
+260 Black, Sandy (editor) Sustainable Fashion Handbook (2013)
+261 Phoebe English, (SFI0055)
+262 New York City Department of Sanitation, Recycling for Businesses: Special Cases
+263 Textile Recycling Association (SFI0013)
+44 Fixing fashion: clothing consumption and sustainability
+charity collections, car park clothing banks, school collections, high street take-back 
+schemes and kerbside collection. TRAID said that the UK’s 11,000 charity shops diverted 
+over 330,000 tonnes of textiles from landfill in 2017 and helped reduce carbon emissions 
+by millions of tonnes a year by reusing and recycling second-hand clothes.264
+117. The supply of clothing entering the used market has increased in recent years, 
+according to Dr Sumner. However, this is not being matched by an increase in demand. 
+Of the volume collected, about 30% is sold in the UK (e.g. through charity shops, online 
+sales, vintage shops, etc).265 The majority of the remainder is exported for re-use either in 
+Africa or Eastern Europe.266
+118. A handful of countries currently account for the majority of all used textiles collected. 
+The USA is the biggest exporter, accounting for approximately 15% of all exports, followed 
+by the UK and Germany, which both export around 10% of all used clothing.267 Existing 
+markets would not be able to cope with the increase in supply of used clothing that would 
+result from countries like China matching the consumption, disposal and collection rates 
+seen in the UK. The Director of the Textiles Recycling Association Alan Wheeler told us 
+that:
+We are seeing China move really rapidly into this market. In 2010 it 
+accounted for something like 0.88% of all global exports of used clothing. It 
+now accounts for 6% and is the fourth largest exporter in the world. There 
+is only one thing that is going to happen to the Chinese market and that is it 
+is going to become the dominant factor. […] My estimate is that if China in, 
+say, 20 years down the line were to be collecting half as much as the average 
+British person does, the entire size of that market from China would be the 
+same size as the current global market. We have to start seriously planning 
+what to do with the stuff that is coming on to the market.268
+119. The oversupply of used textiles has already devalued the used garment market, 
+helping to push some textile recyclers into bankruptcy.269 It has also lead to an increase in 
+clothing waste exports to developing nations. There may be negative long- term impacts 
+of this on the cultures and textile industries of these nations.270
+Stock burning
+120. In 2018, the British luxury brand Burberry faced a storm of criticism when it revealed 
+in its Annual Report for 2017/2018 that:
+The cost of finished goods physically destroyed in the year was £28.6m 
+(2017: £26.9m), including £10.4m of destruction for Beauty inventory.271
+264 TRAID (SFI0010)
+265 Textile Recycling Association (SFI0013)
+266 BBC News, Where do your old clothes go? (February 2015)
+267 Textile Recycling Association (SFI0013)
+268 Q4
+269 Lets Recycle, Six textile recyclers close with more to come (June 2013)
+270 Clothing Sustainability Research Group, Nottingham Trent University (SFI0049)
+271 Burberry, Annual Report 2017/18, p. 165.
+Fixing fashion: clothing consumption and sustainability 45
+This led to it being reported in July that the retailer had incinerated unsold clothes, 
+accessories and perfume to protect its brand and prevent unwanted stock from being sold 
+cheaply. The BBC reported that the total value of goods it had destroyed over the past five 
+years was more than £90m.272 Burberry initially defended the practice saying that the 
+energy generated from burning its products was captured, making it environmentally 
+friendly. However, in September, Burberry pledged to end the practice and said it will 
+reuse, repair, donate or recycle all excess stock.273
+121. The journalist and author Lucy Siegle wrote at the time the story broke:
+… there are 101 processes that go into making a garment, from harvesting 
+plants for raw fibre, to the processing and finishing of textile yarns involving 
+thousands of litres of water. There are hundreds of hours of human labour 
+too. Similarly, high-end cosmetics are a drain on resources in terms of both 
+raw ingredients from the natural world and processing. To input all of these 
+resources and then to squander them by burning (recovering only a tiny 
+proportion of that energy) is pure madness given the backdrop of ecological 
+emergency that we face.274
+122. While incineration of unsold stock ‘recovers’ some energy from the products, 
+it multiplies the climate impact of the product by generating further emissions 
+and air pollutants that can harm human health. Incineration of clothes made from 
+synthetic fibres may release plastic microfibres into the atmosphere. Climate changing 
+emissions will have been generated when the products were created and more CO2 
+will be produced when they are burnt. The waste hierarchy suggests that reuse and 
+recycling comes first. This should be a priority means of dealing with unsold stock. 
+Incineration should only be used as a last resort where there is a health and safety case 
+for destroying the stock. The Government should ban incinerating or landfilling unsold 
+stock that can be reused or recycled.
+Take-back schemes
+123. Clothing companies are not yet required by legislation to take responsibility for 
+end of life recovery of the products they put on the market place, unlike electrical and 
+electronic goods.275 There have been a number of voluntary garment recovery initiatives. 
+Some brands have used passive approaches to encourage recycling by providing garment 
+recycling bins in their car parks and stores. Others have employed proactive clothing takeback schemes. These schemes encourage consumers to deposit old clothing in the brand’s 
+stores, which is then donated to a charity or sold to recyclers. For example, Marks and 
+Spencer and Oxfam launched a ‘shwopping’ take back scheme which has collected some 
+20 million items since 2008. Other companies, including H&M, Zara and John Lewis, 
+have started or are planning garment recovery schemes. Financial incentives have been 
+used to encourage donations, through cashback vouchers, and these have been relatively 
+successful.276
+272 BBC News, Burberry burns bags, clothes and perfume worth millions (19 July 2018)
+273 The Guardian, Burberry to stop burning unsold items after green criticism (September 2018)
+274 The Guardian, Burberry’s bonfire of the vanities is brazen and ecologically reckless (July 2018)
+275 Clothing Sustainability Research Group, Nottingham Trent University (SFI0049)
+276 Dr Mark Sumner, University of Leeds (SFI0026)
+46 Fixing fashion: clothing consumption and sustainability
+Extended Producer Responsibility for textiles
+124. During the inquiry we heard a number of calls for clothing producers to take 
+responsibility for fabric waste.277 WRAP says there needs to be more leadership from the 
+UK Government to achieve a step change in the sustainability of the clothing sector. It 
+says the Government should consider an Extended Producer Responsibility (EPR) scheme 
+for clothing in the published Resources and Waste Strategy.278
+Extended Producer Responsibility (EPR) is a policy approach where producers are 
+given responsibility–be it financial and/or physical–for the treatment or disposal of 
+products they put on the market. Assigning such responsibility provide incentives to 
+prevent waste at source, promote eco-design and support the achievement of public 
+recycling and materials management goals.279 In the case of clothing, a levy on 
+clothing sales as part of an EPR could be used to support UK collection, sorting and 
+processing of clothing, R&D into new recycling processes.280
+125. France introduced an EPR scheme for clothing in 2007 making clothing, linen and 
+footwear companies responsible for the management of their end of life products.281 The 
+scheme has nearly trebled clothing collection points from 15,621 in 2011 to nearly 42,000 
+by 2016 and collection rates have increased by more than 50%.282 In 2009, France was 
+collecting 1.9 kg of discarded clothing, linen and footwear per person per year. By 2016 
+this had climbed to 3.2kg.283 Over 90% of the items collected are reused (59.4%) or recycled 
+(31.8%) and 97% of retailers in France are legally compliant.284 The new sorting centres 
+created by the scheme have provided 1,400 full time jobs, with 49% going to people facing 
+employment difficulties.285
+126. Dr Sumner expressed scepticism about the French EPR, saying:
+… it is a tax on the retail and brand environment, and I think before EPR is 
+considered we need to be thinking about the consequences of it. It does bring 
+in income, but one of the things that the Government should be thinking 
+about is more municipal waste and kerbside collections. Should there be 
+more work done in terms of providing the systems and the infrastructure 
+for recycling of textiles and other materials?
+127. The textile recycling company Parker Lane Group argued that an EPR would have a 
+number of benefits:
+• Encouraging sustainable production and consumption of products within an 
+industry
+277 Fashion Revolution (SFI0056); Parker Lane Group (SFI0094); Textile Recycling Association (SFI0013); WRAP (the 
+Waste & Resources Action Programme) (SFI0050)
+278 WRAP (SFI0050)
+279 OECD, Extended producer responsibility
+280 Textile Recycling Association (SFI0013)
+281 Eco-TLC, 2016 at a Glance: Half-way results from the 2014–2019 accreditation agreement (2017)
+282 Textile Recycling Association (SFI0013)
+283 Eco-TLC, 2016 at a Glance: Half-way results from the 2014–2019 accreditation agreement (2017)
+284 Eco-TLC, 2016 at a Glance: Half-way results from the 2014–2019 accreditation agreement (2017); Textile Recycling 
+Association (SFI0013)
+285 Eco-TLC, 2016 at a Glance: Half-way results from the 2014–2019 accreditation agreement (2017)
+Fixing fashion: clothing consumption and sustainability 47
+• Aligning incentives to allow intelligent design of products to make the easy to 
+recycle at end-of-life
+• To reduce landfill and encourage recycling of products, and to help create a 
+revenue framework to help investment into recycling286
+It estimates than an ERP levy of 1p per garment could raise over £35 million in a year to 
+improve textile reuse and recycling in the UK:
+Levy on goods produced:
+Clothing created 
+for UK sale per 
+year
+Tonnes Kgs Pieces 1p per garment 5p per garment
+Amount of 
+clothing sold
+1130000 1130000000 390000000 £33,900,000.00 £169,500,000.00
+amount made 
+nut not retailed 
+5%*
+56500 56500000 169500000 £1,695,000.00 £8,475,000.00
+Total Revenue £35,595,000.00 £177,975,000.00
+*Doesn’t include shoes287
+New Resources and Waste strategy
+128. The Government published Our Waste, Our Resources: A Strategy for England, on 18 
+December 2018, its ‘blueprint for eliminating avoidable plastic waste over the lifetime of 
+the 25 Year Plan, doubling resource productivity, and eliminating avoidable waste of all 
+kinds by 2050’.288 The Government says that packaging reform is its immediate priority 
+and the key measure announced in the strategy is a proposal to make manufacturers and 
+businesses pay the full cost of recycling or disposing of their packaging waste through an 
+Extended Producer Responsibility (EPR) scheme. The new resources and waste strategy 
+also promises to review and consult on measures, such as EPR and product standards, for 
+five other waste streams - including textiles - by the end of 2025:
+• Textiles (clothing + other household and commercial textiles)
+• Bulky waste–including mattresses, furniture and carpets
+• Certain construction and demolition materials
+• Vehicle tyres
+• Fishing gear
+286 The Parker Lane Group (SFI0070)
+287 Parker Lane Group (SFI0094)
+288 Defra, Our Waste Our Resources: A Strategy for England (18 Dec 2018)
+48 Fixing fashion: clothing consumption and sustainability
+Defra says that it plans to complete two of these by 2022 but it does not specify which 
+two.289 The strategy also promises to review whether Local Authority run Household 
+Waste Recycling Centres could have their role extended to support textile collection 
+by 2025. However, the strategy also notes that Local Authorities are ‘under pressure to 
+make savings to their waste management budget, and many are looking to achieve this by 
+reducing opening times of Household Waste Recycling Centres or by introducing charges 
+for non-household waste items’.290
+129. The Government’s previous waste and resources review published in 2011, Government 
+Review of Waste Policy, stated that ‘we will review the case for restrictions on sending 
+other materials to landfill over the course of the Parliament, including looking specifically 
+at textiles and biodegradable waste.’291 This review does not appear to have ever been 
+completed and no restrictions are in place to prevent textiles ending up in landfill. When 
+we asked the Minister about it she had no awareness of the previous strategy regarding 
+textiles and was not sure whether the review had been carried out. She said:
+Q483: Kerry McCarthy: …can I ask about the 2011 Waste Strategy? That 
+promised that a review would be carried out into whether restrictions 
+should be placed on textiles going to landfill. Did that review ever happen?
+Dr Thérèse Coffey: Not to my knowledge. I am not aware that it has been 
+brought to my attention.
+Q.484: Kerry McCarthy: Isn’t it normal practice, when you come up with 
+the latest strategy, to look at the last one and see what was done and what 
+was not done as part of that?
+Dr Thérèse Coffey: I am aware that the amount going to residual house waste 
+is falling in terms of tonnage and the amount that is collected for reuse or 
+recycling is increasing. We do have set aside, as part of one of the areas 
+we are going to investigate, extending the extended producer responsibility 
+regime.292
+130. Our desire for fast fashion, fuelled by advertising, social media and a supply of 
+cheap garments, means we are disposing of over a million tonnes of clothes every year 
+in the UK. Under the UN Sustainable Development Goals, the UK is committed to ‘to 
+ensure sustainable consumption and production’. We need to reduce the environmental 
+footprint of the UK’s textile production and consumption. To do that, we need to 
+reduce textile waste, improve resource efficiency and reduce the carbon emissions and 
+water footprint of the clothes we buy. We need to simply buy less, mend, rent and share 
+more. To support this we recommend that lessons on designing, creating, mending and 
+repairing clothes be included in schools at Key stage 2 and 3. The creative satisfaction 
+of designing and repairing clothing can offer an antidote to the growing anxiety 
+and mental health issues amongst teenagers. As well as providing a space to promote 
+creative expression, the skills learnt can also provide a potential pathway towards job 
+opportunities.
+289 Defra, Our Waste Our Resources: A Strategy for England (18 Dec 2018)
+290 Defra, Our Waste Our Resources: A Strategy for England (18 Dec 2018), p.74
+291 Defra Government Review of Waste Policy in England (2011), p.9
+292 Q483-Q484
+Fixing fashion: clothing consumption and sustainability 49
+131. T﻿he Government must end the era of throwaway fashion. It should make fashion 
+retailers take responsibility for the waste they create by introducing an Extended 
+Producer Responsibility scheme for textiles and reward companies that take positive 
+action to reduce waste. A charge of one penny per garment on producers could raise 
+£35 million for investment in better clothing collection and sorting in the UK. This 
+could create new ‘green’ jobs in the sorting sector, particularly in areas where textile 
+recycling is already a specialist industry such as Huddersfield, Batley, Dewsbury and 
+Wakefield in West Yorkshire. The Government’s recent pledge to review and consult 
+on how to deal with textile waste by 2025 is too little too late. We need action before the 
+end of this parliament (2022).
+132. T﻿he Resources and Waste strategy should incorporate eco-design principles and 
+offer incentives for design for recycling, design for disassembly and design for durability. 
+It should also set up a new investment fund to stimulate markets for recycled fibres.
+50 Fixing fashion: clothing consumption and sustainability
+5 New economic models for the fashion 
+industry
+133. Given the stark scientific warnings we face on climate change and biodiversity loss, 
+we must reinvent fashion. Fashion that saves resources and energy, minimises plastic 
+pollution, reduces waste and thrives uses a more circular business model. New economic 
+models that rely on sharing or renting rather than ownership are emerging. From clothing 
+libraries to baby clothes subscription services, upcycling and repair cafes and peer-topeer vintage sales on sites like Depop and peer-to-peer clothes sharing on apps like 
+MyWardrobe HQ, there are many new circular business models. Retailers could look to 
+implement these, boosting the second hand market and helping increase the opportunities 
+for extending the useful life of clothing. Action could include:
+• Recovering and reselling items customers no longer want
+• Hiring or renting clothing to customers so they can be used by multiple people
+• Developing ‘subscription’ models, which enable customers to swap clothes but 
+also incentivise retailers to use garments many times before disposing of them.293
+134. The UK has an exciting ecosystem of sustainable fashion businesses, researchers and 
+designers who are already forging a new vision for fashion.The value of the ethical clothing 
+market increased by 19.9% in 2018, according to Ethical Consumer magazine.294 In Autumn 
+2018 we teamed up with the Victoria and Albert (V&A) Museum to hold a hearing at the 
+museum highlighting innovators and leaders in the field. At its Fashioned From Nature 
+exhibition we saw a range of textile technologies that could reduce environmental impacts 
+- such as apparel made from mycelium (mushroom roots), beautiful gowns made out of 
+old plastic bottles, dresses made from reused army surplus, low-impact disposable paper 
+dresses, and leather like materials made from pineapple leaves.
+Levelling the playing field
+135. We heard concerns about the extra costs and barriers that the UK’s sustainable 
+fashion businesses face. Innovators are faced with competition from businesses who 
+are focused on reducing costs and maximising profits regardless of the environmental 
+or social costs. Christopher Raeburn said that the ‘current system favours brands that 
+are located offshore, utilise unsustainable or environmentally unsound fabrics, and are 
+unaccountable for the product at end of life.’295 Our inquiry heard calls for policy and 
+incentives to level the playing field. Eco Age said that:
+One of the greatest difficulties for companies is that the ones that aspire 
+to respect human rights and environmental standards, are faced with 
+competition from those that do not.296
+293 QSA Partners LLP (SFI0039)
+294 Ethical Consumer, The UK Ethical Market (December 2018)
+295 Christopher Raeburn (SFI0095)
+296 ECO AGE LTD (SFI0075)
+Fixing fashion: clothing consumption and sustainability 51
+136. Similarly, Kate Osborne, from shoe brand Po-Zu commented:
+Sustainable fashion is competing on a completely unlevel playing field and 
+this is especially apparent during the Black Friday /Cyber Monday holiday 
+season. The reason fast fashion businesses can afford to discount so heavily 
+is that somewhere along the supply chain, someone has paid the price–be it 
+environmentally or through sweatshop labour.297
+137. The fashion designer Katherine Hamnett called for radical changes to trade policy to 
+level the playing field between outsourcers and domestic producers:
+For the clothing industry to survive in the UK and EU, we need new 
+legislation that only allows goods into our Economic Blocks that are made 
+to the same Labour, Human Rights, Health and Safety and Environmental 
+standards, outside as inside. This would raise the cost of outsourced 
+goods and make domestic manufacturing (i.e. manufactured within our 
+Economic Blocks) more competitive and viable. It levels the playing field 
+between outsourced and domestically produced goods, as it costs more if 
+you actually have pay and treat the people who make your clothes properly 
+and respect the environment. It would improve the lives of all garment 
+workers in the outsourced sector due to better pay, better and safer working 
+conditions (a true living wage) and a safer and better environment.298
+138. The designer Christopher Raeburn started his eponymous label in 2008 and became 
+famous for remaking army surplus fabrics into imaginative new clothing. All of their 
+products embody the ethos of the brand: remade, reduced, recycled - utilising surplus, 
+recycled or renewable fabrics. Christopher Raeburn has recently been appointed as global 
+creative director for major US brand Timberland. Christopher’s brother Graeme who is 
+the performance director for Raeburn joined us at the V&A to discuss their vision for a 
+sustainable fashion system. He suggested that the Government should tax materials with 
+high CO2 emissions and reward the utilisation and upcycling of waste and deadstock.299
+He said ‘there is opportunity here to stimulate industry and growth, and place the UK 
+at the forefront of responsible, innovative and - most importantly - desirable and stylish 
+fashion.’300
+139. Leading sustainable fashion brands like Hiut Denim and Christopher Raeburn and 
+heritage brands like John Smedley and Churches Shoes offer lifetime repair services 
+for their products, but these services are not offered widely. Some smaller companies 
+produce garments entirely made in England. Phoebe English says her pieces are made 
+‘from initial sketch to final stich [in England] in order to limit carbon and how much our 
+product travels.’301 The clothing charity TRAID called on the Government to address 
+‘the structural causes of a throwaway society by promoting the repair and second-hand 
+industry.’302 Professor Dilys Williams argued that we had to make it ‘viable economically 
+for people, for businesses and customers’ to repair and reuse textiles. She said that 
+297 Fantha Tracks, Ethical footwear brand Po-Zu calls for consumers to ‘Champion an Alternative Black Friday’
+(November 2018)
+298 Katherine Hamnett (SFI0093)
+299 Christopher Raeburn (SFI0095)
+300 Christopher Raeburn (SFI0095)
+301 Phoebe English (SF10055)
+302 TRAID (SFI0010)
+52 Fixing fashion: clothing consumption and sustainability
+repairing an item can often be more expensive than buying a new one, because we do 
+not fully cost the environmental and social impacts of clothing production.303 Graeme 
+Raeburn suggested the UK should follow Sweden’s lead, where the government is reducing 
+VAT rates on repairs to bicycles, clothes and shoes from 25% to 12% to encourage repair 
+rather than disposal.304 He also called on the Government to incentivise retailers to offer 
+free repairs as part of the initial product purchase. The extra resources and wages it would 
+cost to perform these repairs should be compensated with a tax break.305
+Encouraging change
+140. Dr Sumner from Leeds University School of Design warned that for policy 
+interventions to be successful, we first have to understand the many positive benefits 
+that fashion brings for society and individuals. Fashion allows people to identify and 
+express themselves within their group and in society. It also provides excitement, fun and 
+hedonistic pleasure:
+Importantly, fashion satisfies consumers’ psychogenic needs; what we wear 
+communicates who we are and our status. The non-verbal communication 
+about ourselves through the clothes we wear is a vital part of society. This has 
+been the basis for fashion for thousands of years, and our modern culture 
+is no different. But fast fashion is so successful because it has democratised 
+fashion and the benefits of fashion, especially through the omnipresence 
+impact of social media. Fast fashion has allowed all segments of society, 
+irrespective of class, income or background to engage in the hedonistic and 
+psychogenic pleasures of fashion. At no other time in human history has 
+fashion been so accessible to so many people across our society. This is the 
+power of fast fashion.306
+141. Any solutions have to recognise and maintain these benefits.307 Dr Sumner says 
+more circular models need to be developed for the industry that ‘incorporate the need for 
+business growth, that recognise the desires of consumers and that retain the value of the 
+industry to workers in the supply chain.’308 He cautioned us that incentives will be more 
+effective if they do not compromise the ‘powerful hedonistic and psychogenic pleasures 
+derived from fashion’.309
+142. Researchers from Exeter University and the University of Wolverhampton contend 
+that ‘the interests of the fast fashion industry, and the environmental need to reduce 
+clothing consumption are not mutually exclusive, but contain marketable opportunities 
+for the fashion industry to shift attitudes toward a more sustainable approach to clothing.’310
+Their qualitative research findings suggest that ‘embedding pro-environmental behavioural 
+change into clothing practices’ requires availability of long-term spaces in the community, 
+where individuals can share knowledge and skills about making and modifying clothing. 
+‘This enables new ‘meanings’ to be generated about personal relationships with, and 
+303 Q96
+304 Traid (SFI0010); Q96; The Guardian Waste not want not: Sweden to give tax breaks for repairs (September 2016)
+305 Christopher Raeburn (SFI0095)
+306 School of Design, University of Leeds (SFI0026)
+307 School of Design, University of Leeds (SFI0026)
+308 School of Design, University of Leeds (SFI0026))
+309 School oF Design, University of Leeds (SFI0026))
+310 School oF Design, University of Leeds (SFI0026))
+Fixing fashion: clothing consumption and sustainability 53
+attitudes towards clothing.’311 They recommend incentivising high street clothing retailers 
+to provide creative making spaces for customers to mend and modify clothing to provide 
+a long-term, sustained service.312
+Sharing economy
+143. Many of the evidence submissions we received suggested that new ‘sharing economy’ 
+business models for the fashion industry that involve hiring, swapping or subscribing to 
+clothes services could be part of the solution.313 At our V&A event Graeme Raeburn said 
+that ‘we have too much stuff already’ and that new loaning and sharing economic models 
+could replicate the buzz of a purchase without the material costs.314 Phoebe English 
+told us that the sharing economy would not only ‘make a huge difference to how we are 
+consuming clothes but is also a really exciting business model.’315 She said that:
+Trying to sell someone a hessian sack is not going to work. People want to 
+wear exciting clothes; they want to be inspired. If you are not doing that 
+then you are not serving the industry and you are certainly not serving 
+sustainability. It is a case of really exploring ways where you can perpetuate 
+the excitement of purchasing. If you look at psychological charts, the 
+endorphin high that you get from purchasing something begins to wane 
+considerably by the third day. […] With hiring you get that endorphin high 
+constantly because you can have a new thing within your purchasing power, 
+which can help transform you as a person and make you feel better and 
+make you look stronger and more positive, and you can do it more regularly. 
+If you look at it within that construct, it is a really exciting business plan 
+that could absolutely be implicated within the high street and it definitely 
+should be.316
+144. Clothing rental services that offer one time or subscription-based rentals are usually 
+internet based, offer womenswear, and focus on renting high-end pieces for a fraction of 
+the cost.317 They offer consumers novelty without the need to purchase.318 In the US, the 
+hiring service Rent the Runway was launched in 2009, offering designer clothes to hire for 
+weddings, graduations or other occasions and now has six million members.319 On this 
+side of the Atlantic, Bundlee was launched in 2017 as the UK’s first baby clothing rental 
+subscription. Its founder Eve Kekeh said that she had researched the environmental and 
+social effects of the baby clothing industry and saw the rental model as a way to extend the 
+lifespan of baby clothes.320 She said:
+Recently a shift towards the ‘access economy’ has begun. The relationship 
+between physical products and individual ownership has been undergoing 
+a profound evolution, as sections of society do not want the physical items, 
+311 Sensibility 4 Sustainability (University of Exeter and Wolverhampton) (SFI0018)
+312 Sensibility 4 Sustainability (University of Exeter and Wolverhampton) (SFI0018)
+313 Phoebe English (SFI0055), QSA Partners (SFI0039), Clothing Sustainability Research Group (SFI0049);Professor 
+Tim Cooper (SFI0049); mywardrobeHQ (SFI0020)
+314 Q93
+315 Q93
+316 Q93
+317 London Waste and Recycling Board (SFI0022)
+318 Bundlee (SFI0021)
+319 Financial Times, Retailers respond to rise in renting clothes and goods (December 2017)
+320 Bundlee Ltd (SFI0021)
+54 Fixing fashion: clothing consumption and sustainability
+but instead want the needs or experiences they fulfil. […] The potential to 
+combine clothing products with a rental service holds much promise as both 
+a commercially viable business model and a route to achieving sustainable 
+clothing consumption.321
+145. We need new economic models for fashion which are based on reducing the 
+material consumption associated with growth. The Government should explore how 
+it can support the sharing economy. T﻿﻿he Chancellor should use the tax system to shift 
+the balance of incentives in favour of reuse, repair and recycling to support responsible 
+companies. The Government should follow Sweden’s lead and reduce VAT on repair 
+services.
+146. Retailers must take responsibility for the social and environmental cost of clothes. 
+They should use their market power to demand higher environmental and labour 
+standards from suppliers. Offering rental schemes, lifetime repair and providing 
+the consumer with more information about the sourcing and true cost of clothing 
+are all measures that can be more widely adopted. Shifting business practice in this 
+way can not only improve a business’s environmental and social impact but also offer 
+market advantage as they respond to the growing consumer demand for responsible, 
+sustainable clothing.
+321 Bundlee Ltd (SFI0021)
+Fixing fashion: clothing consumption and sustainability 55
+6 Background & acknowledgements
+147. The Environmental Audit Committee (EAC) is a cross-party committee of backbench 
+MPs that is formed by the House of Commons after each general election to scrutinise the 
+environmental performance and policies of the Government and its public bodies. We 
+launched our inquiry in June 2018 to examine concerns about the waste and environmental 
+impact of the fashion industry. There has been a phenomenal response to the inquiry. 
+Over the course of the inquiry we received over 90 submissions of written evidence. We 
+held four days of hearings in the inquiry, one at the Victoria and Albert Museum.
+148. Of the UK’s major fashion retailers only Primark initially provided evidence. We 
+then wrote to the top ten fashion retailers request information about their efforts to 
+reduce their environmental and social impact.322 We are grateful to all of the retailers 
+for responding. The British Fashion Council did not submit any evidence to the inquiry. 
+Among the questions fashion retailers were asked to respond to where:
+• whether they pay the living wage to garment workers and how they ensure child 
+labour is not used in their supply chains;
+• whether they use recycled materials;
+• how long their clothes last and how they encourage recycling;
+• whether they incinerate unsold or returned stock;
+• what steps they are taking to reduce the risk of microplastics contaminating the 
+ocean; and
+• what other steps they are taking to reduce the environmental impact of their 
+clothing ranges and how they audit success.323
+We analysed the retailers’ responses and published an interim report on this on 31 
+January.324
+Acknowledgements
+149. We would like to thank Catie Poust from the V&A who worked tirelessly to make 
+our event a success and Edwina Ehrman for her expert tour of the Fashioned From Nature
+exhibition which she curated.
+322 Environmental Audit Committee, Fashion bosses asked to reveal environmental record (October 2018)
+323 Environmental Audit Committee, Fashion bosses asked to reveal environmental record (October 2018)
+324 Environmental Audit Committee, Interim Report on the Sustainability of the Fashion Industry (January 2019)
+56 Fixing fashion: clothing consumption and sustainability
+Conclusions and recommendations
+Introduction - fashion & sustainability
+1. We want to see a thriving fashion industry in the UK that provides decent work, 
+inspires creativity and contributes to the economic success of the UK. The fashion 
+industry’s current business model is unsustainable, especially with growing 
+populations and rising levels of consumption across the globe. Over-consumption 
+and climate change are driving widespread environmental damage. The exploitative 
+and linear business model for fashion must change. The various parts of the fashion 
+industry must come together to set out their blueprint for a net zero emissions 
+world. This will require reducing their carbon consumption back to 1990 levels. 
+Given scientists’ stark warnings on climate change and biodiversity loss, we need to 
+fix fashion. (Paragraph 22)
+The social cost of our clothes
+2. We were shocked by the treatment of Missguided’s auditors. If this is how factory 
+owners treat potential customers, we dread to think of the conditions endured by 
+their workers. (Paragraph 49)
+3. ‘Made in the UK’ should mean workers are paid at least the minimum wage in a safe 
+workspace. It is unacceptable that some workers in the UK making clothes for fast 
+fashion retailers are not paid the minimum wage and are suffering serious breaches 
+of health and safety law in their workplaces. We support calls from the Director 
+of Labour Market Enforcement for a more proactive approach to the enforcement 
+of the national minimum wage. HMRC’s National Minimum Wage team needs 
+greater resourcing in order to increase their inspection and detection work. We also 
+recommend that Boohoo engage with Usdaw as a priority and recognise unions for 
+its workers. We recommend that textile retailers operating internationally follow 
+the example of Asos, H&M, Esprit and Inditex in signing up to Global Framework 
+Agreements. These put in place the highest standards of trade union rights, health, 
+safety and environmental practices, across the retailers’ global operations, regardless 
+of local country standards. (Paragraph 50)
+4. There must be more transparency in supply chains and there is a strong case for 
+the Modern Slavery Act to be strengthened. The current requirement to produce 
+a statement does not ensure that action is taken by big retailers and even this is 
+not adequately monitored. The Government should publish a publicly accessible 
+list of all those retailers required to release a modern slavery statement. This should 
+be supported by an appropriate penalty for those companies who fail to report and 
+comply with the Modern Slavery Act. This will increase transparency and require the 
+establishment of formal monitoring of whether statements comply with legislation. 
+(Paragraph 63)
+5. The Companies Act 2006 requires that a statement be made on human rights issues in 
+a company’s Annual Report only ‘where necessary’. This system lacks accountability 
+and places too much reliance on companies to self-disclose. We recommend that the 
+Companies Act 2006 be updated to include explicit reference to ‘modern slavery’ and 
+Fixing fashion: clothing consumption and sustainability 57
+‘supply chains’. Statements on a business’ approach to human rights in its supply chain 
+should be mandatory as part of the Annual Report. The Financial Reporting Council’s 
+(FRC) Corporate Governance Code and UK Stewardship Code, and the Financial 
+Conduct Authority’s (FCA) listing rules should likewise be amended to require 
+modern slavery disclosures on a comply or explain basis by 2022. If this is not possible 
+then a Corporate Duty of Vigilance Law, as in France, should be considered. Fashion 
+retailers must not be allowed to turn a blind eye to labour and environmental abuses 
+in their supply chains. Retailers should be investing in technology that allows them 
+- and their customers - to track where their materials and products are sourced and 
+made. We recommend that the Government strengthen the Modern Slavery Act to 
+require large companies to perform due diligence checks across their supply chains 
+to ensure their materials and products are being produced without forced or child 
+labour. We also recommend that Government procurement should be covered by the 
+Modern Slavery Act. (Paragraph 64)
+6. We recommend that the Government works with industry to trace the source of raw 
+material in garments to tackle social and environmental abuses in their supply chains. 
+Digital technology is widely used in other supply chains. We do not understand 
+why a modern high-tech industry like fashion does not have these systems already 
+in place. Some companies told us they can trace their materials down to Tier 4 
+suppliers. This begs the question - if one can do it, why can’t all? This first step is 
+essential if fashion is to tackle its waste, water, chemical and carbon footprint. This 
+also reduces the opportunities for sub-contractors to take their cut along the supply 
+chain. (Paragraph 65)
+Fashion’s environmental price tag
+7. We are unwittingly wearing the fresh water supply of central Asia and destroying 
+fragile ecosystems. Consumers can play their part by avoiding products with premade rips and tears and seeking sustainable or organic cotton wherever possible. 
+Governments should oblige retailers to ensure full traceability in their supply chains 
+to prove decent livelihoods and sustainably sourced materials. (Paragraph 72)
+8. The Government should facilitate collaboration between fashion retailers, water 
+companies and washing machine manufacturers and take a lead on solving the 
+problem of microfibre pollution. Ultimate responsibility for stopping this pollution, 
+however, must lie with the companies making the products that are shedding the 
+fibres. Further research needs to be carried out into how design can be used to limit 
+emissions of synthetic fibres and the lessons applied quickly. The need for more 
+research should not be used as an excuse for inaction by retailers. Fashion retailers 
+should be testing new synthetic garments for fibre release and publishing figures. 
+(Paragraph 92)
+9. More research also needs to be carried out urgently into the occupational health 
+risks of working with synthetic fibres. The Government should ask the Health and 
+Safety Executive to review the evidence and take action accordingly. Manufacturers 
+must be mindful of potential risks now and should seek to reduce the exposure of 
+garment workers to airborne synthetic fibres. (Paragraph 93)
+58 Fixing fashion: clothing consumption and sustainability
+10. Gaining a full picture of the impact of different fibres is important so that businesses, 
+consumers and policymakers can decide on the most effective solutions. The work 
+that WRAP has done to document the impact of fashion consumption and bring 
+businesses together to share best practice and facilitate change is commendable. 
+However, WRAP has faced significant funding cuts, with budget allocation reducing 
+from £56 million in 2009/10 to less than £10 million for 2017/18. The Government 
+must ensure that WRAP’s Sustainable Clothing Action Plan (SCAP) is adequately 
+funded to provide its services to any retailer that wants to improve its sustainability 
+performance - regardless of its size. Post 2020, SCAP target ambitions must increase. 
+To ensure the scheme continues we recommend that retailers pay for the funding 
+of SCAP. This should ideally be included in the Extended Producer Responsibility 
+Scheme. This should happen whether or not an EPR scheme is introduced. This 
+could be set relative to revenue with discounts available for SMEs. SCAP does not 
+currently include any commitments to reduce microplastic pollution from synthetic 
+garments. Post 2020 SCAP should include new targets following the Ecodesign 
+Directive, including reducing microplastic shedding. (Paragraph 101)
+11. Members of SCAP have made some progress in reducing their carbon and water 
+consumption, but action has not been swift enough on reducing waste. We are 
+disappointed that just 11 fashion retailers are signatories. These improvements 
+have been outweighed by the increased volumes of clothing being sold. A voluntary 
+approach has failed. A retailers’ commitment to SCAP targets should be seen as 
+a ‘licence to practice’. We recommend that compliance with SCAP targets should 
+be made mandatory for all retailers with a turnover of more than £36 million–a 
+threshold in line with the Modern Slavery Act. This should be done under a new 
+Extended Producer Responsibility Scheme. The Government needs to provide clear 
+economic incentives for retailers to minimise their environmental footprint. It 
+should implement the EU’s Ecodesign Directive in the Circular Economy Package 
+into UK law in its Resources and Waste Strategy and upcoming Environment Act. 
+(Paragraph 102)
+12. A kneejerk switch from synthetic to natural fibres in response to the problem of 
+ocean microfibre pollution would result in greater pressures on land and water 
+use - given current consumption rates. Encouraging a move from conventional to 
+organic cotton and from virgin polyester to recycled PET (in garments designed to 
+minimise shedding) could help to reduce the impact of the clothing industry. We 
+recommend that the Government reforms taxation to reward fashion companies that 
+design products with lower environmental impacts and penalise those that do not. 
+The Government should investigate whether its proposed tax on virgin plastics, which 
+comes into force in 2022, should be applied to textile products that contain less than 
+50% recycled PET to stimulate the market for recycled fibres in the UK. As part of 
+the new EPR scheme, Government and industry should accelerate research into the 
+relative environmental performance of different materials, particularly with respect 
+to measures to reduce microfibre pollution. (Paragraph 103)
+Textile waste and collection
+13. While incineration of unsold stock ‘recovers’ some energy from the products, it 
+multiplies the climate impact of the product by generating further emissions and 
+Fixing fashion: clothing consumption and sustainability 59
+air pollutants that can harm human health. Incineration of clothes made from 
+synthetic fibres may release plastic microfibres into the atmosphere. Climate 
+changing emissions will have been generated when the products were created and 
+more CO2 will be produced when they are burnt. The waste hierarchy suggests that 
+reuse and recycling comes first. This should be a priority means of dealing with 
+unsold stock. Incineration should only be used as a last resort where there is a health 
+and safety case for destroying the stock. The Government should ban incinerating or 
+landfilling unsold stock that can be reused or recycled. (Paragraph 122)
+14. Our desire for fast fashion, fuelled by advertising, social media and a supply of cheap 
+garments, means we are disposing of over a million tonnes of clothes every year 
+in the UK. Under the UN Sustainable Development Goals, the UK is committed 
+to ‘to ensure sustainable consumption and production’. We need to reduce the 
+environmental footprint of the UK’s textile production and consumption. To do 
+that, we need to reduce textile waste, improve resource efficiency and reduce the 
+carbon emissions and water footprint of the clothes we buy. We need to simply 
+buy less, mend, rent and share more. To support this we recommend that lessons on 
+designing, creating, mending and repairing clothes be included in schools at Key stage 
+2 and 3. The creative satisfaction of designing and repairing clothing can offer an 
+antidote to the growing anxiety and mental health issues amongst teenagers. As 
+well as providing a space to promote creative expression, the skills learnt can also 
+provide a potential pathway towards job opportunities. (Paragraph 130)
+15. The Government must end the era of throwaway fashion. It should make fashion 
+retailers take responsibility for the waste they create by introducing an Extended 
+Producer Responsibility scheme for textiles and reward companies that take positive 
+action to reduce waste. A charge of one penny per garment on producers could raise 
+£35 million for investment in better clothing collection and sorting in the UK. This 
+could create new ‘green’ jobs in the sorting sector, particularly in areas where textile 
+recycling is already a specialist industry such as Huddersfield, Batley, Dewsbury and 
+Wakefield in West Yorkshire. The Government’s recent pledge to review and consult 
+on how to deal with textile waste by 2025 is too little too late. We need action before 
+the end of this parliament (2022). (Paragraph 131)
+16. The Resources and Waste strategy should incorporate eco-design principles and offer 
+incentives for design for recycling, design for disassembly and design for durability. 
+It should also set up a new investment fund to stimulate markets for recycled fibres. 
+(Paragraph 132)
+New economic models for the fashion industry
+17. We need new economic models for fashion which are based on reducing the material 
+consumption associated with growth. The Government should explore how it can 
+support the sharing economy. The Chancellor should use the tax system to shift the 
+balance of incentives in favour of reuse, repair and recycling to support responsible 
+companies. The Government should follow Sweden’s lead and reduce VAT on repair 
+services. (Paragraph 145)
+18. Retailers must take responsibility for the social and environmental cost of clothes. 
+They should use their market power to demand higher environmental and labour 
+60 Fixing fashion: clothing consumption and sustainability
+standards from suppliers. Offering rental schemes, lifetime repair and providing 
+the consumer with more information about the sourcing and true cost of clothing 
+are all measures that can be more widely adopted. Shifting business practice in 
+this way can not only improve a business’s environmental and social impact but 
+also offer market advantage as they respond to the growing consumer demand for 
+responsible, sustainable clothing. (Paragraph 146)

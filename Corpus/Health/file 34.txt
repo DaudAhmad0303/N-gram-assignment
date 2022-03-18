@@ -1,0 +1,25 @@
+Simple test promises early diagnosis of debilitating skin disease
+Harvard University researchers develop method to facilitate Buruli ulcer diagnosis in the field
+31 July 2014 Departmental news Geneva Reading time: 2 min (419 words)
+The accurate diagnosis of Buruli ulcer - one of the most devastating and debilitating neglected tropical diseases – may become common practice in a near future.
+
+Researchers at Harvard University in the United States have devised a rapid diagnostic test using thin-layer chromatography to detect mycolactone, the toxin that causes tissue damage in Buruli ulcer1. Thin-layer chromatography is a commonly used technique in chemistry for identifying compounds in a given mixture. But in this test, researchers used boronate-assisted fluoroscent thin-layer chromatography (F-TLC) to selectively detect mycolactone when visualized with ultraviolet light.
+
+They were able to read the results within one hour.
+
+ Diagnosis of Buruli Ulcer using TLC method
+Diagnosis of Buruli Ulcer using TLC method to detect mycolactone
+Yellow circle: Standard mycolactone A/B; Red circle: Mycolactone A/B from human tissue
+
+This simple test has the potential to become an important tool for field workers involved in Buruli ulcer case detection and treatment.
+
+At the moment, clinical diagnosis of Buruli ulcer relies on well-trained and experienced health professionals. Polymerase chain reaction (PCR) is the most widely used diagnostic test because of its high sensitivity but PCR can be done only in reference laboratories, remote from affected communities.
+
+Significant progress has been made in treating Buruli ulcer over the past few years. WHO recommends combined antibiotics treatment which when given in right doses is highly effective, with a cure rate of almost 80% with antibiotics alone.
+
+An urgent research priority has been the development of a rapid point-of-care diagnostic test.
+
+“Ten years ago, the treatment of Buruli ulcer relied almost entirely on surgery, often requiring wide radical excision and in some cases amputation of limbs” says Dr Kingsley Asiedu, Medical Officer at WHO’s Department of Control of Neglected Tropical Diseases “We hope that the TLC method, once validated in a planned clinical trial, it can be implemented initially at district hospital laboratories to reinforce accurate diagnosis and treatment of patients.”
+
+ 
+In November 2013, WHO and the Foundation for Innovative New Diagnostics (FIND) convened a meeting in Geneva to identify priority areas and gaps for accelerating the development of a rapid test2. The new FIND strategy 2015–20203 will contribute to the development of a rapid diagnostic test for Buruli ulcer.

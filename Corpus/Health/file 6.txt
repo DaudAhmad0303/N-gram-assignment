@@ -1,0 +1,47 @@
+Learning from Korea’s experience monitoring drug and vaccine safety
+HUIHUI WANGPATRICIO V. MARQUEZALBERT FIGUERAS|DECEMBER 17, 2021
+This page in: English
+Korean girl getting Covid-19 vaccine. Photo credit: Shutterstock
+Korea’s remarkable development journey over the past sixty years is an inspiration to many developing countries, and the accumulated experience in different sectors is worth emulating. 
+
+In the health sector, Korea’s pharmacovigilance system is an international best practice.  It is the result of a  continuous and sustained government effort over the past three decades—from small pilot projects to a nationwide monitoring network.
+
+The Korean experience in this field offers valuable lessons to other countries on the vital role that such a system can play in ensuring the safety of drugs post-marketing, which is when they are licensed and approved for general use through prescription or retail purchase.  This is done by monitoring, documenting, and analyzing adverse drug events (ADE)—harm that results during medical care directly caused by a drug or a vaccine (e.g., medication errors, adverse drug reactions, allergic reactions, and overdoses), and from their use (e.g., dose reductions and discontinuations of drug therapy). ADEs can extend hospitalization, lead to physical or mental health damage, and cause death, as well as increase healthcare costs.
+
+The robustness of the system in Korea is demonstrated by the findings of a recent study that show the high degree of completeness in the reporting of ADE by hospitals/clinics, pharmacies, consumers, and pharmaceutical companies in the country. 
+
+Let’s look at the main structural and operational elements of the Korean system.
+
+Legal and Institutional Context
+
+Pharmaceutical products in Korea are regulated by the Pharmaceutical Affairs Act adopted in 1960, and amended in 2002 and 2020.  It includes provisions relating to the manufacture, import, sale, and advertising of drug products and the conditions for licensing, establishing, and operating pharmacies.  It also governs the operation of the pharmacovigilance system.
+
+The Ministry of Food and Drug Safety (MFDS) is the chief governmental body that regulates food, pharmaceuticals, biologics, and medical products and is responsible for overseeing their registration, manufacturing, distribution, and post-marketing surveillance. The Ministry of Health and Welfare (MoHW) focuses on pharmaceutical sales practices, drug pricing rules, and overseeing healthcare institutions.  The National Health Insurance (NHI) scheme, covering the entire population, funds the provision of medicines included in a “positive drug list”.    
+
+Decentralized Drug Safety Monitoring
+
+The Korea Institute of Drug Safety and Risk Management (KIDS) was established in 2012 per Article 68-3 of the Pharmaceutical Affairs Act as a dedicated agency under MFDS to support evidence-based decisions in drug safety by promoting voluntary ADE reporting by healthcare providers, patients, and pharmaceutical companies, assessing drug safety information, performing causality assessments, developing drug utilization review criteria, disseminating safety information, and providing education to the public.
+
+KIDS acts as a center for a nationwide monitoring network comprised of 28 Regional Pharmacovigilance Centers (RPVCs): 26 are local teaching hospitals, one nationwide RPVC (which is the Korea Pharmaceutical Association that is linked with pharmacies across the country), and one RPVC for Korean Herbal Medicines.  Each RPVC monitors ADE reported from local clinics and pharmacies as well as the institutions themselves. They also perform intensive monitoring of drugs used on special populations (e.g., pediatrics, geriatrics) or special medicinal products designated by MFDS.  
+
+The reports from RPVCs provide data and information for the early detection of new, rare, and serious ADE. The paradigm of pharmacovigilance in Korea is expected to further develop in the future to overcome some of the limitations in “passive surveillance” that relies on voluntary ADE reporting (e.g., underreporting) by developing an active surveillance system of post-market drugs (e.g., detection algorithms for drug-induced liver injury using electronic health records, and claim data of NHI). 
+
+Korea Adverse Event Reporting System (KAERS)
+
+KAERS is a computerized ADE reporting system developed by KIDS in 2012. Its database contains more than 1 million ADE reports  from healthcare professionals, consumers, RPVCs, and pharmaceutical companies, as well as reports based on post-marketing surveillance, observational studies such as pharmacoepidemiologic studies to collect safety information of drug products, and other drug adverse reaction surveillance programs.  
+
+As ADEs are an important but preventable patient safety problem, the collected data and information represent a critical resource to improve medication safety in Korea. If new, ADE are detected after drug approval, the MFDS takes action on the basis of guidance by KIDS to inform the public, change a drug's label, or even remove a product from the market.  KIDS also contributes internationally by sending regular reports on ADEs to VigiBase, a global database of suspected adverse effects of medicines, maintained by the Uppsala Monitoring Center that supports the WHO Program for International Drug Monitoring. 
+
+Pharmacoepidemiology and Drug Utilization Reviews
+
+KIDS conducts in-depth review of reports concerning serious ADE and safety signals (information on a new or incompletely documented adverse drug event that warrants further investigation).  KIDS also performs drug utilization reviews for analyzing patterns of drug usage in the Korean health system against predetermined standards. These reviews, first introduced in Korea in the late 1980’s, play a key role in improving the quality of pharmaceutical care by providing prescribers and pharmacists with feedback on their performance and prescribing behaviors to prevent inappropriate drug use. The findings of a study covering several years shows that the undertaking of drug utilization reviews in Korea effectively reduced the incidence of preventable adverse drug reactions.
+
+Takeaways
+
+Medicines, used to treat diseases, manage conditions, and relieve symptoms, are generally safe when used as prescribed or as directed on the label. However, there are risks in taking any medicine. Also, as reported in a study, ADE-related emergency department visits in Korea are a significant factor leading to an increase in direct medical costs, mostly due to hospitalization.  The post-marketed monitoring of drug safety, therefore, is an essential public health function that can help reduce and even prevent the risk of harm for the population, improve medical care, and control health care cost escalation.
+
+The information generated from the reporting and analysis of ADE can also help address public safety concerns and stimulate prompt action.  The rolling out of the COVID-19 vaccination globally in 2021, for example, has shown the importance of having in place robust pharmacovigilance systems for the early detection of a cluster of ADE following vaccination, enabling early responses, including epidemic investigations, causality assessments, appropriate decision-making, as well as strengthening the ability of governments to communicate the benefits of vaccination, and to deliver the vaccines safely and effectively.  Indeed, as suggested by the findings of a recent study in Korea, access to precise data on adverse events following immunization is imperative to secure public confidence on the safety of vaccines and reduce vaccine hesitancy, thereby reducing the health burden from vaccine-preventable diseases.
+
+As the Korean experience illustrates, building capacity in countries to conduct thorough surveillance of the use of all newly authorized drugs, both brand-name and generic, is a critical “public good” investment to ensure that drugs work correctly and that their health benefits outweigh their known risks. 
+
+The team appreciates support provided by the Korea-World Bank Partnership Trust Fund for the undertaking of related knowledge activities.

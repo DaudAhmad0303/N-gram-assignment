@@ -1,0 +1,2974 @@
+Early Neolithic Pits at Cadbury Castle and an adjoining temporary occupation site at 
+Milsom’s Corner, South Cadbury 
+Richard Tabor and Clare Randall
+Extracted from the Proceedings of the Somerset Archaeological and Natural History Society 
+for 2017. 
+Volume 161, 1-48. 
+© 2018 Somerset Archaeological and Natural History Society and the authors. 
+Produced in Great Britain by Short Run Press, Exeter. 
+1SSN 0081-2056 
+1
+EARLY NEOLITHIC PITS AT CADBURY CASTLE 
+AND AN ADJOINING TEMPORARY OCCUPATION 
+SITE AT MILSOMS CORNER, SOUTH CADBURY
+RICHARD TABOR AND CLARE RANDALL
+with contributions from Danielle De Carle, Susan Jones, Fiona Roe
+and David Williams. Illustrations of Finds by Amanda Tabor
+ABSTRACT
+During five seasons of excavations directed by 
+Leslie Alcock from 1966 to 1970 on the multiperiod 
+hillfort at South Cadbury Castle proven and possible 
+Early Neolithic postholes and pits were identified in 
+several trenches on the plateau, under the southern 
+inner bank, and bisected by the Iron Age South 
+West gate passage. A discrete assemblage of Late 
+Neolithic material was discovered under the north 
+bank. The evidence has been treated only cursorily 
+in a popular account of the excavations and in the 
+final reports which focused on the periods following 
+1000 BC (Alcock 1972, 1995; Barrett et al. 2000). 
+Subsequent excavations from 1995 to 1999 by the 
+South Cadbury Environs Project on a spur outside 
+the western ramparts exposed an Early Neolithic 
+occupation hollow and four contemporary pits. 
+There were notable differences in the pottery, bone 
+and worked stone assemblages between the hilltop 
+and on the spur. 
+This paper presents fully for the first time the 
+evidence from the two South Cadbury sites. It 
+considers their place in the Early Neolithic with 
+respect to the better known sites of the period in 
+Wessex and the south west peninsula. The welldated palimpsest from Milsoms Corner is an 
+important contribution to our understanding of 
+day-to-day life at a temporary occupation site and 
+to the topical debate concerning deposit formation 
+in Neolithic pits.
+INTRODUCTION
+From 1966–70 the excavations on the multiperiod 
+hillfort sheltering from the west of the Somerset 
+village of South Cadbury in south-west England 
+(Fig. 1A and B, 1; Fig. 2A) were a centre of 
+international media attention which reached 
+beyond the confines of an archaeological audience. 
+A speculative association with ‘Arthur’ was given 
+tenuous substance with the discovery of Post Roman 
+defences and a hall (Alcock 1995). A remarkable 
+sequence of occupation over the 1st millennium BC 
+through to the 1st century AD excited much interest 
+for students of the Late Bronze Age and Iron Age 
+but this abated with deferral of publication for three 
+decades during which research into hillforts was 
+dominated by Danebury, Hampshire. When the 
+Cadbury report finally appeared presentation of 
+data concerning the Early and Late Neolithic was 
+confined largely to its situation as the precursor of 
+the later sequence of defences (Barrett et al. 2000, 
+53-4 and 86-8). Summary descriptive accounts 
+of the Neolithic phases had appeared in Alcock’s 
+annual summaries and in a popular account of his 
+investigations (Alcock 1968; 1969; 1970; 1971; 
+1972) but they have not received the academic 
+attention they deserve.
+Twenty-five years after the close of Alcock’s 
+programme five seasons of excavation began 
+at Milsoms Corner, a low spur projecting from 
+the hillfort’s lower western slope (Figs. 2A). In a 
+trench with maximum dimensions of 30m by 21m a 
+remarkable prehistoric sequence was sealed beneath 
+sterile colluvium which had formed during the later 
+Iron Age. Earlier Iron Age and Late Bronze Age 
+deposits sealed a Middle Bronze Age ditch which 
+had cut a Beaker burial pit. The cutting of the pit 
+represented an episode during the formation of a 
+soil which covered the site and sealed a group of 
+Early Neolithic features, arising from a probably 
+single brief phase of occupation (Figs. 2B). The 
+discovery, and in particular a study of the entire 
+South Cadbury bone assemblage (Randall 2010), 
+has prompted a review of the evidence from the 
+hilltop.
+15517 - Somerset Arch Vol 161 - 2018.indb 1 20/09/2018 11:50:09
+2
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+Fig. 1 (A) Location of South Cadbury Castle; (B) SCEP study area showing locations
+of test pits and sites with evidence for Neolithic occupation
+15517 - Somerset Arch Vol 161 - 2018.indb 2 20/09/2018 11:50:10
+3
+EARLY NEOLITHIC PITS AT CADBURY CASTLE Fig. 2 (A) South Cadbury Castle and Milsoms Corner trenches; (B) Milsoms corner Early Neolithic features
+15517 - Somerset Arch Vol 161 - 2018.indb 3 20/09/2018 11:50:10
+4
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+The return to the South Cadbury archive (SCCA) 
+has been an iterative process. In the first place 
+finds from well established Neolithic contexts were 
+recorded in full for the first time. There followed a 
+trawl through the written and drawn records from 
+all sites (trenches). It was noted that a significant 
+number of features from which finds had not been 
+described or were lacking had been assigned a 
+Neolithic date in site notebooks and context sheets 
+based on fills coloured varying shades of red. The 
+distinction was less clear cut away from the plateau 
+but it was sufficient to generate a more extensive 
+list of possible Neolithic features. The finds from 
+these features were also recorded where present.
+The Early Neolithic features on the hilltop 
+should probably be regarded as the residues of 
+several occupation episodes, possibly discrete both 
+in time and space. Two radiocarbon assays from a 
+single feature offer the only absolute chronological 
+references and their dates proved to be of a broad 
+span and probably derived from material related 
+to different episodes. At Milsoms Corner six dates 
+derived from three features are sufficiently close to 
+imply a single episode of occupation or, at the very 
+least, the return of a particular group of people to 
+the same place over the span of just a few years.
+Features on South Cadbury hilltop were cut into 
+Upper Inferior Oolite which capped the Yeovil Sand 
+into which off summit features were cut, including 
+those in sites A and D. Milsoms Corner spur 
+was also made up of Yeovil Sand although early 
+colluviation had caused a mixed natural surface. 
+The figures below relating to individual features 
+from the two sites include generous selections of 
+their finds.
+THE MILSOMS CORNER OCCUPATION
+The Early Neolithic pits had significantly different 
+characteristics from each other with respect to 
+shape, size, fills and finds. On the other hand, 
+the lack of weathering of their sides suggests that 
+each had been cut then infilled over a period of no 
+more than a few months. One pit had cut through 
+an early soil horizon but the other feature had been 
+cut directly into natural of slightly reddish yellow 
+sandy clay in an area with maximum extents of 
+15m by 17m in the north-eastern part of the site 
+(Fig. 2B). They were sealed by red sandy clay soil 
+(1065) which formed over a long period during 
+which a Beaker burial pit was cut. Consequently, 
+there is no evidence to suggest that the pits and 
+much of the occupation hollow had been truncated, 
+in contrast to features of the period in many other 
+parts of central and southern Britain (Loveday with 
+Beamish 2012, 100). The fills and finds from the 
+floor area and each pit are summarized in Table 1.
+Floor 1469/1779 and its associated features
+On the north lip of the spur a well-defined hollow or 
+terrace into natural, 551, was exposed over an area 
+of 3.5m by 2.5m midway along the north baulk of the 
+trench (Fig. 3A). The longer measurement was from 
+west to east, following that of the spur. Towards the 
+western end it had been truncated by ploughing but 
+over 2m of its central and western areas reached a 
+depth of 0.15m. The full extent of the east end was 
+not exposed nor was the area under the baulk. A pit, 
+293, which appears to have been cut into a fairly 
+central area within the hollow also continued under 
+the trench’s northern baulk, suggesting that it may 
+have been located on the long axis. The exposed 
+outline of the hollow suggests that the feature was 
+broadly rectangular or square with a putative full 
+extent of approximately 4.7m by 5m.
+The red fill (1097/1731) of the hollow was 
+indistinguishable from soil (1065) which sealed the 
+other Early Neolithic features. It had accumulated 
+gradually over a floor (1469/1779) and the fills of 
+features cut into it, including pit 293. The floor 
+was between 0.03 and 0.06m higher in the area 
+surrounding the pit. A very thin layer of ashy 
+charcoal (1736) was distributed over a slight 
+depression between the pit and the southern edge 
+of the hollow. The ashy spread had a full extent of 
+1.9m by 1.4m but was more concentrated over an 
+area of 0.8m by 1.30m.
+At the baulk the pit was 0.76m wide and 0.16m 
+deep with sharply defined near vertical western 
+and southern edges and a slope of 45 degrees on 
+the east side. The lowest fill (1706) of red sandy 
+clay including abundant charred remains was 
+distinguishable from the upper fill by the greater 
+density of inclusions excepting on the east edge. 
+There, larger charcoal inclusions were at first 
+interpreted as the remains of two stakes burnt in 
+situ in cuts 504 and 505 but may have been the 
+remains of wood left smouldering in the pit. The 
+upper fill (1486) comprised yellowish red, gritty 
+to gravelly, clay with relatively sparse inclusions 
+of charcoal flecks and small lumps. Neither fill 
+displayed clear signs of rapid formation and the 
+upper fill seems more likely to have been formed 
+by gradual silting up of the feature. Given the 
+sharpness of the pit’s edges the process cannot have 
+15517 - Somerset Arch Vol 161 - 2018.indb 4 20/09/2018 11:50:10
+5
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+Cut no. Deposit 
+no.
+Description Finds
+551, 
+hollow
+1097, 
+1731
+Reddish brown silt 8 sherds (23.5g), 319 flints (44 burnt; 
+1 core, 4 rejuvenation flakes, 4 
+bladelets, 31 piercers, 6 scrapers,
+1 arrowhead), 4 bones.
+293,
+pit
+1703 Orangey red grainy silt including sparse grits 
+and small lumps and flecks of charcoal
+No finds.
+1705 Orangey red grainy silt including sparse grits 
+and small lumps and flecks of charcoal
+No finds.
+1486 Greenish grey clay mottled with red silt, 
+flecked with manganese and including grits, 
+some burnt and sparse charcoal flecks
+8 flints, 1 bone.
+1706 Clayey grey silt including frequent small lumps 
+and flecks of charcoal
+1 flint (1 bladelet), 2 bones (1 cow).
+542,
+gully
+1781 Orangey red grainy silt including sparse grits 2 sherds (12.5g), 1 flint.
+551,
+floor
+1469 Light yellow brown grainy silt f;ecked with 
+manganese
+19 flints (4 burnt; 1 bladelet,
+1 piercer)
+1736 Yellow brown clayey silt including frequent 
+smears, small lumps and flecks of charcoal
+No finds.
+1779 Mottled reddish yellow sandy silt including 
+flecks and small lumps of charcoal and grits 
+some burnt to red or blue hue
+1 flint (bladelet)
+619,
+pit
+1839 Red sandy silt including sparse charcoal 
+becoming more frequent in lower part
+7 sherds (52.5g), 30 flints (3 burnt;
+4 bladelets, 4 piercers, 1 scraper),
+6 bones.
+1830 Reddish brown silty clay including sparse 
+burnt red stones and flecks and lumps of 
+charcoal
+14 sherds (42g), 25 flints (2 burnt;
+4 piercers), 1 rubber stone.
+652,
+pit
+1885 Yellow brown sandy silt streaked with 
+manganese and incorporating patches of clay 
+and fire reddened soil. Includes flecks and 
+small lumps of charcoal
+2 sherds (9.5g), 36 flints (8 burnt;
+4 piercers), 5 bones.
+1887 Yellow, soft, slightly silty clay sparsely flecked 
+with charcoal
+1 sherd (4g), 5 flints (2 burnt;
+1 piercer).
+1898 Local deposit of orangey red clay No finds.
+1886 Dark brown to grey silt including frequent 
+charcoal flecks and sparse burnt grits
+8 sherds (71g), 58 flints (49 burnt;
+1 core, 1 bladelet, 3 piercers),
+37 bones (3 medium mammal).
+1899 Orangey red clay 7 sherds (172.5g), 85 flints (70 burnt; 
+10 piercers, 1 knife), 1 stone axe,
+56 bones (4 large mammal, 1 sheep/
+goat, 1 medium mammal).
+1888 Mottled reddish, yellowish brown silty clay 
+including flecks and small to medium lumps of 
+burnt clay and small lumps of charcoal.
+6 sherds (85g), 58 flints (56 burnt; 
+1 piercer, 1 scraper), 55 bones (7 
+medium mammal).
+1900 Medium brown loam including sparse small 
+stones and carbonised wood and hazelnut shell
+10 flints (9 burnt).
+1889 Brown to black loam including abundant 
+carbonised material including wood and hazel 
+nut
+11 sherds (97.5g), 67 flints (46 burnt; 
+1 bladelet, 7 piercers, 1 scraper),
+1 bone.
+2008 1 flint (rejuvenation flake).
+2209 Buff yellow silty clay flecked frequently with 
+charcoal including grits and small fragments 
+of baked clay
+1 flint (burnt).
+TABLE 1 – MILSOMS CORNER: CONTEXT DESCRIPTIONS AND FINDS SUMMARIES BY CONTEXT
+15517 - Somerset Arch Vol 161 - 2018.indb 5 20/09/2018 11:50:10
+6
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+been of long duration. All of the finds could have 
+been part of the incidental accumulation of material 
+following abandonment. 
+The remaining features sealed by (1097/1731) 
+and cutting the floor included at least 7 stake holes 
+in a roughly rectilinear arrangement south-west of 
+pit 293 and around a splayed V-profiled, 0.06m to 
+0.08m deep, gully, 542, with a bulbous northern 
+end, which produced two small pottery sherds 
+and a single flint. It was not possible to determine 
+whether or not slight depressions in the floor 
+below (1736) and a single depression to its east were 
+deliberately cut features. Despite the lack of clear 
+evidence for in situ burning pit 293 is probably best 
+interpreted as a hearth. Finds from the floor surface 
+and features cutting it were very sparse compared 
+with the sealing layer implying that it had been kept 
+clean prior to abandonment. 
+Cut no. Deposit 
+no.
+Description Finds
+726,
+pit
+2280 Very coarse, dark red manganese-flecked silt 
+including sparse flecks and small lumps of 
+charcoal
+13 flints (2 burnt; 1 bladelet,
+1 piercer, 1 rejuvenation flake),
+8 bones.
+2284 Coarse, granular reddish brown manganeseflecked silt mottled with yellowish blue clay 
+flecked sparsely with charcoal
+7 flints (3 burnt; 2 rejuvenation 
+flakes), 1 sandstone bead, 5 bones.
+2285 Yellowish red sandy silt mottled with clay and 
+including small limestone and charcoal
+2 sherds (16.5g), 11 flints (2 burnt;
+2 rejuvenation flakes), 10 bones.
+2294 Coarse dark grey silt flecked frequently with 
+charcoal and including sparse baked clay set on 
+top of quern
+4 sherds (11g), 8 flints (1 burnt),
+1 bones.
+2326 Pale, slightly yellowish grey clay sealing 
+charcoal sticks in 2327
+No finds.
+SF138 Saddle quern, face down
+2347 Soft, pink clayey silt including frequent small 
+to medium lumps of charcoal 
+3 flints (1 piercer).
+2327 Lumps and sticks of charcoal intermingled 
+with sparse burnt red stone
+3 flints (1 burnt; 1 bladelet).
+737,
+pit
+2295 Red brown silty clay including patchy gritty to 
+small stones, flecks of baked clay and frequent 
+flecks and lumps of charcoal, including 
+hazelnut shell
+4 sherds (8g), 98 flints (10 burnt; 
+3 bladelets, 1 rejuvenation flake, 7 
+piercers, 2 scrapers, 2 knives,
+2 leaf-shaped arrowheads), 13 bones 
+(3 medium mammal), 1 quartz 
+fragment.
+2364 Linear deposit of gritty clay burnt to a red hue 6 sherds (48g), 31 flints (8 burnt;
+2 bladelets, 3 piercers, 3 scrapers),
+1 bone (1 pig).
+2362 Dark bluish grey clayey silt including a large 
+proportion of charcoal and carbonised hazelnut 
+shells
+11 sherds (264.5g), 78 flints (12 
+burnt; 2 cores, 1 rejuvenation flake,
+1 bladelet, 1 piercer, 3 knives),
+17 bones, 6 probable quern 
+fragments.
+2365 Dark grey brown coarse clayey loam including 
+frequent small and medium lumps of charcoal 
+and small to large medium lumps half baked 
+clay
+54 flints (14 burnt; 1 core,
+9 piercers), 5 bones (2 pig),
+2 probable quern fragments.
+2366 Re-deposited pale yellow natural clay, 
+including burnt red gravelly stones, frequent 
+small lumps of charcoal and sparse small to 
+medium lumps of clay baked to orange and 
+bright red hues
+4 sherds (118g), 2 flints, 8 bones.
+2367 Interspersed films of red and carbonised black 
+silt visible in plan at plain of cleavage between 
+the base of the pit and 2366. Unclear whether it 
+continued under 2365
+No finds.
+15517 - Somerset Arch Vol 161 - 2018.indb 6 20/09/2018 11:50:10
+7
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+Fig. 3 (A) Occupation hollow, pit 293; (B) pit 619 and selected associated finds
+with rubber stone above 0.1m scale in plate
+15517 - Somerset Arch Vol 161 - 2018.indb 7 20/09/2018 11:50:11
+8
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+The pits and their associated features
+Pit 619, c. 8m south east of the floor, was also 
+interpreted as a hearth. It was a roughly circular, 
+steeply sloping cut of 0.90m diameter (Fig. 3B). On 
+the northern side the base was a maximum of 0.11m 
+below the old natural surface, but towards the centre 
+the depth was only 0.09m. A stone rubber (Fig. 3B 
+plate) was set in a shallow lens of sandy silt at the 
+base of (1830), a more clayey deposit including 
+sparse lumps of charcoal sealing the whole of the pit 
+base. That in turn was sealed by an upper fill (1839) 
+of similar material but lacking charcoal. 
+Four stakeholes, varying in diameter from 0.04m 
+to 0.11m, penetrated the base of the pit. All the cuts 
+into the ground slanted away from the centre of the 
+pit suggesting that the tops of the stakes may have 
+converged over it. The initial filling of the pit was 
+probably fairly rapid but there was no evidence that 
+it had been deliberate. The character of the upper 
+fill was consistent with natural silting. No evidence 
+of in situ burning was noted. 
+A second roughly circular pit, 726, was situated 
+1.30m north of pit 619 (Fig. 4A). The steeply 
+sloping-sided, truncated, conical cut had been dug 
+to an almost level base at a depth of 0.37m below the 
+natural surface. Thin primary silt (2347) including 
+sparse lumps and flecks of charcoal was sealed 
+beneath a complete saddle quern which had been 
+laid face downwards, oriented from south-west 
+to north-east. A lens of charcoal-rich sandy silt 
+(2327) butting onto the long north-western edge of 
+the quern was sealed partly by a small deposit of 
+charcoal-free clay (2326). A deposit of sandy clay 
+(2284) with moderate charcoal inclusions covered 
+(2326) and the edge of the quern. The remainder of 
+the quern was covered by similar soil (2294) with a 
+higher concentration of carbonised material which 
+had built up against the southern side of the quern. 
+Charcoal was rare in sealing silty clay (2280) which 
+had been cut by a Bronze Age posthole, 633.
+The deposit below the quern had the appearance 
+of basal silt which would have formed fairly rapidly 
+from the natural and any covering soil after rainfall. 
+The laying of the quern itself was clearly deliberate 
+as was the covering of it with a charcoal-rich 
+deposit. Thereafter, the pit appears to have silted 
+up naturally. 
+Three closely spaced stake or small postholes, 
+628-30, forming a north to south-oriented 0.40m 
+long line close to the north-west edge of the pit and 
+two similar cuts, 627 and 628, within 1.25m of the 
+pit’s northern edge (Fig. 2B) may have supported a 
+windbreak.
+Pit 652 was a roughly oval, steep-sided cut of 
+1.09m from NNW to SSE and 0.80m from WSW 
+to ENE (Fig. 4B). It was generally flat-bottomed at 
+0.29m below the level of natural, excepting an oval 
+cut, 664, towards the north end of the pit of 0.14m 
+by 0.25m which was 0.02m deeper. It cut through 
+the pit’s thin layer of sandy clayey basal silt (2209) 
+which included only rare lumps of charcoal. 664 also 
+cut a build up of sandy clay (1889) which included 
+sparse to moderate amounts of carbonized material 
+and lumps of soft, oxidized semi-baked clay. The 
+cut itself was filled with loam-like soil (1900) with 
+sparse inclusions of soft local sandstone and lumps 
+of charcoal. It was sealed by a deposit of sandy clay 
+(1888) including abundant carbonised hazel shell 
+and a moderate number of pieces of partially baked 
+clay. Around the sides of the pit (1888) was covered 
+by orangey-red clay including only very sparse 
+carbonized material. A 0.07m deep deposit of silty 
+clay (1886) lying directly over (1888) and butting 
+(1899) may have been cut towards its southern end. 
+A substantial proportion of the site’s heavily burnt 
+bone was recovered from these three contexts. A 
+possible re-cut was filled with similar material 
+(1887) which covered the entire surface of (1886). 
+Both (1886) and (1887) contained very few charred 
+remains. All of the middle and lower fills, with the 
+exception of (2209) appeared to have been rapid 
+deliberate deposits. In contrast, the upper fill of 
+red sandy silt (1885) may have formed by slower, 
+natural processes.
+The distribution of the full range of finds by 
+context in 652 is biased strongly towards the middle 
+fills (Table 1) and the mean weight of pottery sherds 
+in 1899 was at least twice that of those from other 
+contexts and two of them appeared to be deliberately 
+associated with a stone axe (Figs 4, plate; Fig. 5, 5 ). 
+Finds were sparse in the primary and tertiary silts.
+Pit 737 was similar in shape and orientation to 
+pit 652 but much larger. It measured 1.83m from 
+NNW to SSE and 1.30m from WSW to ENE (Fig. 
+6). It was generally flat bottomed at 0.38m below 
+the surface of an early soil (2308), which it cut, but 
+dipped to up to 0.10m deeper at the southern end. 
+There appeared to have been narrow horizontal cuts 
+into the pit wall in two places low and one higher 
+on the east side and in one place towards the south 
+end of the west side. Pit 737 was the only Early 
+Neolithic feature which demonstrably cut a soil 
+horizon overlying natural. The entire northern and 
+central pit floor was covered by a very thin film 
+of red silty clay mottled with black carbon stains. 
+It was sealed by 0.05m deep basal in-wash of silty 
+15517 - Somerset Arch Vol 161 - 2018.indb 8 20/09/2018 11:50:11
+9
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+Fig. 4 (A) Pit 726, selected associated finds and plate showing quern in situ; (B) pit 652, plate showing 
+context 1886 during excavation and, in situ, vessel 5 in two pieces with Cornish axe
+15517 - Somerset Arch Vol 161 - 2018.indb 9 20/09/2018 11:50:11
+10
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+clay (2366) incorporating frequent small lumps of 
+charcoal and some soft, fire-reddened, lumps of 
+clay. The depression at the southern end may have 
+been a cut through the pit floor made after the 
+formation of (2366). It was filled with dark grey 
+brown clayey loam (2365) with a much greater 
+concentration of charcoal and fire-reddened clay 
+than (2366). It had formed to a thickness which 
+raised it slightly above the latter. Clayey silt (2362) 
+spread over and entirely sealed (2366). On the west 
+side of the pit a 0.87m long and 0.10m to 0.24m wide 
+bank of gritty partially baked red clay (2364) lay 
+over the central and southern areas of (2362) and 
+the north of (2365). All the deposits were sealed 
+by a middle and upper fill of red brown silty clay 
+(2295) which included patchily frequent flecks and 
+lumps of charcoal and rare flecks of baked clay. 
+The lack of weathering of the pit sides implies that 
+(2295) formed or was deposited over a fairly short 
+period. The pit and fills were sealed by the slowly 
+formed red silt (1065) which had been penetrated by 
+a posthole 785 which cut through all the pit fills as 
+far as the base.
+The distinction in the volume of finds between 
+the middle and other fills was less clear cut than 
+in pit 652 but the overall proportion of complete 
+flaked flints was greater (Fig. 7). However, there 
+was a similarly strong bias of sherd size and number 
+towards the middle fills and quern fragments were 
+exclusive to them. 
+Fig. 5 Selected finds from pit 652
+15517 - Somerset Arch Vol 161 - 2018.indb 10 20/09/2018 11:50:11
+11
+EARLY NEOLITHIC PITS AT CADBURY CASTLE Fig. 6 Pit 737 in plan with deposit 2362 and clay ridge 2364 exposed and after their removal
+15517 - Somerset Arch Vol 161 - 2018.indb 11 20/09/2018 11:50:12
+12
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+SOUTH CADBURY HILLTOP
+The review of the Cadbury archive supports the 
+Early Neolithic dating of 12 cut features within 
+the area enclosed by (Fig. 8) and under (Fig. 9A) 
+the inner bank of the hillfort. Further cuts had 
+previously been allocated to the period based on red 
+soil fills, offering the possibility of distinct feature 
+clusters. However, some of these can be placed 
+confidently within the Middle Bronze Age (Fig. 8). 
+In general the cut feature together with its fills was 
+the smallest unit of analysis during the excavations. 
+In some instances individual fills were given 
+complex descriptions but these were not sufficient 
+to represent formation processes. Only the Early 
+Neolithic features have been tabulated (Table 2) and 
+only those with fuller records are described below.
+Plateau
+The plateau of Cadbury Castle comprises a ridge 
+extending for c. 170m from west to east, scarped 
+on the southern side and dipping more gently to 
+the north. The trenches excavated from 1966-
+70 were described as ‘sites’ and labeled from ‘A’ 
+to ‘W’. Well-attested Early Neolithic features 
+were identified in the western- and eastern-most 
+Fig. 7 Selected finds from pit 737
+15517 - Somerset Arch Vol 161 - 2018.indb 12 20/09/2018 11:50:12
+13
+EARLY NEOLITHIC PITS AT CADBURY CASTLEFig. 8 Location within sites/trenches of pre Late Bronze Age features on the plateau of South Cadbury Castle
+15517 - Somerset Arch Vol 161 - 2018.indb 13 20/09/2018 11:50:12
+14
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+trenches and were most frequent towards the centre 
+and at the eastern end. All were pits, excepting an 
+apparently linear cut on Site E (Fig. 8, E886). 
+A pit P152 cutting into the upper fill of pit P154 
+and including a truncated human burial was filled 
+with red clay which included some charred material 
+within which hazel shell was noted (SCCA). 
+Although probably Neolithic, it is likely to be of 
+significantly later date than the lower pit. The fill 
+of P154 was distinguishable from that of P152 by 
+the relatively darker red clay. Charred material 
+including hazel shell was present again (SCCA). 
+The pit sides were nearly vertical and the base 
+roughly level, extending below the deepest cut of the 
+intrusive posthole P153 to give a length of 1.10m. It 
+was 0.31m deep (Fig. 9B). The photographic record 
+shows that a range of bone including cattle, pig, 
+deer antler and a human mandible was discovered 
+in mid fill during excavation in plan. Pit C817 also 
+included human bone and the section drawing 
+implies at least two different fills (Fig. 10A).
+Pit P352 was truncated by an Iron Age roundhouse 
+Fig. 9 (A) Location within sites/trenches of pre Late Bronze Age features below the inner bank
+of South Cadbury Castle; (B) pits 152 and 154 with selected associated finds
+15517 - Somerset Arch Vol 161 - 2018.indb 14 20/09/2018 11:50:12
+15
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+Cut no/ 
+type
+Length 
+(m)
+Width 
+(m)
+Depth 
+(m)
+Description Finds
+C817,
+pit
+1.80 0.35 Concave-sided and based pit filled 
+with very red soil, including burnt 
+stone and charcoal
+29 sherds (431g), 27 flints 
+(14 burnt), human bone
+D645,
+surface
+Possible buried soil lying over 
+disturbed natural which initially had 
+been interpreted as a Neolithic bank.
+27 flints (9 burnt: 1 core, 
+1 piercer, 2 scrapers)
+D654,
+hearth
+Recorded as area of dense charcoal 
+and small burnt stones partially 
+enclosed by an arc of small unburnt 
+stones ‘in’ Neolithic occupation 
+layer. Neolithic pottery was 
+recorded as present but has not been 
+found 
+D655,
+surface
+Occurring at same level as D654 but 
+distinguished by higher incidence of 
+charcoal.
+1 sherd (8g),125 flints (53 
+burnt: 4 cores,
+1 rejuvenation flake,
+16 piercers, 2 scrapers,
+1 knife, 1 arrowhead
+D660,
+pit
+0.90 0.70 0.38 Appeared to comprise two cuts, 
+the lower and earlier of 0.70mm, 
+diameter with initial fill separated 
+from the upper by two flat stones 
+and by a ‘bright red layer’.
+10 sherds (252g), 10 flints 
+(1 core, 1 piercer,
+1 scraper, 1 knife)
+E774,
+pit
+1.28 1.08 0.34 Concave-sided and based oval pit 
+filled with purple red clay including 
+stony patches and localised sparse 
+charcoal 
+13 sherds (58g), 69 flints 
+(21 burnt; 1 core, 1 
+rejuvenation flake,
+3 piercers)
+E885,
+pit/gully
+0.68 Either at the terminal end of gully 
+E886 or simply the terminus of the 
+latter. Filled with purple clay
+27 sherds (49.5g), 119 
+flints (8 burnt; 3 cores,
+1 rejuvenation flake,
+3 bladelets, 12 piercers, 2 
+scrapers, 1 knife,
+1 arrowhead)
+E886
+gully
+10.00+ 0.68 U-shaped ditch oriented south to 
+north of which over 6m length was 
+exposed. Filled with purple red clay 
+including some lumps of charcoal
+1 sherd (5g), 3 flints
+(3 burnt; 1 core, others 
+missing)
+G048,
+pit
+1.05 0.80 0.20 Dish-shaped cut. The upper fill on 
+the west side of pit comprised ‘black 
+humus’ whilst the soil on the east 
+side was described as loamy. The 
+section shows what was interpreted 
+as a post pipe between the two. The 
+upper fills overlay ‘red earth’ which 
+included frequent lime stones near 
+the base of the feature
+53 sherds (358g), 4 flints 
+(1 piercer, 1 knife, others 
+missing?)
+N047,
+pit
+0.95 1.00 0.25 Basin shaped cut filled with varied 
+reddish/purple clay including 
+significant amount of charcoal, 
+including hazel shell, and burnt 
+bone
+10 sherds (7.5g), 1 flint
+(1 piercer; others missing)
+N235,
+hollow
+0.25 Irregular cut or hollow 12 sherds (13.5g), flint 
+missing
+TABLE 2 – SOUTH CADBURY CASTLE: CUT AND FILL DESCRIPTIONS AND FINDS SUMMARIES BY CUT
+15517 - Somerset Arch Vol 161 - 2018.indb 15 20/09/2018 11:50:12
+16
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+gully, hence its full extent was not determined. It 
+appeared to have been oval in plan and survived 
+with extents of 0.80m by 0.50m to a depth of 0.30m 
+(Fig. 10B). The single fill was noted to be dark red 
+soil with inclusions of burnt rock (SCCA). 
+E885 was described as a pit forming part of 
+the southern end of an at least 6m long and up to 
+0.22m deep south to north oriented U-shaped gully, 
+E886. The section drawing suggests that it may 
+have been cut by the gully and that the latter was 
+approximately 1m wide (Fig. 10C). E886 resembles 
+linear cuts which have formed parts of early 4th
+millennium rectangular structures. However, 
+associated features of comparable depth would 
+have survived below the level of plough truncation 
+on site E so that it is unlikely that there were any. 
+The cuts and fills of the remaining plateau pits are 
+summarized in Table 2 (Figs. 10D, 11 and 12A and 
+B).
+Below the inner bank
+The inner bank on the south side of the hill sealed 
+several features which were identified as Neolithic 
+during the excavations. An area of disturbed natural 
+interpreted as an old ground surface (D645) with 
+sporadic inclusions of charcoal (D655) suggesting 
+occupation was sealed beneath a deposit including 
+Late Bronze Age pottery, D636 (Barrett et al. 2000, 
+54). During its formation ‘at least a semicircle 
+of small unburnt stones’ was laid out, partially 
+enclosing a dense charcoal deposit and ‘many 
+small burnt stones’ (D654) (SCCA). The feature 
+was interpreted as a hearth and records show that 
+Neolithic pottery was present, although it has not 
+been found during the present research. Large 
+sherds of pottery from a pit, D660, 2.6m north of 
+D654, were exclusively Early Neolithic. The section 
+drawing of the pit shows that the fill rose well 
+above the level of the cut, forming a mound which 
+survived presumably because it had been protected 
+by later earthworks (Fig. 12C). The circular upper 
+part of the pit was 0.80m in diameter and appeared 
+to cut the fill of the lower part which had a smaller 
+oval plan. Two large, flat stones appeared to have 
+been laid in the middle of the lower cut fill.
+The only other authenticated Neolithic context 
+was a soil, A127, exposed under the north inner 
+bank. This was dated by substantial sherds from a 
+Cut no/ 
+type
+Length 
+(m)
+Width 
+(m)
+Depth 
+(m)
+Description Finds
+N297,
+pit
+0.37 Irregularly cut sides and base. 
+Upper 0.20m fill of reddish brown 
+clay including stones, some burnt 
+and charcoal. Lower fill of reddish/
+yellow sand including stones, some 
+burnt and charcoal. South to southwest side truncated.
+29 sherds (221g), 19 flints 
+(1 burnt; 3 piercers)
+P152,
+pit
+0.80 0.09 Bright red clay including charcoal 
+with hazel shell. Darker red around 
+human burial. Pit and burial 
+truncated by post hole and by 
+ploughing
+5 sherds (22.5g), 1 chert,
+1 flint (1 burnt)
+P154,
+pit
+1.10 0.31 Near vertical-sided uneven-based 
+pit filled with red clay darker than 
+that of P152 including charcoal with 
+hazel shell 
+7 sherds (151g), 8 flints
+(1 burnt; 2 piercers,
+1 knife)
+P352,
+pit
+0.80+ 0.50 0.30 Steeply sloping sided oval pit with 
+fairly flat base filled with dark red 
+sandy soil including burnt stone. Cut 
+by an Iron Age roundhouse ditch
+146 sherds (845.5g), 
+1 flint (1 core; others 
+missing), 1 quern 
+fragment
+T260,
+pit
+0.85 0.29 Filled with red soil including several 
+large flat stones just above base 
+(most flint missing)
+27 sherds (495g), 1 flint
+(1 scraper; others 
+missing), 1 quern 
+fragments
+T269,
+pit
+0.70 0.30 Filled with darkish red soil 
+including several large stones. Cut 
+by later gully and post hole.
+21 flints (2 burnt;
+3 piercers)
+15517 - Somerset Arch Vol 161 - 2018.indb 16 20/09/2018 11:50:13
+17
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+Fig. 10 (A) Pit C817; (B) pit P352; (C) pit E885; (D) pit E774 and selected associated finds
+15517 - Somerset Arch Vol 161 - 2018.indb 17 20/09/2018 11:50:13
+18
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+Grooved Ware vessel. A stake hole (Alcock 1970, 
+16, plate VIIa; 1972, 113, plates 21-2) found close 
+to the sherds had been inserted into the soil during 
+its formation and was presumed contemporary 
+with the vessel. Unfortunately conflation of two 
+unrelated contexts, A027 and A127, led to errors 
+in the attribution of finds. It is likely that most, 
+if not all, of 126 flint pieces allocated to the Iron 
+Age ditch A027 were from A127. Some, possibly 
+all, of 16 sherds allocated to A027 are likely to be 
+Neolithic and one, at least, predates the Grooved 
+Ware vessel.
+The most expansive and densest area of 
+potentially Neolithic features on the hilltop was 
+identified on either side of the gate passage at site K. 
+The features have been interpreted as components of 
+two rectangular structures, K4 and K6 (Woodward 
+and James 2000, 86-8; fig. 41). The features cut a 
+‘frost-fractured or relaid’ reddish gravelly layer 
+(SCCA). However, a very few flints, bones and three 
+Fig. 11 (A) Pit N047; (B) pit N235; (C) pit N297; (D) pit G048 and selected associated finds
+15517 - Somerset Arch Vol 161 - 2018.indb 18 20/09/2018 11:50:13
+19
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+indeterminate pottery sherds were the only finds 
+from the features. At least three cuts, K845, K851 and 
+K865, had ‘reddish’ fills but the soil colours for other 
+features ranged from ‘dark brown soil’ and ‘brown’ 
+to ‘orange brown’ (K551, K778, K788, K788, K875; 
+SCCA). The conjoined pit-like linear features on the 
+east side of the passage lacked positive evidence for 
+dating beyond a later Bronze Age TAQ indicated by 
+stratigraphy and radiocarbon dating. The pits and 
+postholes west of the hollow appear to relate to the 
+approach to the interior hence are unlikely to predate the later Bronze Age. Results of geophysical 
+survey of the hillfort interior in 1992-3 showed a 
+possible west to east oriented, 120m long hollow 
+way 35m north of the south west gate (Johnson 
+1993, 4.1, fig. 7; Tabor 2008, 44). It would have been 
+a continuation of the western approach to the hill 
+as it survives between the two outer ramparts and 
+as such suggests that there had been more direct, 
+and much steeper, route predating the ramparts and 
+analogous to the opening on the east side of the hill. 
+A hollow way on such a scale would not have formed 
+prior to the Neolithic and is likely to have been many 
+centuries in forming. Presumably the introduction 
+of wheeled traffic necessitated the change of course 
+to a gentler ascent via what became the south west 
+gate. The lowest features below the inner bank may 
+relate to that change.
+Fig. 12 (A) Pit T260; (B) pit T269; (C) pit D660 and selected associated finds
+15517 - Somerset Arch Vol 161 - 2018.indb 19 20/09/2018 11:50:14
+20
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+REMARKS ON THE RADIOCARBON DATES
+Leslie Alcock targeted radiocarbon dating at 
+several potentially Neolithic contexts. In the 
+event only two from secure contexts proved to be 
+of the period, both from pit P154B, and although 
+they overlapped, subsequent recalibration has 
+broadened their combined time span at 2 sigma to 
+3780-2780BC (Table 3; Alcock 1980, 708-9; Bayliss 
+et al. 2000, 370-1). Both dates overlap with all the 
+Milsoms corner dates at 2 sigma and all but one of 
+them at 1 sigma. More significantly the Milsoms 
+Corner dates correlate well with each other. If the 
+outlying date from (2362) is excluded a centroid 
+range of the remaining five dates is limited to 
+3589 to 3579BC at 1 sigma and for all six dates the 
+range extends from 3589 to 3502BC at 2 sigma. The 
+clustering of the dates within a narrow span at 1 
+Sigma implies that the filling of the pits took place 
+either during a single episode or in several episodes 
+over a short period. The mean of five centroid dates 
+of 3582BC at 1 sigma may be more apposite than 
+that of 3524BC for six dates at 2 sigma.
+THE FINDS
+Most of the finds assessed below are from contexts 
+which either are, or may possibly be, of Early 
+Neolithic date, or which occur in contexts of slow 
+formation sealing deposits of that date or of wellprovenanced Late Neolithic date. The dating of all 
+Milsoms Corner Early Neolithic features and the 
+floor is very secure. Grooved ware and other sherds 
+from site A and fragments from Middle Neolithic 
+vessels from Sigwells, a little over 1km to the south 
+east (Fig. 1B), have been described and illustrated 
+below for the sake of completeness. The flints from 
+a soil associated with the Grooved ware have been 
+included as comparanda.
+In addition to placing the Cadbury material in 
+a regional context and to the dating of a general 
+phase and of particular features the analyses 
+address evidence for functional variations between 
+the hilltop and the low spur and between individual 
+features. Consideration is given also to whether or 
+not comparable intra site patterns are discernible 
+within Early Neolithic pit groups from much 
+further afield.
+The pottery
+by Richard Tabor
+The pottery comprises all of 161 sherds (1168g) 
+from the securely dated pits at Milsoms Corner and 
+380 sherds (2949g) from pits judged to be Early 
+Neolithic on the South Cadbury hilltop. Most of the 
+Milsoms Corner sherds had suffered badly from 
+loss of inclusions whereas those from the hilltop 
+had a much better retention rate. Whilst water will 
+have played a part in the dissolving of calcareous 
+inclusions the predominant limestone geology of the 
+hilltop may have been more conducive to survival 
+in contrast to the clayey sand of the spur. Some pits 
+from the hilltop, notably F589, included significant 
+amounts of Early Neolithic pottery but have been 
+excluded as enough later pottery was also present 
+to indicate that the feature was either disturbed or 
+later but with residual material. The mean sherd 
+weights from the two areas are respectively 7.3g 
+and 7.8g but vary considerably from pit to pit. An 
+assessment of the combined forms and fabrics 
+of the two assemblages showed that there were a 
+minimum of 12 vessels from Milsoms Corner and 
+18 from the hilltop. The Milsoms Corner material 
+was quantified within each fill and within each 
+TABLE 3 – RADIOCARBON DATES FROM THREE MILSOMS CORNER PITS AND SOUTH CADBURY HILLTOP PIT P154
+Site Cut/fill species lab ref date BP cal BC 1 sig cal BC 2 sig
+SCP 154i hazel shell I5972 4705 +/- 115 3640 – 3350 3780 – 3100
+SCP 154ii antler I5970 4460 +/- 120 3350 – 2920 3510 – 2780
+MC F293/1706 hazel shell OXA-26984 4773 +/- 30 3635 – 3527 3641 – 3385
+MC F652/1888 hazel shell OXA-26985 4809 +/- 31 3643 – 3535 3653 – 3524
+MC F652/1889 hazel shell OXA-26986 4780 +/- 31 3637 – 3529 3643 – 3389
+MC F652/1886 hazel shell OXA-26987 4762 +/- 30 3634 – 3523 3640 – 3384
+MC F737/2365 hazel shell OXA-26988 4766 +/- 30 3634 – 3525 3640 – 3384
+MC F737/2362 hazel shell OXA-26989 4709 +/- 30 3625 – 3379 3631 – 3373
+15517 - Somerset Arch Vol 161 - 2018.indb 20 20/09/2018 11:50:14
+21
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+pit but on the hilltop most pits were assigned only 
+one fill and where more there was ambiguity of 
+reference. The classification of rim and vessel 
+forms was based on that developed for Windmill 
+Hill and Carn Brea (Smith 1965, 48; 1981) and 
+adjusted for Maiden Castle (Cleal 1991a, 173-9). 
+Bracketed numbers in this section refer to sherds 
+in figures 3-12.
+The fabrics
+All sherds were examined individually at x8 
+magnification using a graduated linen tester 
+lens. Three general ware groups were identified 
+based on inclusions of grog or clay pellets, calcite 
+and limestone mixtures, although it was often 
+necessary to rely on the shape and size of voids for 
+the Milsoms Corner assemblage in particular. The 
+groups were subdivided according to the presence 
+of other inclusions. 
+Grog/clay pellet and mixtures
+B Fine fabric including ovoid to multi-lobed 
+iron-rich clay pellets, usually rounded (<1to 
+3mm) with sparse subangular grains of 
+quartz (<2mm). Red to buff brown exterior 
+surfaces, dark grey interior surfaces. Poorly 
+fired. Often soft.
+V Coarse to moderate fabric, including 
+abundant rounded or slitted voids and sparse 
+to moderate clay pellets. The voids may 
+indicate where fine crushed shelly limestone 
+has dissolved. Surfaces are usually buff 
+to grey. Poor to moderate firing. Probably 
+equivalent to Fabric B.
+Calcite and mixtures
+Q A moderately coarse fabric including calcite 
+rhombs, from <1 to 4mm. Buff brown to dark 
+grey exterior, buff to light grey core and buff 
+to dark grey interior. Moderately well fired.
+E A coarse, friable fabric including including 
+calcite rhombs, from <1.0 to 4.0mm and 
+variable proportions of fossil plate and 
+crushed shell. Buff to patchily oxidised red, 
+exterior, buff to light grey core and buff to 
+dark grey interior. Moderately well fired.
+Fossiliferous limestone and mixtures
+K Coarse to moderate, friable fabric including 
+sparse to moderate plate and/or moderate to 
+abundant crushed fossil shell and sparse grog 
+pellets. Exterior surface colour ranges from 
+buff pink to black. Interior surface ranges 
+from buff, through light grey to dark grey. 
+Moderately well fired.
+R Coarse to moderate, friable fabric including 
+sparse to moderate plate and/or moderate to 
+abundant crushed fossiliferous limestone. 
+Exterior surface colour ranges from reddish 
+brown to black. Interior surface ranges 
+from buff, through light grey to dark grey. 
+Moderately fired.
+S Fine fabric, including common angular 
+and subangular voids and usually grog as 
+well as sparse to moderate mica and rare to 
+sparse iron. The voids may result from the 
+dissolving of limestone/calcite. Typically, 
+where vessels are thin-walled, the exterior 
+shows traces of burnishing. The fabric is 
+usually grey to black throughout, although 
+occasionally buff. Often poor firing.
+T Coarse to moderate fabric, including sparse 
+to moderate crushed fossiliferous limestone 
+and sparse to moderate quartz (up to 1 mm). 
+Surfaces are usually buff to grey. Moderate 
+firing.
+Z Coarse to moderate fabric, including 
+abundant rounded or narrow slitted voids. 
+In the main the voids occur fossiliferous 
+limestone has dissolved. Surfaces are usually 
+buff to grey. Moderate firing. Equivalent to 
+Fabric R.
+Four Early Neolithic sherds from Milsoms Corner 
+formed part of a sample of 24 spanning the Early 
+Neolithic to Late Bronze Age submitted for 
+petrological analysis by Professor Timothy Darvill, 
+with PXRF chemical analysis by Derek Pitman and 
+Kerry Barrass. The full range of sherds fell within 
+three distinctive chemical groups, A to C. The four 
+Early Neolithic sherds all belonged to group C 
+which included ‘High levels of silica and very little 
+calcium’ (Pitman & Barrass unpublished). The thin 
+sections suggested that the sherds were distributed 
+across three clay types, two of which, A and C, 
+included at least moderate amounts of quartz. B was 
+iron-rich and included clay pellets which resembled 
+grog. Type A was strongly micaceous but the other 
+two types were only slightly so. Two fabric S 
+sherds, (3) and (10), were found to be respectively of 
+clay types A and C and two sherds in fabrics B and 
+V, (5) and (6), were both of clay type B. Iron rich, 
+fine grained sandstone fragments were observed 
+in (5) and may match a variety of Mendip Old Red 
+Sandstone found in Iron Age Glastonbury Wares. 
+Clay type C was noted to resemble Gault clay from 
+15517 - Somerset Arch Vol 161 - 2018.indb 21 20/09/2018 11:50:14
+22
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+west Wiltshire, implying a source 10-20km east or 
+north-east of Cadbury (Darvill unpublished).
+The silicaceous character of the chemical 
+group C sherds from Milsoms Corner undermines 
+the calcareous interpretation of the voids in 
+macroscopic fabrics S and V. As a consequence 
+there is a considerable disparity between fabrics of 
+sherds from the spur and the hilltop. Macroscopic 
+identification on the hilltop was more reliable due 
+the generally good survival of inclusions. At the 
+very least it would appear that different sources 
+were being used by the potters. It is notable that 
+in many respects sherds in Fabric R have a strong 
+resemblance to fossil shell tempered pottery current 
+during much of the Iron Age which probably derived 
+from very local sources.
+Both shelly limestone and calcite mixtures 
+feature in the Early Neolithic assemblage on 
+broadly similar geology at Hazleton North (Smith 
+& Darvill 1990, 141-5),
+Decoration and surface treatment
+The only unambiguously decorated sherd was 
+from pit 737 (12). Sharply tooled cross-hatching 
+on its exterior, forming oblongs, appears to be of a 
+design unique for the period, although the tooling 
+is comparable with that on the necks of some 
+Mildenhall style vessels at Spong Hill (Healy 1988; 
+fig. 70, P121). It is unclear whether parallel lines 
+are on the inner or outer surface of a thin, very 
+flaky sherd from pit F737 (11). There were similar 
+markings on the inner surface of a thin sherd from 
+Maiden Castle (Cleal 1991a; fig. 142, 19). A sharply 
+incised, apparently horizontal groove on a sherd (8), 
+possibly from bowl (6), is probably an impression 
+left by a piece of organic matter.
+The surfaces of Milsoms Corner vessels (1) 
+to (6) were soapy to touch and may all have been 
+burnished or smoothed although this could not be 
+established with certainty due to their condition. 
+No evidence was found for carbon ‘painting’ 
+which has been posited for sherds from Carn Brea, 
+Hembury, Windmill Hill, and the exceptionally 
+well-preserved examples from the Sweet Track 
+(Kinnes 1979, 52, Coles and Orme 1984, 44). The 
+vulnerability of the surface treatment was noted at 
+Hambledon Hill, where it survived on only a very 
+few sherds from a large assemblage (Smith 2008, 
+591) and it was not remarked upon at Maiden Castle 
+(Cleal 1991a). However, Timothy Darvill has noted 
+a possible ‘pink-red internal coating or slip’ on (10) 
+from pit 737 (forthcoming, appendix 1) and a large 
+straight-sided bowl from N297 retained smoothed, 
+black surfaces.
+Rim forms
+Rims were classed in three tiers according to the 
+dominant aspect of their physical form; the attitude 
+of the rim in relation to vertical; and the finish of 
+the rim. The rim form classes were: A – simple; B – 
+rolled-over; C – outwardly expanded; E – T-shaped; 
+and F – inwardly extended. The attitudes of the 
+rims in relation to vertical were: 1 – out-turned; 
+2 – upright; 3 – inturned. The finishes of the rims 
+TABLE 4 – MILSOMS CORNER: RIM FORM, ATTITUDE AND FINISH
+Form A B C E F
+simple rolled ext expanded T-shaped int extended
+5 3 1
+% 55.6 33.3 11.1
+Attitude 1 2 3
+everted upright inturned
+2 3 4
+% 22.2 33.3 44.4
+Finish a b c
+rounded tapered flattened
+ 9
+% 100
+15517 - Somerset Arch Vol 161 - 2018.indb 22 20/09/2018 11:50:14
+23
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+were: a - rounded; b - tapered; c - flattened. All the 
+illustrated rims can be classified according to these 
+criteria, and across the three groups there are one or 
+more examples of every class, although not of every 
+combination of classes. (Tables 4 and 5). 
+The most frequent variation between the two 
+South Cadbury sites is the occurrence of external 
+expansion of rims on the hilltop and its absence 
+from the spur. Also worthy of note is the type E 
+rim from pit 737 (10) and the type F from D660 
+(33). Whilst the number of sherds is too small for 
+meaningful statistical analysis it is notable that 
+the latter types are rare elsewhere. No type E rims 
+are recorded from Carn Brea, Maiden Castle and 
+Whitesheet Hill (Smith 1981, 164; Cleal 1991a, 
+173; Cleal 2004, fig.9) and they formed only 1.1% 
+of the large assemblages from Hambledon Hill 
+(Smith 2008, 589; fig. 9.7, P87, P94). However, they 
+made up 12.7% of the classified rims at Windmill 
+Hill (derived from Smith 1965, fig. 11), although 
+that figure was inflated through the inclusion of 
+Mortlake sherds. Type F rims are rare in Mildenhall 
+assemblages but at Windmill Hill they accounted 
+for 2.9% of the rims (derived from Smith 1965, fig. 
+11) and for 1.3% and 0.7% of those at Hambledon 
+Hill and Maiden Castle (Smith 2008, 589; Cleal 
+1991a, table 56). The presence of one of each type 
+from South Cadbury is surprising given the small 
+assemblages. The prevalence of simple rims over 
+rolled and externally expanded rims is typical, 
+although not as pronounced as elsewhere.
+Lugs and cordons
+Five Early Neolithic lugs were recovered from 
+Milsoms Corner and three from pits on the hilltop. 
+Two horizontally perforated, round or knob-shaped 
+lugs, one from pit 619, and one from a general layer 
+were probably from a single highly burnished black 
+vessel. The tenon survived on one as did a spread 
+of sealing clay around it, strongly suggesting that 
+it become detached from its socket (2). A sherd 
+in pit 726 with an empty fully perforated socket 
+immediately below the neck was from a vessel of 
+similar fabric and finish (4). A larger vertically 
+perforated knob was attached to a neutral bowl 
+in D660 (32). Two horizontally perforated oval 
+lugs were attached high on opposing shoulders of 
+a vessel from pit 652 (6). Both of two horizontal 
+elongated lugs were imperforate in pits 737 (10) and 
+E774 (27). Shallow cordons on sherds from pits 652 
+and N297, one with a D (5) and one with a V profile 
+(25) appeared to have been moulded just above the 
+line of maximum girth.
+All of the lug types are represented elsewhere 
+in South-Western Bowl assemblages although the 
+distribution of types varies considerably. Perforated 
+and imperforate oval lugs were well-represented at 
+Carn Brea, Windmill Hill and Maiden Castle but 
+round knob forms are rare and usually imperforate 
+if they occur (Smith 1981, 168-70; 1965, 50; Cleal 
+1991a, 179-80). The absence of trumpet lugs in the 
+Cadbury area may be due to the assemblage size, 
+although a smaller group from Whitesheet Hill 
+TABLE 5 – SOUTH CADBURY HILLTOP: RIM FORM, ATTITUDE AND FINISH
+Form A B C E F
+simple rolled ext expanded T-shaped int extended
+9 5 3 1
+% 50.0 27.8 16.7 5.6
+Attitude 1 2 3
+everted upright inturned
+6 9 3
+% 33.3 50.0 16.7
+Finish a b c
+rounded tapered flattened
+12 1 5
+% 66.7 5.6 27.8
+15517 - Somerset Arch Vol 161 - 2018.indb 23 20/09/2018 11:50:14
+24
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+includes an example (Cleal 2004, P17). The instance 
+of lugs is generally higher in the south-west than 
+in the east of England. Nine were found at Staines 
+(Robertson-Mackay 1987, 88), only one at Spong 
+Hill (Healey 1988, 65) and two at Kilverstone 
+(Knight 2006, 30-1), all from substantial Early 
+Neolithic assemblages.
+Vessel forms
+The tripartite classificatory system distinguishes 
+between open bowls for which the maximum 
+outer diameter is at the rim (A), neutral bowls for 
+which the rim diameter is equal to the maximum 
+body diameter (B) and closed bowls for which the 
+maximum diameter occurs on the main body of the 
+vessel (C). The groups were subdivided according 
+to whether they were carinated (1), uncarinated 
+(2), ‘S’-profiled (3) or of undetermined carination 
+(0). The S-profiled bowls from Milsoms Corner 
+are distinguished by long necks contrasting with 
+the shorted-necked vessels to which the term was 
+applied at Kilverstone (Knight 2006, 29).
+Refitting provided sufficient profiles for 
+classification of eight vessels from Milsoms 
+Corner and 18 from the hilltop (Tables 6 and 7). 
+Open, uncarinated (A2), predominantly large, 
+bowls comprised the greatest part of the hilltop 
+assemblage (16-18, 20, 24, 27, 28, 30) in contrast to 
+the spur where no open bowls were found. Two large 
+closed bowls (C3) were ‘S’-profiled (5, 6) but on 
+the hilltop a cup from D660 was sharply carinated 
+(33). The rim diameters of closed uncarinated (C2) 
+bowls were determinable only for a very large 
+bowl from the hilltop (31) and for a small medium 
+(3) and a very large vessel from the spur, the latter 
+having a horizontal elongated oval lug (10). Neutral 
+uncarinated vessels included a plain bowl from pit 
+737 (13) and a bowl with a vertically perforated lug 
+from D660 (32).
+There are marked differences in vessel forms 
+between the South Cadbury hilltop and Milsoms 
+Corner assemblages, although both fit well with 
+variants of the South-Western Bowl style (Cleal 
+1991b, 134). The Milsoms Corner assemblage 
+includes burnished, ‘S’-profiled, bowls, with and 
+without lugs, a slightly closed lugged vessel and 
+simple closed bowls, various rims and at least 
+one, possibly two, decorated sherds, (11) and (12). 
+TABLE 6 – MILSOMS CORNER: DISTRIBUTION OF VESSELS FORMS BY RIM DIAMETER (IN MM)
+Vessel form No of 
+Vessels
+% <? <120 <200 <300 >300
+B2: Neutral, uncarinated 1 12.5 1
+C2: Closed, uncarinated 3 37.5 1 1 1
+C3: Closed, ‘S’ profile 3 37.5 1 2
+C0: Closed, undetermined 1 12.5 1
+Total 8 3 2 2 1
+% of measurable rims 40.0 40.0 20.0
+TABLE 7 – SOUTH CADBURY HILLTOP: DISTRIBUTION OF VESSELS FORMS BY RIM DIAMETER (IN MM)
+Vessel form No of 
+Vessels
+% <? <120 <200 <300 >300
+A2: Open, uncarinated 7 58.3 1 1 4 1
+B2: Neutral, uncarinated 3 25.0 1 1 1
+C1: Closed, carinated 1 8.3 1
+C2: Closed, uncarinated 2 16.7 1 1
+C0: Closed, undetermined 5 41.7 4 1
+Total 18 6 1 2 6 3
+% of measurable rims 8.3 16.7 50.0 25.0
+15517 - Somerset Arch Vol 161 - 2018.indb 24 20/09/2018 11:50:14
+25
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+Although no re-fitting sherds were identified 
+between pits it is very probable that pieces from two 
+vessels were distributed across Milsoms Corner pits 
+619, 652 and 726. Bowl rim (3) from 619 appears to 
+form the upper part of base (9) and rim sherd (1) 
+was very similar to an unillustrated example from 
+652. There is also a strong possibility that the lug 
+(2) from 619 had fitted a sherd (4) from 726. The 
+assemblage was derived almost entirely from pits, 
+all of which contained charred hazelnut shell in 
+varying degrees of abundance. This has allowed 
+dating of a small but diagnostically rich assemblage 
+of pottery to within a narrow time span centred on 
+a calibrated centroid date of around 3580BC at 1 
+sigma.
+It would be misleading to regard the Cadbury 
+Castle pottery as a single assemblage, since it may 
+represent several discrete episodes of deposition 
+in widely separated parts of the hilltop. It is also 
+possible that residual sherds of the period are 
+concealed within the Iron Age assemblages. The 
+pottery from the diverse pits beneath the Iron Age 
+inner bank and on the plateau, comprises near 
+straight-sided open bowls, neutral and closed bowls 
+and a carinated cup, and includes vessels with 
+horizontally and vertically perforated lugs. 
+There is little to suggest that vessel form 
+influenced the choice of clay mixtures of pottery 
+from within each of the two areas (Tables 8 and 9). 
+However, it is noteworthy that Fabric S dominated 
+at Milsoms Corner where the most elaborate forms 
+occurred. It may have been favoured for production 
+of finer bowls.
+The wider context
+Well-dated Early Neolithic pottery assemblages 
+from Somerset are sparse compared with those of 
+neighbouring counties. Among the most significant 
+remains a small assemblage from beside the Sweet 
+Track, near Glastonbury which included sharply 
+carinated neutral to slightly open bowls, considered 
+to be a rarity in south west Britain at the time of their 
+discovery (Smith 1976). They strongly resemble 
+bowls from the east of England (i.e. Healy 1988, fig. 
+73, P168 and fig. 74, P170-6) and are now treated as 
+exemplars of Carinated Bowl pottery which at 68% 
+probability had currency within a range of 4080BC 
+to 3595BC (Bayliss et al. 2011, 759, fig. 14.87, 1). 
+They would have been deposited within a very few 
+years following the track’s construction, given as 
+3807-6BC by dendrochronology, over two centuries 
+earlier than the probable date of the Milsoms Corner 
+assemblage. The absence of Carinated Bowls 
+from the hilltop assemblage implies that it is also 
+later and it is notable that they featured only very 
+sparsely at the important South-Western Bowl sites 
+of Hembury and Windmill Hill (examples include 
+Liddell 1931, P144; 1932, P254; and, decorated, 
+Smith & Keiller 1965, fig. 26, P164).
+The strong representation of uncarinated open 
+TABLE 8 – MILSOMS CORNER: DISTRIBUTION OF FABRICS BY VESSEL FORM AND RIM TYPE
+Vessel form Rim types
+Fabric B2 C2 C3 C0 Total % A B E Total %
+B/V 2 2 25.0 2 2 22.2
+E 0 0.0 1 1 11.1
+S 1 2 1 2 6 75.0 3 2 1 6 66.7
+TABLE 9 – SOUTH CADBURY HILLTOP: DISTRIBUTION OF FABRICS BY VESSEL FORM AND RIM TYPE
+Vessel form Rim types
+Fabric A2 B2 C1 C2 C0 Total % A B C F Total %
+Q 2 2 12.5 1 1 2 12.5
+E 2 1 3 18.8 2 1 3 18.8
+K 1 6.3 1 1 6.3
+R/Z 2 2 1 1 4 10 62.5 5 3 1 1 10 62.5
+T 1 1 6.3 1 1 6.3
+15517 - Somerset Arch Vol 161 - 2018.indb 25 20/09/2018 11:50:14
+26
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+and neutral bowls in the hilltop assemblage is 
+comparable with the much larger assemblage from 
+Maiden Castle where they accounted respectively 
+for 20.9% and 52.2% of the assemblage. The latter’s 
+lack of closed carinated bowls and relative paucity 
+of closed uncarinated bowls (7.5%) (Cleal 1991a, 
+table 57) contrasts sharply with the Milsoms Corner 
+assemblage. However, individually comparable 
+bowls occur at the two sites. The large, closed bowl 
+(5) from pit F652 is of similar profile to a vessel from 
+Maiden Castle (Cleal 1991a, fig. 142, 11). Both have 
+a shallow moulded cordon slightly above the level 
+of maximum girth, although the simple everted 
+rim of the Maiden Castle example contrasts with 
+the pronounced outward roll of that from Milsoms 
+Corner. The outwardly rolled and upright rounded 
+rims from pits 652 (7) and 619 (1) are probably from 
+vessels with broadly similar profiles, examples of 
+which have been found in east Somerset on the 
+site of a chambered tomb at Fromefield (Vatcher 
+and Vatcher 1973, 22; fig. 2), and in Wiltshire at 
+Whitesheet Hill (Cleal 2004, fig. 9, P5) and in a pit 
+below Amesbury barrow G132 (Gingell 1988, 41; 
+fig. 18, 3).
+Simple hemispherical bowls with simple rounded 
+or tapered rims such as the closed bowl in pits F619 
+(3) and F652 (9) and a neutral bowl from pit 737 
+(13) are a well established element of the SouthWestern Bowl style and occur amongst other sites 
+at Carn Bea (Smith 1981, fig. 71, P113, P119; P115, 
+P117, P121), Hambledon Hill (Smith 2008, fig. 9.5, 
+P59; P60), Maiden Castle (Cleal 1991a, fig. 145, 16; 
+fig. 142, 7) and Whitesheet Hill, (Cleal 2004, fig. 
+9, P13-15). A small bowl with a similar inwardly 
+extended rim from Windmill Hill (Smith 1965, fig. 
+23, P128) is analogous to the carinated cup from 
+D660. The Windmill hill bowl differed in having 
+vertically perforated lugs and fingertip impressions 
+on top of the rim.
+Although sherds from only a small number of 
+vessels were recovered from Milsoms Corner and 
+Cadbury Castle the overall assemblage includes a 
+broad range of representative Early Neolithic vessel 
+types recognisable from within the wider region 
+and much further afield. Despite there differences 
+both groups fit well within the South-Western Bowl 
+style.
+The Middle and Late Neolithic pottery
+by Richard Tabor
+Firmly datable Middle and Late Neolithic pottery 
+is restricted to just two locations, respectively 
+Sigwells and Cadbury Castle. A single sherd 
+from a soil horizon associated with substantial 
+fragments from a single Grooved ware vessel has 
+traits suggestive of a 4th millennium BC date but is 
+included here because of the association.
+34 C0, V: Rounded, outwardly expanded and 
+tapering rim, with a chevron-like arrangement 
+of slanted incised decoration on top. SC A127.
+35 Mortlake sub-style, AB1: Rows of sort 
+twisted cord on upper interior wall of vessel. 
+Moderately hard grey brown fabric including 
+sparse to moderate flint and rare coarse 
+rounded quartz. Sig Tr13 057/175.
+36 Mortlake sub-style, AB2: Rows of short 
+twisted cord crescents on wall. Moderately 
+hard, dark brown fabric with pink exterior 
+margin including grog with sparse angular 
+flint (<6mm) and rare red iron oxide. Sig Tr13 
+254/5.
+37 Fengate sub-style, A: Trapezoidal profiled rim 
+with parallel oblique twisted cord impressions 
+on the outer, top and inner surfaces. Corky 
+dark grey fabric with buff brown exterior 
+including moderate dark and pale grey grog. 
+Sig Tr13 166/2.
+38 Fengate sub-style, AB2: Slightly stepped, 
+trapezoidal-profiled rim with parallel oblique 
+incisions on rim and stabbed impressions in 
+its overhang. Moderately hard dark grey fabric 
+with buff reddish brown exterior including 
+sparse to moderate calcined flint and sparse 
+grey grog. Sig Tr6 F6504 K/5; north barrow 
+ring ditch.
+39 Grooved Ware, V: Neutral bowl with internally 
+thickened rim. Four horizontal incised lines 
+over incised chevrons grouped within triangles 
+alternating with stabbed marks in offset rows.
+The rim sherd with earlier traits (Fig. 13, 34) 
+is comparable with incurving bowls which are 
+sparse components of earlier Neolithic Decorated 
+Bowl assemblages (Smith 1965, fig. 27, P182, 
+P195; Kinnes 1998, fig. 182, M93) more generally 
+associated with upright or near upright necked 
+bowls, especially where the incisions are of chevron 
+form (Healey 1988, 93, fig. 92, P193). Although 
+both chevron incisions and outwardly tapering 
+rims feature in Mortlake sub-style the vessel form 
+implies a mid 4th millennium BC date. 
+The occurrence of three sherds of Mortlake and 
+two of Fengate sub-style pottery on the Sigwells 
+plateau contrasts with the absence of such material 
+from all methods of investigation elsewhere in the 
+15517 - Somerset Arch Vol 161 - 2018.indb 26 20/09/2018 11:50:14
+27
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+study area. The largest Mortlake sherd, mentioned 
+but not described and missing at the time of writing, 
+was from Trench 7 (Leach in Leach and Tabor 
+1996, 6). The two small Mortlake sherds from the 
+Iron Age north west enclosure (Fig. 13, 35 and 
+36) are comparable respectively with sherds from 
+much larger assemblages from Cranborne Chase at 
+Handley Hill Barrow 26 (Cleal 1991b, 159; fig. 7.12, 
+P132) and Wor Barrow (Cleal 1991b, 161, P171). One 
+Mortlake sherd was found within 2m of one of the 
+Fengate sherds (Fig. 13, 37), the latter similar to 
+material from Thickthorn Down long barrow, most 
+notably rim P158 (Cleal 1991b, fig. 7.14). The other 
+sherd of the sub-style (Fig. 13, 38), found 200m to 
+the east in the ring ditch of the northern Sigwells 
+round barrow, is broadly similar in profile.
+The sherds from a single Grooved Ware bowl 
+(Fig. 13, 39) sealed beneath the north Iron Age inner 
+bank on Cadbury Castle remain the only examples 
+of the style recovered from the study area. The 
+flattened horizontal grooves below the vessel’s rim, 
+staggered oval stabs within probably triangular 
+outlines and multiple chevrons are typical of the 
+Clacton sub-style. The curving inward thickening 
+of the rim is similar to rim-type 28 at Durrington 
+Walls although at that site it was associated with 
+a vessel decorated in the Woodlands sub-style 
+(Longworth 1971, 56-7; 139, fig. 58, P462). A 
+similar rim featured on a Clacton sub-style vessel 
+from Firtree Field, Cranborne Chase (Cleal 1991b, 
+fig. 7.5, P26). In southern Britain Grooved Ware 
+remains sparse west of Dorchester.
+The flint
+by Richard Tabor
+Each flint was measured according to specifications 
+set out by Saville (1980, 1981) and inspected 
+individually at x8 magnification using a graduated 
+linen tester lens. For the purpose of comparative 
+analysis the length:breadth and breadth:length ratios 
+of complete flakes and blades were calculated. The 
+former is recommended by Saville but the latter is 
+used here for ease of comparison with a selection of 
+Early Neolithic assemblages (Healey & RobertsonMackay 1983, 8-12; Edmonds & Bellamy 1991, 215-
+8; Harding 1991, table 11: Saville 1981, tables 19-22; 
+Beadsmoore table 2.17). Flakes with a length of less 
+than 20mm have been excluded from analysis at 
+most other sites, partly as mitigation for the lower 
+recovery rate of smaller items and partly because 
+the proportions of small preparation flakes show 
+less patterning. At Milsoms Corner all the cut 
+features were excavated by trowel and that is likely 
+to be true of those on the hilltop, hence only pieces 
+of 12mm length or shorter have been excluded to 
+increase the size of the sample. A very detailed 
+tool type classification was applied to all the SCEP 
+assemblages but the sample size for the Early 
+Neolithic alone is too small to warrant its use here.
+Milsoms Corner’s Early Neolithic flint 
+assemblage is from securely dated contexts, with 
+the exception of soil (1097/1731) which may have 
+formed over a long period covering the floor 
+surface (1469) and hearth pit 293. The pit data 
+have been used in the assessment of the hilltop 
+assemblages for which selection of material has 
+been more problematic because the dating of 
+several contexts is less secure and has been partly 
+determined by analysis of their flint. Metrical data 
+from pits and other horizons have been presented 
+in Table 10 as overall assemblages for pits and for 
+general horizons and for individual pits where the 
+assemblages exceed 100 pieces. An exception was 
+made for pit E774 to allow data to be included from 
+a second hilltop pit. In addition the table includes 
+flint from two contexts from site D associated with 
+a hearth and thought to have constituted an Early 
+Neolithic occupation layer (D645 and D655) and 
+from a thick deposit sealed beneath the inner north 
+bank and apparently dated by substantial fragments 
+from a Grooved Ware vessel. The latter was deemed 
+the only secure Late Neolithic context in the entire 
+South Cadbury study area and the flint from it 
+was intended as a control for variation over time 
+Fig. 13 Middle and Late Neolithic pottery from Sigwells and South Cadbury Castle
+15517 - Somerset Arch Vol 161 - 2018.indb 27 20/09/2018 11:50:14
+28
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+TABLE 10 – MILSOMS CORNER: SUMMARY OF THE TECHNOLOGICAL ATTRIBUTES OF THE FLINT, 
+OVERALL AND FROM SELECTED CONTEXTS. PERCENTAGES GIVEN IN ITALICS ARE FOR THE 
+WHOLE OF THE EARLY NEOLITHIC OR SELECTED FEATURE OR HORIZON ASSEMBLAGES. OTHER 
+PERCENTAGES ARE OF THE PARTICULAR CLASS WITHIN A SPECIFIC FEATURE OR HORIZON
+1097/1731 All pits 652 737
+No % No % No % No %
+All
+flints
+Total 319 710 322 264
+Burnt 44 13.8 304 42.8 242 75.2 44 16.7
+Retouch 84 26.3 183 25.8 52 16.1 91 34.5
+Flakes Total 222 69.9 441 62.1 202 62.7 162 61.4
+Retouch 36 16.2 85 19.3 20 30.8 48 29.6
+Complete 74 33.3 178 40.4 62 63.2 79 48.8
+Wear 17 7.7 24 5.4 7 3.5 14 8.6
+Blades Total 31 9.7 66 9.3 27 8.4 31 11.7
+Retouch 8 25.8 25 37.9 6 22.2 13 41.9
+Complete 3 9.7 23 34.8 6 22.2 13 41.9
+Wear 10 32.3 14 21.2 7 25.9 6 19.4
+Bladelets Total 4 1.3 16 2.3 2 0.6 6 2.3
+Retouch 2 50.0 8 50.0 0 0 4 66.7
+Complete 0 0 4 25.0 0 0 1 16.7
+Wear 0 0 3 18.8 1 50.0 2 33.3
+Breadth:
+Length 
+ratio
+<1:5 0 0 1 0.6 0 0 0 0
+>/=1:5 5 8.5 24 13.8 5 9.1 13 15.1
+>/=2:5 16 27.1 51 29.3 13 23.6 27 31.4
+>/=3:5 16 27.1 46 26.4 15 27.3 23 26.7
+>/=4:5 12 20.3 25 14.4 9 16.4 12 14.0
+>/=5:5 2 3.4 10 5.7 5 9.1 4 4.7
+>/=6:5 6 10.2 9 5.2 6 10.9 2 2.3
+>/=7:5 1 1.7 4 2.3 1 1.8 3 3.5
+>/=8:5 1 1.7 4 2.3 1 1.8 2 2.3
+Butts Measured 131 265 94 126
+All abraded 44 29.9 124 42.6 35 34.3 61 47.7
+Butt 
+widths
+</=1 74 56.5 163 61.5 57 60.6 77 61.6
+>1-3 45 34.4 75 28.3 28 29.8 32 25.6
+>3-5 7 5.3 19 7.2 6 6.4 11 8.8
+=/>6-7 1 0.8 5 1.9 2 2.1 3 2.4
+=/>8-9 1 0.8 2 0.8 0 0 2 1.6
+>10 3 2.3 1 0.4 1 1.1 0 0
+Cores Total 1 0.3 8 1.1 3 0.9 4 1.5
+Rejuv. Total 4 1.3 8 1.1 4 1.2 2 0.8
+15517 - Somerset Arch Vol 161 - 2018.indb 28 20/09/2018 11:50:15
+29
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+(although see above for a caveat regarding wrong 
+numbering).
+The individual assemblages show considerable 
+variation in treatment. At Milsoms Corner 75% of 
+322 pieces from pit 652 were heat affected, often 
+calcined, distorting the overall percentage for the 
+pits. None of nine pieces and only 11.6 % of 69 
+from hearth pits 293 and 619 were burnt. Burnt 
+pieces comprised 13.8% of the material from the 
+layer (1097/1731) sealing 293 and the ashy floor 
+(1469) but 40.8% of the material from the hilltop 
+layer (D645/655). The percentage of retouched 
+material was very high both on the spur and on the 
+hilltop. Comparison of the pit assemblages shows 
+retouching of 19.3% of flakes from the Milsoms 
+Corner pits, rising to 22.6% with the inclusion 
+of blades and bladelets. For the hilltop pits the 
+percentages are respectively 12.1% and 13.0%.
+In other respects there are marked differences 
+between the spur and the hilltop. Whilst the number 
+of bladelets from each group is too small for 
+inference, blades (defined as proportionately long 
+flakes with parallel sides and here including broken 
+examples) formed 9.3% of the Milsoms Corner 
+pit assemblage but only 2.1% of the hilltop pit 
+assemblage. There was a similar disparity between 
+the sealing layers.
+The summary of all pits shows that 43.7% of flakes 
+from Milsoms Corner pits were of a breadth:length 
+which was less than 3:5 compared with 39.3% for 
+the hilltop (Table 10). However, there was a marked 
+difference in the proportion of breadths of 5:5 or 
+greater which accounted for 15.5% of the flakes 
+from the Milsoms Corner pits and 28% of those on 
+the hilltop. A comparison of the layer sealing the 
+Milsoms Corner floor and occupation layer from 
+Site D shows a nearly 10% difference between the 
+spur and the hilltop for both sets of figures. On 
+this evidence the hilltop soil formations and some 
+features may be later. The same variables would 
+assign the presumed later deposit A127 a later date 
+than that implied by the mean for the hilltop pits and 
+for the occupation layer on Site D. The combined 
+percentages of blades and bladelets show a similar 
+trend. They represent 11.6% of the Milsoms Corner 
+pits assemblage, 3.2% of the hilltop pits assemblage 
+and only 1.5% of the A127 assemblage.
+Also of relevance to the Cadbury material are 
+variations in butt width and platform abrasion, 
+both of which were noted as altering over time 
+in a comparison of stratified assemblages from 
+the South Dorset Ridgeway Project (Harding & 
+Bellamy 1991, 87; table 16). The mean width of 
+butts from the hilltop pits was 2.2mm compared 
+with 1.6mm for those from the Milsoms Corner 
+pits. The difference shows more acutely in the 
+percentages of butts which are up to 1mm wide with 
+a nearly 20% difference between the two areas. 
+In fact, both areas have very high percentages in 
+this range compared with an Early Neolithic pit at 
+Rowden so that it would be unwise to conclude that 
+the variation was due to the lapse of time (Harding 
+1991, table 8). However, the incidence of abrasion of 
+butts from hilltop pits at 13.6% was less than a third 
+of the rate for the Milsoms Corner pits.
+Whilst it is reasonable to assume that all the 
+pits at Milsoms Corner were filled over a short 
+period and hence that the proportionately low 
+number of long flakes from 652 is not a function of 
+technological change over time there is no evidence 
+that the hilltop pits were closely contemporary with 
+each other or with those on the spur. As only one 
+pit included more than 100 pieces of flint reliable 
+statistical inferences cannot be made about their 
+sequence in relation to each other. However, seven 
+of 12 complete flakes from T269 (58.4%) had a 
+breadth:length ratio of less than 3:5 and for five 
+of these the ratio was less than 2:5, offering the 
+possibility that this pit may be the earliest identified 
+on the hilltop.
+The relative proportions of flint and other stone 
+tools on the hilltop and the spur are remarkably 
+similar (Tables 11 and 12). Piercers are hugely 
+dominant at around 70% followed by scrapers at 
+around 10% and knives as 6-8%. Quern fragments 
+also made up around 8% of all stone tools, although 
+the 1% within the Milsoms Corner assemblage 
+for each of a complete quern and a rubber is 
+probably a better representation of the proportional 
+relationship between milling and other stone tools. 
+No axes were found in the hilltop’s Neolithic 
+pits, although at least a dozen were found during 
+Alcock’s excavations and another during St George 
+Gray’s earlier campaign. It seems likely that one 
+from D646 was in a genuinely Early Neolithic 
+context as that layer was sealed by occupation 
+horizon D645/655. The axe from pit 652 was the 
+sole example from the spur (see Williams, below). 
+Half of a perforated possible sandstone bead was 
+found in a fill butting against the complete quern 
+in pit 726.
+In general the variety and number of tools within 
+each pit may relate to pit size. At Milsoms Corner 
+pit 737 had nearly twice the capacity of 652 which 
+in turn was bigger than the other pits. Despite this, 
+the low flint count and the inclusion of only a single 
+15517 - Somerset Arch Vol 161 - 2018.indb 29 20/09/2018 11:50:15
+30
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+TABLE 11 – SOUTH CADBURY CASTLE: SUMMARY OF THE TECHNOLOGICAL ATTRIBUTES OF THE FLINT, 
+OVERALL AND FROM SELECTED CONTEXTS. PERCENTAGES GIVEN IN ITALICS ARE FOR ALL CONFIRMED 
+NEOLITHIC CONTEXTS OR INDIVIDUAL SELECTED FEATURE OR HORIZON ASSEMBLAGES. OTHER 
+PERCENTAGES ARE OF THE PARTICULAR CLASS WITHIN A SPECIFIC FEATURE OR HORIZON
+D645/655 All pits E774 E885 A127
+No % No % No % No % No %
+All
+flints
+Total 152 282 69 119 133
+Burnt 62 40.8 50 17.7 21 30.4 8 6.7 11 8.3
+Retouch 36 23.7 65 23.0 11 15.9 23 19.3 33 24.8
+Flakes Total 115 75.7 215 76.2 60 87.0 90 75.6 106 79.7
+Retouch 14 12.2 26 12.1 8 13.3 7 7.8 12 11.3
+Complete 37 32.2 107 49.8 25 41.7 53 58.9 62 58.5
+Wear 18 15.7 23 10.7 5 8.3 10 11.1 13 12.3
+Blades Total 1 0.7 6 2.1 2 2.9 1 0.8 2 1.5
+Retouch 1 100 1 16.7 0 0 0 0 0 0
+Complete 0 0 4 66.7 1 50.0 1 100 2 100
+Wear 0 0 2 33.3 1 50.0 0 0 2 100
+Bladelets Total 0 0 3 1.1 0 0 3 2.5 0 0
+Retouch 0 0 1 33.3 0 0 1 33.3 0 0
+Complete 0 0 0 0 0 0 0 0 0 0
+Wear 0 0 2 66.7 0 0 2 66.7 0 0
+Breadth:
+Length 
+ratio
+<1:5 0 0 0 0 0 0 0 0 0 0
+>/=1:5 0 0 16 15.0 3 12.5 4 7.8 3 5.6
+>/=2:5 9 25.7 26 24.3 10 41.7 7 13.7 10 18.5
+>/=3:5 11 31.4 27 25.2 3 12.5 17 33.3 11 20.4
+>/=4:5 5 14.3 8 7.5 0 0 6 11.8 13 24.1
+>/=5:5 4 11.4 15 14.0 4 16.7 7 13.7 12 22.2
+>/=6:5 2 5.7 11 10.3 2 8.3 8 15.7 4 7.4
+>/=7:5 3 8.6 3 2.8 1 4.2 2 3.9 0 0
+>/=8:5 1 2.9 1 0.9 1 4.2 0 0 1 1.9
+Butts Measured 82 177 44 76 85
+All abraded 3 3.6 24 13.6 4 9.1 10 13.2 10 11.5
+Butt 
+widths
+</=1 14 17.1 74 41.8 21 47.7 27 35.5 26 30.6
+>1-3 34 41.5 73 41.2 15 34.1 35 46.1 39 45.9
+>3-5 19 23.2 17 9.6 4 9.1 8 10.5 15 17.6
+=/>6-7 10 12.2 8 4.5 4 9.1 2 2.6 4 4.7
+=/>8-9 4 4.9 4 2.3 0 0 3 3.9 1 1.2
+>10 1 1.2 1 0.6 0 0 1 1.3 0 0
+Cores Total 5 3.3 7 2.5 1 1.4 3 2.5 1 0.8
+Rejuv. Total 1 0.7 2 0.7 1 1.4 1 0.8 0 0
+15517 - Somerset Arch Vol 161 - 2018.indb 30 20/09/2018 11:50:15
+31
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+tool from the floor/hearth area 1469/293 is striking 
+and may reflect use of the area as shelter rather than 
+a work space. 
+The evidence for use of flakes and blades as tools 
+derives either from use-wear or retouch. Wear on 
+flakes from pits on the hilltop at 10.7% was nearly 
+double that on the spur. It has been noted already that 
+the percentage of retouched material was very high 
+in both areas. In contrast, at Maiden Castle retouch 
+was recorded on less than 2.5% of flakes from the 
+Early Neolithic phase (Edmonds & Bellamy 1991, 
+table 75a); at Spong Hill on 5.6% of all struck pieces 
+from feature groups of the period (from Healey 1988, 
+fig. 33); and at Kilverstone all flakes and blades 
+exhibiting retouch or other signs of use amounted to 
+6% (Beadsmoore 2006, 64). However, those three 
+sites differ from Cadbury in that they all have ready 
+access to flint. It had to be imported to Carn Brea 
+and whilst there was considerable variation within 
+the twelve excavated areas retouched pieces formed 
+20% of the assemblage in one and exceeded 12% in 
+four (Saville 1981, table 3). The implication is that 
+flint was used much more economically in places 
+where it was not readily available.
+The worked stone
+by Fiona Roe
+All the Early Neolithic querns were made from 
+Old Red Sandstone (Table 13), brought from the 
+Mendips where there are outcrops some 22.5 – 
+TABLE 12 – MILSOMS CORNER: ALL LITHIC TOOLS FROM EARLY NEOLITHIC FEATURES
+1469/293 619 652 726 737 Total % all
+tools No % No % No % No % No %
+Piercers 1 1.6 9 14.8 26 42.6 5 8.2 20 32.8 61 70.1
+Scrapers 0 0 1 12.5 2 25.0 0 0 5 62.5 8 9.2
+Knives 0 0 0 0 1 16.7 0 0 5 83.3 6 6.9
+Querns
+(complete)
+0 0 0 0 0 0 1 100 0 0 1 1.1
+Querns
+(fragmentary)
+0 0 0 0 0 0 0 0 7 100 7 8.0
+Rubbers 0 0 1 100 0 0 0 0 0 0 1 1.1
+Axes 0 0 0 0 1 100 0 0 0 0 1 1.1
+Arrows (leaf) 0 0 0 0 0 0 0 0 2 100 2 2.3
+TABLE 13 – SOUTH CADBURY CASTLE: ALL LITHIC TOOLS FROM EARLY NEOLITHIC FEATURES
+(QUERNS DERIVED FROM WATTS 2014, TABLE 6.1)
+C817 D660 E774 E885 N297 P154 T260 T269 Total % 
+all
+tools No % No % No % No % No % No % No % No %
+Piercers 3 12.5 1 4.2 3 12.5 12 50.0 3 12.5 2 8.3 0 0 3 12.5 24 68.6
+Scrapers 0 0 1 25.0 0 0 2 50.0 0 0 0 0 1 25.0 0 0 4 11.4
+Knives 2 66.7 1 33.3 0 0 1 33.3 0 0 1 33.3 0 0 0 0 3 8.6
+Querns
+(complete)
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Querns
+(fragmentary)
+0 0 0 0 0 0 0 0 0 0 0 0 2 66.7 1 33.3 3 8.6
+Rubbers 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Axes 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Arrows (leaf) 0 0 0 0 0 0 1 100 0 0 0 0 0 0 0 0 1 2.9
+15517 - Somerset Arch Vol 161 - 2018.indb 31 20/09/2018 11:50:15
+32
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+37km (14–23 miles) distant. There are four main 
+areas of Old Red Sandstone in the Mendips, and 
+further fieldwork might provide pointers to suggest 
+from where the stone utilised at Milsoms Corner 
+may have been collected. This variety of Old Red 
+Sandstone is not the stone from Beacon Hill, which 
+appears to have been used predominantly for rotary 
+querns, but a feldspathic and micaceous sandstone 
+with a tendency to break naturally into flat slabs. A 
+similar variety of Old Red Sandstone was used for 
+Neolithic querns at Hambledon Hill, but these were 
+all fragmentary (Roe 2008, 633-5).
+The complete saddle quern from context 2284 
+is of particular interest as it provides the hitherto 
+missing details of the size and weight of such 
+early querns. At a weight of 15.750 kg the question 
+arises as to how this bulky object may have been 
+transported to the site. The finds from the South 
+Cadbury Environs excavations clearly demonstrate 
+the long use of this micaceous sandstone in the 
+area. It was used for a number of saddle querns 
+from earlier Iron Age contexts at Cadbury Castle 
+(Roe 2000, 263).
+The stone axe from F652
+by David Williams
+The majority of a Neolithic ground and polished 
+hand axe, weathered and decomposed and 
+substantially burnt at some stage. The surface is 
+pitted here and there by weathering and burning 
+but still retains some areas that are smooth and 
+show the original polish The axe is roughly oval in 
+section and tapers from a damaged broad cutting 
+edge, now somewhat truncated, towards a narrow 
+butt end. The dimensions of this broken axe are: 
+Length: 168mm; maximum Width: 56mm tapering 
+to: 25mm; maximum Thickness: 100mm tapering 
+to: 20mm.
+A close visual examination with the aid of a 
+hand-lens [x 10] suggested that the axe has been 
+made from a greenstone, a medium- to coarsegrained basic intrusive igneous rock. The axe had 
+previously been drilled into the core of the broken 
+cutting edge. Not all of the cylindrical sample 
+had originally been detached and it was possible 
+to carefully prise away a small section that had 
+remained in the drilled hole. This small circular 
+piece was then made into a thin section and studied 
+TABLE 14 – MILSOMS CORNER: PROVISIONAL CATALOGUE OF WORKED STONE
+Context Feature Description Stone
+1830 F 619 Fragment, slightly burnt, convex grinding surface which has 
+been prepared by pecking and then worn, probable rubber for 
+saddle quern; 91 x 105 x 60 mm, 725 g
+Mendip Old Red 
+Sandstone
+2284 F 726 Saddle quern, almost complete, slightly burnt. It is made from 
+a boulder (seen on underside), which appears to have had chips 
+knocked off to trim it to shape round the edge. The grinding 
+surface is concave, and has been prepared by pecking and then 
+worn smooth, particularly round the edge; 430 x 265 x 101 mm, 
+15.750 kg
+Mendip Old Red 
+Sandstone
+2362 F 737 Unworked fragment, but a quern material, and so probably 
+from a saddle quern or rubber; 190 g
+Mendip Old Red 
+Sandstone,
+banded
+2362 F 737 5 fragments, 3 of them burnt, and 3 with worked surfaces 
+which have been pecked and then worn smooth, likely to be 
+from saddle quern and/or rubber; 400 g
+Mendip Old Red 
+Sandstone
+2365 F 737 2 fragments, unworked but a quern material, similar to 
+unworked fragment from context 2362 above; 290 g
+Mendip Old Red 
+Sandstone,
+banded
+1872 Rounded object with a hollowed surface, could be a small 
+mortar; 109 x 90 x 76 mm, 925 g
+Yeovil Sands,
+local Jurassic 
+sandstone
+Surface, 
+off site
+N/A Blade fragment from axe with part of polished surface; 77 x 52 
+x 25 mm, 120 g
+Looks like a 
+Cornish greenstone, 
+which could be 
+Group XVII
+15517 - Somerset Arch Vol 161 - 2018.indb 32 20/09/2018 11:50:15
+33
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+under the petrological microscope. This showed 
+that the rock contains plentiful, medium-grained, 
+dark coloured grains of clinopyroxene and fibrous 
+amphibole, set in a slightly lighter coloured matrix 
+of altered felspar. The composition and texture of 
+the minerals suggests that the rock is an uralitized 
+gabbro and belongs to the Implement Petrology 
+Committee’s Group 1, which has a Cornish origin, 
+almost certainly coming from the area of Mount’s 
+Bay, near Penzance (McK Clough and Cummings, 
+1979; 1988; Cummins, 1983). This was one of the 
+main sources for Neolithic polished stone axes and 
+its products have a wide distribution covering much 
+of England.
+The human remains
+by Susan Jones and Clare Randall
+A small group of human remains from Cadbury 
+Castle was examined as part of a separate research 
+project which was focussed on the ‘Massacre 
+Deposits’ in the south west gateway of the hillfort 
+and dating to the very end of the Iron Age or 
+Romano-British period (Jones 2008; Jones and 
+Randall 2010). As this material was studied with 
+a focus on understanding disarticulated and comingled remains, a zoning system was developed, 
+and particular attention paid to taphonomic 
+markers and modification in order to understand 
+the processes involved in the formation of deposits 
+(Jones 2008, 19-23). Remains were identified from 
+all phases of the use of Cadbury Castle, although 
+the vast majority of the material was from contexts 
+which were 1st millennium BC or later. 
+Human remains occurred in a total of three 
+Neolithic contexts, P154, P152 (Fig. 9, plate), and 
+C817 (Fig. 10B). The remains from P154 were 
+not available for examination but could be seen 
+in photographs in the site archive. The material 
+comprised (according to a report by D. Lunt in the 
+archive) an entire mandible and partial maxilla of 
+an adult individual. Lunt assessed the mandible 
+as having male traits and aged (presumably from 
+dental eruption and wear) 20-25 years of age.
+A group of partially articulated remains 
+occurred in P152. This comprised an articulated 
+portion of the rib cage and vertebral column, from 
+the first thoracic vertebra down to the second 
+lumbar vertebra, with the majority of the ribs on 
+the right hand side absent. Associated with this 
+were the disarticulated remains of part of the 
+right radius and ulna, the right hand (including 
+the carpals) and the left hand. A mandible is also 
+shown in the photographs in the site archive, but 
+was not available for examination. Measurements 
+of the glenoid of the scapula, the radial head and 
+the length of the sternum were consistent with the 
+range attributable to a female individual. Some 
+slight degenerative change might indicate an older 
+adult, although this is tentative. It seems that this 
+may have represented a more complete interment 
+which had been disturbed, redeposited or cut 
+through.
+A total of 31 skull fragments came from pit C817, 
+and comprised vault fragments, nasal bones and 
+one zygomatic bone, and there were a minimum of 
+three individuals present. The fragments indicated 
+differing degrees of cranial suture closure. Whilst 
+suture closure can be variable, it appears to indicate 
+that the fragments were derived from at least one 
+juvenile, a younger adult and a middle aged adult. 
+These fragments had a more weathered appearance, 
+and may well have already been fragmented and 
+possibly exposed to the elements prior to burial. 
+However, none of the fragments showed any signs 
+of gnawing.
+As a small assemblage, it is difficult to draw 
+significant conclusions from this material. However, 
+it appears to indicate that there may have been more 
+than one practice in respect of the manipulation and 
+deposition of human remains being carried out in 
+this period of the use of the hill. 
+The Faunal Remains
+by Clare Randall
+Faunal remains were recovered from both Milsoms 
+Corner and Cadbury Castle in the respective 
+excavations of each. The Early Neolithic faunal 
+assemblage from Cadbury Castle is part of a 
+much larger collection which was recovered 
+during excavation between 1966 and 1970 and 
+dates to phases between the Early Neolithic and 
+the medieval period. The material from Milsoms 
+Corner is from a similarly multi-phase assemblage. 
+Both assemblages were recorded by the author 
+between 2007 and 2009 as part of a PhD research 
+project (Randall 2010), but the Neolithic material 
+fell outwith the chronological focus of that project.
+Methods
+Each bone fragment was identified where possible 
+to element and species, and where this was not 
+possible Large Mammal (e.g. cattle or horse-sized), 
+Medium Mammal (e.g. sheep-sized, but potentially 
+pig) and Unidentified Mammal categories. This 
+included axial elements identifiable to species. 
+Identification was carried out using comparative 
+15517 - Somerset Arch Vol 161 - 2018.indb 33 20/09/2018 11:50:15
+34
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+collections and standard reference works Zones 
+were recorded where possible for each anatomical 
+element using the Maltby/Hambleton method (n.d.). 
+Species abundance was considered in respect 
+of number of identified specimens (NISP), or 
+number of fragments for material not identified to 
+species, as well as minimum number of individuals 
+(MNI) All data were recorded in an Access 
+relational database, which is included in the project 
+archive.
+Data were recorded with respect to bone 
+condition, percentage and zone(s) of the element 
+present, pathological changes, breakage patterns, 
+butchery, sex, gnawing and weathering indicators. 
+Burnt bone was recorded by colour. Where 
+available the eruption and wear of teeth of cattle, 
+sheep/goat, and pig was assessed and assigned 
+categories using Grant (1982), Payne (1973, 1982), 
+Hambleton (1999) and Halstead (1985). Bone 
+porosity was recorded for all fragments, and each 
+fragment examined for fusion information which 
+was assigned to age ranges using Silver (1969). 
+Metrical data were recorded in accordance with von 
+den Driesch (1976). Further detail of both methods 
+and calculations are included in the project archive.
+Results
+Milsoms Corner
+A total of 244 fragments of animal bone were 
+recovered from 20 contexts (Table 14). The vast 
+majority of the material came from the series 
+of pits, although there were small quantities of 
+unidentifiable material from postholes and general 
+layer (1731). The material was predominantly 
+unidentifiable (only 2% identified to species) and 
+very fragmented, with the vast majority of the 
+material of Poor or Poor-Average condition. The 
+bulk of the assemblage (212 fragments) was burned. 
+Of these 161 (76%) fragments were completely 
+calcined, with 9 classed as grey, indicating a very 
+thorough and deliberate combustion. 41 fragments 
+were buff in colour and 1 brown, indicating a lower 
+temperature/duration of burn in the presence of 
+oxygen. A large proportion of the material was 
+concentrated in three contexts (1886), (1888) and 
+(1899), with all the material in the former two being 
+heavily burned and over 80% of the latter context. 
+This type of treatment may have been directly 
+related to the act of pit deposition, although small 
+amounts of burned material also occurred in the 
+limited assemblage which did not originate from pit 
+fills. The species identified were cattle, sheep/goat 
+(single examples of each) and pig (three fragments), 
+and no further information was available.
+Cadbury Castle
+A total of 698 fragments were recovered from 
+16 contexts, mainly within pits (676 fragments) 
+but also representing a possible slot trench (22 
+fragments) (Table 14). 58% of the material could 
+be identified to species. 91% of the material had 
+Average or Average-Good bone condition. The 
+quantity of bone in the different types of context 
+is too small to enable consideration of differentials 
+in preservation. Whilst the material is generally 
+fragmentary, only 14% of identified mammal bone 
+comprised loose teeth. No associated bone groups 
+(ABGs) were noted.
+The species identified were cattle, sheep/goat, 
+pig, dog, fox, roe deer and red deer. The majority 
+of the material related to the three main livestock 
+species, with a small number of dog fragments, 
+and a total of three fragments from wild species. 
+Pig were the most numerous species by number of 
+identified specimens (NISP) (59% of the three main 
+livestock species), with a lesser representation of 
+cattle (24%) and sheep/goat in the minority (17%). 
+The larger number of pigs is also reflected in the 
+minimum number of individuals, with pig bone 
+originating from at least seven animals, cattle four, 
+and sheep/goat, five. Whilst cattle and sheep/goat 
+have reversed rank order by minimum number of 
+individuals (MNI), cattle would still have been 
+economically more significant, given their size and 
+increased dairying potential. 
+Only 16 examples of butchery were noted on 
+cattle, sheep/goat and pig (amounting to 2% of 
+the whole assemblage). Virtually all were fine 
+cuts which can be associated with the skinning or 
+dismemberment of the carcass. Thirteen examples 
+of breakage of the bone when fresh were noted (2% 
+of the total assemblage), with cattle, sheep/goat and 
+pig as well as cattle-sized and sheep-sized animals 
+involved. A total of 75 fragments had taphonomic 
+changes noted (in some cases more than one). 
+Gnawing occurred at a rate of 1% of the assemblage. 
+This is relatively low, and potentially reflects only 
+a small population of dogs indicated by the handful 
+of dog bone, or limitation of access of dogs to the 
+material. Weathering was rare (4%). Both of these 
+measures appear to indicate, alongside the generally 
+good condition of the bone that the material was 
+relatively rapidly incorporated into the fills, and 
+protected from scavenging animals and aerial 
+weathering effects. Burnt fragments accounted for 
+15517 - Somerset Arch Vol 161 - 2018.indb 34 20/09/2018 11:50:16
+35
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+5% of the assemblage. It does not appear however 
+that there was any concentration in particular 
+features or contexts with weathered, burned and 
+gnawed material spread across the features. Cattle 
+could be argued to have been disproportionately 
+affected by weathering, but the numbers are too 
+small to be definitive. This may be a function of 
+the size of the fragments leading to them remaining 
+exposed to the elements for longer. 
+Three pits had particularly high concentrations 
+of faunal remains (Table 15). Examination of 
+D660 (including its contexts A and B; total of 
+131 fragments, E885 (total 132 fragments) and 
+P154 (including its context B; 161 fragments), 
+may indicate that they accumulated from slightly 
+different events than the general accumulation of 
+occupation debris. E885 actually had a far lower 
+proportion of material identified to species (30% in 
+contrast to 58% for the entire Neolithic assemblage). 
+Within the 40 fragments identified, cattle comprised 
+16 fragments (40%), pig 12 fragments (30%) and 
+sheep/goat two fragments (5%). The majority of the 
+bone scored as Average condition, but notably 12% 
+was weathered (Table 14). This contrasts with D660 
+in which the majority of the bone was of AverageGood condition, and no weathering was noted. In 
+this case 36 identified fragments (54%) were sheep/
+goat, with 20 (30%) pig, and 11 fragments of cattle 
+(16%). P154 had a similar profile of bone condition, 
+with 75% of the material scoring Average-Good, 
+and no weathering. Here there were three cattle 
+fragments (3%), two sheep/goat fragments (2%) 
+and 97 fragments (95%) of pig. No butchery was 
+recorded for E885, but there were three examples 
+each in the other two features. Especially in the 
+last case, it seems that we should consider a highly 
+specific consumption event having produced the 
+deposit. 
+Cattle
+Cattle was the second most abundant species (24% 
+of NISP). A total of 98 fragments were identified as 
+cattle, with 109 fragments relating to cattle-sized 
+animals. The minimum number of individuals was 
+four, a minimum of three adult animals and one 
+juvenile animal. Aging information was limited 
+as there were no mandibles or even mandibular 
+loose teeth which could be assigned a wear stage. 
+A deciduous maxillary tooth was unworn, and a 
+permanent maxillary molar worn. There were only 
+five porous fragments. 24 elements gave fusion 
+information. Slightly more than half were fused, 
+with a weighting to early fusing elements. However 
+there were two unfused early fusing elements (<7-10 
+TABLE 15 – SPECIES ABUNDANCE, NISP AND MNI, SOUTH CADBURY CASTLE AND MILSOMS CORNER
+Cadbury Castle Milsoms Corner
+Species NISP/No MNI % ID % Main NISP/No MNI
+Cattle 98 3+1 24% 24% 1 1
+Sheep/Goat 67 4+1 16% 17% 1 1
+Pig 237 5+2 58% 59% 3 1
+Dog 6 1 2%
+Horse - -
+Domestic total 408 5
+Fox 1 1
+Red Deer 1 1
+Roe Deer 1 1
+Wild Total 3
+Large mammal 109 5
+Medium mammal 64 14
+Unidentified 114 220
+Unidentified Total 287 239
+Main total 698 244
+15517 - Somerset Arch Vol 161 - 2018.indb 35 20/09/2018 11:50:16
+36
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+months). The presence of older animals is attested 
+by three fused proximal femurs (>42 months). The 
+small amount of porous bone would indicate that 
+younger animals were present and may have been 
+being reared on or near the site. Two measurements 
+for the breadth of the distal humerus (BT = 68.5mm 
+and 77.7mm) fall into the female category of size 
+identified at Windmill Hill, Hambledon Hill, and 
+Durrington Walls (cf. Serjeantson 2011, 21). It is 
+probable that cattle were being kept and utilised for 
+both primary and secondary products. 
+All areas of the body were represented including 
+the head, axial skeleton (albeit with under 
+representation of the spine), limbs and feet (Fig. 
+14). Meat bearing elements are well represented, 
+including the innominate, scapula, humerus 
+and femur. However, the presence of peripheral 
+elements including the heads and feet seems 
+to indicate that the whole animal was available 
+and processed on site or close by. There are five 
+examples of butchery on cattle bone, all light cuts 
+associated with disarticulation, skinning or filleting 
+meat. Four fragments had been gnawed by dogs, 
+eleven showed signs of weathering and there were 
+six burned fragments. The number of weathered 
+fragments may be proportionately greater (as is the 
+small number of gnawed fragments) than the other 
+species, implying slightly different disposal, but 
+the evidence is very slight. Two cattle fragments 
+showed the beginning of changes to the articular 
+surfaces of a proximal radius and distal tibia. These 
+may not be truly pathological but relate to changes 
+in the joint with age.
+Sheep/goat 
+Sheep/goat was the least abundant of the livestock 
+species by NISP (17%). 67 fragments of sheep/
+goat bone were identified, as well as 64 fragments 
+of sheep-sized mammal bone (although some of 
+this at least may relate to pig). This material was 
+contributed by a minimum number of five animals, 
+with at least four adults and at least one juvenile. 
+None was positively identified as sheep or goat, 
+although the likelihood is that all, or nearly all, of 
+the animals were sheep. Goat only occurs in very 
+small numbers in contemporary assemblages, and 
+the number of sites it occurs on is similarly small 
+(Serjeantson 2011, 30). Three elements provided 
+withers heights with a mean of 55.2cm which 
+compares well with other examples of the period 
+(cf Serjeantson 2011, 29). Aging data was limited, 
+but one mandible provided a Grant Mandible Wear 
+Stage and Payne Stage of 30 and E respectively 
+(2-4 years), whilst another gave scores of 1 and A 
+(0-2 months). Four loose deciduous molars were 
+probably from a sub-adult animal. With seven 
+porous fragments of bone (proportionately greater 
+than for cattle), this indicates a spread of livestock 
+age groups, including the youngest, but with no 
+evidence for very old animals. The fusion data, 
+with 34 elements available, also indicates a spread 
+of age groups, with a large number of fused early 
+and later fusing elements. There are only three 
+unfused early fusing elements (in comparison to 
+12 fused examples), representing animals under 10 
+months of age at death. This may mean that there 
+was a lesser emphasis on culling younger animals 
+than is seen on the site later in prehistory (Randall 
+Fig. 14 Element frequency by MNE, cattle, Early Neolithic South Cadbury Castle
+15517 - Somerset Arch Vol 161 - 2018.indb 36 20/09/2018 11:50:16
+37
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+2010). Alternatively, animals were not raised near 
+the site, or the site was not used during the early 
+months of the animals’ life. The latter is however 
+contradicted by the presence of the mandible from 
+a very young animal. 
+All parts of the body are represented, including 
+the axial skeleton, limbs and feet, although again 
+there is an under representation of the spine (Fig. 
+15). There is an apparent emphasis on limb bones 
+and the most well represented elements are the 
+radius, tibia and the scapula, particularly the 
+glenoid. These are recognised as robust elements. 
+It is likely that taphonomic factors have played a 
+part in producing this pattern, although selection of 
+elements/body parts might be possible, as the main 
+meat bearing elements are less well represented. 
+The femur, humerus and innominate are less 
+well represented than in cattle and may hint at 
+differences in preparation for consumption and 
+cooking practice. The presence of head and feet 
+elements indicates that it is likely that animals were 
+culled and consumed close to the point of disposal. 
+Only a single example of butchery was noted on 
+sheep/goat bone, utilising multiple light cuts to fillet 
+or disarticulate a humerus. Potentially deliberate 
+fragmentation appears to have only affected two 
+sheep/goat fragments, and one sheep-sized mammal 
+fragment. Only a single fragment had been gnawed, 
+two weathered and seven burned. Together this may 
+indicate a likely difference in approach to cooking 
+the smaller sheep carcass. Sheep-sized mammal 
+fragments had also been subject to gnawing and 
+burning. No examples of pathological change were 
+noted in sheep/goat, which may be a function of the 
+small numbers, or may relate to the age profile of 
+the flock, pathological change being more common 
+in an older population. Like cattle, the sheep/goat 
+were likely to have provided a range of primary and 
+secondary products.
+Pig
+Pig contributed 237 fragments to this assemblage, 
+by some margin the most abundant identified 
+species by NISP (59%). This was contributed by a 
+minimum number of seven pigs, at least five adults 
+and two juveniles with most areas of the body 
+well represented. Aging data was limited, but four 
+mandibles provided Grant Mandible Wear Stages of 
+10, 11, 13 and 25 respectively. The first three can be 
+categorised broadly as 1-14 months (albeit at the old 
+end of this range), and the fourth 15-26 months. A 
+younger animal is attested by a mandible with unerupted M2 and M3. An older (but not old) individual 
+is represented by a mandible with the second molar 
+at stage m and third molar at g. A loose mandibular 
+first molar and third molar were both unworn. In 
+addition, a single deciduous, and six permanent 
+maxillary, teeth were in wear. There were 18 porous 
+fragments of pig bone, a proportionate increase 
+over the less well represented cattle and sheep/goat. 
+This apparently indicates a spread of age groups, 
+including young animals, although the emphasis 
+was on younger animals of full meat weight. The 
+fusion data, with 44 elements available, had a 
+distinct emphasis on younger animals. However, 
+the majority of early fusing elements (under 12 
+months of age) were fused (10 out of 14, compared 
+to nine un-fused early fusing elements out of a total 
+Fig. 15 Element frequency by MNE, sheep/goat, Early Neolithic South Cadbury Castle
+15517 - Somerset Arch Vol 161 - 2018.indb 37 20/09/2018 11:50:16
+38
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+of 30). There was a spread of un-fused elements 
+through the later and latest fusing categories, whilst 
+there are only two fused examples of latest fusing 
+elements (>42 months). There was scant evidence 
+for raising pigs on the site as the youngest ages 
+are not generally present, and there are few older 
+animals which could represent breeding stock. It 
+is notable that this is an entirely different pattern 
+than for the Later Iron Age, when evidence for the 
+youngest, and much older animals was abundant 
+(Randall 2010, 193). However, the only three 
+canines available which indicate the sex of animals, 
+all related to females. There nevertheless appears 
+to be a relatively narrow representation of animals 
+focussed around the prime meat age. 
+All parts of the body were present, including 
+the head, axial skeleton, limbs and feet (Fig. 16). 
+In contrast to cattle and sheep/goat, the spine was 
+represented. Meat bearing elements and limbs 
+were relatively well represented. The presence of 
+head and foot elements indicated that most animals 
+were probably culled and consumed close to the 
+point of disposal. However, there was a slightly 
+lesser representation of foot elements than for other 
+species. Eight examples of butchery were noted on 
+pig bone, again frequently utilising multiple light 
+cuts to fillet meat from the bone or disarticulate 
+elements. However, only three pig fragments 
+appeared to have been broken when fresh, which 
+could be an under representation in comparison 
+to sheep/goat. Again, this may hint at slightly 
+different processing and consumption practice. 
+Pig fragments had been subjected to gnawing 
+(two fragments) weathering (four fragments) and 
+burning (nine fragments). Slight changes were 
+noted in the distal articulation of a tibia and more 
+considerable ones in a proximal radius which may 
+relate to joint degeneration in an older animal.
+Dog
+A total of six fragments of dog bone were recorded, 
+all in one context, pit D660, and contributed by 
+a minimum of one adult individual. All of the 
+fragments were fully fused, and consisted of two 
+ribs, a single cervical vertebra, a thoracic vertebra, 
+a large portion of a humerus and a proximal 
+articulation of a tibia. No butchery or deliberate 
+fragmentation was noted and there were no 
+taphonomic changes. No pathological change was 
+noted. It would seem that this material may all relate 
+to the remains of a single animal deposited together 
+once it had become disarticulated. Skeletons or part 
+skeletons as well as isolated elements of dog have 
+been noted on a number of sites (Serjeantson 2011, 
+31), including at Hambledon Hill (Legge 2008, 538).
+Other species
+Three fragments of wild species were recorded. 
+A small fragment of red deer antler came from 
+pit context P154B (Fig. 9B, plate). There was no 
+indication of whether it had been worked or was 
+from an animal which had been killed, or was shed 
+antler. The distal half of a roe deer tibia, fused 
+distally, occurred in context D660B. An entire left 
+mandible of a fox occurred in context F589. The 
+latter two were of Average-Good condition. Lack 
+Fig. 16 Element frequency by MNE, pig, Early Neolithic South Cadbury Castle
+15517 - Somerset Arch Vol 161 - 2018.indb 38 20/09/2018 11:50:16
+39
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+of wild species in Early Neolithic assemblages is 
+not unusual.
+Red Deer (Cervus elaphus)
+Having repopulated Britain at the beginning of the 
+Holocene, the red deer is predominantly a woodland 
+animal, which was originally widespread. They 
+generally live in sex differentiated herds and shed 
+antler on an annual basis (Hart-Davis 2002, 68). 
+There is repeated evidence of the exploitation of red 
+deer during the Neolithic across southern Britain, 
+and examples are predominantly the form of antler. 
+It is less clear whether this was from hunted animals 
+or from shed antlers (Yalden 1999, 104). 
+Roe Deer (Capreolus capreolus)
+Roe deer was also a ubiquitous woodland presence 
+from the beginning of the Holocene, living in 
+small family groups (Hart-Davis 2002, 71-2). It 
+is a repeated but generally minor inclusion in 
+Neolithic assemblages (Yalden 1999, 103-4). The 
+best understood example of inclusion in earlier 
+Neolithic features is in the Coneybury Anomaly 
+(Maltby 1990) where the roe deer was present in 
+some quantity and has been suggested as replacing 
+the sheep/goat ‘component’ of the assemblage, 
+which is not present (Pollard 2006).
+Red Fox (Vulpes vulpes)
+Red fox is indigenous to Britain. It has a wide diet 
+which includes small and juvenile mammals and 
+birds, insects and amphibians as well as carrion. 
+Its impact on livestock, apart from poultry has 
+probably been historically exaggerated, but they are 
+highly opportunistic (Hart-Davis 2002, 51). Small 
+numbers of fox frgments occur in assemblages 
+throughout later British prehistory (Yalden 1999, 
+104). It is unclear if this fragment was a deliberate 
+or incidental inclusion.
+Discussion
+Earlier Neolithic assemblages from Somerset are 
+scant in both number and scale. Most Neolithic 
+animal bone from Somerset comes from cave and 
+swallett sites including Sun Hole and Tom Tivey’s 
+Hole. At Sun Hole, Early Neolithic deposits included 
+calcined animal bone (Tratman and Henderson 
+1927). Tom Tivey’s Hole included human remains, 
+Windmill Hill style pottery and flints as well as 
+sheep bone (Barrett 1966), an indication of the 
+early introduction of sheep in the area. The Early 
+Neolithic levels at Charterhouse Warren Farm 
+Swallett (a naturally occurring closed sinkhole) 
+produced juvenile human bone, flint objects, animal 
+bone and other objects, which were interpreted as 
+deliberately deposited (Levitan et al. 1988). The 
+habit of deposition into the Late Neolithic in these 
+features is supported by the presence of grooved 
+ware, human remains, flints and animal bone at 
+Brimble Pit Swallett (Lewis 2005, 128). Similar 
+deposits including both domestic cattle and aurochs 
+occurred at Tyning’s Great Swallett (Mullan and 
+Boycott 2004, 135-6), and aurochs at Charterhouse 
+Warren Farm (Everton 1975).
+Given the similarities of content, it should be 
+considered that deposition in pits and natural 
+features may be parallel practices. Early Neolithic 
+pits at Chew Valley Lake produced pottery, 
+flint and charred hazelnuts as well as ‘1/2 oz of 
+calcined bone’ , unidentified to species (Rahtz 
+and Greenfield 1977, 26-7). Other pit sites in 
+Somerset and Dorset generally date from the later 
+Neolithic, and either contain no animal bone or 
+small quantities of a limited range of species ( e.g. 
+Ben Bridge; Rahtz and Greenfield 1977:28); Abbey 
+Quarry, Doulting (Higbee 2001, 2-3); Fir Tree 
+Field, Down Farm, Dorset (Legg 1991, 58-65) and 
+Flagstones, Dorchester (Bullock and Allen 1997, 
+191). It is against this limited picture of animal 
+husbandry and exploitation that the Milson’s 
+Corner and Cadbury Castle assemblages should be 
+considered. 
+The small, highly fragmented nature of the 
+material from Milsoms Corner is in many respects 
+more typical of local animal bone assemblages 
+of the period. Heavily burned, it only provides 
+slight indication of the presence of three livestock 
+species, cattle, sheep and pig. The much larger, and 
+significant assemblage from the hill adds dog and 
+a smattering of wild species to this list, and has 
+more potential to enlighten with respect to both 
+subsistence and consumption practice in the area 
+in the Earlier Neolithic. The relative abundance 
+of the species in the Cadbury Castle assemblage 
+with pig being clearly the most abundant differs 
+from other Somerset examples, and contrasts with 
+contemporary assemblages further afield where 
+cattle was generally more abundant; assemblages 
+with a greater abundance of pig are more frequently 
+noted in the later Neolithic, particularly from 
+henges (Serjeantson 2011, 25). 
+With little evidence for on-site breeding, 
+consideration also needs to be given to whether the 
+pigs were wild or domestic in origin, or a mixture of 
+the two. This is potentially problematic to determine. 
+Pigs were domesticated in Europe and introduced 
+15517 - Somerset Arch Vol 161 - 2018.indb 39 20/09/2018 11:50:16
+40
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+to Britain at the beginning of the Neolithic along 
+with sheep/goat and cattle, although inter-breeding 
+may have then occurred with native boar (Albarella 
+et al. 2007). Metrical data are the most useful way 
+of exploring the issue, as pigs, when domesticated, 
+became smaller, whilst remaining morphologically 
+very similar to their wild counterparts. However, 
+to complicate matters, British Mesolithic boar 
+appears to have been relatively small in comparison 
+to continental populations (Albarella 2010, 60). 
+In this case, the metrical data are limited to a few 
+measurable fragments. For example, there is only a 
+single mandibular third molar available to provide 
+a length. As a rule of thumb, measurements in 
+excess of 40mm might be regarded as boar (Grigson 
+1983), which the single example for Cadbury Castle 
+(36.6mm) falls short of. Nevertheless, it compares 
+well with the range for British Mesolithic wild boar 
+(cf Albarella 2010; Albarella et al. 2009). It is larger 
+than four examples recorded from Beaker period 
+deposits at Gorsey Bigbury henge at Cheddar (Van 
+Wijngaarden-Bakker 1976, 166), although the state 
+of wear of these teeth was not noted. The breadth 
+of the trochlea of the two Cadbury Castle humeri 
+similarly fall within the British Mesolithic wild 
+boar metrical distribution (cf Albarella 2010, 61). 
+However, in neither case are the measurements at 
+the upper end of the scale, and so could reasonably 
+represent either wild or domestic pig. 
+This problem is frequent as biometrical data are 
+in general scant leading to a poor understanding 
+of the wild populations in the Early Neolithic. By 
+the later Neolithic, boar appear to have been rarely 
+represented in assemblages (e.g. Durrington Walls; 
+Albarella and Payne 2005), although they were 
+present as attested by a large scapula and humerus 
+at Mount Pleasant (Harcourt 1979, 215). The latter 
+had a distal breadth of 47mm, in comparison to 
+39mm for the two Cadbury Castle humeri, although 
+Harcourt notes an example of 39mm in Salisbury 
+Museum, listed as boar. The trochlea breadths of 
+two the Cadbury Castle examples fall well within 
+the range noted for, presumably domestic, pig at 
+Hambledon Hill, Durrington Walls and Mount 
+Pleasant (Legge 2008, 549; 572). Nine Beaker period 
+examples from Mount Pleasant fall into the range 
+of 30-35mm (Harcourt 1979, 217). The Cadbury 
+Castle Neolithic examples are however also large in 
+comparison to Middle and Late Iron Age pig teeth 
+from Cadbury which occupy a range of 29-37mm 
+in length (Randall 2010, 474). However, the widths 
+of mandibular first molars plot at the low end of the 
+range of sizes for those at Durrington Walls, where 
+the majority of the assemblage was believed to be 
+domestic (cf Albarella and Payne 2005, 593). It 
+cannot therefore be demonstrated either way as to 
+the presence or absence of wild pig. The possibility 
+of interbred populations also remains. It seems 
+clear that the animals did not farrow on the site, 
+or at least, their remains were not incorporated 
+in deposits. It seems likely that they were reared 
+elsewhere and brought to the hill for consumption 
+and disposal. A semi-feral style of herding might be 
+suggested for their husbandry.
+The rate of butchery in the Cadbury Castle 
+assemblage, at 2% of total fragments, is in line 
+with those noted in other Neolithic assemblages, 
+although the sites from which data are available 
+tend to be later in date. Often multiple short, fine, 
+cuts are typical of the period (Serjeantson 2011, 
+54-5). The degree to which cuts occur on different 
+species appears to be highly variable, and in the 
+case of the Cadbury material, the numbers are 
+so small as to render any proportions potentially 
+highly misleading. The percentages of burnt bone in 
+Neolithic assemblages are similarly highly variable, 
+so the 5% burnt material at Cadbury Castle is 
+comparable with a number of sites (cf. Serjeantson 
+2011, 57). The number of earlier Neolithic sites 
+for which this information is available is limited, 
+and where burnt material is extensive, it appears 
+to occur in more ceremonial or funerary contexts. 
+The accumulation of bone in a couple of particular 
+features at Cadbury Castle needs to be considered 
+in relation to the potential involvement of feasting. 
+Most of the Early Neolithic faunal remains come 
+from a number of contexts with relatively small 
+amounts of bone, but three features stand out in 
+having volumes of over 100 fragments. It is likely 
+that these features result from specific events 
+of consumption and deposition. This is further 
+explored elsewhere (Tabor and Randall in prep), as 
+is the very evident differences in the composition, 
+treatment and deposition of the faunal remains at 
+Milsoms Corner.
+The botanical remains
+by Dani de Carle
+Although evidence of cereals in British Neolithic 
+contexts is widespread, cereals tend to be 
+represented by very low quantities of material at 
+each site (Fairbairn 2000, Bogaard and Jones 2007, 
+Jones and Rowley-Conwy 2007) with a few notable 
+exceptions, such as Hambledon Hill, Dorset (Jones 
+and Legge 2008), Windmill Hill, Wiltshire (Whittle 
+et al. 2000) and, further north, Lismore Fields, 
+15517 - Somerset Arch Vol 161 - 2018.indb 40 20/09/2018 11:50:16
+41
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+Derbyshire (Jones in press). The plant remains 
+from the Early Neolithic pit contexts at Milsoms 
+Corner are mostly seeds of crop weeds and other 
+wild species. 
+A total of 135 litres of soil were processed from 
+the ten samples selected for study. Hazel nutshell 
+was abundant but only 28 identifiable seed or 
+chaff items were recorded, including one poorly 
+preserved barley grain, two indeterminate cereal 
+grains, a single glume wheat glume base and a flax 
+seed (Table 16). The few seeds of potential crop 
+weeds include Stellaria cf. media, Vicia/Lathyrus 
+sp. and seeds of Polygonaceae. However, thousands 
+of hazel nutshell fragments were recovered from 
+the samples, particularly MC1889 and MC1839, 
+for which the shell recovered from the flot was 
+weighed rather than counted; further material 
+would probably be recoverable from the heavy 
+residues.
+The pre-depositional taphonomy of cereals is 
+very different to that of nutshell. Jones (2000) 
+points out that the nutshell represents the waste 
+from consumption rather than the product which 
+would normally be consumed. The equivalent waste 
+parts for cereals are chaff and straw. Nutshell also 
+has little value beyond its use as kindling or fuel 
+whereas chaff and straw may have other uses such 
+as fodder and building materials. What is more, 
+the dense nutshell survives charring relatively well 
+while lighter material such as chaff and straw tend 
+to survive poorly (Boardman and Jones 1990). 
+There is a suggestion that hazel nutshells within 
+pits could be suggestive of processing of hazelnuts 
+by roasting (Score and Mithen 2000, Mithen et al. 
+2001), although the Milsoms Corner pits do not 
+match the shape and dimensions of the previously 
+identified Mesolithic examples and the deposits 
+are much smaller. The Milsoms Corner samples 
+are from pits in the wider landscape rather than 
+unambiguously settlement-based contexts. The 
+evidence of relatively rapid intentional filling 
+of the pits is indicated by minimal weathering 
+and the inclusion of artifacts such as ‘elegant’ 
+pottery associated with sites across the south 
+west, a Cornish polished axe, a complete and 
+fragmentary quern stones from the Mendips and 
+rubbers (Tabor 2008a, 45). These assemblages are 
+similar to those across Neolithic southern Britain 
+where gathered food remains outnumber those of 
+cultivated crops (Robinson 2000) and point towards 
+ceremonial actions. Cereal-based assemblages are 
+perhaps more likely to be associated with areas 
+of settlement, particularly houses. These types of 
+context are well represented at continental Neolithic 
+sites, and in later periods in the SCEP landscape 
+itself. Unfortunately the lack of archaeobotanical 
+sampling during the hillfort excavations means that 
+no material is available from the possible gully and 
+post-built rectangular buildings found on the South 
+Cadbury hilltop. To date, all that can be said about 
+the Early Neolithic crops is that barley and glume 
+wheat, probably emmer (Greig 1991; Campbell 
+and Straker 2003), were available in the SCEP 
+landscape, and that wild resources seem to have 
+played a significant role compared to later periods, 
+especially the Iron Age.
+Wood charcoal results from Neolithic Hambledon 
+Hill (Austin et al. 2008, 461) indicated a greater 
+diversity in the wood species than that recorded for 
+later periods. The Early Neolithic SCEP samples 
+show relatively low diversity compared to samples 
+from the following periods (Table 17). The more 
+numerous species represented are deciduous 
+Quercus, Corlyus and Corylus/Alnus, Pomoideae 
+and Prunus spp. The presence of possible scrub 
+or wooodland edge taxa as well as understory 
+TABLE 16 – SOUTH CADBURY CASTLE PITS D660, E885 AND P154 CONDITION AND TAPHONOMY
+D660 E885 P154
+No % No % No %
+Gnawed 5 4% 2 2% 1 1%
+Weathered - - 16 12% - -
+Burned 4 3% 6 5% 6 4%
+PA 4 3% - - 21 12%
+A 38 29% 87 66% 21 12%
+AG 82 63% 45 34% 121 75%
+G 7 5% - - 1 1%
+15517 - Somerset Arch Vol 161 - 2018.indb 41 20/09/2018 11:50:17
+42
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+species suggests clearings. However, it is unclear 
+how much this slightly restricted range of species 
+results from the samples all coming from tightly 
+clustered contexts of the same type in what may 
+have been a tree rich environment. Other periods 
+are represented by a range of context types widely 
+spaced across sites on a range of substrates. In the 
+later periods people may have had less choice of 
+wood in their immediate surroundings and so had 
+to collect from a wider range of habitats, while 
+Neolithic samples might represent taxa that were 
+immediately to hand without the need to travel 
+further or use other taxa.
+EARLY NEOLITHIC STRUCTURES AT SOUTH 
+CADBURY?
+The evidence for structures on the hilltop is 
+limited. Trench E886 resembles wall trenches of 
+Neolithic longhouses but it is set in isolation. Red 
+soil filled postholes and a gully close to pit G048 
+TABLE 17 – MILSOMS CORNER: COUNTS OF THE CROP, WEED AND
+HERBACEOUS PLANT PARTS BY CONTEXT
+1706 1839 1886 1888 1889 2285 2294 2347 2295 2362
+Feature 293 619 652 652 652 726 726 726 737 737
+Soil volume (litres) 3 15 / 48 40 1.25 1.2 7.75 / 19
+Taxa
+Pit fill
+Pit fill
+Pit fill
+Pit fill
+Pit fill
+Pit fill
+Pit fill
+Pit fill
+Pit fill
+Pit fill
+Barley grain+ 1
+Indet. cereal grain 2 1
+Unassigned glume wheat 
+glume bases 1
+Large culm node 4
+Flax 2
+Vicia L./Lathyrus L. sp. 2 1 1
+Polygonaceae Large indet. 1
+Polygonaceae Small indet 1 1
+Rumex L. sp. (typeA)+ 4 3
+Stellaria cf. media L. Vill. 2
+Large Grass 1
+Potentially identifiable weed/
+wild seed 1 2 1
+cf. Fruit 3 1
+Small culm node 1
+Culm frag. (thin) 2
+Nutshell frags (Corylus) 67 94 2.1g 10.9g 172.7g 45 19 1.5g 1g 5.9g
+Tuber frags. 4
+Tuber 7
+15517 - Somerset Arch Vol 161 - 2018.indb 42 20/09/2018 11:50:17
+43
+EARLY NEOLITHIC PITS AT CADBURY CASTLE
+and postholes neighbouring hearth D654 and pit 
+D660 may have supported structural frameworks 
+but the dating of possible wall trenches on site K 
+is far from convincing. On the other hand there is 
+good evidence that the hollow on the north side 
+of Milsoms Corner spur represents a base for 
+a shelter. The claim rests on the preparation of a 
+floor surface, the hearth pit 293, the thin scatter of 
+charcoal across the floor to its south, and a group 
+of stakeholes. A gully and other possible small cut 
+features extending from west to south of the pit are 
+presumed to be associated with them (Fig. 3A). The 
+dearth of finds from the floor and hearth suggest 
+that the surface was kept clean in contrast to the 
+sealing layers and the fills of the other pits. Since 
+much of the floor and, probably, further cut features 
+were not exposed, it would be spurious to attempt 
+a detailed reconstruction of a structure. In general 
+terms it would have been lightweight but given 
+the effort in digging a terrace it is likely to have 
+been more than a tent. The cuts into the floor are 
+almost certainly closely contemporary with each 
+other, apparently ruling out a tepee-like covering, 
+although they might arise from reinstatement of a 
+shelter over a succession of visits.
+There is evidence for a characteristic structural 
+sequence during the Early Neolithic in which 
+substantial timber longhouses give way to smaller 
+structures, some still rectangular, after the first 
+quarter of the 4th millennium BC (Last 2013, 274-
+5). It has been suggested that a few generations 
+after the building and demise of a large rectangular 
+structure at Kingsmead Quarry, Horton, Berkshire, 
+pits in a rectangular arrangement around a 5m by 
+6m ‘empty’ space respected a structure which has 
+left no other traces (Chaffey and Brook 2012, 205-
+8; fig. 14.5). A few of the pit clusters at Kilverstone, 
+Norfolk, have a similar pattern (Garrow et al. 2005, 
+14-20) but it was considered unlikely that they 
+surrounded a structure as the 2.25m maximum 
+dimension of available space would be very 
+restrictive (Garrow et al. 2005, 76).
+Identification of lightweight structures has 
+proved problematic. An up to 0.50m deep Mesolithic 
+sunken floor including a sequence of hearths at 
+Howick, Northumberland, appeared to have been 
+post and stake built over three phases during the 
+first quarter of the 8th millennium BC (Waddington 
+2003, 3-5). The hollow was approximately 6m in 
+diameter. A gully along its southern boundary is 
+comparable in form to 542, the gully cutting the 
+Milsoms Corner floor. A distinct sandy floor level 
+formed the base of the latest of three successive, 
+stake built, roughly oval, structures at Cowie, 
+Stirlingshire. The orientation of the ovals was 
+described as East to West although the plans shows 
+it as south west to north east. The stake holes were 
+set within continuous fence slots lacking evidence 
+for entrances. The structures ranged in size from 
+3.7m by 2.1m to 4.7m by 2.9m. The latest of the 
+structures post-dated the first quarter of the 4th
+millennium. It was assumed that they were broadly 
+contemporary with a nearby line of three pits, 
+two of which included good assemblages of early 
+TABLE 18 MILSOMS CORNER: WOOD TAXA IDENTIFIED IN EACH SAMPLE
+Absolute fragment counts
+Sample Feature
+Quercus decid.
+Fraxinus
+Populus/Salix
+Alnus
+Corylus/Alnus
+Corylus
+Prunus spp.
+Pomoideae
+total identified
+no. Unidentified
+MC1706 293 24 1 39 24 5 93 7
+MC1889 652 66 3 1 23 93 6
+MC2285 726 60 3 3 1 67 1
+MC2294 726 67 7 8 3 85 15
+MC2347 726 82 10 3 95 5
+MC2362 737 31 1 1 7 17 6 36 99 1
+15517 - Somerset Arch Vol 161 - 2018.indb 43 20/09/2018 11:50:17
+44
+SOMERSET ARCHAEOLOGY AND NATURAL HISTORY, 2017
+Neolithic pottery and produced radiocarbon dates 
+centred on the middle quarters of the 4th millennium 
+BC (Atkinson 2002, 144-5, illus. 5; 182-3).
+In Cornwall substantial structures have been 
+proposed at Helman Tor and, more persuasively, at 
+Carn Brea (Mercer 1997, 16-21; 1981, 23-7) but a 
+much lighter structure was posited at St Keverne. 
+A short segment of a curving gully and depressions 
+within it were interpreted as a bedding trench for 
+a south to north oriented ‘tent-like structure’ with 
+approximate dimensions of 4m by 2.5m. A line of 
+stones continuing northwards from the west side of 
+the gully would have weighed down the fabric of 
+the ‘tent’ (Smith and Harris 1982, 30-1; fig. 6). Of 
+the several sherds of pottery from the upper fills 
+of three nearby pits one was diagnostically Early 
+Neolithic (Smith and Harris 1982, fig. 18, 83).
+The scale of a shelter covering most of the floor 
+at Milsoms Corner would be comparable with the 
+examples at Cowie and St. Keverne but the only 
+other similarity is in the use of stake supports which 
+it shares with Cowie. By its nature evidence for 
+stake-built structures survives only where ground 
+conditions are suitable and where the manner of 
+excavation allows its identification. The latter is 
+an especially acute problem due to the extensive 
+deep stripping applied routinely in development-led 
+archaeology.
+CONCLUSION
+The environmental evidence suggests the local Early 
+Neolithic human population on, and presumably 
+around South Cadbury Castle, maintained herds 
+of domesticated cattle and sheep/goats and a small 
+number of dogs. Pigs contributing to the diet may 
+have been only semi-domesticated and it is likely 
+that although cereals were circulating locally wild 
+plants, and probably animals, remained important 
+sources of nutrition. Evidence from three of the 
+hilltop pits implies that there were episodes of high 
+meat consumption, possibly feasting. One of the 
+three was associated with human bone and another, 
+D660, was close to a hearth and other features 
+which may have been associated an encampment 
+or dwelling. There is no obvious patterning in 
+association with other finds but it is possible that 
+the deposition of human bone and feasting linked 
+to particular pits were events outside the normal 
+daily routine. However, the hilltop pits cannot be 
+related meaningfully to each other because of their 
+imprecise dating.
+In contrast the Milsoms Corner pits are 
+likely to result from a single or a few closely set 
+episodes of occupation. The pits were either open 
+simultaneously or their traces remained as did the 
+memories of the group of people associated with 
+them. The evidence is enough to produce an outline 
+narrative of events. A level terrace was excavated 
+over which a lightweight shelter was erected. Fire in 
+a pit under the shelter provided heat and light whilst 
+outside a fire in another pit was used for cooking 
+and possibly industrial processes associated with 
+heat. These may have included the baking or drying 
+of hazelnuts but it is possible that the nutshells were 
+treated as fuel after the consumption of raw kernels. 
+A wind break was constructed where a quern 
+was used to produce nut or possibly cereal flour, 
+although the evidence for the latter is tenuous. One 
+or more used up querns had a secondary use after 
+crushing as an additive to clay for potting. The clay 
+may have been mixed in one of the pits. Most of 
+the bone was so severely burnt that it is unlikely to 
+be a byproduct of cooking but its properties with 
+respect to exposure to high temperatures may have 
+been exploited in the process of firing pottery. 
+At least two of the pits then had a secondary use 
+for the disposal of the accumulated byproducts 
+of occupation. On occasions some of the deposits 
+were dug into not long after they had been laid, 
+occasionally to receive small meaningful deposits 
+in the two larger pits. Towards the end of the 
+occupation a complete quern was placed in a pit 
+adjacent to the area where it was used, possibly with 
+a view to being used again on a subsequent visit. A 
+rubber may have been placed in the neighbouring 
+hearth which had been used throughout the 
+occupation. The remaining detritus was deposited 
+in the two larger pits and the inhabitants moved 
+on. Natural processes began to fill the remaining 
+hollows and to degrade any remaining surface 
+pottery.
