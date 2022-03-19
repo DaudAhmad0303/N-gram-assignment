@@ -1,22 +1,22 @@
-We tested Apple's new option to unlock an iPhone while wearing a mask
+We tested Apple ' s new option to unlock an iPhone while wearing a mask
 Samantha Murphy Kelly byline
-By Samantha Murphy Kelly, CNN Business
+By Samantha Murphy Kelly , CNN Business
 
-Updated 1855 GMT (0255 HKT) February 17, 2022
+Updated 1855 GMT ( 0255 HKT ) February 17 , 2022
 
-I stood outside a busy New York City subway stop recently, dressed like a celebrity trying not to be recognized. My face was covered with sunglasses, a baseball cap and my black KN95 mask.
+I stood outside a busy New York City subway stop recently , dressed like a celebrity trying not to be recognized . My face was covered with sunglasses , a baseball cap and my black KN95 mask . 
 
-But my iPhone immediately recognized me as its rightful owner, without needing me to uncover my face. The device swiftly unlocked when I swiped up to use Face ID.
-For much of the past two years, many iPhone users, myself included, have lost some of the convenience of being able to seamlessly unlock the device with their face because they were masked. Apple's latest software update is intended to address that pandemic headache.
-The update, iOS 15.4, aims to ensure Face ID, one of the iPhone's signature features, works without requiring the phone's owner to remove their mask in public, a technical feat given the fewer facial details it has available to analyze. The new feature is still in beta and could launch to the public for iPhone 12 devices and newer in the weeks or months ahead. (The timing is perhaps a bit ironic considering many states are actively lifting mask mandates.)
-I downloaded an early version of the update and tested Face ID with a series of patterned masks, black K95 masks, masks with beards and even one with Kevin's face from the movie "Home Alone." Face ID worked with many of these on the first attempt, but the overall experience was inconsistent. I was often asked to type in my passcode after a failed attempt.
+But my iPhone immediately recognized me as its rightful owner , without needing me to uncover my face . The device swiftly unlocked when I swiped up to use Face ID . 
+For much of the past two years , many iPhone users , myself included , have lost some of the convenience of being able to seamlessly unlock the device with their face because they were masked . Apple ' s latest software update is intended to address that pandemic headache . 
+The update , iOS 15 . 4 , aims to ensure Face ID , one of the iPhone ' s signature features , works without requiring the phone ' s owner to remove their mask in public , a technical feat given the fewer facial details it has available to analyze . The new feature is still in beta and could launch to the public for iPhone 12 devices and newer in the weeks or months ahead .  ( The timing is perhaps a bit ironic considering many states are actively lifting mask mandates .  ) 
+I downloaded an early version of the update and tested Face ID with a series of patterned masks , black K95 masks , masks with beards and even one with Kevin ' s face from the movie " Home Alone .  " Face ID worked with many of these on the first attempt , but the overall experience was inconsistent . I was often asked to type in my passcode after a failed attempt . 
 Apple plans AirTag updates to curb unwanted tracking
 Apple plans AirTag updates to curb unwanted tracking
-Despite unlocking the device while incognito in sunglasses and a hat on my first try, repeating this feat was also hit or miss. Apple later told me the software update is intended to work with eyeglasses but can work with sunglasses in certain situations, when Face ID can gather enough information to identify a user. It is, however, designed to work with a hat. The pairing of both worked about half of the time.
-While it's impressive the feature worked as often as it did, the mixed results highlight the challenge Apple (AAPL) and other tech companies must confront to enable users to unlock their devices with their faces -- a feature available on other smartphones as well -- when part of the user's face is concealed.
-Facial recognition software typically works by comparing measurements between different facial features in one image to those in one or more other images. Apple's Face ID tool compares a stored image of the smartphone owner's face with an image taken when they attempt to unlock the handset. Mask wearing pushed many companies — including Apple — to focus on better identifying and verifying people based on the portion of the face above the nose and, in particular, the eye region.
-The company said because Face ID with a mask uses less biometric information, there may be circumstances when a user is not as easily recognized as when their full face is visible and a user may therefore need to enter their passcode.
-Given the software is still in beta, Apple will likely be looking for information to refine the experience.
-Apple has tried other approaches to unlock the iPhone while wearing a mask. Last year, Apple rolled out a partial solution allowing anyone with an Apple Watch to use the device to authenticate their identity without taking off their mask.
-Still, there were limitations: the devices had to be in close proximity; you still needed to type in a passcode to make transactions through Apple Pay, the App Store or iTunes if wearing a mask; and obviously, you needed to own an Apple Watch.
-Rachel Metz contributed to this story.
+Despite unlocking the device while incognito in sunglasses and a hat on my first try , repeating this feat was also hit or miss . Apple later told me the software update is intended to work with eyeglasses but can work with sunglasses in certain situations , when Face ID can gather enough information to identify a user . It is , however , designed to work with a hat . The pairing of both worked about half of the time . 
+While it ' s impressive the feature worked as often as it did , the mixed results highlight the challenge Apple ( AAPL ) and other tech companies must confront to enable users to unlock their devices with their faces -- a feature available on other smartphones as well -- when part of the user ' s face is concealed . 
+Facial recognition software typically works by comparing measurements between different facial features in one image to those in one or more other images . Apple ' s Face ID tool compares a stored image of the smartphone owner ' s face with an image taken when they attempt to unlock the handset . Mask wearing pushed many companies — including Apple — to focus on better identifying and verifying people based on the portion of the face above the nose and , in particular , the eye region . 
+The company said because Face ID with a mask uses less biometric information , there may be circumstances when a user is not as easily recognized as when their full face is visible and a user may therefore need to enter their passcode . 
+Given the software is still in beta , Apple will likely be looking for information to refine the experience . 
+Apple has tried other approaches to unlock the iPhone while wearing a mask . Last year , Apple rolled out a partial solution allowing anyone with an Apple Watch to use the device to authenticate their identity without taking off their mask . 
+Still , there were limitations : the devices had to be in close proximity ; you still needed to type in a passcode to make transactions through Apple Pay , the App Store or iTunes if wearing a mask ; and obviously , you needed to own an Apple Watch . 
+Rachel Metz contributed to this story . 

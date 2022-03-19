@@ -1,16 +1,16 @@
 Uber now lets you see how many one-star ratings you received from drivers
 By Jennifer Korn
 
-Updated 1656 GMT (0056 HKT) February 16, 2022
-Confused how you ended up with a low rating on Uber? A new feature will offer a bit more insight.
+Updated 1656 GMT ( 0056 HKT ) February 16 , 2022
+Confused how you ended up with a low rating on Uber ? A new feature will offer a bit more insight . 
 
-Uber on Wednesday announced an option that lets you see a breakdown of how many drivers left you a one-star rating, a five-star rating and other ratings in between. Previously users of the ride share app were only able to see their average rating.
-Uber&#39;s business is over the pandemic slump
-Uber's business is over the pandemic slump
-Finding the rating breakdown requires several steps. First, open the Settings menu of the app, tap Privacy and then Privacy Center. Once there, swipe to the right and click on the option: "would you like to see a summary of how you use Uber." Next, scroll to the "browse your data" section and tap on "view my ratings." (You can also access the information on Uber's website.)
-The goal of the new feature, according to Uber, is to offer customers a better understanding of their current rating, which is based on their most recent 500 trips on the platform, and to incentivize good behavior during rides.
-"We hope that by giving users a peek into how their rating is calculated, we can help encourage positive experiences between riders and drivers on every trip," said Zach Singleton, head of privacy and equity products at Uber (UBER).
-Uber said all identifying information is kept anonymous for safety reasons.
-Uber relies on a two-way rating system in an effort to hold passengers and drivers accountable during rides. Drivers and riders with lower ratings risk being deactivated from the platform. The threshold for being deactivated varies from city to city, as the company accounts for a variety of factors when determining the point of user termination.
-Uber revealed on Wednesday that the US city with the lowest average rider rating is New York, followed by Seattle and Washington, D.C. San Antonio, Texas topped the list of cities with the best average rider rating.
-To keep their ratings high, Uber advises riders to clean up after themselves, buckle their seatbelts, be ready on time, be respectful and avoid slamming the door.
+Uber on Wednesday announced an option that lets you see a breakdown of how many drivers left you a one-star rating , a five-star rating and other ratings in between . Previously users of the ride share app were only able to see their average rating . 
+Uber &  # 39 ; s business is over the pandemic slump
+Uber ' s business is over the pandemic slump
+Finding the rating breakdown requires several steps . First , open the Settings menu of the app , tap Privacy and then Privacy Center . Once there , swipe to the right and click on the option :  " would you like to see a summary of how you use Uber .  " Next , scroll to the " browse your data " section and tap on " view my ratings .  "  ( You can also access the information on Uber ' s website .  ) 
+The goal of the new feature , according to Uber , is to offer customers a better understanding of their current rating , which is based on their most recent 500 trips on the platform , and to incentivize good behavior during rides .  
+ " We hope that by giving users a peek into how their rating is calculated , we can help encourage positive experiences between riders and drivers on every trip ,  " said Zach Singleton , head of privacy and equity products at Uber ( UBER )  . 
+Uber said all identifying information is kept anonymous for safety reasons . 
+Uber relies on a two-way rating system in an effort to hold passengers and drivers accountable during rides . Drivers and riders with lower ratings risk being deactivated from the platform . The threshold for being deactivated varies from city to city , as the company accounts for a variety of factors when determining the point of user termination . 
+Uber revealed on Wednesday that the US city with the lowest average rider rating is New York , followed by Seattle and Washington , D . C . San Antonio , Texas topped the list of cities with the best average rider rating . 
+To keep their ratings high , Uber advises riders to clean up after themselves , buckle their seatbelts , be ready on time , be respectful and avoid slamming the door . 

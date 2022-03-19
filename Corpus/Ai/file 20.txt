@@ -3,13 +3,13 @@ Seekr Logo
 NEWS PROVIDED BY
 
 Seekr Technologies 
-Mar 15, 2022, 10:05 ET
+Mar 15 , 2022 , 10 : 05 ET
 
-SHARE THIS ARTICLE
-     
+SHARE THIS ARTICLE 
+
 Driven by a proprietary set of pattern-recognition algorithms that provide the user with choice and control over the content they view
 
-VIENNA, Va., March 15, 2022 /PRNewswire/ -- Seekr, an internet technology company, launched its search beta version today, streamlining access to reliable information. The company provides an alternative to existing search engines and offers objective results combined with advanced information analysis to assist users in judging the quality of content. The site will initially offer the Seekr Score, which rates each news article's quality, and a Political Lean Indicator, which classifies political news as right, center, or left. Over time, the scoring will be extended beyond the news.
+VIENNA , Va .  , March 15 , 2022 / PRNewswire / -- Seekr , an internet technology company , launched its search beta version today , streamlining access to reliable information . The company provides an alternative to existing search engines and offers objective results combined with advanced information analysis to assist users in judging the quality of content . The site will initially offer the Seekr Score , which rates each news article ' s quality , and a Political Lean Indicator , which classifies political news as right , center , or left . Over time , the scoring will be extended beyond the news . 
 
 Seekr makes it easier to assess the reliability of information by offering ratings and filtering
 
@@ -17,31 +17,31 @@ Seekr Score
 Seekr Score
 Seekr Political Lean Indicator
 Seekr Political Lean Indicator
-Consumer rating systems exist across several industries; however, until today, no one has created a system to automatically evaluate the reliability of information at web scale. Developed over many years and packaged with long-tail search support from existing engines, the platform was built on an independent index, utilizing proprietary Lite-Web Technology to serve both news and the best of the web search results. It provides a unique scoring and filtering system that will empower users to make informed decisions on what they consume, share, and trust online. The goal is to provide both people and advertisers with a way to evaluate all web-based content. To showcase these advanced capabilities, the company has built a new user interface designed for clarity. This design approach foreshadows the next generation of a more consumer-centric search experience.
-
-"We believe that a user-driven search experience coupled with our content rating system is a step in the right direction towards reducing the distrust of online information that continues to grow among all democracies today," says Pat Condo, Seekr Founder and Chief Executive Officer. "We want users to see all sides of an argument and have every source of information available to make their own decisions rather than having other search engines draw conclusions for them."  
+Consumer rating systems exist across several industries ; however , until today , no one has created a system to automatically evaluate the reliability of information at web scale . Developed over many years and packaged with long-tail search support from existing engines , the platform was built on an independent index , utilizing proprietary Lite-Web Technology to serve both news and the best of the web search results . It provides a unique scoring and filtering system that will empower users to make informed decisions on what they consume , share , and trust online . The goal is to provide both people and advertisers with a way to evaluate all web-based content . To showcase these advanced capabilities , the company has built a new user interface designed for clarity . This design approach foreshadows the next generation of a more consumer-centric search experience .  
+ 
+ " We believe that a user-driven search experience coupled with our content rating system is a step in the right direction towards reducing the distrust of online information that continues to grow among all democracies today ,  " says Pat Condo , Seekr Founder and Chief Executive Officer .  " We want users to see all sides of an argument and have every source of information available to make their own decisions rather than having other search engines draw conclusions for them .  "  
 
 Seekr Score and Political Lean Indicator Are the First of Many Tools
 
-A suite of machine-learning algorithms generates a specific score for each news article, just as FICO scores and other rating systems are used to evaluate products and services. With each query, results are evaluated with the same scrutiny that a data scientist or expert journalist would provide. The Seekr Score analyzes the quality of information and adherence to journalistic principles for each article. Principles include Title Exaggeration, Personal Attack, and Subjectivity, among others.
+A suite of machine-learning algorithms generates a specific score for each news article , just as FICO scores and other rating systems are used to evaluate products and services . With each query , results are evaluated with the same scrutiny that a data scientist or expert journalist would provide . The Seekr Score analyzes the quality of information and adherence to journalistic principles for each article . Principles include Title Exaggeration , Personal Attack , and Subjectivity , among others . 
 
-Individual news articles containing political content are rated right, center, or left through the Political Lean Indicator. The AI technology does this by extracting and deeply analyzing the text for expressions, words, and semantics typically associated with a political position. 
+Individual news articles containing political content are rated right , center , or left through the Political Lean Indicator . The AI technology does this by extracting and deeply analyzing the text for expressions , words , and semantics typically associated with a political position .  
+ 
+ " We believe all machine-learning systems need to be explainable and transparent . We want our users to understand how our scoring systems work and trust them ,  " says Rob Clark , Executive Vice President of
 
-"We believe all machine-learning systems need to be explainable and transparent. We want our users to understand how our scoring systems work and trust them," says Rob Clark, Executive Vice President of
+Development at Seekr .  " To achieve this confidence , ongoing automated and manual testing is employed to ensure accuracy , prevent bias or inaccurate drifts in the model .  " 
 
-Development at Seekr. "To achieve this confidence, ongoing automated and manual testing is employed to ensure accuracy, prevent bias or inaccurate drifts in the model."
+The company plans to offer ad-supported search with user consent in the future . When ads are included , they will be placed next to content that reflects the quality and suitability of their brands .  
+ 
+ " We are not driven by any political ideology nor by a business model that puts the consumer at a disadvantage . Our motivation is to provide you with a deeper understanding of the content you may rely on through transformative and groundbreaking technologies which can advance the state of how people use search to enhance their lives ,  " says Condo . 
 
-The company plans to offer ad-supported search with user consent in the future. When ads are included, they will be placed next to content that reflects the quality and suitability of their brands.
+Access www . seekr . com . 
 
-"We are not driven by any political ideology nor by a business model that puts the consumer at a disadvantage. Our motivation is to provide you with a deeper understanding of the content you may rely on through transformative and groundbreaking technologies which can advance the state of how people use search to enhance their lives," says Condo. 
+For press materials , visit www . seekr . com / press-center
 
-Access www.seekr.com.
+About Seekr Technologies Inc . 
 
-For press materials, visit www.seekr.com/press-center
+Seekr is a privately held internet technology company that prioritizes transparency and empowers user choice and control by streamlining access to reliable information . Current services include an independent search engine powered by AI technology , which evaluates information and presents a Seekr Score and Political Lean Indicator . Seekr is committed to giving everyone access to technology that makes it easy to find trustworthy content in context . 
 
-About Seekr Technologies Inc. 
-
-Seekr is a privately held internet technology company that prioritizes transparency and empowers user choice and control by streamlining access to reliable information. Current services include an independent search engine powered by AI technology, which evaluates information and presents a Seekr Score and Political Lean Indicator. Seekr is committed to giving everyone access to technology that makes it easy to find trustworthy content in context. 
-
-Media Contact: Erika Cruz 
+Media Contact : Erika Cruz 
 Head of Communications

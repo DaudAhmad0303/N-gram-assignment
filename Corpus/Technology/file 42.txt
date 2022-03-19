@@ -1,62 +1,62 @@
 Israeli police under fire for alleged use of Pegasus spyware
-Israeli lawmaker says she will question the police about their reported use of the NSO Group hacking tool on Israeli citizens.
+Israeli lawmaker says she will question the police about their reported use of the NSO Group hacking tool on Israeli citizens . 
 
 A logo adorns a wall on a branch of the Israeli NSO Group near the southern Israeli town of Sapir
-A branch of the Israeli NSO Group company, near the southern Israeli town of Sapir [File: Sebastian Scheiner/AP Photo]
+A branch of the Israeli NSO Group company , near the southern Israeli town of Sapir [ File : Sebastian Scheiner / AP Photo ] 
 Published On 18 Jan 2022
 18 Jan 2022
-Israel’s parliament will seek an explanation from police about the force’s reported use of a controversial hacking tool against citizens of the country, a senior legislator has said.
+Israel ’ s parliament will seek an explanation from police about the force ’ s reported use of a controversial hacking tool against citizens of the country , a senior legislator has said . 
 
-Without citing sources, the Calcalist financial daily said on Tuesday police have possessed the Pegasus spyware made by Israel’s NSO Group – which is now on a US government blacklist – since 2013.
+Without citing sources , the Calcalist financial daily said on Tuesday police have possessed the Pegasus spyware made by Israel ’ s NSO Group – which is now on a US government blacklist – since 2013 . 
 
 KEEP READING
 list of 4 items
 list 1 of 4
-From Middle East to India, women ‘violated’ in Pegasus phone hack
+From Middle East to India , women ‘ violated ’ in Pegasus phone hack
 list 2 of 4
-Israel’s Pegasus: Is your phone a ‘24-hour surveillance device’?
+Israel ’ s Pegasus : Is your phone a ‘ 24-hour surveillance device ’  ? 
 list 3 of 4
-Pegasus used to target El Salvador activists, journalists: Report
+Pegasus used to target El Salvador activists , journalists : Report
 list 4 of 4
-NSO Group explores shut down of its Pegasus spyware unit, sale
+NSO Group explores shut down of its Pegasus spyware unit , sale
 end of list
-Calcalist said the police have used it against targets, including anti-government protest leaders, sometimes without the required court warrants.
+Calcalist said the police have used it against targets , including anti-government protest leaders , sometimes without the required court warrants . 
 
-The report added a new domestic angle to global pressure on Israel following allegations that Pegasus has been abused by some foreign client governments to spy on human rights activists, journalists and politicians.
-
-
-Responding to the Calcalist report, Police Commissioner Kobi Shabtai said the force had acquired third-party cyber-technology, but he stopped short of confirming or denying any usage of Pegasus.
-
-All such monitoring activity, he said in a statement, “is carried out according to law … for example, in the case of covert listening, a request is filed with a court, which examines the matter”.
-
-He denied the newspaper’s report that police had used spyware against, among others, leaders of so-called “Black Flag” protests last year that demanded the resignation of then-Prime Minister Benjamin Netanyahu, who is on trial on corruption charges he has denied.
-
-On Israel’s Channel 12 TV news, legislator Meirav Ben Ari said the parliamentary public security committee she chairs would convene as early as next week to question police about the Calcalist report.
-
-“Many members of parliament have approached me today. This is a very disturbing incident, raising concerns about violation of privacy and democracy as a whole,” Ben Ari said.
-
-“The police, as they do whenever they come to my hearings, will explain.”
+The report added a new domestic angle to global pressure on Israel following allegations that Pegasus has been abused by some foreign client governments to spy on human rights activists , journalists and politicians . 
 
 
-NSO said it could not confirm or deny any existing or potential customers. It said it does not operate the system once sold to its governmental customers nor is it involved in any way in the system’s operation.
+Responding to the Calcalist report , Police Commissioner Kobi Shabtai said the force had acquired third-party cyber-technology , but he stopped short of confirming or denying any usage of Pegasus . 
 
-“NSO sells its products under license and regulation to intelligence and law enforcement agencies to prevent terror and crime under court orders and the local laws of their countries,” it said.
+All such monitoring activity , he said in a statement ,  “ is carried out according to law … for example , in the case of covert listening , a request is filed with a court , which examines the matter ”  . 
 
-The Calcalist report sparked an outcry across Israel’s political spectrum.
+He denied the newspaper ’ s report that police had used spyware against , among others , leaders of so-called “ Black Flag ” protests last year that demanded the resignation of then-Prime Minister Benjamin Netanyahu , who is on trial on corruption charges he has denied . 
 
-Cabinet Minister Karine Elharrar told Israeli Army Radio that such surveillance “was something that a democratic country cannot allow”.
+On Israel ’ s Channel 12 TV news , legislator Meirav Ben Ari said the parliamentary public security committee she chairs would convene as early as next week to question police about the Calcalist report .  
+ 
+ “ Many members of parliament have approached me today . This is a very disturbing incident , raising concerns about violation of privacy and democracy as a whole ,  ” Ben Ari said .  
+ 
+ “ The police , as they do whenever they come to my hearings , will explain .  ” 
 
-Opposition legislator Yuval Steinitz said that surveillance of citizens by law enforcement without judicial oversight is improper and that if the claims are correct, it should be investigated.
 
-Public Security Minister Omer Barlev, whose department oversees the police, tweeted that he would verify that police received explicit authorisation from a judge to use the spyware.
+NSO said it could not confirm or deny any existing or potential customers . It said it does not operate the system once sold to its governmental customers nor is it involved in any way in the system ’ s operation .  
+ 
+ “ NSO sells its products under license and regulation to intelligence and law enforcement agencies to prevent terror and crime under court orders and the local laws of their countries ,  ” it said . 
+
+The Calcalist report sparked an outcry across Israel ’ s political spectrum . 
+
+Cabinet Minister Karine Elharrar told Israeli Army Radio that such surveillance “ was something that a democratic country cannot allow ”  . 
+
+Opposition legislator Yuval Steinitz said that surveillance of citizens by law enforcement without judicial oversight is improper and that if the claims are correct , it should be investigated . 
+
+Public Security Minister Omer Barlev , whose department oversees the police , tweeted that he would verify that police received explicit authorisation from a judge to use the spyware . 
 
 
-Last month, a group of US legislators asked the Treasury and Department of State to sanction NSO and three other foreign surveillance companies they said helped authoritarian governments commit human rights abuses.
+Last month , a group of US legislators asked the Treasury and Department of State to sanction NSO and three other foreign surveillance companies they said helped authoritarian governments commit human rights abuses . 
 
-In November, Apple sued NSO, saying that it violated US laws by breaking into the software installed on iPhones.
+In November , Apple sued NSO , saying that it violated US laws by breaking into the software installed on iPhones . 
 
-NSO has also faced either legal action or criticism from Microsoft Corp, Facebook parent Meta Platforms Inc, Google parent Alphabet Inc, and Cisco Systems Inc.
+NSO has also faced either legal action or criticism from Microsoft Corp , Facebook parent Meta Platforms Inc , Google parent Alphabet Inc , and Cisco Systems Inc . 
 
-Watchdog Citizen Lab had previously uncovered the use of Pegasus to target journalists, human rights defenders, diplomats and dissidents during the past several years.
+Watchdog Citizen Lab had previously uncovered the use of Pegasus to target journalists , human rights defenders , diplomats and dissidents during the past several years . 
 
-Targets have been from Saudi Arabia, the United Arab Emirates, Mexico and the United States.
+Targets have been from Saudi Arabia , the United Arab Emirates , Mexico and the United States . 

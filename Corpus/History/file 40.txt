@@ -1,762 +1,762 @@
 n Westward on the High-Hilled Plains belongs to the publishers Oxbow Books 
-and it is their copyright.
-As author you are licenced to make up to 50 offprints from it, but beyond that you may not publish it on 
-the World Wide Web until three years from publication (January 2020), unless the site is a limited access 
-intranet (password protected). If you have queries about this please contact the editorial department at 
-Oxbow Books (editorial@oxbowbooks.com).
+and it is their copyright . 
+As author you are licenced to make up to 50 offprints from it , but beyond that you may not publish it on 
+the World Wide Web until three years from publication ( January 2020 )  , unless the site is a limited access 
+intranet ( password protected )  . If you have queries about this please contact the editorial department at 
+Oxbow Books ( editorial @ oxbowbooks . com )  . 
 WESTWARD ON THE HIGH-HILLED PLAINS
 THE MAKING OF THE WEST MIDLANDS
-Series Editors:
-Paul Garwood (Lecturer in Prehistory, IAA, University of Birmingham)
-Sarah Watt (Historic Buildings Consultant, CgMs Consulting)
-Roger White (Assistant Director, IAA, University of Birmingham)
-Vol. 1 The Undiscovered Country: The Earlier Prehistory of the West Midlands
- edited by Paul Garwood
-Vol. 2 Westward on the High-hilled Plains: The Later Prehistory of the West Midlands
- edited by Derek Hurst
-Forthcoming:
-Vol. 3 A Clash of Cultures? The Romano-British Period in the West Midlands
- edited by Roger White
-Vol. 4 Fields Flourishing and Bountiful: The West Midlands in the early Medieval period
- edited by Della Hooke
-Vol. 5 Town, Country and Landscape: The Archaeology of the Medieval West Midlands
- edited by John Hunt
-Vol. 6 Country of Discovery: The Post-medieval Period in the West Midlands
- edited by David Barker and Paul Belford
- WESTWARD ON THE HIGH-HILLED 
+Series Editors : 
+Paul Garwood ( Lecturer in Prehistory , IAA , University of Birmingham ) 
+Sarah Watt ( Historic Buildings Consultant , CgMs Consulting ) 
+Roger White ( Assistant Director , IAA , University of Birmingham ) 
+Vol . 1 The Undiscovered Country : The Earlier Prehistory of the West Midlands 
+edited by Paul Garwood
+Vol . 2 Westward on the High-hilled Plains : The Later Prehistory of the West Midlands 
+edited by Derek Hurst
+Forthcoming : 
+Vol . 3 A Clash of Cultures ? The Romano-British Period in the West Midlands 
+edited by Roger White
+Vol . 4 Fields Flourishing and Bountiful : The West Midlands in the early Medieval period 
+edited by Della Hooke
+Vol . 5 Town , Country and Landscape : The Archaeology of the Medieval West Midlands 
+edited by John Hunt
+Vol . 6 Country of Discovery : The Post-medieval Period in the West Midlands 
+edited by David Barker and Paul Belford 
+WESTWARD ON THE HIGH-HILLED 
 PLAINS 
- THE LATER PREHISTORY OF THE WEST MIDLANDS
+THE LATER PREHISTORY OF THE WEST MIDLANDS
 Edited by 
 DEREK HURST 
-Hardcover Edition: ISBN 978-1-78570-411-6
-Digital Edition: ISBN 978-1-78570-412-3 (epub)
+Hardcover Edition : ISBN 978-1-78570-411-6
+Digital Edition : ISBN 978-1-78570-412-3 ( epub ) 
 © Oxbow Books 2017
 Oxford & Philadelphia
-www.oxbowbooks.com
+www . oxbowbooks . com
 AN OFFPRINT FROM
 Published in the United Kingdom in 2017 by
 OXBOW BOOKS
-The Old Music Hall, 106–108 Cowley Road, Oxford OX4 1JE
+The Old Music Hall , 106–108 Cowley Road , Oxford OX4 1JE
 and in the United States by 
 OXBOW BOOKS
-1950 Lawrence Road, Havertown, PA 19083
+1950 Lawrence Road , Havertown , PA 19083
 © Oxbow Books and the individual authors 2017
-Hardcover Edition: ISBN 978-1-78570-411-6
-Digital Edition: ISBN 978-1-78570-412-3 (epub)
+Hardcover Edition : ISBN 978-1-78570-411-6
+Digital Edition : ISBN 978-1-78570-412-3 ( epub ) 
 A CIP record for this book is available from the British Library and the Library of Congress
-All rights reserved. No part of this book may be reproduced or transmitted in any form or by any means, 
-electronic or mechanical including photocopying, recording or by any information storage and retrieval 
-system, without permission from the publisher in writing.
-Typeset in India by Lapiz Digital Services, Chennai
-For a complete list of Oxbow titles, please contact: 
+All rights reserved . No part of this book may be reproduced or transmitted in any form or by any means , 
+electronic or mechanical including photocopying , recording or by any information storage and retrieval 
+system , without permission from the publisher in writing . 
+Typeset in India by Lapiz Digital Services , Chennai
+For a complete list of Oxbow titles , please contact : 
 UNITED KINGDOM
 Oxbow Books
-Telephone (01865) 241249, Fax (01865) 794449
-Email: oxbow@oxbowbooks.com
-www.oxbowbooks.com
+Telephone ( 01865 ) 241249 , Fax ( 01865 ) 794449
+Email : oxbow @ oxbowbooks . com
+www . oxbowbooks . com
 UNITED STATES OF AMERICA
 Oxbow Books
-Telephone (800) 791-9354, Fax (610) 853-9146
-Email: queries@casemateacademic.com
-www.casemateacademic.com/oxbow
+Telephone ( 800 ) 791-9354 , Fax ( 610 ) 853-9146
+Email : queries @ casemateacademic . com
+www . casemateacademic . com / oxbow
 Oxbow Books is part of the Casemate Group
-Front cover: Main entrance to Kemerton Camp, Bredon Hill, Worcestershire, with the Malvern Hills just visible beyond the 
-mid-18th century tower (Parsons Folly). Photograph courtesy of and copyright Adam Stanford (Aerial-Cam Ltd)
-Back cover: Copper alloy bucket mount in the form of a bovine head; broken loop at top (Henley-in-Arden, Warwickshire; 
-WAW-F4DF95). Copyright C. Stevens
+Front cover : Main entrance to Kemerton Camp , Bredon Hill , Worcestershire , with the Malvern Hills just visible beyond the 
+mid-18th century tower ( Parsons Folly )  . Photograph courtesy of and copyright Adam Stanford ( Aerial-Cam Ltd ) 
+Back cover : Copper alloy bucket mount in the form of a bovine head ; broken loop at top ( Henley-in-Arden , Warwickshire ; 
+WAW-F4DF95 )  . Copyright C . Stevens
 Westward on the high-hilled plains
-Where for me the world began,
-Still, I think, in newer veins
-Frets the changeless blood of man.
-First stanza of poem LV from A Shropshire Lad by A. E. Housman
+Where for me the world began , 
+Still , I think , in newer veins
+Frets the changeless blood of man . 
+First stanza of poem LV from A Shropshire Lad by A . E . Housman
 
 Contents
 Preface viii
 Résumé xi
 Zusammenfassung xii
-1. Introduction: Westward on the high-hilled plains 1
+1 . Introduction : Westward on the high-hilled plains 1
 Niall Sharples
-2. Cows, beans and the view: landscape and farming of the West Midlands in later prehistory 9
+2 . Cows , beans and the view : landscape and farming of the West Midlands in later prehistory 9
 Elizabeth Pearson
-3. ‘The Bronze Age has lagged behind …’. Late Bronze Age settlement and landscape in the West Midlands 17
+3 .  ‘ The Bronze Age has lagged behind … ’  . Late Bronze Age settlement and landscape in the West Midlands 17
 Hal Dalwood
-4. Burnt mounds and beyond: the later prehistory of Birmingham and the Black Country 29
+4 . Burnt mounds and beyond : the later prehistory of Birmingham and the Black Country 29
 Mike Hodder
-5. Any more old iron age? An archaeological resource assessment for the Middle Bronze Age to Iron Age in 
+5 . Any more old iron age ? An archaeological resource assessment for the Middle Bronze Age to Iron Age in 
 Warwickshire and Solihull 37
-Stuart C. Palmer
-6. Herefordshire: from the Middle Bronze Age to the later Iron Age 70
-Peter Dorling, Keith Ray and Paul White
-7.	 Fugitive pieces: towards a new understanding of the later second and first millennia BC in Shropshire 85
+Stuart C . Palmer
+6 . Herefordshire : from the Middle Bronze Age to the later Iron Age 70
+Peter Dorling , Keith Ray and Paul White
+7 . 	 Fugitive pieces : towards a new understanding of the later second and first millennia BC in Shropshire 85
 Andy Wigley
-8. The Late Bronze Age and Iron Age in Staffordshire: the torc of the Midlands? 97
+8 . The Late Bronze Age and Iron Age in Staffordshire : the torc of the Midlands ? 97
 Chris Wardle
-9. Middle Bronze Age to Late Iron Age Worcestershire 110
+9 . Middle Bronze Age to Late Iron Age Worcestershire 110
 Derek Hurst
-10. An overview of the ceramic basis within the broader West Midlands region 119
+10 . An overview of the ceramic basis within the broader West Midlands region 119
 Annette Hancocks
-11.	 The potential of the Portable Antiquities Scheme and treasure finds for understanding the Iron Age
+11 . 	 The potential of the Portable Antiquities Scheme and treasure finds for understanding the Iron Age
 in the West Midlands 124
 Angie Bolton
-12. Later prehistoric production and trade in the West Midlands 135
+12 . Later prehistoric production and trade in the West Midlands 135
 Derek Hurst
-13. Touching the void: Iron Age landscapes and settlement in the West Midlands 144
+13 . Touching the void : Iron Age landscapes and settlement in the West Midlands 144
 Andy Wigley
 Index 153
 Preface
 The move towards the production of this volume was first
 mooted at a meeting on West Midlands later prehistory 
 held in the council chamber of Worcestershire County 
-Council in September 2002 (doi:10.5284/1038433), as part 
-of the national initiative by English Heritage (now Historic 
-England) to promote research frameworks as central to the 
-practice of archaeology. This event was followed up by 
+Council in September 2002 ( doi : 10 . 5284 / 1038433 )  , as part 
+of the national initiative by English Heritage ( now Historic 
+England ) to promote research frameworks as central to the 
+practice of archaeology . This event was followed up by 
 a seminar which was focussed on establishing a research 
-framework agenda for the later prehistoric period, and 
-that was held at Birmingham University in July 2003. The 
+framework agenda for the later prehistoric period , and 
+that was held at Birmingham University in July 2003 . The 
 later prehistoric research agenda and strategy was finally
-published (Hurst 2011), alongside that for the other periods, 
-in The archaeology of the West Midlands: a framework for 
-research (Watt 2011). That left the West Midlands regional 
-research assessments, the period-based background surveys 
-to the agenda and strategy, as still to be published to 
-complete the West Midlands Research Framework. This is 
-the second volume in this intended series of six volumes.
+published ( Hurst 2011 )  , alongside that for the other periods , 
+in The archaeology of the West Midlands : a framework for 
+research ( Watt 2011 )  . That left the West Midlands regional 
+research assessments , the period-based background surveys 
+to the agenda and strategy , as still to be published to 
+complete the West Midlands Research Framework . This is 
+the second volume in this intended series of six volumes . 
 The majority of the research assessment papers in this 
-volume were, therefore, first drafted in 2002. Thereafter,
-during 2004, a process of revision was instigated in 
-consultation with authors with the intention to publish. At 
-that time, however, several papers were still missing, and, in 
-particular, one on a major topic, and it was not clear whether 
-these would be forthcoming. Also illustrations, especially 
-based on a map template, were lacking. With limited 
+volume were , therefore , first drafted in 2002 . Thereafter , 
+during 2004 , a process of revision was instigated in 
+consultation with authors with the intention to publish . At 
+that time , however , several papers were still missing , and , in 
+particular , one on a major topic , and it was not clear whether 
+these would be forthcoming . Also illustrations , especially 
+based on a map template , were lacking . With limited 
 support from the Worcestershire Historic Environment and 
-Archaeology Service (now Archive & Archaeology Service) 
+Archaeology Service ( now Archive & Archaeology Service ) 
 the updating of existing papers was finally achieved in
-2009, and this process then continued, selectively, into 
-2011. While this had significantly advanced the volume,
+2009 , and this process then continued , selectively , into 
+2011 . While this had significantly advanced the volume , 
 the unavailability of funding to deal with the major topic 
-omission and for drawing up the template maps, still 
-remained major obstacles to publication. Fortunately, these 
-difficulties were eventually overcome in 2014, when English
+omission and for drawing up the template maps , still 
+remained major obstacles to publication . Fortunately , these 
+difficulties were eventually overcome in 2014 , when English
 Heritage undertook to support progressing the volume to 
-final publication.
+final publication . 
 The West Midlands presently struggles archaeologically 
-to project a distinct regional identity. The region is 
-geographically defined by reference to other areas, such
-as Wessex and the South-West, and the North, which 
-have developed a stronger identity, both with regard to 
-landscape and their associated historical culture. Whether 
+to project a distinct regional identity . The region is 
+geographically defined by reference to other areas , such
+as Wessex and the South-West , and the North , which 
+have developed a stronger identity , both with regard to 
+landscape and their associated historical culture . Whether 
 this has always been the case going back into the more 
-distant past, apart from a temporary eminence during the 
-middle Saxon period (viz. kingdom of Mercia), is presently 
-unclear, and this surely forms one of the lines of enquiry 
-that might be pursued archaeologically. In more recent 
+distant past , apart from a temporary eminence during the 
+middle Saxon period ( viz . kingdom of Mercia )  , is presently 
+unclear , and this surely forms one of the lines of enquiry 
+that might be pursued archaeologically . In more recent 
 times part of the region attained international fame as 
-the birthplace of the industrial revolution, though this 
-occurred, incongruously, at Coalbrookdale in rural south 
-Shropshire. This ignited the blaze of industrial expansion 
-that later spread eastwards, as the Black Country, but, 
-sadly, industrial heritage is not celebrated in the same way 
-as other national achievements, and this has not adhered 
-to the regional sense of identity. The resulting lack of a 
+the birthplace of the industrial revolution , though this 
+occurred , incongruously , at Coalbrookdale in rural south 
+Shropshire . This ignited the blaze of industrial expansion 
+that later spread eastwards , as the Black Country , but , 
+sadly , industrial heritage is not celebrated in the same way 
+as other national achievements , and this has not adhered 
+to the regional sense of identity . The resulting lack of a 
 well formed self-identity is possibly exacerbated by the 
-land-locked centrality of the West Midlands, and by its 
-proximity to other much better (i.e. culturally) defined
-regions (e.g. Wales). This weak sense of identity has also 
+land-locked centrality of the West Midlands , and by its 
+proximity to other much better ( i . e . culturally ) defined
+regions ( e . g . Wales )  . This weak sense of identity has also 
 probably led to a failure to recognise and then build a sense 
-of character and place, even when circumstances allowed. 
-This has even encouraged the view, perhaps most readily 
-seen politically, that the West Midlands is peripheral, and 
-so outside the range of normality. Hopefully this volume 
+of character and place , even when circumstances allowed . 
+This has even encouraged the view , perhaps most readily 
+seen politically , that the West Midlands is peripheral , and 
+so outside the range of normality . Hopefully this volume 
 will serve to provide grounds for building a stronger sense 
-of West Midlands identity based on the past, which could 
+of West Midlands identity based on the past , which could 
 then be a source of greater inspiration towards developing 
 a stronger sense of identity for the inhabitants of the 
-region today.
+region today . 
 Introducing this volume
 This volume presents the papers that formed the basis of 
-the research agenda and strategy for later prehistory (Hurst 
-2011) published in The archaeology of the West Midlands: 
-a framework for research (Watt 2011). In common with the 
+the research agenda and strategy for later prehistory ( Hurst 
+2011 ) published in The archaeology of the West Midlands : 
+a framework for research ( Watt 2011 )  . In common with the 
 earlier prehistoric Regional Research Assessment volume in 
 Preface ix
-The West Midlands region in geographical context.
+The West Midlands region in geographical context . 
 x Preface
-this series (Garwood 2007), the papers of the later prehistoric 
-volume adopt a variety of approaches, variously being 
-either regional, county-wide or thematic (e.g. by site type, 
-or artefactual typology). Inevitably, because of the nature 
-of the assessment papers, they often conclude by looking 
-forward and so also include agenda and strategy points, 
-though in this case usually very specific. These seem quite
+this series ( Garwood 2007 )  , the papers of the later prehistoric 
+volume adopt a variety of approaches , variously being 
+either regional , county-wide or thematic ( e . g . by site type , 
+or artefactual typology )  . Inevitably , because of the nature 
+of the assessment papers , they often conclude by looking 
+forward and so also include agenda and strategy points , 
+though in this case usually very specific . These seem quite
 validly expressed here as part of the assessment rather than 
-the formal Agenda and Strategy volume, as it is clear that the 
-broad agenda formulated in Watt (2011) is more concerned 
-with the related general points and issues. The latter 
+the formal Agenda and Strategy volume , as it is clear that the 
+broad agenda formulated in Watt ( 2011 ) is more concerned 
+with the related general points and issues . The latter 
 include the need to recognise key sites and deal with them 
-appropriately, the need also for greater scientific focus, the
+appropriately , the need also for greater scientific focus , the
 case for select work on major monument types sympathetic 
 both to their protected status and their significance for the
-period, and how to use the broad appeal of archaeology to 
-pursue this agenda. Accordingly, both Watt (2011) and this 
-volume are intended to both be of relevance, when looking 
+period , and how to use the broad appeal of archaeology to 
+pursue this agenda . Accordingly , both Watt ( 2011 ) and this 
+volume are intended to both be of relevance , when looking 
 to develop projects where later prehistoric archaeology 
-is involved.
+is involved . 
 The later prehistoric papers have been arranged so that 
 a survey of environmental evidence for changing landscape 
-in the region (by Pearson) is followed by papers in 
-chronological order, with most of these being reviews of the 
-evidence within a county (e.g. by Palmer), followed in turn 
+in the region ( by Pearson ) is followed by papers in 
+chronological order , with most of these being reviews of the 
+evidence within a county ( e . g . by Palmer )  , followed in turn 
 by some thematic papers largely focussed around artefacts 
-of the period (e.g. by Hancocks), and, finally, there is an
+of the period ( e . g . by Hancocks )  , and , finally , there is an
 overview of the later prehistoric activity viewed against its 
 West Midlands landscape and as compared with other parts 
-of the country (by Wigley).
+of the country ( by Wigley )  . 
 Whereas the West Midlands is largely an area of 
-rural counties (Figure 1.1), the former West Midlands 
-County Council area is administratively complicated, being 
-composed of several, mainly densely populated, boroughs 
-and the coverage in this volume reflects this. It has resulted
-in a variable coverage: that is, Birmingham and the Black 
-Country with its own paper (Hodder), and Solihull being 
-covered in the Warwickshire paper (Palmer), but no specific
-coverage for the other metropolitan parts of the region.
+rural counties ( Figure 1 . 1 )  , the former West Midlands 
+County Council area is administratively complicated , being 
+composed of several , mainly densely populated , boroughs 
+and the coverage in this volume reflects this . It has resulted
+in a variable coverage : that is , Birmingham and the Black 
+Country with its own paper ( Hodder )  , and Solihull being 
+covered in the Warwickshire paper ( Palmer )  , but no specific
+coverage for the other metropolitan parts of the region . 
 Acknowledgements
-Many people have, over the long period of this project, given 
-up their time and/or committed resources under their control 
-to keeping this volume in view, with the knowledge that the 
+Many people have , over the long period of this project , given 
+up their time and / or committed resources under their control 
+to keeping this volume in view , with the knowledge that the 
 research assessments represent key statements on the state 
-of later prehistoric studies in this region. These statements 
-are important, not least because they are too rare examples 
-of synthesis, but also because they provide an opportunity 
+of later prehistoric studies in this region . These statements 
+are important , not least because they are too rare examples 
+of synthesis , but also because they provide an opportunity 
 to disseminate more widely some striking highlights from 
-the recent era of developer-funded archaeology. As such, 
+the recent era of developer-funded archaeology . As such , 
 this second volume in the West Midlands Regional Research 
 Assessment series is a further stepping stone to greater 
 understanding in an archaeological world currently largely 
-drowning in data.
+drowning in data . 
 I am particularly indebted to Simon Woodiwiss and 
 Victoria Bryant for their support in 2009 when the project 
-was in danger of sinking, and, again, to the former for his 
+was in danger of sinking , and , again , to the former for his 
 more recently helping by reading and commenting on a draft 
-text. Latterly I am indebted to Dan Miles and Ian George of 
-English Heritage (now Historic England) for their crucial 
-support in 2014. In the meantime, I have been generally 
+text . Latterly I am indebted to Dan Miles and Ian George of 
+English Heritage ( now Historic England ) for their crucial 
+support in 2014 . In the meantime , I have been generally 
 encouraged and warmed by the unselfish response of fellow
 archaeologists who responded positively to the spirit of this 
-project by providing the results of their work, and then, on 
-occasion, were also ready to accept my calls for even more 
-information.
-Suzy Blake (Staffordshire HER) kindly pitched in with 
-the production of template mapping for that county, while 
-Alex Bayliss (Historic England) fielded my enquiries about
-radiocarbon dating, but I reserve my special thanks for 
-Louise Buglass, who so patiently brought into being all the 
-template maps (except for Staffordshire), regardless of how 
+project by providing the results of their work , and then , on 
+occasion , were also ready to accept my calls for even more 
+information . 
+Suzy Blake ( Staffordshire HER ) kindly pitched in with 
+the production of template mapping for that county , while 
+Alex Bayliss ( Historic England ) fielded my enquiries about
+radiocarbon dating , but I reserve my special thanks for 
+Louise Buglass , who so patiently brought into being all the 
+template maps ( except for Staffordshire )  , regardless of how 
 often I presented her with rather abysmal roughs and then 
-went on to suggest more changes on top.
+went on to suggest more changes on top . 
 References
-Garwood, P. (ed.) (2007) The undiscovered country: the earlier 
-prehistory of the West Midlands. Oxford: Oxbow Books.
-Hurst, D. (2011) Middle Bronze Age to Iron Age: a research 
-assessment overview and agenda, in S. Watt (ed.), The 
-archaeology of the West Midlands: a framework for research, 
-101–126. Oxford: Oxbow Books.
-Watt, S. (ed.) (2011) The archaeology of the West Midlands: a 
-framework for research. Oxford: Oxbow Books.
+Garwood , P .  ( ed .  )  ( 2007 ) The undiscovered country : the earlier 
+prehistory of the West Midlands . Oxford : Oxbow Books . 
+Hurst , D .  ( 2011 ) Middle Bronze Age to Iron Age : a research 
+assessment overview and agenda , in S . Watt ( ed .  )  , The 
+archaeology of the West Midlands : a framework for research , 
+101–126 . Oxford : Oxbow Books . 
+Watt , S .  ( ed .  )  ( 2011 ) The archaeology of the West Midlands : a 
+framework for research . Oxford : Oxbow Books . 
 Résumé
 Les West Midlands ont peiné sur le plan archéologique 
-pour projeter une identité régionale distincte, ayant été 
-largement définis par comparaison avec d’autres zones
-bénéficiant d’une identité culturelle et d’une histoire plus
-solides, telles que le Wessex, le sud-ouest et le nord. Ce 
-n’est qu’occasionnellement que les West Midlands ont 
-été sur le devant de la scène, par exemple au milieu de la 
-période saxonne (c-à-d le royaume de Mercie) ou, beaucoup 
-plus tard, quand le sud rural du Shropshire est devenu le 
-berceau de la révolution industrielle. Pourtant c’est une 
-région riche en ressources minérales naturelles, située 
+pour projeter une identité régionale distincte , ayant été 
+largement définis par comparaison avec d ’ autres zones
+bénéficiant d ’ une identité culturelle et d ’ une histoire plus
+solides , telles que le Wessex , le sud-ouest et le nord . Ce 
+n ’ est qu ’ occasionnellement que les West Midlands ont 
+été sur le devant de la scène , par exemple au milieu de la 
+période saxonne ( c-à-d le royaume de Mercie ) ou , beaucoup 
+plus tard , quand le sud rural du Shropshire est devenu le 
+berceau de la révolution industrielle . Pourtant c ’ est une 
+région riche en ressources minérales naturelles , située 
 parmi des terres agricoles facilement productives et avec 
-d’importantes rivières, comme la Severn, pour faciliter le 
-transport. L’échelle de ses monuments de la deuxième moitié 
-de la préhistoire, en particulier les forteresses de sommet 
-de colline, proclame la centralisation de certaines fonctions, 
-que ce soit pour la sécurité, les échanges ou l’émulation 
+d ’ importantes rivières , comme la Severn , pour faciliter le 
+transport . L ’ échelle de ses monuments de la deuxième moitié 
+de la préhistoire , en particulier les forteresses de sommet 
+de colline , proclame la centralisation de certaines fonctions , 
+que ce soit pour la sécurité , les échanges ou l ’ émulation 
 tandis que la population maintenait une production et 
-une distribution étendue d’objets artisanaux spécialisés. 
-Finalement, vers la clôture de la préhistoire, on peut voir 
-émerger des royaumes locaux. Au cours de la revue des 
+une distribution étendue d ’ objets artisanaux spécialisés . 
+Finalement , vers la clôture de la préhistoire , on peut voir 
+émerger des royaumes locaux . Au cours de la revue des 
 témoignages de la deuxième partie de la préhistoire de 
-l’âge du bronze moyen à l’âge du fer final, les articles
-présentés ici adoptent des approches multiples, elles sont 
-soit régionales, soit au niveau du comté, ou thématiques 
-(par ex. par type de site ou typologie des artefacts) et elles 
-comprennent aussi le paysage plus étendu tel qu’il a été 
-reconstruit à partir des témoignages environnementaux. 
+l ’ âge du bronze moyen à l ’ âge du fer final , les articles
+présentés ici adoptent des approches multiples , elles sont 
+soit régionales , soit au niveau du comté , ou thématiques 
+( par ex . par type de site ou typologie des artefacts ) et elles 
+comprennent aussi le paysage plus étendu tel qu ’ il a été 
+reconstruit à partir des témoignages environnementaux . 
 Ceci est le second volume dans une série – La création 
-des West Midlands, – qui explore l’archéologie de la 
+des West Midlands , – qui explore l ’ archéologie de la 
 région anglaise des West Midlands à partir du paléolithique 
-inférieur. Ces volumes, reposant sur une série de séminaires 
-du Cadre de Recherches des West Midlands, ont pour but de 
+inférieur . Ces volumes , reposant sur une série de séminaires 
+du Cadre de Recherches des West Midlands , ont pour but de 
 transformer la perception de la nature et de la signification
 des témoignages archéologiques à travers une grande partie 
-du centre de la Grande-Bretagne.
+du centre de la Grande-Bretagne . 
 Annie Pritchard
 Zusammenfassung
 Archäologisch gesehen haben sich die West Midlands schwer 
-getan, eine eigene regionale Identität hervorzubringen; 
+getan , eine eigene regionale Identität hervorzubringen ; 
 sie wurden weitgehend in Bezug zu anderen Regionen 
-mit stärkerer kultureller Identität und Geschichte, wie 
-z. B. Wessex, dem Südwesten und dem Norden definiert.
-Nur gelegentlich haben sich die West Midlands hervorgetan, 
-so z. B. in der mittelangelsächsischen Periode (d. h. zur 
-Zeit des Königreichs Mercia), oder, wesentlich später, als 
+mit stärkerer kultureller Identität und Geschichte , wie 
+z . B . Wessex , dem Südwesten und dem Norden definiert . 
+Nur gelegentlich haben sich die West Midlands hervorgetan , 
+so z . B . in der mittelangelsächsischen Periode ( d . h . zur 
+Zeit des Königreichs Mercia )  , oder , wesentlich später , als 
 der ländlich geprägte Süden der Grafschaft Shropshire die 
-Wiege der industriellen Revolution war. Dennoch ist es 
-eine an natürlichen Bodenschätzen reiche, in fruchtbarem 
-Ackerland gelegene Region deren große Flüsse, wie 
-der Severn, gute Transportanbindungen bieten. Die 
-Größenordnung der in der Region vorhandenen bronze-/
-eisenzeitlichen Bodendenkmäler, vor allem der Ringwälle, 
-zeugt von der Zentralisierung bestimmter Funktionen, 
-sei es Sicherheit, Austausch oder Wetteifer, während die 
+Wiege der industriellen Revolution war . Dennoch ist es 
+eine an natürlichen Bodenschätzen reiche , in fruchtbarem 
+Ackerland gelegene Region deren große Flüsse , wie 
+der Severn , gute Transportanbindungen bieten . Die 
+Größenordnung der in der Region vorhandenen bronze- / 
+eisenzeitlichen Bodendenkmäler , vor allem der Ringwälle , 
+zeugt von der Zentralisierung bestimmter Funktionen , 
+sei es Sicherheit , Austausch oder Wetteifer , während die 
 Gesellschaft die Produktion und weitreichende Verbreitung 
-spezialisierter Handwerkserzeugnisse unterstützte. Am 
+spezialisierter Handwerkserzeugnisse unterstützte . Am 
 Ende der vorrömischen Eisenzeit ist letztlich die Bildung 
-regionaler Königreiche zu beobachten. Hinsichtlich der 
-Bearbeitung des Quellenmaterials zur jüngeren Urgeschichte, 
+regionaler Königreiche zu beobachten . Hinsichtlich der 
+Bearbeitung des Quellenmaterials zur jüngeren Urgeschichte , 
 von der mittleren Bronze- bis zur späten vorrömischen 
-Eisenzeit, wurden für die hier vorgelegten Beiträge 
-unterschiedliche Ansätze gewählt, so z. B. regionale, die 
-gesamte Grafschaft umfassende oder thematische (z. B. nach 
-Fundstellentyp oder Kleinfundtypologie), und sie schließen 
+Eisenzeit , wurden für die hier vorgelegten Beiträge 
+unterschiedliche Ansätze gewählt , so z . B . regionale , die 
+gesamte Grafschaft umfassende oder thematische ( z . B . nach 
+Fundstellentyp oder Kleinfundtypologie )  , und sie schließen 
 auch die anhand des paläoökologischen Quellenmaterials 
-rekonstruierte weitere Landschaft ein. Dies ist der zweite 
-Band einer Serie – The Making of the West Midlands (Die 
-Herausbildung der West Midlands) – in der die Archäologie 
+rekonstruierte weitere Landschaft ein . Dies ist der zweite 
+Band einer Serie – The Making of the West Midlands ( Die 
+Herausbildung der West Midlands ) – in der die Archäologie 
 der englischen Region West Midlands seit der älteren 
-Altsteinzeit untersucht wird. Mit diesen Bänden, die auf 
+Altsteinzeit untersucht wird . Mit diesen Bänden , die auf 
 eine Reihe von Seminaren zu den Forschungsrichtlinien 
-für die West Midlands zurückgehen, soll zum Wandel in 
+für die West Midlands zurückgehen , soll zum Wandel in 
 der Wahrnehmung des Charakters und der Bedeutung des 
 archäologischen Quellenmaterials eines großen Teils von 
-Mittel-England beigetragen werden.
+Mittel-England beigetragen werden . 
 Jörn Schuster
 1
-Introduction: Westward on the high-hilled plains
-Niall Sharples*
-The West Midlands is an unusual region in many respects. 
+Introduction : Westward on the high-hilled plains
+Niall Sharples * 
+The West Midlands is an unusual region in many respects . 
 Its existence is related purely to modern political and 
 economic developments and owes little to either the 
 underlying geology and topography or to the historical 
-settlement patterns (Figure 1.1). This might be regarded as 
+settlement patterns ( Figure 1 . 1 )  . This might be regarded as 
 a disadvantage and there is certainly diversity to the region 
-that defies easy synthesis. However, it could be regarded
-as an advantage, as it is clear the region encompasses a 
-series of social, economic and natural boundaries that are 
+that defies easy synthesis . However , it could be regarded
+as an advantage , as it is clear the region encompasses a 
+series of social , economic and natural boundaries that are 
 of considerable interest to any archaeologist attempting 
 to understand the development of regional cultures and 
-identities in later prehistory. A considerable number of 
+identities in later prehistory . A considerable number of 
 archaeologists find the definition and maintenance of 
 regional identities a key area for contemporary research 
-(Bevan 1999; Giles 2012; Sharples 2010).
-In my job as a university lecturer I teach the ‘British Later 
-Bronze Age’ and ‘Iron Age’. These courses are very broad 
-and synthetic, and do not allow the detailed analysis of many 
-of the ‘Different Iron Ages’ (Bevan 1999) that characterise 
-the last millennium BC. The courses are split into thematic 
-issues and case studies. My regional case studies have 
-tended to focus on the usual suspects: Wessex, Yorkshire, 
-the Atlantic Seaboard and, for local reasons, Wales. I have 
+( Bevan 1999 ; Giles 2012 ; Sharples 2010 )  . 
+In my job as a university lecturer I teach the ‘ British Later 
+Bronze Age ’ and ‘ Iron Age ’  . These courses are very broad 
+and synthetic , and do not allow the detailed analysis of many 
+of the ‘ Different Iron Ages ’  ( Bevan 1999 ) that characterise 
+the last millennium BC . The courses are split into thematic 
+issues and case studies . My regional case studies have 
+tended to focus on the usual suspects : Wessex , Yorkshire , 
+the Atlantic Seaboard and , for local reasons , Wales . I have 
 no specific incentive to examine the West Midlands as
-opposed to any other region. It is, therefore, interesting to 
+opposed to any other region . It is , therefore , interesting to 
 note aspects of the West Midlands archaeology that are of 
 such interest that they feature in the thematic lectures in 
-my course; these demonstrate, to my mind, the national 
-importance of the archaeological record of this region.
+my course ; these demonstrate , to my mind , the national 
+importance of the archaeological record of this region . 
 •	 On a broad scale the hillforts of the Welsh Marches 
-are of considerable significance (Forde-Johnston 1976).
-These, though frequently linked geographically with the 
-Wessex hillfort region, provide an interesting contrast to 
-the evidence from that dominant region. They include 
+are of considerable significance ( Forde-Johnston 1976 )  . 
+These , though frequently linked geographically with the 
+Wessex hillfort region , provide an interesting contrast to 
+the evidence from that dominant region . They include 
 some of the largest and most densely occupied hillforts 
-known from Britain (Stanford 1974; 1981), and potentially 
-they are very early, though the best dated examples The 
-Breidden (Musson 1991) and Beeston Castle (Ellis 1993) 
-lie just outside the West Midlands. They, therefore, provide 
+known from Britain ( Stanford 1974 ; 1981 )  , and potentially 
+they are very early , though the best dated examples The 
+Breidden ( Musson 1991 ) and Beeston Castle ( Ellis 1993 ) 
+lie just outside the West Midlands . They , therefore , provide 
 important evidence for the development and significance
-of this very distinctive settlement form. The extensive 
-excavation of large hillforts, such as Credenhill Hill Camp, 
-Croft Ambrey and Midsummer Hill (Stanford 1970; 1974; 
-1981), has revealed regimented ranks of ‘4-posters’ that 
-contrast with Wessex, and which require explanation, even 
-if they cannot be interpreted as houses.
+of this very distinctive settlement form . The extensive 
+excavation of large hillforts , such as Credenhill Hill Camp , 
+Croft Ambrey and Midsummer Hill ( Stanford 1970 ; 1974 ; 
+1981 )  , has revealed regimented ranks of ‘ 4-posters ’ that 
+contrast with Wessex , and which require explanation , even 
+if they cannot be interpreted as houses . 
 •	 The quality of the excavated record for these hillforts 
-is very good. Stanford was a good field archaeologist
-and his recording of the hillforts at Croft Ambrey, and 
-Midsummer Hill (Stanford 1974; 1981) is as good as, if 
-not better than, other more celebrated practitioners of the 
-era. Earlier excavations by Kathleen Kenyon at The Wrekin 
-and Sutton Walls, and Thalassa Hencken on Bredon Hill 
-(Kenyon 1942; 1953; Hencken 1938) were also good. 
+is very good . Stanford was a good field archaeologist
+and his recording of the hillforts at Croft Ambrey , and 
+Midsummer Hill ( Stanford 1974 ; 1981 ) is as good as , if 
+not better than , other more celebrated practitioners of the 
+era . Earlier excavations by Kathleen Kenyon at The Wrekin 
+and Sutton Walls , and Thalassa Hencken on Bredon Hill 
+( Kenyon 1942 ; 1953 ; Hencken 1938 ) were also good . 
 Many of these sites produced substantial collections of 
-artefacts, which include important assemblages of iron 
+artefacts , which include important assemblages of iron 
 and bone tools that are still not common in many areas of 
-Britain. The published excavations are sufficiently detailed
-to justify thorough reanalysis. All this could contribute a 
-considerable amount to contemporary debate, and it is 
+Britain . The published excavations are sufficiently detailed
+to justify thorough reanalysis . All this could contribute a 
+considerable amount to contemporary debate , and it is 
 rather surprising that work on these artefact assemblages 
 has so far been largely restricted to analysis of the ceramic 
-record (Morris 1982).
-* Professor in Archaeology, School of History, Archaeology and Religion, Cardiff University.
+record ( Morris 1982 )  .  
+* Professor in Archaeology , School of History , Archaeology and Religion , Cardiff University . 
 2 Niall Sharples
-Fig. 1.1 West Midlands topography with main places and rivers indicated as mentioned in the text of this volume.
+Fig . 1 . 1 West Midlands topography with main places and rivers indicated as mentioned in the text of this volume . 
 •	 The regional evidence for the understanding of exchange 
-networks is unparalleled for the British Isles. The 
+networks is unparalleled for the British Isles . The 
 geology of much of the region is sufficiently distinctive
 to allow for sourcing pottery and important stone 
-quarries (Moore 2006). The pottery evidence is perhaps 
-the most well-known aspect, and this region was 
+quarries ( Moore 2006 )  . The pottery evidence is perhaps 
+the most well-known aspect , and this region was 
 instrumental in demonstrating that specialised pottery 
-production existed in Iron Age Britain (Peacock 1968), 
+production existed in Iron Age Britain ( Peacock 1968 )  , 
 and in providing a quantified approach to analysing
 the distribution networks that connected producers to 
 individuals at a considerable distance from the source 
-(Morris 1982; 1994). The evidence for the exploitation 
-1. Introduction: Westward on the high-hilled plains 3
+( Morris 1982 ; 1994 )  . The evidence for the exploitation 
+1 . Introduction : Westward on the high-hilled plains 3
 of salt at Droitwich and in Cheshire is even more 
-important, as these are very unusual sources in Britain 
+important , as these are very unusual sources in Britain 
 and the associated briquetage provides good evidence 
 for the distribution of salt across a very wide area of 
-western Britain (Morris 1985). The detailed analysis of 
+western Britain ( Morris 1985 )  . The detailed analysis of 
 these production and exchange networks is impossible 
 to undertake in most of Britain where the geology is 
-less conducive to investigation, or where the material 
-culture simply does not exist.
+less conducive to investigation , or where the material 
+culture simply does not exist . 
 •	 A particularly interesting discovery in the West Midlands 
 is the burial evidence from Bredon Hill and Sutton Walls 
-(Hencken 1938; Kenyon 1953). Both deposits have 
+( Hencken 1938 ; Kenyon 1953 )  . Both deposits have 
 been interpreted as the result of warfare and certainly 
 the remains at Bredon Hill had been systematically 
-dismembered (Western and Hurst 2013). The only 
+dismembered ( Western and Hurst 2013 )  . The only 
 comparable deposit is the massacre level at South 
 Cadbury which has recently been subjected to a detailed 
 reinterpretation that has indicated the complexity of the 
-depositional process (Barrett et al. 2000). The absence of 
+depositional process ( Barrett et al . 2000 )  . The absence of 
 a normal burial record for most of Iron Age Britain makes 
 these deposits exceptionally important and provides some 
-of the best evidence for the practice of warfare in Britain. 
+of the best evidence for the practice of warfare in Britain . 
 These deposits have only recently been the subject of 
-renewed study (Western and Hurst 2013), which has 
+renewed study ( Western and Hurst 2013 )  , which has 
 drawn attention to the international importance of the 
-archaeological record of the region.
-These are only some of the region’s greatest hits and I am 
-sure others would have a different list. Nevertheless, they 
+archaeological record of the region . 
+These are only some of the region ’ s greatest hits and I am 
+sure others would have a different list . Nevertheless , they 
 give an impression of the important contribution West 
 Midlands archaeology has made to the understanding of 
-Later Prehistoric studies in Britain. I would now like to look 
-at the potential the region has for addressing issues, which 
+Later Prehistoric studies in Britain . I would now like to look 
+at the potential the region has for addressing issues , which 
 seem to me to be of considerable importance in current 
-archaeological practice.
+archaeological practice . 
 Landscape and territory
 Within the region the ability to compare and contrast 
-different landscapes is very important, and understanding 
+different landscapes is very important , and understanding 
 the very different nature of these landscapes should be one 
-of the principal research objectives of the region.
+of the principal research objectives of the region . 
 It is immediately obvious that there is an important eastwest division between the hillfort-rich landscapes of the 
-Welsh Border counties, and the small enclosures that are 
+Welsh Border counties , and the small enclosures that are 
 so common in the low lying river valleys of Warwickshire 
-and Staffordshire. This pattern was a feature of Cyril Fox’s 
-Highland Lowland division of Britain (Fox 1952), and, 
+and Staffordshire . This pattern was a feature of Cyril Fox ’ s 
+Highland Lowland division of Britain ( Fox 1952 )  , and , 
 though we can now dismiss the cultural assumptions that 
-dominate Fox’s interpretation, we must still address the 
+dominate Fox ’ s interpretation , we must still address the 
 significant differences between the settlement patterns in
-each area (see Wigley, this volume).
-There is also a major north/south division that ignores 
+each area ( see Wigley , this volume )  . 
+There is also a major north / south division that ignores 
 the landscape and which is best represented by material 
-culture. This is reflected in a marked decline in the quantity
+culture . This is reflected in a marked decline in the quantity
 and quality of the ceramics found in the northern counties 
-of Shropshire and Staffordshire, compared to the southern 
-counties of Herefordshire, Worcestershire and Warwickshire, 
+of Shropshire and Staffordshire , compared to the southern 
+counties of Herefordshire , Worcestershire and Warwickshire , 
 and this may also be the case for other aspects of material 
-culture, such as metal and stone tools, though these patterns 
-are more difficult to determine. These divisions can be linked
+culture , such as metal and stone tools , though these patterns 
+are more difficult to determine . These divisions can be linked
 to the development of distinctive exchange networks in the 
-Middle Iron Age, which in turn are normally explained as 
-reflecting ethnic identities, such as between the Dubonni and
-the Cornovii. However, we need to explore the significance
+Middle Iron Age , which in turn are normally explained as 
+reflecting ethnic identities , such as between the Dubonni and
+the Cornovii . However , we need to explore the significance
 of these differences at the level of daily practice before we 
-start to discuss ethnic and tribal affinities.
-For example, it is worth asking why certain stone types 
-are being used to temper specific types of pottery. Can we
+start to discuss ethnic and tribal affinities . 
+For example , it is worth asking why certain stone types 
+are being used to temper specific types of pottery . Can we
 just assume that this is because of the thermal properties 
 provided to the pot which make it a more efficient cooking
-utensil? I doubt it. If the decoration and form of pots is about 
-building identities and defining communities, then it may
+utensil ? I doubt it . If the decoration and form of pots is about 
+building identities and defining communities , then it may
 be that a desire to be associated with particular localities is 
-the most significant feature of the distribution networks. A
-Neolithic analogy is appropriate: it is now fairly acceptable 
+the most significant feature of the distribution networks . A
+Neolithic analogy is appropriate : it is now fairly acceptable 
 to claim that stone axes were being quarried from specific
-sources because of the symbolic significance of the sources,
+sources because of the symbolic significance of the sources , 
 which were located on very dramatic topographic locations 
-(Edmonds and Bradley 1993). Is it possible that some of 
+( Edmonds and Bradley 1993 )  . Is it possible that some of 
 the sources of rock temper used in the Iron Age also had 
 a symbolic significance to the producers and users of this
-pottery? The distribution of pottery has to be seen as a social 
-process; it creates relationships between people, which are 
+pottery ? The distribution of pottery has to be seen as a social 
+process ; it creates relationships between people , which are 
 lubricated by stories that explain these relationships and place 
-them in a broader cosmology. Ultimately these stories create 
-an explanation for people’s existence as human beings, and 
-place them in a world of rocks, soils, plants and animals.
+them in a broader cosmology . Ultimately these stories create 
+an explanation for people ’ s existence as human beings , and 
+place them in a world of rocks , soils , plants and animals . 
 The possibility of a symbolic significance for these
 ceramic sources may also be linked to some of the most 
-important hillforts. The Malvern ridge is a dramatic 
-landscape feature, which is highly visible, as anyone who 
-has ever driven up the M5 will know. It acts as a boundary 
+important hillforts . The Malvern ridge is a dramatic 
+landscape feature , which is highly visible , as anyone who 
+has ever driven up the M5 will know . It acts as a boundary 
 separating the very different landscapes of Herefordshire 
-and Worcestershire. In most traditional societies this natural 
+and Worcestershire . In most traditional societies this natural 
 feature would be written into the mythological ancestry of 
-the surrounding peoples. It would have a central role in 
+the surrounding peoples . It would have a central role in 
 the narrative of existence and provide an explanation for 
-their being. It may be this mythological role that led to the 
+their being . It may be this mythological role that led to the 
 construction of the two massive hillforts of Midsummer Hill 
-and Herefordshire Beacon on the ridge. Do they control the 
-mythology of place?
+and Herefordshire Beacon on the ridge . Do they control the 
+mythology of place ? 
 Directly opposite the Malverns is another prominent 
-landscape feature, Bredon Hill. This isolated hill is the end 
+landscape feature , Bredon Hill . This isolated hill is the end 
 of the Cotswold Ridge and looks down on the meeting of the 
-rivers Avon and Severn. The hill is again controlled by the 
-construction of a hillfort, but it is a very strange construction 
+rivers Avon and Severn . The hill is again controlled by the 
+construction of a hillfort , but it is a very strange construction 
 and difficult to interpret because of a massive landslip on
 4 Niall Sharples
-the northern slopes. Nevertheless, it seems to have been 
-densely occupied despite a very exposed location, and the 
+the northern slopes . Nevertheless , it seems to have been 
+densely occupied despite a very exposed location , and the 
 importance may be reflected in the extreme violence that
-was used to kill and dismember the occupants.
-Separating these two eminences is the River Severn, 
-and, again, this natural feature must have had a prominent 
-role in the cosmological, social and economic life of these 
-communities. It is surprising, therefore, to find that this
+was used to kill and dismember the occupants . 
+Separating these two eminences is the River Severn , 
+and , again , this natural feature must have had a prominent 
+role in the cosmological , social and economic life of these 
+communities . It is surprising , therefore , to find that this
 river does not appear to be marked by the activities of any 
-prehistoric community. If this river was in Eastern England 
-we would expect to recover Bronze Age, and probably Iron 
-Age, metalwork from dredging, but this does not appear 
-to be the case for the Severn, though the Ironbridge Gorge 
-might be the exception (see Wigley, this volume). Is this a 
+prehistoric community . If this river was in Eastern England 
+we would expect to recover Bronze Age , and probably Iron 
+Age , metalwork from dredging , but this does not appear 
+to be the case for the Severn , though the Ironbridge Gorge 
+might be the exception ( see Wigley , this volume )  . Is this a 
 result of particular dredging practices which do not allow 
-for the recovery of archaeological remains, or is it an 
-accurate reflection of an archaeological reality? Did the
+for the recovery of archaeological remains , or is it an 
+accurate reflection of an archaeological reality ? Did the
 people of the West Midlands have a religious practice that 
-avoided rivers? As Dorling et al. observe (this volume) we 
+avoided rivers ? As Dorling et al . observe ( this volume ) we 
 know next to nothing about Iron Age religious practice in 
-this region.
+this region . 
 Site level
 It is also necessary to consider the significance of the
 patterns recognised at the site level as part of this research 
-process, and it is perhaps unfortunate that the analysis of 
+process , and it is perhaps unfortunate that the analysis of 
 sites was not a subject for detailed consideration in this 
-volume. Certain aspects of settlements were a repeated 
-feature of discussion during the original conference, and 
-the nature of boundaries was one of these. This is a topic 
-of considerable interest in later prehistoric research, and 
+volume . Certain aspects of settlements were a repeated 
+feature of discussion during the original conference , and 
+the nature of boundaries was one of these . This is a topic 
+of considerable interest in later prehistoric research , and 
 provides a thematic problem that cuts across different scales 
-of the archaeological landscape:
+of the archaeological landscape : 
 •	 Large landscape boundaries are a conspicuous feature of 
-some landscapes. Several of these have been identified
-in Warwickshire, and the redating of the cross-dykes 
-of Shropshire to the prehistoric period is important. Pit 
-alignments have a very interesting distribution, appearing 
-in very limited areas on the river valleys of Warwickshire, 
-Shropshire and Staffordshire.
+some landscapes . Several of these have been identified
+in Warwickshire , and the redating of the cross-dykes 
+of Shropshire to the prehistoric period is important . Pit 
+alignments have a very interesting distribution , appearing 
+in very limited areas on the river valleys of Warwickshire , 
+Shropshire and Staffordshire . 
 •	 Field systems are also clearly a feature of some landscapes 
-(notably at Kemerton, Worcestershire), though they are 
-perhaps not as common as we would expect; recent work 
-in Shropshire and Staffordshire suggests they are there, 
-waiting to be explored (Wigley and Wardle, this volume).
-•	 Enclosure boundaries are an important feature. The 
+( notably at Kemerton , Worcestershire )  , though they are 
+perhaps not as common as we would expect ; recent work 
+in Shropshire and Staffordshire suggests they are there , 
+waiting to be explored ( Wigley and Wardle , this volume )  . 
+•	 Enclosure boundaries are an important feature . The 
 hillforts of the region are spectacularly well defined
 and can be used to distinguish the communities of the 
 western uplands from the farmsteads occupying the less 
-substantial enclosures of the eastern river valleys.
+substantial enclosures of the eastern river valleys . 
 •	 Houses defined by shallow ditches are characteristic
-of the region. These should not be dismissed as drip 
-gullies, as they are a deliberate feature that would be a 
-conspicuous part of the domestic arena.
-All of these boundaries need to be interpreted, and cannot 
-simply be assumed to have an obvious function. The 
+of the region . These should not be dismissed as drip 
+gullies , as they are a deliberate feature that would be a 
+conspicuous part of the domestic arena . 
+All of these boundaries need to be interpreted , and cannot 
+simply be assumed to have an obvious function . The 
 enclosure of the landscape is not necessarily an efficient
-way of organising agricultural landscapes, particularly 
+way of organising agricultural landscapes , particularly 
 those where large-scale seasonal movements of animals are 
-routine practice. The purpose of cross-ridge dykes and the 
+routine practice . The purpose of cross-ridge dykes and the 
 precise physical characteristics of pit alignments are still 
-a matter of some conjecture, but nether seem particularly 
-efficient ways of creating an exclusive boundary. Field
-systems may be a feature of the Later Bronze Age, but as 
-work on Dartmoor (Fleming 1988) and on Salisbury Plain 
-(McOmish et al. 2002) clearly demonstrates, these divisions 
-can be a relatively short-term phenomenon, which seems to 
-be of little significance in the Iron Age. They do not simply
+a matter of some conjecture , but nether seem particularly 
+efficient ways of creating an exclusive boundary . Field
+systems may be a feature of the Later Bronze Age , but as 
+work on Dartmoor ( Fleming 1988 ) and on Salisbury Plain 
+( McOmish et al . 2002 ) clearly demonstrates , these divisions 
+can be a relatively short-term phenomenon , which seems to 
+be of little significance in the Iron Age . They do not simply
 reflect agricultural intensification to meet the demands of
-an increasing population in later prehistory.
+an increasing population in later prehistory . 
 The defensive nature of hillfort boundaries has been 
 largely rejected in other areas within the hillfort zones of 
-southern Britain (Bowden and McOmish 1987), and this reinterpretation has much to commend it, so long as people do 
+southern Britain ( Bowden and McOmish 1987 )  , and this reinterpretation has much to commend it , so long as people do 
 not confuse the argument with a view that the Iron Age was 
-a peaceful place, or that hillforts were never subject to attack 
-(Sharples 1991). The effort involved in the construction 
-of hillfort defences, and to a lesser extent settlement 
+a peaceful place , or that hillforts were never subject to attack 
+( Sharples 1991 )  . The effort involved in the construction 
+of hillfort defences , and to a lesser extent settlement 
 enclosures can be related to other issues of importance in 
-these societies, and one of these must have been the social 
-construction of identity. All of these boundaries have to be 
+these societies , and one of these must have been the social 
+construction of identity . All of these boundaries have to be 
 understood in terms of relationships between people who 
 have chosen to define and delimit a specific place in the
-landscape. They are choosing to separate this place from 
-other spaces, control access to the place and movement 
-in the surrounding space. Hillforts separate communities 
-from the landscape and other communities, and drip gullies 
+landscape . They are choosing to separate this place from 
+other spaces , control access to the place and movement 
+in the surrounding space . Hillforts separate communities 
+from the landscape and other communities , and drip gullies 
 separate a household from functionally distinct settlement 
-space and from other households.
+space and from other households . 
 In recent years a considerable amount of emphasis has 
-been placed on the understanding of depositional processes, 
-in particular in houses. It is clear that the location and 
+been placed on the understanding of depositional processes , 
+in particular in houses . It is clear that the location and 
 manner in which material is deposited within houses 
-and in the settlement areas surrounding them, can tell 
-us a considerable amount about society. This process of 
+and in the settlement areas surrounding them , can tell 
+us a considerable amount about society . This process of 
 deposition is not simply occurring in a self-explanatory 
-fashion, but uses a cultural logic, which can illuminate the 
-different roles of individuals within these societies. The 
+fashion , but uses a cultural logic , which can illuminate the 
+different roles of individuals within these societies . The 
 recovery of intact floor levels and in situ surfaces must 
-be a very high priority in any research. These are always 
+be a very high priority in any research . These are always 
 going to be rare in an intensively cultivated agricultural 
-landscape, but recent work in Warwickshire suggests they 
-do occur (Palmer 2012). Valley floors, uplands and localised
-accumulation zones, such as behind hillfort ramparts, 
-become very important in this respect.
-1. Introduction: Westward on the high-hilled plains 5
-Finally, it is important to think of stratigraphic sequence as 
+landscape , but recent work in Warwickshire suggests they 
+do occur ( Palmer 2012 )  . Valley floors , uplands and localised
+accumulation zones , such as behind hillfort ramparts , 
+become very important in this respect . 
+1 . Introduction : Westward on the high-hilled plains 5
+Finally , it is important to think of stratigraphic sequence as 
 not just a useful means of demonstrating chronology but as a 
-significant human decision. Why do people choose either to
-build on the same spot for several generations or, in contrast, 
+significant human decision . Why do people choose either to
+build on the same spot for several generations or , in contrast , 
 choose to avoid past settlement locations for the construction 
-of their own new settlements (Brück 1999; Gerritson 1999; 
-Sharples 2010). In many areas of eastern England, the presence 
+of their own new settlements ( Brück 1999 ; Gerritson 1999 ; 
+Sharples 2010 )  . In many areas of eastern England , the presence 
 of settlement scatters which spread across the landscape in an 
-unfocused manner, links these areas with the continent, and 
+unfocused manner , links these areas with the continent , and 
 contrasts them with the location of specific settlements of
-areas such as Wessex. The creation of a settlement boundary 
-clearly restricts a settlement’s ability to expand or drift, and 
-suggests a commitment to long-term occupation of a locale, 
-which is otherwise unusual in prehistory. Does this indicate 
-a change in inheritance and ownership?
+areas such as Wessex . The creation of a settlement boundary 
+clearly restricts a settlement ’ s ability to expand or drift , and 
+suggests a commitment to long-term occupation of a locale , 
+which is otherwise unusual in prehistory . Does this indicate 
+a change in inheritance and ownership ? 
 Potential
 The understanding of settlements is a crucial research goal 
-for Later Prehistory, as in many ways the millennium and a 
+for Later Prehistory , as in many ways the millennium and a 
 half from the beginning of the Middle Bronze Age is defined
 by the ubiquitous presence of settlements in many areas of 
-Britain. In the West Midlands, however, identifying Late 
+Britain . In the West Midlands , however , identifying Late 
 Bronze Age settlement has proved to be very difficult and
 settlements belonging to this period are largely absent from 
-many areas (Dalwood, this volume).
+many areas ( Dalwood , this volume )  . 
 The potential of limited and restricted research 
 excavations to transform radically the current understanding 
 of the archaeological record is ably demonstrated by the 
-discovery of a Late Bronze/Early Iron Age settlement at 
-Whitchurch (Waddington and Sharples 2011; Figure 1.2). 
-This settlement lies in the valley of the River Stour, a 
-tributary of the Avon. Research excavations by Cardiff 
+discovery of a Late Bronze / Early Iron Age settlement at 
+Whitchurch ( Waddington and Sharples 2011 ; Figure 1 . 2 )  . 
+This settlement lies in the valley of the River Stour , a 
+tributary of the Avon . Research excavations by Cardiff 
 University revealed a complex site which consisted of a Late 
-Bronze Age/Early Iron Age midden; a thick accumulation of 
-organic rich soil. This later became the focus for Iron Age 
-settlement which included rectangular, trapezoidal and oval 
-enclosures. Pits, postholes and gullies were recognised both 
-cutting through the midden and stratified below the midden
-(Figure 1.3), indicating the presence of a complex sequence 
-of settlement structures.
-Despite the small-scale nature of the research, the 
-excavations produced an enormous assemblage of finds:
-251 copper alloy artefacts, 7,512 sherds of pottery, 519 
-fragments of fired clay (including briquetage and spear
-mould fragments), 47 pieces of worked bone, 16 stone 
-tools and a blue glass bead. The pottery assemblage from 
+Bronze Age / Early Iron Age midden ; a thick accumulation of 
+organic rich soil . This later became the focus for Iron Age 
+settlement which included rectangular , trapezoidal and oval 
+enclosures . Pits , postholes and gullies were recognised both 
+cutting through the midden and stratified below the midden 
+( Figure 1 . 3 )  , indicating the presence of a complex sequence 
+of settlement structures . 
+Despite the small-scale nature of the research , the 
+excavations produced an enormous assemblage of finds : 
+251 copper alloy artefacts , 7 , 512 sherds of pottery , 519 
+fragments of fired clay ( including briquetage and spear
+mould fragments )  , 47 pieces of worked bone , 16 stone 
+tools and a blue glass bead . The pottery assemblage from 
 the midden and contemporary settlement features belongs 
 to the post-Deverel-Rimbury decorated tradition that dates 
-to the period around 850/800–550/500 cal BC (Brudenell 
-in Waddington and Sharples 2011), and is almost unique 
-for the whole region. 17,890 animal bones were recovered 
-dominated by sheep, but with relatively high numbers of 
-pig, a feature of many other midden sites (cf. Madgwick in 
-Waddington and Sharples 2011). The presence of isolated 
-bones of beaver and wild boar are important.
-Fig. 1.2 Whitchurch, Warwickshire. General view of site locality with Trench 4 in foreground.
+to the period around 850 / 800–550 / 500 cal BC ( Brudenell 
+in Waddington and Sharples 2011 )  , and is almost unique 
+for the whole region . 17 , 890 animal bones were recovered 
+dominated by sheep , but with relatively high numbers of 
+pig , a feature of many other midden sites ( cf . Madgwick in 
+Waddington and Sharples 2011 )  . The presence of isolated 
+bones of beaver and wild boar are important . 
+Fig . 1 . 2 Whitchurch , Warwickshire . General view of site locality with Trench 4 in foreground . 
 6 Niall Sharples
 The copper alloy assemblage largely comprises 
 metalworking residues including casting waste and an 
-ingot, which together with the mould fragments suggest 
+ingot , which together with the mould fragments suggest 
 metalworking was an important part of the settlement 
-activity. There was also an important assemblage of 
-objects which included a socketed axe and a late palstave; 
-tools including a chisel, punch, awl and razor; fragments 
-from weapons, and a wide range of ornaments including 
-pins, rings and discs. The most interesting discovery was 
-20 miniature axes (Waddington 2007; Figure 1.4). This 
-assemblage was a very unexpected discovery as, until recent 
-reporting through the Portable Antiquities Scheme, only 
-a small quantity of miniature axes had been discovered, 
-mostly from Wiltshire (Robinson 1995). These were thought 
-to date to the Iron Age or Roman period, and a Late Bronze 
-Age date was unexpected.
+activity . There was also an important assemblage of 
+objects which included a socketed axe and a late palstave ; 
+tools including a chisel , punch , awl and razor ; fragments 
+from weapons , and a wide range of ornaments including 
+pins , rings and discs . The most interesting discovery was 
+20 miniature axes ( Waddington 2007 ; Figure 1 . 4 )  . This 
+assemblage was a very unexpected discovery as , until recent 
+reporting through the Portable Antiquities Scheme , only 
+a small quantity of miniature axes had been discovered , 
+mostly from Wiltshire ( Robinson 1995 )  . These were thought 
+to date to the Iron Age or Roman period , and a Late Bronze 
+Age date was unexpected . 
 This is a truly exceptional site and is currently without 
-parallel in the region. Sites producing Post Deverel-Rimbury 
-Decorated Wares are very unusual, bone assemblages 
-seldom survive, glass beads are unknown, and copper 
-alloy objects are rare and seldom found on settlement sites. 
-Most West Midlands finds assemblages fit a single box (see
-Dalwood, this volume). The site is best interpreted as an 
-important meeting place, where people gathered together 
-to exchange material culture, animals and perhaps people, 
-and to undertake significant ritual acts, the most noticeable
+parallel in the region . Sites producing Post Deverel-Rimbury 
+Decorated Wares are very unusual , bone assemblages 
+seldom survive , glass beads are unknown , and copper 
+alloy objects are rare and seldom found on settlement sites . 
+Most West Midlands finds assemblages fit a single box ( see
+Dalwood , this volume )  . The site is best interpreted as an 
+important meeting place , where people gathered together 
+to exchange material culture , animals and perhaps people , 
+and to undertake significant ritual acts , the most noticeable
 of which was the conspicuous and wasteful deposition of 
-large quantities of material culture. The location is relatively 
-inconspicuous and, though the Stour valley might be an 
+large quantities of material culture . The location is relatively 
+inconspicuous and , though the Stour valley might be an 
 important route connecting the West Midlands to the Thames 
-Valley, there seems little intrinsic reason why this location 
-was chosen.
+Valley , there seems little intrinsic reason why this location 
+was chosen . 
 The exploration of the settlement at Whitchurch 
 demonstrates that new discoveries will transform our 
-understanding of the region. The recent discovery of an 
-Iron Age road at Sharpstone Hill (Shropshire; Malim 
-and Hayes 2010), as well as the discovery of a sword 
+understanding of the region . The recent discovery of an 
+Iron Age road at Sharpstone Hill ( Shropshire ; Malim 
+and Hayes 2010 )  , as well as the discovery of a sword 
 scabbard in the nearby Late Iron Age enclosure at Meole 
-Brace (Bain and Evans 2011), and of large coin hoards 
-at Pershore (Worcestershire; Hurst and Leins 2013), 
-Fig. 1.3 Whitchurch, Warwickshire. Trench 6 excavated.
-1. Introduction: Westward on the high-hilled plains 7
+Brace ( Bain and Evans 2011 )  , and of large coin hoards 
+at Pershore ( Worcestershire ; Hurst and Leins 2013 )  , 
+Fig . 1 . 3 Whitchurch , Warwickshire . Trench 6 excavated . 
+1 . Introduction : Westward on the high-hilled plains 7
 would not have been predicted on the basis of previous 
 work in the region and indicate the complexity of the 
-archaeological record. The Portable Antiquities Scheme 
+archaeological record . The Portable Antiquities Scheme 
 has also produced a surprising number of finds that
 challenge the accepted view that the West Midlands is 
-impoverished (Bolton, this volume). It should also be 
+impoverished ( Bolton , this volume )  . It should also be 
 remembered that Staffordshire is one of the few areas 
 of Britain outside East Anglia which has produced gold 
-torcs, such as at Glascote (Painter 1971).
+torcs , such as at Glascote ( Painter 1971 )  . 
 Conclusion
 The West Midlands is one of the least understood regions 
-of Later Prehistoric Britain. It does not generally have 
+of Later Prehistoric Britain . It does not generally have 
 the long tradition of intensive antiquarian research that 
-illuminates areas such as Wessex and Yorkshire, but nor 
+illuminates areas such as Wessex and Yorkshire , but nor 
 does it have the intensive developer-funded excavations that 
 have transformed our understanding of the East Midlands 
-and South-East England in recent years. Nevertheless, it is 
+and South-East England in recent years . Nevertheless , it is 
 clear that there is rich and interesting archaeology waiting 
 to be discovered and that the region has the potential to 
 make a major contribution to our understanding of many 
-of the key problems in Later Prehistory. A considerable 
+of the key problems in Later Prehistory . A considerable 
 amount of work is required and whilst some of it may be 
-undertaken as developer-funded archaeology, this is unlikely 
-to provide all the answers. Targeted research excavations are 
-an urgent necessity, and it is unclear where the resources 
-for these projects will be located. They are likely to require 
-partnerships between universities, local communities and 
-professional organisations to be successful.
+undertaken as developer-funded archaeology , this is unlikely 
+to provide all the answers . Targeted research excavations are 
+an urgent necessity , and it is unclear where the resources 
+for these projects will be located . They are likely to require 
+partnerships between universities , local communities and 
+professional organisations to be successful . 

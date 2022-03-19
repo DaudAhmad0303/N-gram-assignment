@@ -1,703 +1,703 @@
 A Design framework for enabling sustainability in the clothing sector 
-SANTOS, Aguinaldo dos; Federal University of Paraná, Brazil; asantos@ufpr.br 
-CESCHIN, Fabrizio; Brunel University London, College of Engineering, Design and 
-Physical Sciences, Department of Design; Uxbridge, UB8 3PH, United Kingdom; 
-fabrizio.ceschin@brunel.ac.uk 
-MARTINS, Suzana Barreto; State University of Londrina, Brazil; 
-suzanabarreto@onda.com.br 
-VEZZOLI, Carlo; Politecnico di Milano, INACO Department, Unit of Research Design 
-and System Innovation for Sustainability (DIS), Italy; carlo.vezzoli@polimi.it 
+SANTOS , Aguinaldo dos ; Federal University of Paraná , Brazil ; asantos @ ufpr . br 
+CESCHIN , Fabrizio ; Brunel University London , College of Engineering , Design and 
+Physical Sciences , Department of Design ; Uxbridge , UB8 3PH , United Kingdom ; 
+fabrizio . ceschin @ brunel . ac . uk 
+MARTINS , Suzana Barreto ; State University of Londrina , Brazil ; 
+suzanabarreto @ onda . com . br 
+VEZZOLI , Carlo ; Politecnico di Milano , INACO Department , Unit of Research Design 
+and System Innovation for Sustainability ( DIS )  , Italy ; carlo . vezzoli @ polimi . it 
 Aguinaldo dos Santos is Professor at the Design Department and Design Post-graduate 
-Program, Federal University of Paraná (UFPR), in the city of Curitiba, Brazil. Since 
-2003 he is the coordinator of the Design & Sustainability Research Center at UFPR. Car 
-Mechanic Technician – (SENAI/PR, 1984-1986), Civil Engineer (UFPR, 1988 – 1992); 
-MSc on Civil Engineering (UFRGS, 1993 - 1995); PhD on Operations Management - 
-University of Salford, England (1996 – 1999); Post-doctored on Sustainable Design – 
-Politecnico di Milano (2008/ feb-2009). His main research interests sustainable design, 
-with a focus on solutions for low-income families and on product-service systems. His 
-editorial, referee and ad-hoc activities includes journals such as Ambiente Construído 
-(São Paulo), Construction Management & Economics, Design em Foco, Estudos em 
-Design, Product (IGDP), Journal of Disaster Resilience on the Built Environment and 
-Journal of Construction on Developing Countries. At CNPq (Brazilian Funding 
-Agency) he has coordinated the high committee on Design. He is on the Advisory 
-Board of the Sustainable Maker Project (2013-2016), sponsored by the European 
-Community. His recent projects include: Leapfrogging the low-income consumer on 
-energy and water consumption (funded by FINEP/CNPq) (2008-2013); product-service 
-system for rainwater harvesting on low-income houses (funded by CNPq/Tigre – 2009-
-2011); Kits do-it-yourself for low income housing (funded by FINEP/CNPq - 2005–
-2008). He has been the Chair of the 7th Brazilian Congress on Design Research & 
-Development (2006); 1st International Symposium on Sustainable Design (Curitiba - 
-2007); 2nd International Symposium on Sustainable Design (São Paulo – 2009) and the 
-1st Symposium Paranaense de Design Sustentável (Curitiba, 2010). 
+Program , Federal University of Paraná ( UFPR )  , in the city of Curitiba , Brazil . Since 
+2003 he is the coordinator of the Design & Sustainability Research Center at UFPR . Car 
+Mechanic Technician – ( SENAI / PR , 1984-1986 )  , Civil Engineer ( UFPR , 1988 – 1992 )  ; 
+MSc on Civil Engineering ( UFRGS , 1993 - 1995 )  ; PhD on Operations Management - 
+University of Salford , England ( 1996 – 1999 )  ; Post-doctored on Sustainable Design – 
+Politecnico di Milano ( 2008 / feb-2009 )  . His main research interests sustainable design , 
+with a focus on solutions for low-income families and on product-service systems . His 
+editorial , referee and ad-hoc activities includes journals such as Ambiente Construído 
+( São Paulo )  , Construction Management & Economics , Design em Foco , Estudos em 
+Design , Product ( IGDP )  , Journal of Disaster Resilience on the Built Environment and 
+Journal of Construction on Developing Countries . At CNPq ( Brazilian Funding 
+Agency ) he has coordinated the high committee on Design . He is on the Advisory 
+Board of the Sustainable Maker Project ( 2013-2016 )  , sponsored by the European 
+Community . His recent projects include : Leapfrogging the low-income consumer on 
+energy and water consumption ( funded by FINEP / CNPq )  ( 2008-2013 )  ; product-service 
+system for rainwater harvesting on low-income houses ( funded by CNPq / Tigre – 2009-
+2011 )  ; Kits do-it-yourself for low income housing ( funded by FINEP / CNPq - 2005–
+2008 )  . He has been the Chair of the 7th Brazilian Congress on Design Research & 
+Development ( 2006 )  ; 1st International Symposium on Sustainable Design ( Curitiba - 
+2007 )  ; 2nd International Symposium on Sustainable Design ( São Paulo – 2009 ) and the 
+1st Symposium Paranaense de Design Sustentável ( Curitiba , 2010 )  . 
 Dr Fabrizio Ceschin is a Lecturer in Design for Sustainability within the Design 
-Department, in the College of Engineering, Design and Physical Sciences, Brunel 
-University London. He holds a BSc and MSc degrees in Industrial Design awarded by 
-Politecnico di Milano in Italy. In 2006 he joined the Design and Innovation for 
-Sustainability research group (Design department of Politecnico di Milano) as research 
-assistant. In 2009 he started his doctoral research in Design at Politecnico di Milano, 
-and in 2012 he obtained his Ph.D. degree. He was research fellow at Politecnico di 
-Milano before joining Brunel University London in September 2012. Fabrizio is 
-specialised in Design for Sustainability, and in particular in the elaboration of strategies, 
-methods, and tools to enable companies, public institutions, NGOs, communities to 
-tackle sustainability challenges at different levels: product level (Life Cycle 
-Assessment, Ecodesign), Product-Service System level (new service propositions, 
-sustainable business models, value chains etc.), and social innovation level (design for 
-grass-root innovations). Within this framework he took part in several national and 
-international research projects, funded by the European Commission, national 
-institutions, small and medium enterprises, and multinational enterprises. His most 
-recent book ‘Sustainable Product-service Systems: Between Strategic Design and 
-Transition Studies’ has been published by Springer (2014). 
+Department , in the College of Engineering , Design and Physical Sciences , Brunel 
+University London . He holds a BSc and MSc degrees in Industrial Design awarded by 
+Politecnico di Milano in Italy . In 2006 he joined the Design and Innovation for 
+Sustainability research group ( Design department of Politecnico di Milano ) as research 
+assistant . In 2009 he started his doctoral research in Design at Politecnico di Milano , 
+and in 2012 he obtained his Ph . D . degree . He was research fellow at Politecnico di 
+Milano before joining Brunel University London in September 2012 . Fabrizio is 
+specialised in Design for Sustainability , and in particular in the elaboration of strategies , 
+methods , and tools to enable companies , public institutions , NGOs , communities to 
+tackle sustainability challenges at different levels : product level ( Life Cycle 
+Assessment , Ecodesign )  , Product-Service System level ( new service propositions , 
+sustainable business models , value chains etc .  )  , and social innovation level ( design for 
+grass-root innovations )  . Within this framework he took part in several national and 
+international research projects , funded by the European Commission , national 
+institutions , small and medium enterprises , and multinational enterprises . His most 
+recent book ‘ Sustainable Product-service Systems : Between Strategic Design and 
+Transition Studies ’ has been published by Springer ( 2014 )  . 
 Dr Suzana Barreto Martins is professor and researcher at the Design Department of 
-the State University of Londrina, UEL, Brasil. Post-doctorate on Sustainable Design - 
-Federal University of Paraná; Doctorate in Industrial Engineering - Federal University 
-of Santa Catarina; Master of Ergonomics and Speciality in Materials and Textile 
-Processes - National Autonomous University of Mexico UNAM; Undergraduate in 
-Industrial Design; Federal University of Paraná. Researcher in Design and 
-Sustainability, with emphasis on sustainability applied to clothing and fashion industry 
-focused on technological innovation in processes and new materials. Coordinator of : 
-Working Group Fashion, Sustainability and Inclusion of the Colloquium of Fashion; the 
-research group in CNPq ( Brazilian Funding Agency) Design, Sustainability and 
-Innovation; and the research projects Design for sustainability applied for textile 
+the State University of Londrina , UEL , Brasil . Post-doctorate on Sustainable Design - 
+Federal University of Paraná ; Doctorate in Industrial Engineering - Federal University 
+of Santa Catarina ; Master of Ergonomics and Speciality in Materials and Textile 
+Processes - National Autonomous University of Mexico UNAM ; Undergraduate in 
+Industrial Design ; Federal University of Paraná . Researcher in Design and 
+Sustainability , with emphasis on sustainability applied to clothing and fashion industry 
+focused on technological innovation in processes and new materials . Coordinator of : 
+Working Group Fashion , Sustainability and Inclusion of the Colloquium of Fashion ; the 
+research group in CNPq ( Brazilian Funding Agency ) Design , Sustainability and 
+Innovation ; and the research projects Design for sustainability applied for textile 
 Industry with emphasis on technological innovation in processes and new materials 
-awarded (2012-2015), with Araucaria Foundation promoting and some patents 
-deposited with potential innovation; and Interdisciplinary model of innovation and R & 
-D in new materials, products and businesses from waste focusing on Design for 
-Sustainability (2015 to date ), at UEL. Member of Scientific Committees Congress in 
-Design, Ergonomics and Sustainability and has been coordinator of 1st International 
-Symposium on Sustainable Design (Curitiba - 2007); 2nd International Symposium on 
-Sustainable Design (São Paulo – 2009) and the 3th,4th,5th Symposium Paranaense on 
-Sustainable Design (Curitiba, 2012-2014). 
+awarded ( 2012-2015 )  , with Araucaria Foundation promoting and some patents 
+deposited with potential innovation ; and Interdisciplinary model of innovation and R & 
+D in new materials , products and businesses from waste focusing on Design for 
+Sustainability ( 2015 to date )  , at UEL . Member of Scientific Committees Congress in 
+Design , Ergonomics and Sustainability and has been coordinator of 1st International 
+Symposium on Sustainable Design ( Curitiba - 2007 )  ; 2nd International Symposium on 
+Sustainable Design ( São Paulo – 2009 ) and the 3th , 4th , 5th Symposium Paranaense on 
+Sustainable Design ( Curitiba , 2012-2014 )  . 
 For 20 years Carlo Vezzoli has been researching and teaching on design for 
-sustainability. At the Design department of the Politecnico di Milano University he is 
+sustainability . At the Design department of the Politecnico di Milano University he is 
 professor of product Design for environmental Sustainability and System Design for 
 Sustainability as well as head of the research group Design and Innovation for 
-Sustainability (DIS) and of the lab Design and Sustainability (de.SOS). Among others, 
-he is founder of the Learning Network on Sustainability (LeNS, www.lens.polimi.it 
-funded by 2 bioregional projects of the European Commission), which is a worldwide 
-multipolar network of networks of design schools covering all continents, with the aim 
-of diffusing design for sustainability with an open and copyleft ethos. His book Design 
-for Environmental Sustainability (London: Springer, 2008) has been published in 
-English, Italian, Portuguese, Chinese and Spanish. His most recent book ProductService System design for Sustainability (London: Greenleaf, 2014), will be soon 
-published even in Chinese and Thai.
+Sustainability ( DIS ) and of the lab Design and Sustainability ( de . SOS )  . Among others , 
+he is founder of the Learning Network on Sustainability ( LeNS , www . lens . polimi . it 
+funded by 2 bioregional projects of the European Commission )  , which is a worldwide 
+multipolar network of networks of design schools covering all continents , with the aim 
+of diffusing design for sustainability with an open and copyleft ethos . His book Design 
+for Environmental Sustainability ( London : Springer , 2008 ) has been published in 
+English , Italian , Portuguese , Chinese and Spanish . His most recent book ProductService System design for Sustainability ( London : Greenleaf , 2014 )  , will be soon 
+published even in Chinese and Thai . 
 Abstract 
 This article discusses general strategies to enable environmental sustainability within 
-the clothing sector, providing a framework for decision makers involved in the 
-development of programs and policies for this sector. It initially revises the 
+the clothing sector , providing a framework for decision makers involved in the 
+development of programs and policies for this sector . It initially revises the 
 environmental impact of the clothing system and determines its key environmental 
-sustainability priorities. The framework involves five evolutionary strategies for 
-enabling sustainable consumption and production: 1) environmental improvement of 
-flows throughout the supply chain; 2) environmental redesign of existing clothes; 3) 
-design of new clothes intrinsically more sustainable; 4) design of cloth-service systems 
-and 5) promoting life styles towards sufficient consumption. The practical implications 
+sustainability priorities . The framework involves five evolutionary strategies for 
+enabling sustainable consumption and production : 1 ) environmental improvement of 
+flows throughout the supply chain ; 2 ) environmental redesign of existing clothes ; 3 ) 
+design of new clothes intrinsically more sustainable ; 4 ) design of cloth-service systems 
+and 5 ) promoting life styles towards sufficient consumption . The practical implications 
 of each strategy is analysed based on correspondent ex-post-facto case studies identified 
-in Brazil, using data collected through literature review and desktop research. 
+in Brazil , using data collected through literature review and desktop research . 
 Keywords 
-Sustainability; Design; Clothing; Fashion. 
+Sustainability ; Design ; Clothing ; Fashion . 
 Introduction 
 The current pattern of production and consumption within the textile and clothing 
 industry in Brazil and elsewhere is still based on a continuous supply of products to a 
-market characterized by increasingly faster cycles of fashion trends. According to 
-Bhardwaj and Fairhurst (2010), the fashion industry is witnessing three to five midseasons fashion launches, which put pressure on suppliers to develop and deliver 
-fashion apparel in increasingly smaller batches with reduced lead time. The result is 
+market characterized by increasingly faster cycles of fashion trends . According to 
+Bhardwaj and Fairhurst ( 2010 )  , the fashion industry is witnessing three to five midseasons fashion launches , which put pressure on suppliers to develop and deliver 
+fashion apparel in increasingly smaller batches with reduced lead time . The result is 
 increasingly shorter life cycle of products in an industry that has already a significant 
-environmental impact, particularly on the phases of dyeing, drying and finishing, with 
-and intensive use of chemical products and natural resources (De Brito et Al. 2008; 
-Lakhal et Al. 2008; Caniato et Al. 2012; Jorgensen and Jensen, 2012). 
+environmental impact , particularly on the phases of dyeing , drying and finishing , with 
+and intensive use of chemical products and natural resources ( De Brito et Al . 2008 ; 
+Lakhal et Al . 2008 ; Caniato et Al . 2012 ; Jorgensen and Jensen , 2012 )  . 
 In general the clothing sector worldwide is a very distributed and heterogeneous sector 
-with a globalised network of suppliers, where production and consumption take place in 
-different countries and sometimes different continents. Driven mainly by the search for 
-lower production costs, many companies in the sector are increasingly relying on 
+with a globalised network of suppliers , where production and consumption take place in 
+different countries and sometimes different continents . Driven mainly by the search for 
+lower production costs , many companies in the sector are increasingly relying on 
 suppliers from other parts of the world to manufacture their products or carry out phases 
-of its manufacturing process (Jacobs, 2006). One of the consequences to the 
+of its manufacturing process ( Jacobs , 2006 )  . One of the consequences to the 
 environment of such practices is an increase on transport related energy consumption 
-and emissions. 
-According to the World Trade Organization (2008), the clothing/textile sector accounts 
-for 9.3% of world’s employees and 4% of worldwide exports. The wide range of 
-stakeholders in this sector includes: cultivators and natural fibres production companies; 
-fibres manufacturing companies; textiles and garments manufacturing companies; 
-packaging companies; wholesale dealers; retail stores; consumers; washing, drying and 
-ironing equipment manufacturers; tailors and maintenance/repair centres; clothing 
-donation centres; collection and disposal centres; consumers associations and NGOs 
-(Caniato et Al.2012). Hence, with such wide social and economic capillarity, the sector 
-is under severe scrutiny by governments and consumers. As a result, it is not uncommon 
+and emissions . 
+According to the World Trade Organization ( 2008 )  , the clothing / textile sector accounts 
+for 9 . 3% of world ’ s employees and 4% of worldwide exports . The wide range of 
+stakeholders in this sector includes : cultivators and natural fibres production companies ; 
+fibres manufacturing companies ; textiles and garments manufacturing companies ; 
+packaging companies ; wholesale dealers ; retail stores ; consumers ; washing , drying and 
+ironing equipment manufacturers ; tailors and maintenance / repair centres ; clothing 
+donation centres ; collection and disposal centres ; consumers associations and NGOs 
+( Caniato et Al . 2012 )  . Hence , with such wide social and economic capillarity , the sector 
+is under severe scrutiny by governments and consumers . As a result , it is not uncommon 
 to witness clothing corporations establishing their manufacturing operations on 
 developing countries as a strategy to avoid the economic consequences of more strict 
-environmental and employment regulations. 
-When compared to the above general patterns of the sector, the Brazilian clothing and 
+environmental and employment regulations . 
+When compared to the above general patterns of the sector , the Brazilian clothing and 
 textile sector presents some very peculiar characteristics that can be considered as 
-opportunities for achieving more sustainable practices. The country is one of the few 
+opportunities for achieving more sustainable practices . The country is one of the few 
 western countries where all stages of the clothing supply chain can be found within the 
-country boarders, from fibre production to semi-processed products (yarn and fabrics 
-with their finishing processes) and final products. It is fourth on apparel production and 
-fifth on textile production. Paradoxically, its share on the world trade is relatively small, 
-with less than 0,5%, occupying the 23rd position on the ranking of exporters. Indeed, 
-almost the entire production focuses on the internal market (ABIT, 2013). 
+country boarders , from fibre production to semi-processed products ( yarn and fabrics 
+with their finishing processes ) and final products . It is fourth on apparel production and 
+fifth on textile production . Paradoxically , its share on the world trade is relatively small , 
+with less than 0 , 5% , occupying the 23rd position on the ranking of exporters . Indeed , 
+almost the entire production focuses on the internal market ( ABIT , 2013 )  . 
 The movement towards sustainability in Brazil has been driven by a growing number of 
-professionals and leaders on the sector, as well as government legislation, fuelled by the 
-rise of customer expectations on environmental and social issues. A clear demonstration 
+professionals and leaders on the sector , as well as government legislation , fuelled by the 
+rise of customer expectations on environmental and social issues . A clear demonstration 
 of this change was the fact that in 2007 the first edition of the São Paulo Fashion Week 
-put a great emphasis on sustainability. In that event, one of the largest in South 
-America, the immediate effect of such emphasis was the integration of themes such as 
-“eco-friendly”, “organic”, and “fair trade” on the innovation agenda of the sector. 
-However, the effective advances towards sustainability are still quite limited. 
+put a great emphasis on sustainability . In that event , one of the largest in South 
+America , the immediate effect of such emphasis was the integration of themes such as 
+ “ eco-friendly ”  ,  “ organic ”  , and “ fair trade ” on the innovation agenda of the sector . 
+However , the effective advances towards sustainability are still quite limited . 
 The challenge is complex and it is exacerbated by the fact that sustainability is still an 
-evolving concept, particularly on the issue of how to implement it in practice. In order 
-to support the development of programs and policies for the sector, the present paper 
-proposes a general framework for action towards sustainability, providing a road map 
-for decision makers. The proposal is exemplified by means of four Brazilian cases 
-studies. 
+evolving concept , particularly on the issue of how to implement it in practice . In order 
+to support the development of programs and policies for the sector , the present paper 
+proposes a general framework for action towards sustainability , providing a road map 
+for decision makers . The proposal is exemplified by means of four Brazilian cases 
+studies . 
 Environmental sustainability priorities in the clothing system 
 There are demands and opportunities to enhance the level of environmental 
-sustainability in every single stage of the clothing supply chain, with different 
-environmental priorities at each stage. Understanding the causes and symptoms, as well 
-as the dynamics of the environmental impacts, is a fundamental step to improve the 
-sustainability performance of the sector. With this purpose, some of the key 
-environmental issues affecting this supply chain are described below: 
-• Pre-production (material production): 
-o For natural fibres, the key impacts are from the growing of fibre crops 
-(including small to large scale farming) and their processing. The 
-impacts include: land use; water use; toxicity from pesticide, herbicide 
-and fertilizer use; soil erosion; reduced biodiversity and ecosystem 
-damage. The use of fertilizer, pesticides and herbicides is responsible of 
-impacts such as significant energy use (in fertilizer/pesticides/herbicides 
-production), generation of emissions to air, water and waste. In cotton 
-production, for example, about 40% of the cotton is transformed into 
-fibre, and the remaining seed is transformed into eatable oils and animal 
-feed. This means that in a plantation where there is a conventional use of 
-agro toxics (e.g. fertilizers, herbicides, pesticides), part of the chemical 
+sustainability in every single stage of the clothing supply chain , with different 
+environmental priorities at each stage . Understanding the causes and symptoms , as well 
+as the dynamics of the environmental impacts , is a fundamental step to improve the 
+sustainability performance of the sector . With this purpose , some of the key 
+environmental issues affecting this supply chain are described below : 
+• Pre-production ( material production )  : 
+o For natural fibres , the key impacts are from the growing of fibre crops 
+( including small to large scale farming ) and their processing . The 
+impacts include : land use ; water use ; toxicity from pesticide , herbicide 
+and fertilizer use ; soil erosion ; reduced biodiversity and ecosystem 
+damage . The use of fertilizer , pesticides and herbicides is responsible of 
+impacts such as significant energy use ( in fertilizer / pesticides / herbicides 
+production )  , generation of emissions to air , water and waste . In cotton 
+production , for example , about 40% of the cotton is transformed into 
+fibre , and the remaining seed is transformed into eatable oils and animal 
+feed . This means that in a plantation where there is a conventional use of 
+agro toxics ( e . g . fertilizers , herbicides , pesticides )  , part of the chemical 
 products remains concentrated in the seeds that will be transformed into 
-cooking oils and animal feed, with direct consequences on human health 
-as well as the ecosystem. For wool fibre production, we should consider 
-the additional impacts of sheep farming. The key impacts of this include 
-methane emissions and the use of sheep-dip chemicals (e.g. 
-organophosphates) with significant toxicity and pollution impacts (Defra, 
-2007a; 2007b). 
+cooking oils and animal feed , with direct consequences on human health 
+as well as the ecosystem . For wool fibre production , we should consider 
+the additional impacts of sheep farming . The key impacts of this include 
+methane emissions and the use of sheep-dip chemicals ( e . g . 
+organophosphates ) with significant toxicity and pollution impacts ( Defra , 
+2007a ; 2007b )  . 
 o For man-made fibres the impacts occur mostly on extraction and 
-processing. Whilst cotton and wool manufacturing requires large 
-quantities of water and pesticides, synthetic fibres are extracted from 
-non-renewable resources, requiring considerable amount of energy 
-(Myers and Stolton, 1999). The impacts of synthetic fibres derived from 
-petrochemicals include depletion of fossil fuels, energy and water use, 
-emissions to air (e.g.: GHG gas nitrous oxide), effluent and (hazardous 
-and non-hazardous) waste generation (Defra, 2007a; 2007b). On this 
-respect Muthu et al. (2012) concluded that acrylic was the least preferred 
-fibre in terms of environmental impact and ecological sustainability. 
-• Production: according to Allwood et Al. (2006), around 55% of the world 
-production of fibres for clothing and textiles are synthetic (Jorgensen and 
-Jensen, 2012). Fibre manufacturing involves processes such as spinning, 
-weaving and knitting, which use large amount of energy and water, generating 
-effluent, air pollution and waste. In addition, fibres can be subject to dyeing, 
-bleaching, printing and finishing, which consume large volumes of water, 
-energy and chemicals, releasing air emissions and generating effluent and 
-(hazardous and non hazardous) waste (Defra, 2007a; 2007b). 
-• Distribution and Retail: the environmental impact on this stage is mainly due to 
-packaging (material and energy) and transport. Transport can occur by sea in 
-large freighters and/or by truck. Hence, environmental impacts include resource 
-depletion (fossil fuel use), GHG emissions and air pollutants from ships’ and 
-vehicles’ exhausts. At the retail shops, the main impacts are associated with 
-building operations: electricity, heating, and lighting. Impacts include resource 
-depletion (fossil fuels), emission of GHGs, waste generation and small volumes 
-of water use (Defra, 2007a; 2007b). 
-• Use: washing, drying, dry cleaning and ironing result in energy, water and 
-chemicals use, generation of effluent and hazardous waste. Detergents and other 
+processing . Whilst cotton and wool manufacturing requires large 
+quantities of water and pesticides , synthetic fibres are extracted from 
+non-renewable resources , requiring considerable amount of energy 
+( Myers and Stolton , 1999 )  . The impacts of synthetic fibres derived from 
+petrochemicals include depletion of fossil fuels , energy and water use , 
+emissions to air ( e . g .  : GHG gas nitrous oxide )  , effluent and ( hazardous 
+and non-hazardous ) waste generation ( Defra , 2007a ; 2007b )  . On this 
+respect Muthu et al .  ( 2012 ) concluded that acrylic was the least preferred 
+fibre in terms of environmental impact and ecological sustainability . 
+• Production : according to Allwood et Al .  ( 2006 )  , around 55% of the world 
+production of fibres for clothing and textiles are synthetic ( Jorgensen and 
+Jensen , 2012 )  . Fibre manufacturing involves processes such as spinning , 
+weaving and knitting , which use large amount of energy and water , generating 
+effluent , air pollution and waste . In addition , fibres can be subject to dyeing , 
+bleaching , printing and finishing , which consume large volumes of water , 
+energy and chemicals , releasing air emissions and generating effluent and 
+( hazardous and non hazardous ) waste ( Defra , 2007a ; 2007b )  . 
+• Distribution and Retail : the environmental impact on this stage is mainly due to 
+packaging ( material and energy ) and transport . Transport can occur by sea in 
+large freighters and / or by truck . Hence , environmental impacts include resource 
+depletion ( fossil fuel use )  , GHG emissions and air pollutants from ships ’ and 
+vehicles ’ exhausts . At the retail shops , the main impacts are associated with 
+building operations : electricity , heating , and lighting . Impacts include resource 
+depletion ( fossil fuels )  , emission of GHGs , waste generation and small volumes 
+of water use ( Defra , 2007a ; 2007b )  . 
+• Use : washing , drying , dry cleaning and ironing result in energy , water and 
+chemicals use , generation of effluent and hazardous waste . Detergents and other 
 washing substances generate effluent with phosphate concentration causing 
-eutrophication impacts. For dry cleaning, the use of solvents (e.g. 
-perchloroethylene) can cause the generation of Volatile Organic Compounds 
-(VOCs) and solvent waste (Defra, 2007a; 2007b); 
-• Disposal: at the end of their lifespan clothes can: go to landfill, or be incinerated; 
-be recycled (into lower value products e.g. mattresses, wipes, carpet underlay, 
-automotive components); be reused (resold or donated to charity associations). 
+eutrophication impacts . For dry cleaning , the use of solvents ( e . g . 
+perchloroethylene ) can cause the generation of Volatile Organic Compounds 
+( VOCs ) and solvent waste ( Defra , 2007a ; 2007b )  ; 
+• Disposal : at the end of their lifespan clothes can : go to landfill , or be incinerated ; 
+be recycled ( into lower value products e . g . mattresses , wipes , carpet underlay , 
+automotive components )  ; be reused ( resold or donated to charity associations )  . 
 In all these cases we need to account the environmental impacts related to the 
-associated processes (Defra, 2007a; 2007b). The sector has been already pointed 
-out as the fastest growing waste stream (Fisher et Al. 2008), with around 20% of 
-all textile products resulting in waste (Textile Exchange, 2012). Although some 
-waste is diverted towards charity shops and second-hand businesses, this market 
+associated processes ( Defra , 2007a ; 2007b )  . The sector has been already pointed 
+out as the fastest growing waste stream ( Fisher et Al . 2008 )  , with around 20% of 
+all textile products resulting in waste ( Textile Exchange , 2012 )  . Although some 
+waste is diverted towards charity shops and second-hand businesses , this market 
 is saturated and the lack of quality of donated garments often makes their reuse 
-impossible (Armstrong et Al. 2014). 
+impossible ( Armstrong et Al . 2014 )  . 
 Of course it must be highlighted that the impacts described above can vary sensibly in 
-relation to the specific processes included in the system. A lot of variables influence 
-those processes. For example: the types of fibre used; the way in which garments are 
-produced; the washing and drying modalities; the lifespan and the frequency of use; etc. 
-Nevertheless it is possible to identify in general terms the activities, along the whole life 
-cycle, that are responsible of the main environmental impacts. 
-Based on the overview of the clothing sector’s environmental issues, it emerges that the 
-main environmental impacts are in the production of clothes (including fibres and 
-fabrics), and in the washing, drying, and ironing of clothes. On the basis of these 
-considerations it is possible to delineate the priorities, in terms of environmental 
-sustainability, that should be followed to orient the clothing sector towards 
-sustainability (Vezzoli and Ceschin, 2008): 
-• Life span optimisation (HIGH priority): the optimisation of clothes’ life span 
+relation to the specific processes included in the system . A lot of variables influence 
+those processes . For example : the types of fibre used ; the way in which garments are 
+produced ; the washing and drying modalities ; the lifespan and the frequency of use ; etc . 
+Nevertheless it is possible to identify in general terms the activities , along the whole life 
+cycle , that are responsible of the main environmental impacts . 
+Based on the overview of the clothing sector ’ s environmental issues , it emerges that the 
+main environmental impacts are in the production of clothes ( including fibres and 
+fabrics )  , and in the washing , drying , and ironing of clothes . On the basis of these 
+considerations it is possible to delineate the priorities , in terms of environmental 
+sustainability , that should be followed to orient the clothing sector towards 
+sustainability ( Vezzoli and Ceschin , 2008 )  : 
+• Life span optimisation ( HIGH priority )  : the optimisation of clothes ’ life span 
 brings about a potential reduction in the quantities of clothes produced and 
-disposed of. In other words, the less frequently a consumer purchases clothes the 
-less frequently fibres, textiles and clothes have to be manufactured, distributed 
-and disposed of. Life span optimisation can be reached through the extension of 
-the clothes’ life span (and in this case clothes would be extensively used), and 
-through the sharing of clothes (and in this case clothes would be intensely used). 
-• Energy consumption reduction in use (HIGH priority): reduction of the energy 
-related to washing, drying and ironing. This can be obtained through (Fletcher, 
-2008): improving efficiency and control of washing, drying and ironing 
-equipments; realizing fabrics and clothes that cause less impact when they are 
-laundered (e.g. they can be cleaned without washing or through washing at low 
-temperature). User habits can change in the direction of more energy efficiency 
-practices. In such circumstances Design can foster such changes in order to 
-enable their wider dissemination. In Brazil, for instance, the activity of ironing is 
-“disappearing” from the habits of low income consumers, as shown on the study 
-of NDS (2014), presenting an opportunity to expand the offer of clothes that do 
-not require ironing; 
-• Conservation/biocompatibility (HIGH priority): use of renewable resources, and 
-use of resources biocompatible in the disposal phase. 
-• Resources consumption reduction in pre-production and production (MEDIUM 
-priority): reduction of material and energy required to manufacture fibres, 
-fabrics and garments. This can be reached by the selection of fibres that use 
-lower amount of resources, and/or by improving the efficiency of the 
-manufacturing processes. 
-• Waste minimisation/valorisation (LOW priority): facilitation of the recycling of 
-raw materials to provide inputs to the manufacture of other goods; and/or 
-facilitate the incineration (with energy recovery) of disposed clothes. 
-• Toxicity reduction (LOW priority): reducing the toxicity in pre-production (due 
-to pesticide, herbicide and fertilizer), production (due to dyeing, bleaching and 
-printing processes), and use (due to detergents). 
-• Transportation reduction (LOW priority): reduction of the transportation needed 
-to move raw materials from the growing/extraction places to processing 
-companies, and to move finished products from the production centres to retail 
-stores. 
-Optimizing the life span of clothing artifacts, understood here a high priority, affects 
-directly a fundamental problem for achieving a sustainable clothing system: 
-overconsumption. Bianchi and Birtwistle (2007, 2010) point out that overconsumption 
-is stimulated by design through fast fashion, resulting in short-term use of clothing 
-products, psychological obsolescence and premature disposal (Bianchi and Birtwistle, 
-2010; Birtwistle and Moore, 2007; Armstrong et Al. 2014). Therefore, design activity 
+disposed of . In other words , the less frequently a consumer purchases clothes the 
+less frequently fibres , textiles and clothes have to be manufactured , distributed 
+and disposed of . Life span optimisation can be reached through the extension of 
+the clothes ’ life span ( and in this case clothes would be extensively used )  , and 
+through the sharing of clothes ( and in this case clothes would be intensely used )  . 
+• Energy consumption reduction in use ( HIGH priority )  : reduction of the energy 
+related to washing , drying and ironing . This can be obtained through ( Fletcher , 
+2008 )  : improving efficiency and control of washing , drying and ironing 
+equipments ; realizing fabrics and clothes that cause less impact when they are 
+laundered ( e . g . they can be cleaned without washing or through washing at low 
+temperature )  . User habits can change in the direction of more energy efficiency 
+practices . In such circumstances Design can foster such changes in order to 
+enable their wider dissemination . In Brazil , for instance , the activity of ironing is 
+ “ disappearing ” from the habits of low income consumers , as shown on the study 
+of NDS ( 2014 )  , presenting an opportunity to expand the offer of clothes that do 
+not require ironing ; 
+• Conservation / biocompatibility ( HIGH priority )  : use of renewable resources , and 
+use of resources biocompatible in the disposal phase . 
+• Resources consumption reduction in pre-production and production ( MEDIUM 
+priority )  : reduction of material and energy required to manufacture fibres , 
+fabrics and garments . This can be reached by the selection of fibres that use 
+lower amount of resources , and / or by improving the efficiency of the 
+manufacturing processes . 
+• Waste minimisation / valorisation ( LOW priority )  : facilitation of the recycling of 
+raw materials to provide inputs to the manufacture of other goods ; and / or 
+facilitate the incineration ( with energy recovery ) of disposed clothes . 
+• Toxicity reduction ( LOW priority )  : reducing the toxicity in pre-production ( due 
+to pesticide , herbicide and fertilizer )  , production ( due to dyeing , bleaching and 
+printing processes )  , and use ( due to detergents )  . 
+• Transportation reduction ( LOW priority )  : reduction of the transportation needed 
+to move raw materials from the growing / extraction places to processing 
+companies , and to move finished products from the production centres to retail 
+stores . 
+Optimizing the life span of clothing artifacts , understood here a high priority , affects 
+directly a fundamental problem for achieving a sustainable clothing system : 
+overconsumption . Bianchi and Birtwistle ( 2007 , 2010 ) point out that overconsumption 
+is stimulated by design through fast fashion , resulting in short-term use of clothing 
+products , psychological obsolescence and premature disposal ( Bianchi and Birtwistle , 
+2010 ; Birtwistle and Moore , 2007 ; Armstrong et Al . 2014 )  . Therefore , design activity 
 can be considered as both a source of environmental problems as well as a potential 
-source of solutions to tackle the same problems. Focusing on the solution side of this 
-equation, the next section presents a framework of generic strategies to improve the 
-sustainability of the clothing system from a design point of view. 
+source of solutions to tackle the same problems . Focusing on the solution side of this 
+equation , the next section presents a framework of generic strategies to improve the 
+sustainability of the clothing system from a design point of view . 
 Research Method 
-The research adopted a non-systematic literature review and an ex-post-facto (or “afterthe-fact”) multiple case studies as the main research method. This consists of a research 
+The research adopted a non-systematic literature review and an ex-post-facto ( or “ afterthe-fact ”  ) multiple case studies as the main research method . This consists of a research 
 in which the investigation starts after the fact has occurred without interference from the 
-researcher. This research method was chosen since it was assumed by the researchers 
-that sustainable solutions often take a long time to be implemented in the real world, far 
-beyond the conventional time frame of research funding bodies. 
-The selection of case studies adopted a “pattern matching” approach where the 
-researchers looked for “literal replications” of the theory (Yin, 2013). In this process, 
-the empirical evidence was considered to be a “literal replication” when observed 
-results matched the theoretical predictions. The unit of analysis was the practice
+researcher . This research method was chosen since it was assumed by the researchers 
+that sustainable solutions often take a long time to be implemented in the real world , far 
+beyond the conventional time frame of research funding bodies . 
+The selection of case studies adopted a “ pattern matching ” approach where the 
+researchers looked for “ literal replications ” of the theory ( Yin , 2013 )  . In this process , 
+the empirical evidence was considered to be a “ literal replication ” when observed 
+results matched the theoretical predictions . The unit of analysis was the practice
 observed in each case study that corresponded to the generic strategy described in each 
-level of the theoretical framework. Information gathered through literature review and 
-desktop research enabled to substantiate the pattern matching findings. 
+level of the theoretical framework . Information gathered through literature review and 
+desktop research enabled to substantiate the pattern matching findings . 
 Generic strategies to enable sustainability in the clothing system 
 This section presents an evolutionary view on the strategies on Design for 
-Sustainability, ordered according to their potential environmental impact as well as the 
-behaviour change required from final consumers. The model was built by adapting the 
-same generic framework proposed by Santos (2009) to the peculiarities of the clothing 
-sector. 
-Figure 1: An evolutionary progression of strategies towards environmental sustainability in the 
-clothing sector. 
-Level 1: Environmental improvement of flows throughout the supply chain 
+Sustainability , ordered according to their potential environmental impact as well as the 
+behaviour change required from final consumers . The model was built by adapting the 
+same generic framework proposed by Santos ( 2009 ) to the peculiarities of the clothing 
+sector . 
+Figure 1 : An evolutionary progression of strategies towards environmental sustainability in the 
+clothing sector . 
+Level 1 : Environmental improvement of flows throughout the supply chain 
 Description 
 This strategy is aimed at improving the environmental performance of operations flows 
-(materials and information) as well as process flows (people and machines), in order to 
-make them more efficient in terms of use of material and energy, without any change in 
-the product itself. The product represents the constant on the production system, and the 
+( materials and information ) as well as process flows ( people and machines )  , in order to 
+make them more efficient in terms of use of material and energy , without any change in 
+the product itself . The product represents the constant on the production system , and the 
 focus is on redesigning processes and operations throughout the entire supply chain to 
-be more resource efficient, to prevent pollution and waste generation. In other words the 
-aim is to intervene on processes/operations in order to reduce, per each manufactured 
-product, the content of inputs (materials, energy, water, etc.) and output (solid waste, 
-waste water, emission to air, etc.). 
+be more resource efficient , to prevent pollution and waste generation . In other words the 
+aim is to intervene on processes / operations in order to reduce , per each manufactured 
+product , the content of inputs ( materials , energy , water , etc .  ) and output ( solid waste , 
+waste water , emission to air , etc .  )  . 
 In practice design professionals are not usually involved in the decision making process 
-related to improve the supply chain environmental performance. General approaches to 
-achieve this goal include (UNEP, 1993; European Commission, 2003; Fletcher, 2008): 
-• reducing/optimising the number of processing steps (e.g. merging three 
-processing stages: de-sizing, scouring and bleaching into a single process); 
-• reducing/optimising the amount of consumables in the manufacturing stage (e.g. 
-introducing automated dosing and dispending systems for chemicals); 
-• choosing “clean” processing chemicals (e.g. selecting chemicals based on 
-minimizing overall lifecycle risk); 
-• reducing energy and water consumption; 
-• reducing waste in production: this includes waste related to overproduction, 
-inventory, repair/rejects, motion, transport, inefficient processing, waiting (Imai, 
-1997; Shingo, 1989; Santos et Al. 2008). 
+related to improve the supply chain environmental performance . General approaches to 
+achieve this goal include ( UNEP , 1993 ; European Commission , 2003 ; Fletcher , 2008 )  : 
+• reducing / optimising the number of processing steps ( e . g . merging three 
+processing stages : de-sizing , scouring and bleaching into a single process )  ; 
+• reducing / optimising the amount of consumables in the manufacturing stage ( e . g . 
+introducing automated dosing and dispending systems for chemicals )  ; 
+• choosing “ clean ” processing chemicals ( e . g . selecting chemicals based on 
+minimizing overall lifecycle risk )  ; 
+• reducing energy and water consumption ; 
+• reducing waste in production : this includes waste related to overproduction , 
+inventory , repair / rejects , motion , transport , inefficient processing , waiting ( Imai , 
+1997 ; Shingo , 1989 ; Santos et Al . 2008 )  . 
 Government restrictions on the use of chemicals in the clothing sector have contributed 
 to the implementation and diffusion of the above mentioned practices in many 
-countries. Eco-labelling (ex: Global Organic Textile Standards, Ecolabel, Global 
-Reporting Initiative -GRI-, Apparel and Footwear Sector Supplement) is one of the 
+countries . Eco-labelling ( ex : Global Organic Textile Standards , Ecolabel , Global 
+Reporting Initiative -GRI- , Apparel and Footwear Sector Supplement ) is one of the 
 strategies that has produced results since it does stimulate both the supply and the 
-demand side to reduce environmental impacts on different stages of the life cycle. 
+demand side to reduce environmental impacts on different stages of the life cycle . 
 Usually it involves establishing limits on the use of substances that are harmful to the 
-environment in the production, use and waste handling (EU, 2009b; Jorgensen and 
-Jensen, 2012)
+environment in the production , use and waste handling ( EU , 2009b ; Jorgensen and 
+Jensen , 2012 ) 
 Level 1 can have a limited effect on consumption patterns as it is more focused inwards 
-at the company and its supply chain. Although there is a great potential for improving 
-sustainability from this perspective, it must be highlighted that its contribution to 
+at the company and its supply chain . Although there is a great potential for improving 
+sustainability from this perspective , it must be highlighted that its contribution to 
 effective environmental improvements is limited if the final consumer is not aware 
-about such practices and does not take it into consideration when choosing a product. In 
-fact, if we look to the priorities identified in the previous section we can easily note that 
+about such practices and does not take it into consideration when choosing a product . In 
+fact , if we look to the priorities identified in the previous section we can easily note that 
 intervening exclusively on operation and process flows leads to improvements on 
-resources consumption reduction in production (MEDIUM priority), and Toxicity 
-reduction in production (LOW priority). Also, it has to be underlined that there is not 
-anyenvironmental gain in relation to the higher priorities (i.e. cloth life span 
-optimisation and energy resources reduction in use). Furthermore, higher efficiency in 
+resources consumption reduction in production ( MEDIUM priority )  , and Toxicity 
+reduction in production ( LOW priority )  . Also , it has to be underlined that there is not 
+anyenvironmental gain in relation to the higher priorities ( i . e . cloth life span 
+optimisation and energy resources reduction in use )  . Furthermore , higher efficiency in 
 the flow of processes can lead to a rebound effects in terms of the environmental impact 
 of clothing since reduced costs and shorter lead time could stimulate even further 
-consumption levels (Niinimäki and Hassi, 2011). 
+consumption levels ( Niinimäki and Hassi , 2011 )  . 
 Case study 
 Most companies in the clothing sector operating in competitive environments have 
-already embraced the idea of implementing lean operations, both internally as well as 
-throughout their supply chain. Bruce et Al. (2004) have analysed textile companies and 
-have identified various evidences of such trend. One of the case studies carried out by 
-them focused on a large fibre manufacturing company (16.000 employees), with 
-production facilities based in Germany, Netherlands, UK, USA, Brazil, Italy and 
-Poland. Its market focus range from sportswear companies to hotel chains, with 
-products ranging from antimicrobial fibres to interior textiles. Branding is used 
-extensively, and brands are being licensed to other products, such as soaps. This 
-company supplies fibres to its customers, who in turn convert the fibre into end user 
-products, such as sportswear, apparel, furnishing products. 
-As the international competition increased, the company initially focused on adding 
+already embraced the idea of implementing lean operations , both internally as well as 
+throughout their supply chain . Bruce et Al .  ( 2004 ) have analysed textile companies and 
+have identified various evidences of such trend . One of the case studies carried out by 
+them focused on a large fibre manufacturing company ( 16 . 000 employees )  , with 
+production facilities based in Germany , Netherlands , UK , USA , Brazil , Italy and 
+Poland . Its market focus range from sportswear companies to hotel chains , with 
+products ranging from antimicrobial fibres to interior textiles . Branding is used 
+extensively , and brands are being licensed to other products , such as soaps . This 
+company supplies fibres to its customers , who in turn convert the fibre into end user 
+products , such as sportswear , apparel , furnishing products . 
+As the international competition increased , the company initially focused on adding 
 value to its products since the production costs of their competitors was considerably 
-cheaper. However, as the international competition, particularly from Turkey and China, 
-began to produce technically complex products, the company was forced to search for 
-even higher levels of performance on its operations. In order to implement a pull 
-production system, thus reducing waste, the company set up a research group to 
-proactively work to shortening lead times to six months rather than their current timescale of more than a year (Bruce et Al.2004). Moving from “push production” towards 
-“pulling production” contributed to reducing waste in the supply chain. However, the 
-driver on this case was clearly not environmental but economic, withstanding the 
-competition from low-cost producers. 
-Level 2: Environmental redesign of the existing clothes 
+cheaper . However , as the international competition , particularly from Turkey and China , 
+began to produce technically complex products , the company was forced to search for 
+even higher levels of performance on its operations . In order to implement a pull 
+production system , thus reducing waste , the company set up a research group to 
+proactively work to shortening lead times to six months rather than their current timescale of more than a year ( Bruce et Al . 2004 )  . Moving from “ push production ” towards 
+ “ pulling production ” contributed to reducing waste in the supply chain . However , the 
+driver on this case was clearly not environmental but economic , withstanding the 
+competition from low-cost producers . 
+Level 2 : Environmental redesign of the existing clothes 
 Description 
 This strategy attempts to improve environmental efficiency with the selection of low 
-impact materials and energy sources without changing the cloth design itself. In relation 
+impact materials and energy sources without changing the cloth design itself . In relation 
 to the clothing sector we are talking of a mere environmental redesign of existing 
-clothes, through the substitution of existing materials with the ones characterized by a 
-lower impact. The main interventions at this level are related with the selection of 
-materials characterized by a-toxicity, naturalness, recyclability, biodegradability and 
-renewability. On this level there is no need for fundamental changes in the consumer 
-life style and related consumption habits; nevertheless, it relies on the appropriated 
+clothes , through the substitution of existing materials with the ones characterized by a 
+lower impact . The main interventions at this level are related with the selection of 
+materials characterized by a-toxicity , naturalness , recyclability , biodegradability and 
+renewability . On this level there is no need for fundamental changes in the consumer 
+life style and related consumption habits ; nevertheless , it relies on the appropriated 
 judgement of the user in order to choose products with environmentally responsible 
-materials. 
-When considering the environmental performance of product’s materials it is crucial to 
-keep a life cycle perspective. The issue of naturalness, for instance, carries a certain 
-level of ambiguity since it has been and still is accepted by many that a “natural” 
-material has by de-fault a lower environmental impact than synthetic materials. This 
-argument, as it is understood now, is wrong; for example a polyester fibre can have a 
-lower impact than cotton fibre (Vezzoli & Manzini, 2008; Fletcher, 2008 pp 6-7). 
-Biodegradability is another issue that, similarly to naturalness, has raised many 
-misinterpretations. In fact, even if it is important to have materials that can return to 
+materials . 
+When considering the environmental performance of product ’ s materials it is crucial to 
+keep a life cycle perspective . The issue of naturalness , for instance , carries a certain 
+level of ambiguity since it has been and still is accepted by many that a “ natural ” 
+material has by de-fault a lower environmental impact than synthetic materials . This 
+argument , as it is understood now , is wrong ; for example a polyester fibre can have a 
+lower impact than cotton fibre ( Vezzoli & Manzini , 2008 ; Fletcher , 2008 pp 6-7 )  . 
+Biodegradability is another issue that , similarly to naturalness , has raised many 
+misinterpretations . In fact , even if it is important to have materials that can return to 
 compounds found in nature , for many products biodegradable materials might pose the 
-problem of a shorter lifespan; this in turn generates new productive and distribution 
-processes in order to replace the discarded product (Vezzoli and Manzini, 2008). 
+problem of a shorter lifespan ; this in turn generates new productive and distribution 
+processes in order to replace the discarded product ( Vezzoli and Manzini , 2008 )  . 
 Environmental redesign is the most common sustainability strategy adopted by the 
 clothing sector and has been characterized mainly by the substitution of non-renewable 
-materials for renewable materials. General examples of intervention at this level 
-include: 
-• selection of natural plant fibres organically cultivated (e.g. using organic cotton 
-instead of traditional cotton can reduce the overall toxicity by 93% (Allwood et 
-Al. 2006)); 
-• selection of fibres with lower environmental impact, considering the textile 
-requirements and the local resources availability (e.g. using bamboo fibres is 
-more environmentally beneficial if the plant is cultivated locally); 
-• use of recycled fibres, from post-industrial waste or after-consumption waste: 
+materials for renewable materials . General examples of intervention at this level 
+include : 
+• selection of natural plant fibres organically cultivated ( e . g . using organic cotton 
+instead of traditional cotton can reduce the overall toxicity by 93% ( Allwood et 
+Al . 2006 )  )  ; 
+• selection of fibres with lower environmental impact , considering the textile 
+requirements and the local resources availability ( e . g . using bamboo fibres is 
+more environmentally beneficial if the plant is cultivated locally )  ; 
+• use of recycled fibres , from post-industrial waste or after-consumption waste : 
 when these residues are not in conditions of being sold or being reused as 
-clothes, they can be recycled. In this case textile waste should be catalogued 
-according to their typology, colour, and weight and later disassembled in 
-separated parts, thus allowing subsequent use in production. If this material is of 
-good quality, it can be mixed with virgin staple fibres for wiring and weaving. If 
-that is not the case, the textile material is recycled and can still be used for 
-stuffing cushions, pillows, mattresses, linings of carpets etc. In the case of afterconsumption, wasted clothes that are still in good conditions can be directed to 
-charity institutions, second-hand stores and vintage stores. In case garments are 
-not suited for reuse, they can be sent by those institutions to textile recycling 
-companies; 
+clothes , they can be recycled . In this case textile waste should be catalogued 
+according to their typology , colour , and weight and later disassembled in 
+separated parts , thus allowing subsequent use in production . If this material is of 
+good quality , it can be mixed with virgin staple fibres for wiring and weaving . If 
+that is not the case , the textile material is recycled and can still be used for 
+stuffing cushions , pillows , mattresses , linings of carpets etc . In the case of afterconsumption , wasted clothes that are still in good conditions can be directed to 
+charity institutions , second-hand stores and vintage stores . In case garments are 
+not suited for reuse , they can be sent by those institutions to textile recycling 
+companies ; 
 • selection of fibres that require less manufacturing processes when transformed 
-into fabrics (e.g. naturally coloured cotton does not require to be bleached or 
-dyed); 
-• selection of fibres that wash well at low temperatures and dry quickly, or fibres 
-that require a lower frequency of washing (e.g. fibres with coatings providing 
+into fabrics ( e . g . naturally coloured cotton does not require to be bleached or 
+dyed )  ; 
+• selection of fibres that wash well at low temperatures and dry quickly , or fibres 
+that require a lower frequency of washing ( e . g . fibres with coatings providing 
 anti-microbial properties to the garment and therefore reducing the frequency of 
-washing). 
-Muthu et Al. (2012) pointed to organic cotton as the textile material with the least 
-environmental impact, followed by flax textile (linen), conventional cotton and viscose. 
-Indeed, organic cotton is derived from a renewable resource; it is a biodegradable fiber; 
-it consumes less energy during the manufacturing process; it emits less CO2 and 
-generates less damage to human health, ecosystem quality and resources depletion. 
-However, consumer adherence to such information should not be taken for granted. In 
-Fisher et Al. (2008) study, when participants were presented with a variety of examples 
-of low environmental impact clothing (e.g. organic, recycled, redesigned) they 
-continued to evaluate the items using conventional criteria such a price, purpose and 
-fashion. 
+washing )  . 
+Muthu et Al .  ( 2012 ) pointed to organic cotton as the textile material with the least 
+environmental impact , followed by flax textile ( linen )  , conventional cotton and viscose . 
+Indeed , organic cotton is derived from a renewable resource ; it is a biodegradable fiber ; 
+it consumes less energy during the manufacturing process ; it emits less CO2 and 
+generates less damage to human health , ecosystem quality and resources depletion . 
+However , consumer adherence to such information should not be taken for granted . In 
+Fisher et Al .  ( 2008 ) study , when participants were presented with a variety of examples 
+of low environmental impact clothing ( e . g . organic , recycled , redesigned ) they 
+continued to evaluate the items using conventional criteria such a price , purpose and 
+fashion . 
 The effectiveness of interventions on clothing design might depend on changes on the 
 user behaviour and consumption decisions not only on the point of sale but also 
-throughout the cloth life cycle. Changes of behavior include, for instance, using 
+throughout the cloth life cycle . Changes of behavior include , for instance , using 
 washing machines with frontal lid since they usually demand less energy and less water 
-than the ones with top lid; or by using cold water in the laundering process as much as 
-possible; or employing phosphate-free powder detergents (to prevent from excessive 
-weed formation in the rivers and lakes and from the water transport); or by avoiding to 
-operate the washing machine below its normal operating levels. 
+than the ones with top lid ; or by using cold water in the laundering process as much as 
+possible ; or employing phosphate-free powder detergents ( to prevent from excessive 
+weed formation in the rivers and lakes and from the water transport )  ; or by avoiding to 
+operate the washing machine below its normal operating levels . 
 Interventions on this level bring about improvements mainly on reducing the resources 
-consumption in pre-production and production (MEDIUM priority), and reducing the 
-toxicity (LOW priority) in the same stages. For example an organic and naturally 
-coloured cotton does not need herbicide and fertilizer (resources and toxicity reduction 
-in pre-production), and does not need to be bleached and dyed (resources and toxicity 
-reduction in production). But there could be other environmental improvements. In fact 
-it is possible to: reduce transportation (LOW priority), e.g. selecting a local fibre; 
-minimize waste (LOW priority), e.g. re-using post-industrial scraps; and even reduce 
-energy consumption in use (HIGH priority), e.g. using fibres that can be washed at 
-lower temperatures. 
-It is clear that the potential environmental improvements on Level 2 are also limited, but 
+consumption in pre-production and production ( MEDIUM priority )  , and reducing the 
+toxicity ( LOW priority ) in the same stages . For example an organic and naturally 
+coloured cotton does not need herbicide and fertilizer ( resources and toxicity reduction 
+in pre-production )  , and does not need to be bleached and dyed ( resources and toxicity 
+reduction in production )  . But there could be other environmental improvements . In fact 
+it is possible to : reduce transportation ( LOW priority )  , e . g . selecting a local fibre ; 
+minimize waste ( LOW priority )  , e . g . re-using post-industrial scraps ; and even reduce 
+energy consumption in use ( HIGH priority )  , e . g . using fibres that can be washed at 
+lower temperatures . 
+It is clear that the potential environmental improvements on Level 2 are also limited , but 
 without doubts they offer greater opportunities for effective environmental performance 
-improvements than Level 1. In fact the environmental gain in this level affects the flow 
+improvements than Level 1 . In fact the environmental gain in this level affects the flow 
 of operations and processes and can go beyond that by affecting the entire life cycle of a 
-given product. 
+given product . 
 Case study 
-The Döller Company (Brazil) is located in the Itajaí Valley (Santa Catarina, Brazil), 
+The Döller Company ( Brazil ) is located in the Itajaí Valley ( Santa Catarina , Brazil )  , 
 considered as the biggest textile region of the world in terms of concentration of textile 
-industries. The company manufactures textile articles for bedroom, kitchen and bath. 
-Beyond conventional staple fibres of natural origin as cotton, or synthetic with natural 
-origin (e,g, viscose) or derived from oil, Döller Company has also been producing in 
-considerable scale articles made of bamboo cellulose (in particular table and bath 
-towels, and robes). This material has been used in the production of plain fabrics for 
-clothes, with a wider range of options on its colour palette. 
-As to the use of the fibre of bamboo for manufacturing the textile articles, it would be 
-possible to relate a priori some advantages of its use. It is a regenerated cellulose fibre 
-extracted from the pulp of bamboo, produced without chemical additives. The fabrics, 
-plain or knotted (mesh), elaborated with bamboo fibre threads, are extremely soft at 
-touch, light, and excellent in avoiding wrinkling. The material have also some 
-additional positive functional characteristics: it is characterised by a high level of 
-absorption of humidity (being up to four times more absorbent than the cotton fibre); it 
-has a natural antibacterial property that provides a coolness sensation (in addition to 
-inhibiting the bad odour); and it is thermodynamic, that is, in the heat it provides the 
-sensation of cool, and in the cold the sensation of warm. 
+industries . The company manufactures textile articles for bedroom , kitchen and bath . 
+Beyond conventional staple fibres of natural origin as cotton , or synthetic with natural 
+origin ( e , g , viscose ) or derived from oil , Döller Company has also been producing in 
+considerable scale articles made of bamboo cellulose ( in particular table and bath 
+towels , and robes )  . This material has been used in the production of plain fabrics for 
+clothes , with a wider range of options on its colour palette . 
+As to the use of the fibre of bamboo for manufacturing the textile articles , it would be 
+possible to relate a priori some advantages of its use . It is a regenerated cellulose fibre 
+extracted from the pulp of bamboo , produced without chemical additives . The fabrics , 
+plain or knotted ( mesh )  , elaborated with bamboo fibre threads , are extremely soft at 
+touch , light , and excellent in avoiding wrinkling . The material have also some 
+additional positive functional characteristics : it is characterised by a high level of 
+absorption of humidity ( being up to four times more absorbent than the cotton fibre )  ; it 
+has a natural antibacterial property that provides a coolness sensation ( in addition to 
+inhibiting the bad odour )  ; and it is thermodynamic , that is , in the heat it provides the 
+sensation of cool , and in the cold the sensation of warm . 
 Döller employs this raw material on its products with the declared objective of targeting 
-the market of ’the environmental conscientious’ consumer, which is still considered a 
-niche in Brazilian market today. The resultant clothing aims at achieving superior 
-environmental performance and, most importantly, it aims at having superior functional 
-performance when compared with conventional solutions. 
-However, it is important to mention that these efforts lack of technical-scientific 
-endorsement. In fact there is little understanding on: the actual implications of bamboo 
-on fauna and flora; the CO2 impacts of the distances for transportation (the current raw 
-material still comes from China!); and the chemical processes required for treatment. 
+the market of ’ the environmental conscientious ’ consumer , which is still considered a 
+niche in Brazilian market today . The resultant clothing aims at achieving superior 
+environmental performance and , most importantly , it aims at having superior functional 
+performance when compared with conventional solutions . 
+However , it is important to mention that these efforts lack of technical-scientific 
+endorsement . In fact there is little understanding on : the actual implications of bamboo 
+on fauna and flora ; the CO2 impacts of the distances for transportation ( the current raw 
+material still comes from China !  )  ; and the chemical processes required for treatment . 
 An accurate Life Cycle Analysis would be required to enable further understanding on 
-the environmental implications of the use of this material by Döller. 
-Level 3: Design of new clothes intrinsically more environmentally sustainable 
+the environmental implications of the use of this material by Döller . 
+Level 3 : Design of new clothes intrinsically more environmentally sustainable 
 Description 
-Considering a given demand for higher environmental efficiency, this strategy attempts 
-to develop new products that could provide better environmental performance (Vezzoli 
-and Manzini, 2008). It is a design approach that takes in consideration the whole life 
-cycle of the product, and it is aimed at reducing all the inputs (materials and energy) and 
-output (environmental effects) within all processes, from the pre-production, 
-production, distribution, to use and disposal phases. 
+Considering a given demand for higher environmental efficiency , this strategy attempts 
+to develop new products that could provide better environmental performance ( Vezzoli 
+and Manzini , 2008 )  . It is a design approach that takes in consideration the whole life 
+cycle of the product , and it is aimed at reducing all the inputs ( materials and energy ) and 
+output ( environmental effects ) within all processes , from the pre-production , 
+production , distribution , to use and disposal phases . 
 General concepts aligned with this innovation level include reduction in the number of 
-’necessary’ clothes through the design of multi-purpose clothing, extending cloth 
-durability (Jensen, 2010), and extending the emotional attachment of people to their 
-clothes: 
-• transformable/multi-purpose clothes: it implies that garments could be used in 
-many different ways, reducing the number of clothes a person need to buy to 
-satisfy the same clothing need; 
-• durable clothes: it can be achieved by producing classic clothing that do not go 
+ ’ necessary ’ clothes through the design of multi-purpose clothing , extending cloth 
+durability ( Jensen , 2010 )  , and extending the emotional attachment of people to their 
+clothes : 
+• transformable / multi-purpose clothes : it implies that garments could be used in 
+many different ways , reducing the number of clothes a person need to buy to 
+satisfy the same clothing need ; 
+• durable clothes : it can be achieved by producing classic clothing that do not go 
 out of trend and can be combined with other items over a longer timespan 
-(Jensen, 2010). On this respect, the study of Niinimäki (2011) shows that the 
+( Jensen , 2010 )  . On this respect , the study of Niinimäki ( 2011 ) shows that the 
 biggest consumer dissatisfaction in the area of clothing is related to the low 
-quality of garments in the use and maintenance stages. 
-• empathic clothing design and production: extending the emotional linkage 
+quality of garments in the use and maintenance stages . 
+• empathic clothing design and production : extending the emotional linkage 
 between people and garments has the potential of extending their lifespan 
-(Niinimäki and Hassi, 2011). Enabling customization is one way of achieving 
-this emotional linkage. As Chapman (2009) points out, through customization, 
-users can create personal meanings and form attachments to products; 
-• designing one-size/unisex cloth: it contributes to maximise their shareability, a/o 
-to facilitate adaptation to the user physical growth (see for example the work of 
-Amy Twigger called “Keep and Share” at www.keepandshare.co.uk); 
+( Niinimäki and Hassi , 2011 )  . Enabling customization is one way of achieving 
+this emotional linkage . As Chapman ( 2009 ) points out , through customization , 
+users can create personal meanings and form attachments to products ; 
+• designing one-size / unisex cloth : it contributes to maximise their shareability , a / o 
+to facilitate adaptation to the user physical growth ( see for example the work of 
+Amy Twigger called “ Keep and Share ” at www . keepandshare . co . uk )  ; 
 • designing clothes that require less energy and materials to be produced or 
-maintained: see for example some clothes realized by Strada (1998) without the 
-use of any seam. Besides of material and process specifications, designing 
-modular clothes can lead to less laundry (by facilitating the detachment of the 
-parts that get soiled), and easier maintenance/repair (through the possibility of 
-substituting parts that have a greater probability to wear out). 
-This approach demands a wider set of competencies for the company and the designer, 
-since it involves more variables and more complexity. At the same time it is potentially 
+maintained : see for example some clothes realized by Strada ( 1998 ) without the 
+use of any seam . Besides of material and process specifications , designing 
+modular clothes can lead to less laundry ( by facilitating the detachment of the 
+parts that get soiled )  , and easier maintenance / repair ( through the possibility of 
+substituting parts that have a greater probability to wear out )  . 
+This approach demands a wider set of competencies for the company and the designer , 
+since it involves more variables and more complexity . At the same time it is potentially 
 capable to bring greater improvements than the previous levels that focused solely on 
-the efficiency of operations/processes and on the selection of materials. On this 
+the efficiency of operations / processes and on the selection of materials . On this 
 innovation level solutions begin to tackle more fundamental issues that are also linked 
-to consumer lifestyle and consumption behaviours. 
+to consumer lifestyle and consumption behaviours . 
 Interventions at this level can bring about improvements on reducing the resources 
-consumption in production (MEDIUM priority) since, for instance, it can contribute to 
-reduce and optimise production processes. Environmental benefits are also related to the 
-possibility of extending cloth lifespan (HIGH priority), e.g. through designing modular 
-clothes where parts that get worn out can be easily substituted. In addition it could be 
-possible to intensify the cloth use (HIGH priority), e.g. by designing unisize/unisex 
-garments. Potential environmental gains can happen also by reducing the energy 
-consumption for washing (HIGH priority), e.g. by designing clothes that allow the 
-detachment of the parts that usually get a higher level of dirt (avoiding the need of 
-washing the entire garment). 
+consumption in production ( MEDIUM priority ) since , for instance , it can contribute to 
+reduce and optimise production processes . Environmental benefits are also related to the 
+possibility of extending cloth lifespan ( HIGH priority )  , e . g . through designing modular 
+clothes where parts that get worn out can be easily substituted . In addition it could be 
+possible to intensify the cloth use ( HIGH priority )  , e . g . by designing unisize / unisex 
+garments . Potential environmental gains can happen also by reducing the energy 
+consumption for washing ( HIGH priority )  , e . g . by designing clothes that allow the 
+detachment of the parts that usually get a higher level of dirt ( avoiding the need of 
+washing the entire garment )  . 
 Case study 
-Designer Mucci (2008) has developed a set of clothing solutions based on Design for 
-Sustainability principles. Using three-dimensional modelling as a design tool, the 
+Designer Mucci ( 2008 ) has developed a set of clothing solutions based on Design for 
+Sustainability principles . Using three-dimensional modelling as a design tool , the 
 designer has been able to achieve zero percentage of waste during manufacturing 
-(’moulage’). Using simple folds, creases and a few sewing, and with the adoption of the 
-’moulage’ technique, the product has a perfect fit to the body of the user. Furthermore, 
-the product was designed to allow its use on both sides, thus offering flexibility in terms 
-of colours and functional usage (being suitable for both evening events as well as casual 
-activities). 
-The product was designed to tackle the issue of aesthetic obsolescence. Furthermore, it 
-adopted a cascade approach for recycling (Santos et Al. 2006) has been adopted, 
-facilitating the possibilities for re-use or reprocessing of each part. The packaging, when 
-necessary, was designed using the Japanese ’furoshiki’ technique that uses folding and 
-moorings on a square fabric to produce an easy to assemble solution. Hence, the 
-packaging can have an extended life on the transportation of other goods. 
+(  ’ moulage ’  )  . Using simple folds , creases and a few sewing , and with the adoption of the 
+ ’ moulage ’ technique , the product has a perfect fit to the body of the user . Furthermore , 
+the product was designed to allow its use on both sides , thus offering flexibility in terms 
+of colours and functional usage ( being suitable for both evening events as well as casual 
+activities )  . 
+The product was designed to tackle the issue of aesthetic obsolescence . Furthermore , it 
+adopted a cascade approach for recycling ( Santos et Al . 2006 ) has been adopted , 
+facilitating the possibilities for re-use or reprocessing of each part . The packaging , when 
+necessary , was designed using the Japanese ’ furoshiki ’ technique that uses folding and 
+moorings on a square fabric to produce an easy to assemble solution . Hence , the 
+packaging can have an extended life on the transportation of other goods . 
 Level 4 - Design Cloth-Service Systems 
 Description 
 Cloth-service system can be understood as the result of an innovative strategy that shifts 
-the centre of business from the design and sale of clothes alone, to the offer of clotheservice systems that are together able to satisfy a particular demand of satisfaction 
-(UNEP, 2002). This strategy is environmentally promising because it can potentially 
-lead to “a systemic minimization of resources, as a consequence of innovative 
-stakeholder interactions and related converging economic interests” (UNEP, 2002). 
+the centre of business from the design and sale of clothes alone , to the offer of clotheservice systems that are together able to satisfy a particular demand of satisfaction 
+( UNEP , 2002 )  . This strategy is environmentally promising because it can potentially 
+lead to “ a systemic minimization of resources , as a consequence of innovative 
+stakeholder interactions and related converging economic interests ”  ( UNEP , 2002 )  . 
 Clothing product are resource-intensive artefacts and their environmental impact is 
-enhanced by overconsumption. Eliminating the fashion effect from the clothing industry 
-might be impossible since beyond the provision of technical functions, clothes are also 
-used as an extension of one’s identity, a medium for communicating with society (ex: 
-social class, status, opinions, gender and age) (Kaiser, 1990; McCracken, 1990; 
-Armstrong et Al. 2014). The problem nowadays is the rate of fashion cycles, 
-exacerbated by the increased perception of clothes´ disposability. On this context, the 
+enhanced by overconsumption . Eliminating the fashion effect from the clothing industry 
+might be impossible since beyond the provision of technical functions , clothes are also 
+used as an extension of one ’ s identity , a medium for communicating with society ( ex : 
+social class , status , opinions , gender and age )  ( Kaiser , 1990 ; McCracken , 1990 ; 
+Armstrong et Al . 2014 )  . The problem nowadays is the rate of fashion cycles , 
+exacerbated by the increased perception of clothes´ disposability . On this context , the 
 provision of a mix of clothes and services present itself as an alternative to conventional 
-business, leaving behind the dominant model centred on selling clothes and moving 
-towards systems able to offer first and foremost the “clothing” itself and its qualities. In 
+business , leaving behind the dominant model centred on selling clothes and moving 
+towards systems able to offer first and foremost the “ clothing ” itself and its qualities . In 
 general terms this means shifting the social perception of quality from the ownership of 
-new products (clothes, washing machines, irons, etc.) to the satisfaction of fulfilling a 
-particular demand of satisfaction (e.g. having clean clothes) (Vezzoli and Ceschin, 
-2008). 
+new products ( clothes , washing machines , irons , etc .  ) to the satisfaction of fulfilling a 
+particular demand of satisfaction ( e . g . having clean clothes )  ( Vezzoli and Ceschin , 
+2008 )  . 
 It contributes to dematerialize part of the consumption by moving the focus from 
-product provision to satisfaction provision. This vision is achieved by integrating 
-services associated to clothes that enhance the value perception and, at the same time, 
-reduce the need for increasing material consumption. It implies a technical-productive 
+product provision to satisfaction provision . This vision is achieved by integrating 
+services associated to clothes that enhance the value perception and , at the same time , 
+reduce the need for increasing material consumption . It implies a technical-productive 
 reorganization that can generate more significant socio-environmental benefits than the 
-previously presented strategies. 
-Examples of interventions at this level include: 
-• rental and care centres, by which users do not need to be concerned with 
-laundry and maintenance any more: clothes are leased from these professional 
-centres, which take care of all maintenance activities such as washing, cleaning, 
-ironing, and repair. People do not own clothes any more (except some pieces for 
-sentimental reasons and underwear), and they are free from any maintenance 
-concerns (Vezzoli and Ceschin, 2008); 
-• collective exchange and maintenance centres by which users don't have to do the 
-laundry and other clothing maintenance activities in your own home, but in 
-nearby places, together with friends or neighbours in local centres. Furthermore 
+previously presented strategies . 
+Examples of interventions at this level include : 
+• rental and care centres , by which users do not need to be concerned with 
+laundry and maintenance any more : clothes are leased from these professional 
+centres , which take care of all maintenance activities such as washing , cleaning , 
+ironing , and repair . People do not own clothes any more ( except some pieces for 
+sentimental reasons and underwear )  , and they are free from any maintenance 
+concerns ( Vezzoli and Ceschin , 2008 )  ; 
+• collective exchange and maintenance centres by which users don ' t have to do the 
+laundry and other clothing maintenance activities in your own home , but in 
+nearby places , together with friends or neighbours in local centres . Furthermore 
 these collective clothing care centres can also offer other social functions like a 
-cafe, a hobby-room or a kindergarten; in this way clothing care is integrated into 
-work, leisure and other household activities, and offers opportunities to meet and 
-spend time with people (Vezzoli and Ceschin, 2008).
-Because clothing-service systems bring about changes at system level, it can potentially 
-lead to radical environmental improvements, contributing mainly to the reduction of 
-energy consumption in use (HIGH priority), and in the optimisation of clothes life span 
-(HIGH priority). Continuing with the previously mentioned examples, the possibility 
-for exchanging clothes or borrowing them leads to an intensification of the clothes’ use, 
-reducing purchase and home storage (in this way the potential environmental gain is due 
-to the use intensification of clothes and appliances: less clothes and appliances are 
-needed at the same time in the same place). Moreover the use of services brings the 
+cafe , a hobby-room or a kindergarten ; in this way clothing care is integrated into 
+work , leisure and other household activities , and offers opportunities to meet and 
+spend time with people ( Vezzoli and Ceschin , 2008 )  . 
+Because clothing-service systems bring about changes at system level , it can potentially 
+lead to radical environmental improvements , contributing mainly to the reduction of 
+energy consumption in use ( HIGH priority )  , and in the optimisation of clothes life span 
+( HIGH priority )  . Continuing with the previously mentioned examples , the possibility 
+for exchanging clothes or borrowing them leads to an intensification of the clothes ’ use , 
+reducing purchase and home storage ( in this way the potential environmental gain is due 
+to the use intensification of clothes and appliances : less clothes and appliances are 
+needed at the same time in the same place )  . Moreover the use of services brings the 
 opportunity of making economically viable the implementation of environmentally 
-benign laundry and maintenance processes. 
+benign laundry and maintenance processes . 
 Clearly the most fundamental challenge for applying this strategy in the real world is to 
-move people away from the notion of “ownership” and all associated cultural values. 
-However, there is a growing number of examples of companies that are taking the 
-initiative of implementing innovative business solutions that are aligned with this view. 
+move people away from the notion of “ ownership ” and all associated cultural values . 
+However , there is a growing number of examples of companies that are taking the 
+initiative of implementing innovative business solutions that are aligned with this view . 
 These companies are taking advantage of the benefits of a closer relationship with the 
-client required by product-service systems. This continuous relationship demands 
-different and wider competencies than just manufacturing and distribution capabilities. 
+client required by product-service systems . This continuous relationship demands 
+different and wider competencies than just manufacturing and distribution capabilities . 
 In this approach the company needs to learn how to manage a continuous relationship 
-with the client, creating channels for feedback and integrating this feedback on the 
-product-service development/improvement. 
+with the client , creating channels for feedback and integrating this feedback on the 
+product-service development / improvement . 
 Setting up clothe-service systems might require the re-introduction of traditional 
-services. In the study made by Fisher et Al. (2008) participants in the UK reported the 
+services . In the study made by Fisher et Al .  ( 2008 ) participants in the UK reported the 
 perception that services for clothing repair were uncommon and highly dependent on 
-skill level, opportunity for quick and cheap replacement, and the affordability of the 
-service. Some felt incentivized to alter or repair items to which they were particularly 
-attached whilst others were engaged in repurposing the function of a garment. 
-However, the implementation of Business-to-Customer product-service systems is 
-hindered by several barriers (Vezzoli et Al. 2015). The very logic of the clothing 
+skill level , opportunity for quick and cheap replacement , and the affordability of the 
+service . Some felt incentivized to alter or repair items to which they were particularly 
+attached whilst others were engaged in repurposing the function of a garment . 
+However , the implementation of Business-to-Customer product-service systems is 
+hindered by several barriers ( Vezzoli et Al . 2015 )  . The very logic of the clothing 
 industry infrastructure is a major barrier to a wider adoption of cloth-service systems 
 since the industry is designed to consume a growing amount of resources given that 
-material consumption is understood as inseparable from revenue generation (Armstrong 
-et Al. 2014). Another barrier is the potential scepticism consumers may have about 
-cloth-service systems adoption, such as doubts about the motives of the company or its 
-ability to deliver the promised results (Rexfelt and Ornäs, 2009; Schrader, 1999) and 
-issues associated with hygiene (Catulli, 2012). 
+material consumption is understood as inseparable from revenue generation ( Armstrong 
+et Al . 2014 )  . Another barrier is the potential scepticism consumers may have about 
+cloth-service systems adoption , such as doubts about the motives of the company or its 
+ability to deliver the promised results ( Rexfelt and Ornäs , 2009 ; Schrader , 1999 ) and 
+issues associated with hygiene ( Catulli , 2012 )  . 
 Case study 
-Atmosfera, a company based in São Paulo and operating in different cities of Brazil, 
-offers services to industries, hospitals and hotels by supplying uniforms and providing 
-hygienic cleaning, clothing management, and maintenance services. Atmosfera is the 
-biggest leasing and textile cleaning company of Brazil and is part of Elis Group, leader 
-in the European market of industrial laundry. 
-The company calls its clothe-service system as “intelligent system for uniforms”. It 
-provides this solution in combination with a wide range of clothes for working spaces: 
-for low or high temperatures; flame repellent; environmental hazardous conditions; 
-reflective and antistatic. The company elaborates professional clothes for each activity. 
+Atmosfera , a company based in São Paulo and operating in different cities of Brazil , 
+offers services to industries , hospitals and hotels by supplying uniforms and providing 
+hygienic cleaning , clothing management , and maintenance services . Atmosfera is the 
+biggest leasing and textile cleaning company of Brazil and is part of Elis Group , leader 
+in the European market of industrial laundry . 
+The company calls its clothe-service system as “ intelligent system for uniforms ”  . It 
+provides this solution in combination with a wide range of clothes for working spaces : 
+for low or high temperatures ; flame repellent ; environmental hazardous conditions ; 
+reflective and antistatic . The company elaborates professional clothes for each activity . 
 Each cloth is personalised with the trademark of the client company and identified with 
-bar codes or RFID chips, enabling the monitoring of each piece to know, for example, 
-how often it was washed, if needs repair and if it is time to be replaced. Periodic 
-hygienic cleaning of the uniforms is also provided by the company. The sanitization 
+bar codes or RFID chips , enabling the monitoring of each piece to know , for example , 
+how often it was washed , if needs repair and if it is time to be replaced . Periodic 
+hygienic cleaning of the uniforms is also provided by the company . The sanitization 
 process is completely automated and controlled to ensure quality and preserve the 
-uniforms cloth, reducing losses for damages. 
+uniforms cloth , reducing losses for damages . 
 According to the company the inspection of each item helps their clients in case they are 
-subject to external audits on health and safety as well as environmental management. 
-The company produces detailed reports to monitor and control the status of the clotheservice system. Furthermore, in order to foster the environmental practices the company 
-have initiatives to educate and their families but the community at large. 
-With its services, Atmosfera contributes not only to prevent the discarding of garments, 
-but also promotes the reuse of its products and the reduction of post-use clothing waste, 
+subject to external audits on health and safety as well as environmental management . 
+The company produces detailed reports to monitor and control the status of the clotheservice system . Furthermore , in order to foster the environmental practices the company 
+have initiatives to educate and their families but the community at large . 
+With its services , Atmosfera contributes not only to prevent the discarding of garments , 
+but also promotes the reuse of its products and the reduction of post-use clothing waste , 
 generating savings to its clients when compared with conventional approaches to obtain 
-uniforms (Atmosfera, 2015). 
-Level 5: Changing Life Styles towards Sufficient Consumption 
+uniforms ( Atmosfera , 2015 )  . 
+Level 5 : Changing Life Styles towards Sufficient Consumption 
 This strategy attempts to develop activities in a cultural sphere that could promote new 
-qualitative criteria regarding the perception of satisfaction and, thus, modify the 
-demand–supply structure towards ’sufficient consumption’. It is not the same as 
-consumption efficiency (Level 2, 3 e 4) which is aimed at achieving a given level of 
-satisfaction with less input (e.g. boiling only the exact amount of water needed for a cup 
-of coffee, switching off unneeded lights, carpooling) (Alcott, 2008). However, even 
-with ’less input’ individuals might still be consuming far beyond what they really need. 
-’Sufficiency’, in contrast, means lowering utility or welfare of a person as close as 
-possible to his/her individual needs (e.g. not having the cup of coffee, not using 
-ambience lighting, not taking the car). Earth resilience at local and global level is one of 
+qualitative criteria regarding the perception of satisfaction and , thus , modify the 
+demand–supply structure towards ’ sufficient consumption ’  . It is not the same as 
+consumption efficiency ( Level 2 , 3 e 4 ) which is aimed at achieving a given level of 
+satisfaction with less input ( e . g . boiling only the exact amount of water needed for a cup 
+of coffee , switching off unneeded lights , carpooling )  ( Alcott , 2008 )  . However , even 
+with ’ less input ’ individuals might still be consuming far beyond what they really need . 
+ ’ Sufficiency ’  , in contrast , means lowering utility or welfare of a person as close as 
+possible to his / her individual needs ( e . g . not having the cup of coffee , not using 
+ambience lighting , not taking the car )  . Earth resilience at local and global level is one of 
 the key parameters to determine the level of sufficient consumption even though there is 
-no consensus on how to perform such evaluation. 
-This ‘sufficiency’ level cannot emerge without a change on the complex dynamics of 
-socio-cultural structures of our society. In this case, the focus is not as much on the 
-introduction of recent technological or managerial solutions, but on promoting new 
-qualitative criteria on satisfaction that at the same time are economically viable, socially 
-acceptable and culturally attractive (Vezzoli and Manzini, 2008). 
+no consensus on how to perform such evaluation . 
+This ‘ sufficiency ’ level cannot emerge without a change on the complex dynamics of 
+socio-cultural structures of our society . In this case , the focus is not as much on the 
+introduction of recent technological or managerial solutions , but on promoting new 
+qualitative criteria on satisfaction that at the same time are economically viable , socially 
+acceptable and culturally attractive ( Vezzoli and Manzini , 2008 )  . 
 This level requires radical change in mindset and breakthroughs on new lifestyles and 
-business processes. Hence, the proposal (and implementation) of new sustainable 
+business processes . Hence , the proposal ( and implementation ) of new sustainable 
 scenarios for the consumption and production of clothing implies the promotion of 
-radically new different cultural values compared with conventional paradigms. The 
+radically new different cultural values compared with conventional paradigms . The 
 limited capability of an individual or an isolated organization is overcome by 
-articulating the change through collaborative network. 
-This last level deals with the solutions that effectively change lifestyles, particularly 
-regarding clothing (and fashion). Some practical measures include avoiding the use of 
-clothe driers; employing the use of the natural drying under the wind and the sun; 
-avoiding ironing (hanging the clothes soon after washing it or using fabrics that do not 
-wrinkle, for example). 
+articulating the change through collaborative network . 
+This last level deals with the solutions that effectively change lifestyles , particularly 
+regarding clothing ( and fashion )  . Some practical measures include avoiding the use of 
+clothe driers ; employing the use of the natural drying under the wind and the sun ; 
+avoiding ironing ( hanging the clothes soon after washing it or using fabrics that do not 
+wrinkle , for example )  . 
 Changing clothing lifestyles might imply to have a wardrobe filled with more classic 
-styles in complementary colors, allowing diverse combinations even within the same 
-week, making it possible always to have a different appearance every day. It is 
-recommended, therefore, to aim at transcending the short lasting feature of the fashion, 
-searching for a balance between contemporaneous and extra-temporal fashion. Lined up 
-with this recommendation, Kazazian (2005) suggests favoring the repair and the 
-maintenance in order to delay the obsolescence of the product. 
-To make possible this strategy, it is necessary that the consumer poses a different 
+styles in complementary colors , allowing diverse combinations even within the same 
+week , making it possible always to have a different appearance every day . It is 
+recommended , therefore , to aim at transcending the short lasting feature of the fashion , 
+searching for a balance between contemporaneous and extra-temporal fashion . Lined up 
+with this recommendation , Kazazian ( 2005 ) suggests favoring the repair and the 
+maintenance in order to delay the obsolescence of the product . 
+To make possible this strategy , it is necessary that the consumer poses a different 
 attitude towards clothing in order to enable the wide adoption of sufficient consumption 
-into society. Simple initiatives and attitudes can help its viability such as: to destine old 
-pieces of clothing to charity institutions or recycling companies; to make sure that 
-discarded shoes are tighten together; to store clothes and accessories of fashion and 
-clothing in dry places in order to avoid potential damages; to make use of vintage stores 
-and buy used clothes whenever possible; to privilege the purchase of recycled clothes 
-elaborated with staple fibres and materials. It is important to emphasize that all these 
-measures should be based on the paradigm of ‘sufficient consumption’, otherwise the 
+into society . Simple initiatives and attitudes can help its viability such as : to destine old 
+pieces of clothing to charity institutions or recycling companies ; to make sure that 
+discarded shoes are tighten together ; to store clothes and accessories of fashion and 
+clothing in dry places in order to avoid potential damages ; to make use of vintage stores 
+and buy used clothes whenever possible ; to privilege the purchase of recycled clothes 
+elaborated with staple fibres and materials . It is important to emphasize that all these 
+measures should be based on the paradigm of ‘ sufficient consumption ’  , otherwise the 
 adoption of conventional consumption patterns might simply increase and result on 
-even higher environmental impacts (e.g. the consumer having more clothes than before 
-but all coming from recycling processes). 
+even higher environmental impacts ( e . g . the consumer having more clothes than before 
+but all coming from recycling processes )  . 
 Conclusion 
 The Brazilian case studies have shown that the strategies on the proposed framework 
-can be a driver for profound innovations, both at product as well as at system level. 
+can be a driver for profound innovations , both at product as well as at system level . 
 From innovative solutions aimed at the introduction of easier repair process of clothes 
-to new eco-efficient business models, sustainability demands consumers and producers 
-to move out from their comfort zone. 
+to new eco-efficient business models , sustainability demands consumers and producers 
+to move out from their comfort zone . 
 Each level of the framework provides the foundation to an easier implementation of the 
-subsequent level, which might suggest that a sequential implementation should be the 
-natural approach to realize it in practice. Companies willing to implement a clothservice system (Level 4), for instance, need to have already some competence on ecodesign (Level 2 and 3) in order to obtain effective results. Nevertheless, it is also 
-possible to admit that a company, with the appropriate setting, can jump these levels 
-(leapfrog). Clearly, further research is required in order to identify methods, criteria and 
+subsequent level , which might suggest that a sequential implementation should be the 
+natural approach to realize it in practice . Companies willing to implement a clothservice system ( Level 4 )  , for instance , need to have already some competence on ecodesign ( Level 2 and 3 ) in order to obtain effective results . Nevertheless , it is also 
+possible to admit that a company , with the appropriate setting , can jump these levels 
+( leapfrog )  . Clearly , further research is required in order to identify methods , criteria and 
 tools to determine the most appropriate level that a given company should operate as 
-well as how it should progress within the proposed framework. 
+well as how it should progress within the proposed framework . 

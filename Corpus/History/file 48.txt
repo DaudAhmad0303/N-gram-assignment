@@ -1,953 +1,953 @@
-The Environmental Context and Function of Burnt-Mounds: New Studies of 
+The Environmental Context and Function of Burnt-Mounds : New Studies of 
 Irish Fulachtaí Fiadh
-Antony G. Brown1
-, Steven R. Davis2
-, Jackie Hatton3
-, Charlotte O’Brien4
-, Fiona Reilly5
+Antony G . Brown1 
+, Steven R . Davis2 
+, Jackie Hatton3 
+, Charlotte O ’ Brien4 
+, Fiona Reilly5 
 , Kate 
-Taylor6
-, K., Emer Dennehy7
-, Lorna O’Donnell8
-, Nora Bermingham6
+Taylor6 
+, K .  , Emer Dennehy7 
+, Lorna O ’ Donnell8 
+, Nora Bermingham6 
 , Tim Mighall9 Scott 
-Timpany10, Emma Tetlow11 Jane Wheeler9
+Timpany10 , Emma Tetlow11 Jane Wheeler9
 and Shirley Wynne3
-Burnt mounds, or fulachtaí fiadh as they are known in Ireland, are probably the most common 
-prehistoric site type in Ireland and Britain. Typically Middle to late Bronze in age (although both 
-earlier and later examples are known), they are artefact-poor and rarely associated with 
-settlements. They generally consist of a low mound of stones often showing signs of fire-exposure 
-arranged by, or around, a pit or trough, which may be unlined or lined by wood or stone. The 
+Burnt mounds , or fulachtaí fiadh as they are known in Ireland , are probably the most common 
+prehistoric site type in Ireland and Britain . Typically Middle to late Bronze in age ( although both 
+earlier and later examples are known )  , they are artefact-poor and rarely associated with 
+settlements . They generally consist of a low mound of stones often showing signs of fire-exposure 
+arranged by , or around , a pit or trough , which may be unlined or lined by wood or stone . The 
 function of these sites has been much debated with the most commonly cited uses being for 
-cooking, as steam baths or saunas, for brewing, tanning or textile processing. A number of major 
+cooking , as steam baths or saunas , for brewing , tanning or textile processing . A number of major 
 infrastructural development schemes in Ireland in the years 2002-2007 revealed remarkable 
-numbers of these mounds often associated with wood-lined troughs, many of which were 
-extremely well-preserved. This afforded an opportunity to investigate these sites as landscape 
-features using environmental techniques - specifically plant macrofossils and charcoal, pollen,
-beetles and multi-element analyses. This paper summarises the results from eight sites from 
-Ireland and compares them with burnt mound sites in Great Britain. The fulachtaí fiadh which 
-are generally in clusters are all groundwater-fed by springs, along floodplains and at the bases 
-of slopes. The sites are associated with the clearance of wet woodland for fuel and have 
-predominantly ‘natural’ beetle assemblages typical of wet woodlands. Seven out of the eight sites
-had evidence of nearby agriculture (arable) and all sites revealed low levels of grazing. At one 
-site (Cahiracon) both pollen and coleoptera suggested that oak galls or leaves were brought onto 
-site, at another (Coonagh West) both pollen and macrofossils suggested that alder was being 
-stored or used on site. Multi-element analysis at two sites (Inchagreenoge and Coonagh West) 
-revealed elevated heavy metal concentrations suggesting that off-site soil, ash or urine had been 
-used in the trough. This evidence, taken together with the shallow depth of all the sites, their selffilling nature, attempts to filter incoming water, the occasional occurrence of flat stones and 
-flimsy stake structures at one site (Inchagreenoge), suggests that the most likely function for 
-these sites is textile production involving both cleaning and/or dyeing of wool and/or natural 
-plant fibres. This can be regarded as a functionally related activity to hide cleaning and tanning,
-for which there is evidence from one site (Ballygawley) as well as other Irish burnt mound sites. 
-Whilst further research is clearly needed to confirm if fulachtaí fiadh are part of the ‘textile 
-revolution’ we should also recognise their important role in the rapid deforestation of the wetter 
+numbers of these mounds often associated with wood-lined troughs , many of which were 
+extremely well-preserved . This afforded an opportunity to investigate these sites as landscape 
+features using environmental techniques - specifically plant macrofossils and charcoal , pollen , 
+beetles and multi-element analyses . This paper summarises the results from eight sites from 
+Ireland and compares them with burnt mound sites in Great Britain . The fulachtaí fiadh which 
+are generally in clusters are all groundwater-fed by springs , along floodplains and at the bases 
+of slopes . The sites are associated with the clearance of wet woodland for fuel and have 
+predominantly ‘ natural ’ beetle assemblages typical of wet woodlands . Seven out of the eight sites
+had evidence of nearby agriculture ( arable ) and all sites revealed low levels of grazing . At one 
+site ( Cahiracon ) both pollen and coleoptera suggested that oak galls or leaves were brought onto 
+site , at another ( Coonagh West ) both pollen and macrofossils suggested that alder was being 
+stored or used on site . Multi-element analysis at two sites ( Inchagreenoge and Coonagh West ) 
+revealed elevated heavy metal concentrations suggesting that off-site soil , ash or urine had been 
+used in the trough . This evidence , taken together with the shallow depth of all the sites , their selffilling nature , attempts to filter incoming water , the occasional occurrence of flat stones and 
+flimsy stake structures at one site ( Inchagreenoge )  , suggests that the most likely function for 
+these sites is textile production involving both cleaning and / or dyeing of wool and / or natural 
+plant fibres . This can be regarded as a functionally related activity to hide cleaning and tanning , 
+for which there is evidence from one site ( Ballygawley ) as well as other Irish burnt mound sites . 
+Whilst further research is clearly needed to confirm if fulachtaí fiadh are part of the ‘ textile 
+revolution ’ we should also recognise their important role in the rapid deforestation of the wetter 
 parts of primary woodland and the expansion of agriculture into marginal areas during the Irish 
-Bronze Age.
-1Palaeoenvironmental Laboratory University of Southampton (PLUS), Shackleton Building, Highfields Campus, 
-Southampton SO17 1BJ UK. Email: Tony.Brown@soton.ac.uk
-2Department of Archaeology, University College Dublin, Belfield, Dublin 4, Republic of Ireland. 
-Stephen.davis@ucd.ie
-3Geography, University of Exeter, Exeter, EX4 1RJ UK. Jackie.hatton@exeter.ac.uk, S.Wynne@exeter.ac.uk
-4Archaeological Services, Durham University, South Road, Durham DH1 3LE UK. 
-charlotte.o'brien@durham.ac.uk
+Bronze Age . 
+1Palaeoenvironmental Laboratory University of Southampton ( PLUS )  , Shackleton Building , Highfields Campus , 
+Southampton SO17 1BJ UK . Email : Tony . Brown @ soton . ac . uk
+2Department of Archaeology , University College Dublin , Belfield , Dublin 4 , Republic of Ireland . 
+Stephen . davis @ ucd . ie
+3Geography , University of Exeter , Exeter , EX4 1RJ UK . Jackie . hatton @ exeter . ac . uk , S . Wynne @ exeter . ac . uk
+4Archaeological Services , Durham University , South Road , Durham DH1 3LE UK . 
+charlotte . o ' brien @ durham . ac . uk
 5
-Irish Antiquities Division, National Museum of Ireland, Kildare Street, Dublin 2, Ireland. fmreilly@museum.ie
-6 TVAS (Ireland) Ltd., Ahish Ballinruan Crusheen, Co. Clare, Ireland, kate@tvasireland.ie; nora@gemail.com.
-7 Transport Infrastructure Ireland, Parkgate Street, Dublin 8, Ireland. E-mail: emer.dennehy@tii.ie
-8 Burnfoot, Tooban, Co. Donegal. Email: odonnell.lorna@gmail.com
-9 Department of Geography & Environment, School of Geosciences, University of Aberdeen, Aberdeen, AB24 3UE.
-t.mighall@abdn.ac.uk
+Irish Antiquities Division , National Museum of Ireland , Kildare Street , Dublin 2 , Ireland . fmreilly @ museum . ie
+6 TVAS ( Ireland ) Ltd .  , Ahish Ballinruan Crusheen , Co . Clare , Ireland , kate @ tvasireland . ie ; nora @ gemail . com . 
+7 Transport Infrastructure Ireland , Parkgate Street , Dublin 8 , Ireland . E-mail : emer . dennehy @ tii . ie
+8 Burnfoot , Tooban , Co . Donegal . Email : odonnell . lorna @ gmail . com
+9 Department of Geography & Environment , School of Geosciences , University of Aberdeen , Aberdeen , AB24 3UE . 
+t . mighall @ abdn . ac . uk
 2
-10 Archaeology Institute, Orkney College UHI, East Road, Kirkwall, KW15 1LX. scott.timpany@uhi.ac.uk
-11 Wardell Armstrong LLP, 2 Devon Way, Longbridge, Birmingham, B31 2SU UK. etetlow@wardellarmstrong.com
+10 Archaeology Institute , Orkney College UHI , East Road , Kirkwall , KW15 1LX . scott . timpany @ uhi . ac . uk
+11 Wardell Armstrong LLP , 2 Devon Way , Longbridge , Birmingham , B31 2SU UK . etetlow @ wardellarmstrong . com
 INTRODUCTION
-Burnt mounds and associated pits or troughs, are one of the most ubiquitous monument types 
+Burnt mounds and associated pits or troughs , are one of the most ubiquitous monument types 
 throughout the British Isles and Ireland and yet they remain enigmatic in terms of function and 
-cultural significance (O’Sullivan and Downey 2004; Ó Néill 2009). This paper presents a 
-summary of environmental analyses (plant macrofossils, charcoal, pollen, fossil insects and 
-multi-element analysis) of eight burnt mounds from Ireland with the aim of inferring 
-environmental context, and if possible shedding light on their probable functions. In Ireland
-alone burnt mounds number over 6000 (Fig. 1) and are known to reach densities as high as 1 per 
-11 km2
-. In parts of England, Wales and Scotland, where detailed surveys have occurred even 
-higher high densities have been recorded (e.g. 1 per 1.5 km stream length) prompting the strong 
+cultural significance ( O ’ Sullivan and Downey 2004 ; Ó Néill 2009 )  . This paper presents a 
+summary of environmental analyses ( plant macrofossils , charcoal , pollen , fossil insects and 
+multi-element analysis ) of eight burnt mounds from Ireland with the aim of inferring 
+environmental context , and if possible shedding light on their probable functions . In Ireland
+alone burnt mounds number over 6000 ( Fig . 1 ) and are known to reach densities as high as 1 per 
+11 km2 
+. In parts of England , Wales and Scotland , where detailed surveys have occurred even 
+higher high densities have been recorded ( e . g . 1 per 1 . 5 km stream length ) prompting the strong 
 suspicion that the known distribution is almost entirely a product of the differential intensity of 
-fieldwork (Barfield and Hodder 1987; Buckley 1990). Burnt mounds also occur throughout the 
-length of the British Isles and Ireland from Tangwick in Shetland (Moore and Wilson 1999) to 
-Hampshire (Boismier 1995). Even in areas with atypical landscape histories such as the New 
-Forest they remain one of the most common site types (Pasmore and Pallister 1967). Although 
+fieldwork ( Barfield and Hodder 1987 ; Buckley 1990 )  . Burnt mounds also occur throughout the 
+length of the British Isles and Ireland from Tangwick in Shetland ( Moore and Wilson 1999 ) to 
+Hampshire ( Boismier 1995 )  . Even in areas with atypical landscape histories such as the New 
+Forest they remain one of the most common site types ( Pasmore and Pallister 1967 )  . Although 
 examples are recorded from as early as the Neolithic they generally date to the Middle-Late 
-Bronze Age (Brindley and Lanting 1990; Buckley 1990; Bradley 2007; Ó Néill 2009). They 
-usually comprise a mound of fire-cracked stone, classically crescentic in shape and located 
-adjacent to a source of fresh water, most commonly streams, but also springs and occasionally 
-lakes. Often, the ‘arms’ of the crescent enclose a trough or pit. Such troughs or pits may be lined 
-with a variety of material, including wattle, stone, clay or planks; sometimes a moss lining or
-‘corking’ is also recovered (Ó Néill 2009). Burnt mounds are frequently present in large 
-concentrations over relatively small areas, for example the recent review of the archaeology of 
-Clare Island, Co. Mayo lists over 40 examples (Gosling et al. 2007). Despite this abundance, the 
+Bronze Age ( Brindley and Lanting 1990 ; Buckley 1990 ; Bradley 2007 ; Ó Néill 2009 )  . They 
+usually comprise a mound of fire-cracked stone , classically crescentic in shape and located 
+adjacent to a source of fresh water , most commonly streams , but also springs and occasionally 
+lakes . Often , the ‘ arms ’ of the crescent enclose a trough or pit . Such troughs or pits may be lined 
+with a variety of material , including wattle , stone , clay or planks ; sometimes a moss lining or
+ ‘ corking ’ is also recovered ( Ó Néill 2009 )  . Burnt mounds are frequently present in large 
+concentrations over relatively small areas , for example the recent review of the archaeology of 
+Clare Island , Co . Mayo lists over 40 examples ( Gosling et al . 2007 )  . Despite this abundance , the 
 function of these sites remains disputed beyond the clear indication that they were used for 
-heating water by the addition of fire-heated stones and so constitute a ‘hot-stone technology’ 
-(Barfield 1991). The most cited interpretation is that they are the remains of cooking places, and 
-this is reinforced by the use in Ireland of the term fulht fiadh (singular) or fulachtaí fiadh (plural) 
-which means cooking place in Gaelic, but the term was only coined in the 17th century by 
-Geoffrey Keating in his history of Ireland (Bradshaw et al. 1993). Experimental reconstructions 
+heating water by the addition of fire-heated stones and so constitute a ‘ hot-stone technology ’  
+( Barfield 1991 )  . The most cited interpretation is that they are the remains of cooking places , and 
+this is reinforced by the use in Ireland of the term fulht fiadh ( singular ) or fulachtaí fiadh ( plural ) 
+which means cooking place in Gaelic , but the term was only coined in the 17th century by 
+Geoffrey Keating in his history of Ireland ( Bradshaw et al . 1993 )  . Experimental reconstructions 
 3
-by O’Kelly in 1952 demonstrated that meat could be cooked by this method, and this practice is 
-known from the ethnographic record (O’Kelly 1954; Fahy 1960; Hurl 1990) and has been 
-replicated experimentally (Irish National Heritage Park, Wexford). However, a number of other 
-functions have been proposed including; the rendering of animal fats (Monk 2007), bathing -
-either conventional bathing places or the remains of ‘sweat lodges’ or ‘saunas’ (Barfield and 
-Hodder 1987; O’Driscoeil 1988), the tanning of hides and brewing (Quinn and Moore 2007). 
-Fabric processing (including cleaning and dying) has also been proposed (Denvir 2002; Reilly 
-and Brown 2013) and it is conceivable that boiled water was used as safe or uncontaminated 
-drinking water. The general lack of both archaeozoological and artefactual evidence usually 
-associated with these sites, even where animal bone and other artefacts could be preserved due to 
-non-acidic soils, has led to a lack of consensus as to their function, and therefore their role in 
-Bronze Age society. We approached this study with the hypothesis that each postulated function 
-could have characteristic environmental signal or ‘profile’ associated with it, for example: 
-cooking and rendering of animal fats might be expected to leave traces of carrion and so carrionrelated coleopteran or dipteran taxa. Tanning might be expected to leave a characteristic 
+by O ’ Kelly in 1952 demonstrated that meat could be cooked by this method , and this practice is 
+known from the ethnographic record ( O ’ Kelly 1954 ; Fahy 1960 ; Hurl 1990 ) and has been 
+replicated experimentally ( Irish National Heritage Park , Wexford )  . However , a number of other 
+functions have been proposed including ; the rendering of animal fats ( Monk 2007 )  , bathing -
+either conventional bathing places or the remains of ‘ sweat lodges ’ or ‘ saunas ’  ( Barfield and 
+Hodder 1987 ; O ’ Driscoeil 1988 )  , the tanning of hides and brewing ( Quinn and Moore 2007 )  . 
+Fabric processing ( including cleaning and dying ) has also been proposed ( Denvir 2002 ; Reilly 
+and Brown 2013 ) and it is conceivable that boiled water was used as safe or uncontaminated 
+drinking water . The general lack of both archaeozoological and artefactual evidence usually 
+associated with these sites , even where animal bone and other artefacts could be preserved due to 
+non-acidic soils , has led to a lack of consensus as to their function , and therefore their role in 
+Bronze Age society . We approached this study with the hypothesis that each postulated function 
+could have characteristic environmental signal or ‘ profile ’ associated with it , for example : 
+cooking and rendering of animal fats might be expected to leave traces of carrion and so carrionrelated coleopteran or dipteran taxa . Tanning might be expected to leave a characteristic 
 environmental profile of both insects and geochemistry indicative of carrion and foul or toxic 
-conditions (cf. Hall and Kenward 2003). Bathing might be expected to leave traces of human 
-ectoparasites (i.e. fleas and lice). Brewing could potentially leave traces of grain, cereal pollen 
-and grain-related insect taxa or taxa, associated with flavouring plants, and textile processing 
-could potentially result in traces of mordants, dye-plants and dependant taxa such as the 
-concentrations of Apion difficile postulated to indicate the use of Genista tinctoria (Dyer’s 
-Greenweed), at Coppergate, York UK (Kenward and Hall 1995).
+conditions ( cf . Hall and Kenward 2003 )  . Bathing might be expected to leave traces of human 
+ectoparasites ( i . e . fleas and lice )  . Brewing could potentially leave traces of grain , cereal pollen 
+and grain-related insect taxa or taxa , associated with flavouring plants , and textile processing 
+could potentially result in traces of mordants , dye-plants and dependant taxa such as the 
+concentrations of Apion difficile postulated to indicate the use of Genista tinctoria ( Dyer ’ s 
+Greenweed )  , at Coppergate , York UK ( Kenward and Hall 1995 )  . 
 Previous Environmental Studies
-Several environmental studies of single burnt mounds have been published including West Row, 
-Mildenhall, Suffolk (Murphy 1986), Feltwell Anchor, Norfolk (Bates and Wiltshire 2001), 
-Burlescombe, Devon (Best and Gent 2007) and Clifton, Worcestershire (Head 2007). One of the 
+Several environmental studies of single burnt mounds have been published including West Row , 
+Mildenhall , Suffolk ( Murphy 1986 )  , Feltwell Anchor , Norfolk ( Bates and Wiltshire 2001 )  , 
+Burlescombe , Devon ( Best and Gent 2007 ) and Clifton , Worcestershire ( Head 2007 )  . One of the 
 most comparable to this study is Feltwell where the pollen diagram shows a largely cleared 
-landscape with evidence for both pastoral and arable agriculture (Bates and Wiltshire 2001). 
-However, the diagram does not show the local deforestation event or post-mound woodland 
-regeneration, except possibly in Tilia (lime) and the reason for this is probably the uncertain 
-temporal relationship between the monolith column, trough and burnt mound. Excavations at 
-Watermeade Country Park, Leicestershire of an early Late Neolithic burnt mound revealed a 
+landscape with evidence for both pastoral and arable agriculture ( Bates and Wiltshire 2001 )  . 
+However , the diagram does not show the local deforestation event or post-mound woodland 
+regeneration , except possibly in Tilia ( lime ) and the reason for this is probably the uncertain 
+temporal relationship between the monolith column , trough and burnt mound . Excavations at 
+Watermeade Country Park , Leicestershire of an early Late Neolithic burnt mound revealed a 
 groundwater-fed trough on the bank of a palaeochannel which was first lined with a withy basket 
 4
-and later alder planks (Ripper 2004). An atypical aspect of the site was the preservation of 
-contemporary faunal remains which included Bos primigenius (wild cattle or aurochs) and Bos 
-taurus (domesticated cattle) which had undergone butchery, probably on site. However, they 
+and later alder planks ( Ripper 2004 )  . An atypical aspect of the site was the preservation of 
+contemporary faunal remains which included Bos primigenius ( wild cattle or aurochs ) and Bos 
+taurus ( domesticated cattle ) which had undergone butchery , probably on site . However , they 
 were not found in-situ and their association with the trough and mound remains speculative 
-prompting the excavator to suggest alternative uses such as wool processing (Ripper 2004). The 
-palaeobotanical evidence indicated undisturbed local woodland with mixed Tilia, Quercus (oak) 
-and Ulmus (elm) of drier land and oak and Alnus (alder) carr on the valley floor. The results 
+prompting the excavator to suggest alternative uses such as wool processing ( Ripper 2004 )  . The 
+palaeobotanical evidence indicated undisturbed local woodland with mixed Tilia , Quercus ( oak ) 
+and Ulmus ( elm ) of drier land and oak and Alnus ( alder ) carr on the valley floor . The results 
 suggest that the trough and burnt mound were in a small clearing by the waterside on marshy 
-ground surrounded by wet woodland (Monkton and Grieg in Ripper 2004). No cereal remains 
-were recovered and no insect remains were preserved. More recently excavations for the N9/N10 
-Carlow Bypass revealed 18 burnt mounds, 12 of which contained animal bone. An analysis of the 
-assemblages by Tourunen (2008) revealed a dominance of domesticated cattle but also horse, 
-deer, sheep, pig and sheep/goat. The anatomical distribution of the cattle bones and the deer 
-bones suggested on-site slaughter, tanning and antler working rather than consumption. The
-burnt mound, excavated as part of the multi-period spring-head site at Burlescombe, Devon, 
-provided a full pollen sequence and abundant insect material (Best and Gent 2007). The pollen
+ground surrounded by wet woodland ( Monkton and Grieg in Ripper 2004 )  . No cereal remains 
+were recovered and no insect remains were preserved . More recently excavations for the N9 / N10 
+Carlow Bypass revealed 18 burnt mounds , 12 of which contained animal bone . An analysis of the 
+assemblages by Tourunen ( 2008 ) revealed a dominance of domesticated cattle but also horse , 
+deer , sheep , pig and sheep / goat . The anatomical distribution of the cattle bones and the deer 
+bones suggested on-site slaughter , tanning and antler working rather than consumption . The
+burnt mound , excavated as part of the multi-period spring-head site at Burlescombe , Devon , 
+provided a full pollen sequence and abundant insect material ( Best and Gent 2007 )  . The pollen
 evidence suggested that the burnt mound and pit were in oak-dominated wet woodland 
-interspersed with rough pasture and clearings and some Avena (oat) or Triticum (wheat) 
-cultivation nearby. The beetle analyses from the plank lined pit (C654) and the pollen revealed 
+interspersed with rough pasture and clearings and some Avena ( oat ) or Triticum ( wheat ) 
+cultivation nearby . The beetle analyses from the plank lined pit ( C654 ) and the pollen revealed 
 that the pit was constructed adjacent to woodland and received debris from the woodland either 
-naturally, or as part of fodder production. Both the beetles and the pollen indicate that both open 
-land and woodland was present and that grazing was being undertaken in the vicinity. Also found 
-was a rare weevil Hylobius transversovittatus, which is monophagous on Lythrum salicaria
-(purple loosestrife), which is a well known dye plant. There was also evidence for storage of 
+naturally , or as part of fodder production . Both the beetles and the pollen indicate that both open 
+land and woodland was present and that grazing was being undertaken in the vicinity . Also found 
+was a rare weevil Hylobius transversovittatus , which is monophagous on Lythrum salicaria 
+( purple loosestrife )  , which is a well known dye plant . There was also evidence for storage of 
 animal food contemporary with mound construction in the form of a small wood-lined pit 
-apparently filled with leafy material, primarily Ilex aquifolium (holly), apparently sealed in the 
-manner observed in ethnographic silage-making methods (Best and Gent 2007). At Clifton a 
+apparently filled with leafy material , primarily Ilex aquifolium ( holly )  , apparently sealed in the 
+manner observed in ethnographic silage-making methods ( Best and Gent 2007 )  . At Clifton a 
 burnt mound site adjacent to a palaeochannel of the River Severn was dated to the early Bronze 
-Age. Beetle analysis revealed little if any indication of human activity although pollen analysis 
-from the palaeochannel revealed arable cultivation on the floodplain island (Head 2007; Davis et 
-al. 2008). This relative lack of anthropogenic impact on the beetle faunas associated with burnt 
-mounds has also been noted at Willow Farm, Castle Donington and Girton, Nottinghamshire 
-(Smith pers. com.).
+Age . Beetle analysis revealed little if any indication of human activity although pollen analysis 
+from the palaeochannel revealed arable cultivation on the floodplain island ( Head 2007 ; Davis et 
+al . 2008 )  . This relative lack of anthropogenic impact on the beetle faunas associated with burnt 
+mounds has also been noted at Willow Farm , Castle Donington and Girton , Nottinghamshire 
+( Smith pers . com .  )  . 
 5
-The analytical approach of this study was designed to pick up any use-traces but, notwithstanding 
-this, burnt mounds also existed in a landscape and as part of both a natural and human ecology. 
+The analytical approach of this study was designed to pick up any use-traces but , notwithstanding 
+this , burnt mounds also existed in a landscape and as part of both a natural and human ecology . 
 This palaeoenvironmental landscape approach formed the basis of the study reported here of 
-eight Irish burnt mounds excavated between 2002 and 2007. The term fulacht fiadh/fulachtaí
-fiadh is used throughout this paper to refer to a site which contains one or more mounds or stonespreads containing burnt or heated stones with, or without an associated trough or pit, but with no 
-connotation as to function.
+eight Irish burnt mounds excavated between 2002 and 2007 . The term fulacht fiadh / fulachtaí
+fiadh is used throughout this paper to refer to a site which contains one or more mounds or stonespreads containing burnt or heated stones with , or without an associated trough or pit , but with no 
+connotation as to function . 
 METHODS AND SITES 
-The eight sites discussed here comprise three from Section 3 (Co. Clare to Co. Limerick) of the 
-Bord Gáis Eireann’s (BGE) 'Gas Pipeline to the West' project (Cahiracon, Inchagreenoge,
-Cragbrien) in 2002, and four from National Road Authority (now Transport Infrastructure 
-Ireland) excavations undertaken between 2002 and 2007 (Killescragh and Caraun More, 
-Coonagh West, Jigginstown and Ballygawley, Fig. 1). Another site sampled as part of the same 
-BGE project is not reported on in detail here, Leahys, Co. Limerick, but full details can be found 
-in Brown et al. (2004). Although most of the sub-sampling was from columns and monoliths, in 
-order to allow sampling between, and adjacent to timbers, one trough (Inchagreenoge) was 
-quartered and one quarter crated and shipped to the laboratory. All the samples were stored in a 
-cold store at 4oC prior to sampling. 
+The eight sites discussed here comprise three from Section 3 ( Co . Clare to Co . Limerick ) of the 
+Bord Gáis Eireann ’ s ( BGE )  ' Gas Pipeline to the West ' project ( Cahiracon , Inchagreenoge , 
+Cragbrien ) in 2002 , and four from National Road Authority ( now Transport Infrastructure 
+Ireland ) excavations undertaken between 2002 and 2007 ( Killescragh and Caraun More , 
+Coonagh West , Jigginstown and Ballygawley , Fig . 1 )  . Another site sampled as part of the same 
+BGE project is not reported on in detail here , Leahys , Co . Limerick , but full details can be found 
+in Brown et al .  ( 2004 )  . Although most of the sub-sampling was from columns and monoliths , in 
+order to allow sampling between , and adjacent to timbers , one trough ( Inchagreenoge ) was 
+quartered and one quarter crated and shipped to the laboratory . All the samples were stored in a 
+cold store at 4oC prior to sampling . 
 Plant Macrofossil and Macroscopic charcoal
 For plant macrofossil analysis samples of 125ml were disaggregated in warm water and washed 
-through a nest of sieves ranging from 150-500μm size. The residues were scanned using a Leica 
+through a nest of sieves ranging from 150-500μm size . The residues were scanned using a Leica 
 MZ6 stereomicroscope and identification was aided by modern reference collections and the seed 
-atlas of Beijerinck (1947), Katz et al. (1965) and Cappers et al. (2006). Plant taxonomic 
-nomenclature follow Stace (1997). Charcoal and wood identification involved the examination of 
-the transverse, radial and tangential sections, at up to X600 magnification using a Leica DMLM 
-microscope. Identification was assisted by the descriptions of Hather (2000) and a modern 
-reference collection at Durham. Moss identifications were made by examining branch and stem 
+atlas of Beijerinck ( 1947 )  , Katz et al .  ( 1965 ) and Cappers et al .  ( 2006 )  . Plant taxonomic 
+nomenclature follow Stace ( 1997 )  . Charcoal and wood identification involved the examination of 
+the transverse , radial and tangential sections , at up to X600 magnification using a Leica DMLM 
+microscope . Identification was assisted by the descriptions of Hather ( 2000 ) and a modern 
+reference collection at Durham . Moss identifications were made by examining branch and stem 
 leaves at up to X600 magnification and identification was assisted using the descriptions of 
-Smith (1978) and Watson (1981). At Ballygawley bulk samples were sub-sampled at volumes of 
-1 litre, measure using the displacement method. Samples were then washed through a stack of 
-sieves with 0.01m and 250μm meshes. The remains were sorted and identified using a binocular 
-microscope at magnification of X10, and X40 where greater magnification was needed for 
+Smith ( 1978 ) and Watson ( 1981 )  . At Ballygawley bulk samples were sub-sampled at volumes of 
+1 litre , measure using the displacement method . Samples were then washed through a stack of 
+sieves with 0 . 01m and 250μm meshes . The remains were sorted and identified using a binocular 
+microscope at magnification of X10 , and X40 where greater magnification was needed for 
 6
-identification. Identifications were confirmed using modern reference material and seed atlases 
-including Berggren (1969), Cappers et al. (2006) and Schoch et al. (1988). For macroscopic 
+identification . Identifications were confirmed using modern reference material and seed atlases 
+including Berggren ( 1969 )  , Cappers et al .  ( 2006 ) and Schoch et al .  ( 1988 )  . For macroscopic 
 charcoal analyses a maximum of fifty charcoal fragments were randomly selected from each 
-sample based on their size and therefore suitability for identification. The charcoal was broken or 
-fractured to view three sectional surfaces (transverse (TS), tangential (TLS) and radial (RLS) 
-necessary for microscopic wood identification. The charcoal fragments were then mounted onto 
-a slide and examined using an incident light microscope at magnifications of X100, X200 and 
-X400, where applicable. The procedure for wood analysis involved taking samples one cell thick 
-was taken with a razor blade from the transverse, radial and tangential planes of the wood. Thin 
-section analysis was completed using a compound Nikon microscope of magnifications of X100, 
-X200 and X400. Charcoal and wood identifications were made using wood keys by 
-Schweingruber (1978) and Wheeler et al. (1989). Due to the different taxonomic resolution of 
+sample based on their size and therefore suitability for identification . The charcoal was broken or 
+fractured to view three sectional surfaces ( transverse ( TS )  , tangential ( TLS ) and radial ( RLS ) 
+necessary for microscopic wood identification . The charcoal fragments were then mounted onto 
+a slide and examined using an incident light microscope at magnifications of X100 , X200 and 
+X400 , where applicable . The procedure for wood analysis involved taking samples one cell thick 
+was taken with a razor blade from the transverse , radial and tangential planes of the wood . Thin 
+section analysis was completed using a compound Nikon microscope of magnifications of X100 , 
+X200 and X400 . Charcoal and wood identifications were made using wood keys by 
+Schweingruber ( 1978 ) and Wheeler et al .  ( 1989 )  . Due to the different taxonomic resolution of 
 the palaeocological data and lack of common name for some data scientific names are used with 
-English common names in the first instance only.
+English common names in the first instance only . 
 Pollen and Spores
-Standard preparation procedures were used on 0.5 ml of sediment from either close (0.01m) 
-spacing from a column or monolith or in some cases from an intact block of sediment. Standard 
-processing methods were used (Moore et al. 1991) including hydrofluoric acid digestion and 
-acetolysis. Samples were sieved (180µm and 8µm) and mounted in silicone oil. Identification 
-was at X600 magnification and X1000 magnification for critical features. The University of 
-Exeter’s pollen reference collection and subsequently the Palaeoenvironmental Laboratory 
-University of Southampton (PLUS) collection were used for critical identifications. The pollen 
-types recognised generally follow Bennett (1994) and plant taxonomy follows Stace (1997), 
-however, critical types were taken as far as taxonomically possible using both reference slides 
-restricted keys referenced when appropriate in the results section. A pollen sum of 500 total land 
-pollen (TLP) grains excluding aquatic types and spores was initially used but in several cases this 
-was increased to over 1000 TLP due to a) high Alnus (alder) or occasionally Pinus (pine) values,
-and b) a desire to encounter rare pollen types with a low frequency which might be of importance 
-in site interpretation. The monoliths used for sampling were taken from the excavations of the 
-mound, trough or sediments adjacent to the mound or trough. All the sites are unusually small 
-(<10m) and within woodland and therefore would only be expected to provide a strong 
-representation (>80%) of the local vegetation in patchy, largely wooded, landscapes (Jacobsen 
-and Bradshaw 1980; Sugita 1994). A recent modeling approach has supported a ‘relevant source 
+Standard preparation procedures were used on 0 . 5 ml of sediment from either close ( 0 . 01m ) 
+spacing from a column or monolith or in some cases from an intact block of sediment . Standard 
+processing methods were used ( Moore et al . 1991 ) including hydrofluoric acid digestion and 
+acetolysis . Samples were sieved ( 180µm and 8µm ) and mounted in silicone oil . Identification 
+was at X600 magnification and X1000 magnification for critical features . The University of 
+Exeter ’ s pollen reference collection and subsequently the Palaeoenvironmental Laboratory 
+University of Southampton ( PLUS ) collection were used for critical identifications . The pollen 
+types recognised generally follow Bennett ( 1994 ) and plant taxonomy follows Stace ( 1997 )  , 
+however , critical types were taken as far as taxonomically possible using both reference slides 
+restricted keys referenced when appropriate in the results section . A pollen sum of 500 total land 
+pollen ( TLP ) grains excluding aquatic types and spores was initially used but in several cases this 
+was increased to over 1000 TLP due to a ) high Alnus ( alder ) or occasionally Pinus ( pine ) values , 
+and b ) a desire to encounter rare pollen types with a low frequency which might be of importance 
+in site interpretation . The monoliths used for sampling were taken from the excavations of the 
+mound , trough or sediments adjacent to the mound or trough . All the sites are unusually small 
+(  < 10m ) and within woodland and therefore would only be expected to provide a strong 
+representation (  > 80% ) of the local vegetation in patchy , largely wooded , landscapes ( Jacobsen 
+and Bradshaw 1980 ; Sugita 1994 )  . A recent modeling approach has supported a ‘ relevant source 
 7
-area of pollen’ (RSAP sensu Sugita 1994) for small sites (25-250m in diameter) of between 
+area of pollen ’  ( RSAP sensu Sugita 1994 ) for small sites ( 25-250m in diameter ) of between 
 1000-3000m and for sites at the smaller end of this range the RSAP is likely to be under 2000m 
-(Hellman et al. 2009). The sites can be regarded as comparable with forest hollows or wind-gaps 
-(Calcote 1998) rather than raised mires or lakes with the implication that 40%-50% of the pollen 
-comes from plants within 50-100m of the site.
-Entomological Analysis
- The procedure used for the isolation of invertebrate remains followed a standard paraffin 
-flotation technique as described by Kenward et al. (1980). Samples for insects were washed over 
-a 300µ sieve and the residues mixed well with paraffin. Following addition of cold water, the 
-resultant mixture was decanted and washed with hot water and detergent. The flots were sorted 
-for insect remains were stored in denatured ethanol, and identified with the aid of the collections 
-housed in the Royal Albert Museum, Exeter with reference to the work of Joy (1932) and 
-standard entomological keys. Taxonomy largely follows that of Kloet and Hincks (1977) and 
-Lucht (1987). Dipterous (fly) remains have proved relatively sparse within the samples but have 
-included occasional puparia of the family Calliphoridae (blow flies) and Heleomyzidae, and head 
-capsules of the family Bibionidae (fever flies). Calliphoridae are characteristic carrion taxa whilst 
-the other two families are characteristic of more general decaying organic matter, often of plant 
-origin. The Ballygawley samples were prepared using the same procedures and the insect 
+( Hellman et al . 2009 )  . The sites can be regarded as comparable with forest hollows or wind-gaps 
+( Calcote 1998 ) rather than raised mires or lakes with the implication that 40%-50% of the pollen 
+comes from plants within 50-100m of the site . 
+Entomological Analysis 
+The procedure used for the isolation of invertebrate remains followed a standard paraffin 
+flotation technique as described by Kenward et al .  ( 1980 )  . Samples for insects were washed over 
+a 300µ sieve and the residues mixed well with paraffin . Following addition of cold water , the 
+resultant mixture was decanted and washed with hot water and detergent . The flots were sorted 
+for insect remains were stored in denatured ethanol , and identified with the aid of the collections 
+housed in the Royal Albert Museum , Exeter with reference to the work of Joy ( 1932 ) and 
+standard entomological keys . Taxonomy largely follows that of Kloet and Hincks ( 1977 ) and 
+Lucht ( 1987 )  . Dipterous ( fly ) remains have proved relatively sparse within the samples but have 
+included occasional puparia of the family Calliphoridae ( blow flies ) and Heleomyzidae , and head 
+capsules of the family Bibionidae ( fever flies )  . Calliphoridae are characteristic carrion taxa whilst 
+the other two families are characteristic of more general decaying organic matter , often of plant 
+origin . The Ballygawley samples were prepared using the same procedures and the insect 
 remains were identified by comparison with specimens in the Gorham and Girling collections at 
-the University of Birmingham. To aid interpretation, where applicable, the taxa have been 
-assigned ecological groups modified by the author based after those of Whitehouse (2006) and 
-Olsson and Lemdahl (2008) which modified and enhanced categories first proposed by Kenward 
-(1978) and Robinson (1981, 1993). 
+the University of Birmingham . To aid interpretation , where applicable , the taxa have been 
+assigned ecological groups modified by the author based after those of Whitehouse ( 2006 ) and 
+Olsson and Lemdahl ( 2008 ) which modified and enhanced categories first proposed by Kenward 
+( 1978 ) and Robinson ( 1981 , 1993 )  . 
 Multi-element Analysis and Radiocarbon Dating
-Up to 22 elements were analysed using inductively coupled plasma mass spectroscopy (ICP-MS). 
-Samples of approximately l25g were using a Thermo Elemental Xseries ICP-MS. The sediment 
-was subjected to a HF/HNO3 digest. However, with some samples (e.g. Coonagh West) problems 
+Up to 22 elements were analysed using inductively coupled plasma mass spectroscopy ( ICP-MS )  . 
+Samples of approximately l25g were using a Thermo Elemental Xseries ICP-MS . The sediment 
+was subjected to a HF / HNO3 digest . However , with some samples ( e . g . Coonagh West ) problems 
 were encountered due to the highly organic nature of the sediments and in order to overcome any 
 non-digestion the results are also expressed as a ratio to Ti as it has a constant and relatively high 
-concentration in all the samples. All the sites have been radiocarbon dated by the excavating team 
+concentration in all the samples . All the sites have been radiocarbon dated by the excavating team 
 and the reader is referred to the original reports for details of the methodologies employed although 
 8
-where relevant details are given in the analysis and discussion. Dates are given calibrated to cal 
-BC/AD using Calib v5 (Stuiver et al. 1998).
+where relevant details are given in the analysis and discussion . Dates are given calibrated to cal 
+BC / AD using Calib v5 ( Stuiver et al . 1998 )  . 
 Site Descriptions
-The site at Cahiracon Co. Clare was located in a bowl-shaped valley overlooking the Shannon 
-Estuary and supplied by shallow groundwater (Grogan et al. 2007). The site was initially 
-identified as a thin spread of burnt mound material 5.2m x 3.8m overlying a peat deposit whilst a 
-larger fulacht fiadh was identified beneath the peat. The latter comprised a 11.5m N-S x 10.75m 
-E-W x 0.80m high horse-shoe shaped mound centred on a rectangular trough (C.56, Fig. 2a). The 
-trough which was cut into clay was constructed of Quercus (oak) planks with Alnus pegs. A 
-small wooden platform was constructed to the south of the trough and several large steppingstones lead to the trough from the north (Dennehy 2003). The Inchagreenoge site consisted of 
-two burnt mounds with troughs (C28 & C69) constructed in a small area of bog at the base of a 
-hill adjacent to a stream and several springs (Taylor 2004). The mounds were sandwiched 
+The site at Cahiracon Co . Clare was located in a bowl-shaped valley overlooking the Shannon 
+Estuary and supplied by shallow groundwater ( Grogan et al . 2007 )  . The site was initially 
+identified as a thin spread of burnt mound material 5 . 2m x 3 . 8m overlying a peat deposit whilst a 
+larger fulacht fiadh was identified beneath the peat . The latter comprised a 11 . 5m N-S x 10 . 75m 
+E-W x 0 . 80m high horse-shoe shaped mound centred on a rectangular trough ( C . 56 , Fig . 2a )  . The 
+trough which was cut into clay was constructed of Quercus ( oak ) planks with Alnus pegs . A 
+small wooden platform was constructed to the south of the trough and several large steppingstones lead to the trough from the north ( Dennehy 2003 )  . The Inchagreenoge site consisted of 
+two burnt mounds with troughs ( C28 & C69 ) constructed in a small area of bog at the base of a 
+hill adjacent to a stream and several springs ( Taylor 2004 )  . The mounds were sandwiched 
 between peat deposits and the high water-table had lead to the preservation of the timber lined 
-troughs of early-mid Bronze Age date. Close to the site, at the spring that fed one of the troughs 
-was found a human skull (young male adult) suggesting ritual associations. Trough C28, (Fig. 
-2b) was sub-rectangular and lined by planks of alder, Fraxinus (ash) and Corylus (hazel) held in 
-place by stakes. Below the adjacent stone spread (C24) was found one post hole and 13 stake 
-holes (0.07-0.13 cm in diameter). Trough C69 which lay under two overlapping stone spreads 
-was also lined by alder planks. The Cragbrien burnt mound was located on flat boggy ground 
-25m to the east of a small stream and at only 1.3 m OD. Part of the burnt mound, the majority of 
-which was buried by alluvial sediments, was excavated and a thin monolith taken from adjacent 
-to the mound (Fig. 2c). The mound was made up of laminated deposits of woody peat and 
-organic clay with burnt limestone. No evidence for a trough was recorded during the excavation 
-although it is possible it lay nearby but outside the area of excavation. Seven phases of 
-deposition/activity were identified with contexts 12, 14, 15, 20 and 21 being the deposition of the 
-burnt stone. Two burnt mounds excavated at Killescraigh Townland and Cauran More (Fig. 2d) 
-lay at the foot of an esker ridge with a small river to the south. The deposits consisted of a spread 
+troughs of early-mid Bronze Age date . Close to the site , at the spring that fed one of the troughs 
+was found a human skull ( young male adult ) suggesting ritual associations . Trough C28 ,  ( Fig . 
+2b ) was sub-rectangular and lined by planks of alder , Fraxinus ( ash ) and Corylus ( hazel ) held in 
+place by stakes . Below the adjacent stone spread ( C24 ) was found one post hole and 13 stake 
+holes ( 0 . 07-0 . 13 cm in diameter )  . Trough C69 which lay under two overlapping stone spreads 
+was also lined by alder planks . The Cragbrien burnt mound was located on flat boggy ground 
+25m to the east of a small stream and at only 1 . 3 m OD . Part of the burnt mound , the majority of 
+which was buried by alluvial sediments , was excavated and a thin monolith taken from adjacent 
+to the mound ( Fig . 2c )  . The mound was made up of laminated deposits of woody peat and 
+organic clay with burnt limestone . No evidence for a trough was recorded during the excavation 
+although it is possible it lay nearby but outside the area of excavation . Seven phases of 
+deposition / activity were identified with contexts 12 , 14 , 15 , 20 and 21 being the deposition of the 
+burnt stone . Two burnt mounds excavated at Killescraigh Townland and Cauran More ( Fig . 2d ) 
+lay at the foot of an esker ridge with a small river to the south . The deposits consisted of a spread 
 of burnt stone and a series of associated wooden features including trackways and worked wood 
-dated to the late Bronze Age. A substantial minerogenic layer separated phases of activity 
-probably due to flooding which may have caused temporary abandonment. At the second burnt 
-mound (A024/23) associated wooden features, included parts of a trough lining, a stake 
-alignment, a wood-working area and a number of felled/split timbers associated with a wooden 
+dated to the late Bronze Age . A substantial minerogenic layer separated phases of activity 
+probably due to flooding which may have caused temporary abandonment . At the second burnt 
+mound ( A024 / 23 ) associated wooden features , included parts of a trough lining , a stake 
+alignment , a wood-working area and a number of felled / split timbers associated with a wooden 
 9
-platform structure. It is suggested that two phases of activity occurred after the inundation of the 
-site during the late Bronze Age. The burnt mound and trough at Jigginstown, which was located 
-on the southern edge of a small peat-infilled basin close to a stream, was stratified within a peat 
-bed sealed under 03-0.5 m of clay (Bolger 2005). Two burnt mounds were excavated at Coonagh 
-West (site E2093 (was A005/2021)) as part of the Limerick Southern Ring Road Phase II in 2005 
-(Fig. 2e, Bermingham 2013; Reilly and Brown 2013). They were located either side of a streambed. A pit, and alder and stone-lined trough were found under mound 2 (Reilly 2010). 
-Archaeological excavations at Ballygawley revealed a complex of 26 burnt mounds and spreads. 
+platform structure . It is suggested that two phases of activity occurred after the inundation of the 
+site during the late Bronze Age . The burnt mound and trough at Jigginstown , which was located 
+on the southern edge of a small peat-infilled basin close to a stream , was stratified within a peat 
+bed sealed under 03-0 . 5 m of clay ( Bolger 2005 )  . Two burnt mounds were excavated at Coonagh 
+West ( site E2093 ( was A005 / 2021 )  ) as part of the Limerick Southern Ring Road Phase II in 2005 
+( Fig . 2e , Bermingham 2013 ; Reilly and Brown 2013 )  . They were located either side of a streambed . A pit , and alder and stone-lined trough were found under mound 2 ( Reilly 2010 )  . 
+Archaeological excavations at Ballygawley revealed a complex of 26 burnt mounds and spreads . 
 The burnt mounds were located on a flood plain next to a series of palaeochannels with burnt 
-mound activity seen to move chronologically with the shifting channel courses Fig. 3. The results 
+mound activity seen to move chronologically with the shifting channel courses Fig . 3 . The results 
 of 65 radiocarbon dates taken from features and sediment profiles suggest continuous activity
 took place on the site from the Neolithic period to the late Iron Age then a 900-year hiatus to the 
-early medieval period. Sixteen of the mounds had troughs, which were circular, oval or 
-rectangular in design. Ten of these were lined and eight styles of construction using wood, 
+early medieval period . Sixteen of the mounds had troughs , which were circular , oval or 
+rectangular in design . Ten of these were lined and eight styles of construction using wood , 
 wicker or a combination of both were used with no radiocarbon dating evidence of chronological 
-preferences in style, although there was some elaboration in the design of the early medieval 
-trough, where a channel connecting the trough to the stream was dug, in order to bring water 
-directly into the trough.
+preferences in style , although there was some elaboration in the design of the early medieval 
+trough , where a channel connecting the trough to the stream was dug , in order to bring water 
+directly into the trough . 
 RESULTS
 The Irish Burnt Mound Database
-As part of this project a database was constructed of Irish sites reported as ‘burnt mounds’ or
-fulachtaí fiadh (Fig.1). The database was compiled from the Irish Excavations Database 
-(http://www.excavations.ie) as it was at the end of 2015, using the search terms ‘burnt mounds’, 
-‘fulachtaí fiadh’ and ‘burnt spread’ in the site type field. This returned 465, 775 and 200 hits 
-respectively. In each case Townland, excavation licence number, grid reference, publications(s) 
-arising, excavator, excavation.ie reference number were recorded along with the abstracted 
-material from the site description including dimensions of the mound, dimensions and 
-construction material of the trough, and dates where available. The distribution map was created 
+As part of this project a database was constructed of Irish sites reported as ‘ burnt mounds ’ or
+fulachtaí fiadh ( Fig . 1 )  . The database was compiled from the Irish Excavations Database 
+(  ) as it was at the end of 2015 , using the search terms ‘ burnt mounds ’  , 
+ ‘ fulachtaí fiadh ’ and ‘ burnt spread ’ in the site type field . This returned 465 , 775 and 200 hits 
+respectively . In each case Townland , excavation licence number , grid reference , publications ( s ) 
+arising , excavator , excavation . ie reference number were recorded along with the abstracted 
+material from the site description including dimensions of the mound , dimensions and 
+construction material of the trough , and dates where available . The distribution map was created 
 through the use of similar search terms through the Irish National Monuments website 
-(http://www.archaeology.ie) which were exported as a shape file which was then overlain on the 
-base map.
+(  ) which were exported as a shape file which was then overlain on the 
+base map . 
 10
-Charcoal, Plant Macrofossils and Pollen Analyses
-Charcoal from Cahiracon included Quercus, with some birch (Betula), Corylus avellana,
-Fraxinus (ash), Alnus, Maloideae sp. (apple family), Prunus spinosa (blackthorn), Ilex 
-aquifolium and Salix sp. (willow). Radiocarbon dating of charcoal from the burnt mound dates 
-the site to the late Bronze Ag (Table 1). Two monoliths (M7 and M5) were taken from the site 
-for environmental analysis; one (M7) from the west facing edge of the baulk directly above the 
+Charcoal , Plant Macrofossils and Pollen Analyses
+Charcoal from Cahiracon included Quercus , with some birch ( Betula )  , Corylus avellana , 
+Fraxinus ( ash )  , Alnus , Maloideae sp .  ( apple family )  , Prunus spinosa ( blackthorn )  , Ilex 
+aquifolium and Salix sp .  ( willow )  . Radiocarbon dating of charcoal from the burnt mound dates 
+the site to the late Bronze Ag ( Table 1 )  . Two monoliths ( M7 and M5 ) were taken from the site 
+for environmental analysis ; one ( M7 ) from the west facing edge of the baulk directly above the 
 trough which would relate to post-trough use activities and M5 from the north end of the same 
-excavation. The pollen diagram from M7 (Fig. 4) which has been divided into five pollen zones 
-(CC7P1-CC7P5) is dominated by mixed deciduous woodland of alder, hazel and oak. However, 
+excavation . The pollen diagram from M7 ( Fig . 4 ) which has been divided into five pollen zones 
+( CC7P1-CC7P5 ) is dominated by mixed deciduous woodland of alder , hazel and oak . However , 
 there are dramatic changes with the lower zones dominated by oak which is replaced after a 
-partial clearance by the alder and hazel. The basal zone (CC7P1) indicates a large clearing or 
-partially open landscape with significant heathland or bog. The rise in hazel and alder in zone 
-CC7P2 indicates the regeneration of woodland over, or close to, the site continued into zone 
-CC7P3. The fall in Quercus early in zone CC7P4 represents a second clearance phase and late in 
+partial clearance by the alder and hazel . The basal zone ( CC7P1 ) indicates a large clearing or 
+partially open landscape with significant heathland or bog . The rise in hazel and alder in zone 
+CC7P2 indicates the regeneration of woodland over , or close to , the site continued into zone 
+CC7P3 . The fall in Quercus early in zone CC7P4 represents a second clearance phase and late in 
 zone CC7P4 a second regeneration of woodland occurs over the site or area which on this 
-occasion is dominated by Quercus rather than Corylus and Alnus. Indeed the remarkably high 
-oak values (80% TLP) strongly suggest its presence on site. Lastly in zone CC7P5 there is 
+occasion is dominated by Quercus rather than Corylus and Alnus . Indeed the remarkably high 
+oak values ( 80% TLP ) strongly suggest its presence on site . Lastly in zone CC7P5 there is 
 another phase of woodland clearance with some expansion of heathland and cereal cultivation 
-appears restricted to this last clearance phase. From the stratigraphy the pollen and spore zone 
+appears restricted to this last clearance phase . From the stratigraphy the pollen and spore zone 
 CC7P1 is correlated with the abandonment of the trough and the later zones with archaeological 
-phases 5-7 which include the use of the hearth and mound site to the north, east and west of the 
-trough and the eventual abandonment of the entire site. Monolith M5 provides a sequence from 
-pre to post-fulacht activity as it spanned two natural units, a lower peat and an upper peat with inbetween sediment from the edge of the burnt mound. The pollen diagram although allocated a 
-single zone shows a muted clearance signal similar to that in CC7P1 but with cereal type pollen
-(Supplementary Fig. S1). Given the high levels of oak and alder it suggests that the site was very 
-close to, or more likely within oak woodland, with some alder trees nearby. During the period 
+phases 5-7 which include the use of the hearth and mound site to the north , east and west of the 
+trough and the eventual abandonment of the entire site . Monolith M5 provides a sequence from 
+pre to post-fulacht activity as it spanned two natural units , a lower peat and an upper peat with inbetween sediment from the edge of the burnt mound . The pollen diagram although allocated a 
+single zone shows a muted clearance signal similar to that in CC7P1 but with cereal type pollen 
+( Supplementary Fig . S1 )  . Given the high levels of oak and alder it suggests that the site was very 
+close to , or more likely within oak woodland , with some alder trees nearby . During the period 
 covered by the diagrams there is a partial clearance of the woodland associated with burning on 
-site corresponding with the construction of the mound. After the burning Quercus regenerates,
-but there are also species characteristic of disturbed woodland such as holly and birch. The 
+site corresponding with the construction of the mound . After the burning Quercus regenerates , 
+but there are also species characteristic of disturbed woodland such as holly and birch . The 
 episode is also associated with arable cultivation of oats or wheat which ceases during the 
-regeneration phase. 
+regeneration phase . 
 11
-From Inchagreenoge charcoal identifications are dominated by Alnus, with lesser amounts 
-of Fraxinus, Corylus, Betula, Prunus spinosa, Prunus avium/padus (wild/bird cherry), 
-Maloideae, Ulmus (elm), Taxus (yew) and Salix. The monolith section (0.58m x 0.10m) was 
-taken through the stratigraphy of the southern baulk of the site. The stratigraphy reported was a 
-base of natural boulders, a peat unit, the edge of the burnt mound, another peat unit, a thin clay 
-and finally a soil A horizon. In addition a large section of the trough (C28, fill C35) was cut insitu and shipped to the laboratory (Fig. 5). The pollen diagram from the core profile 
-(Supplementary Fig. S2) has a basal pollen zone (ISCP1) dominated by pine but this almost 
-completely disappears at the level of the fulacht fiadh sediments. The pine is difficult to interpret 
-due to its highly efficient dispersal of pollen, however, at approximately 30 % TLP it is high 
-enough to regard as of local or extra-local origin. The high common Polypodium (polypody) and 
-other Pteropsida (ferns) but low bracken also indicate that the site was at the edge of or close to a 
-woodland. In zone ISC2 the spectra is dominated by grass, herbs and sedges indicative of grazed 
-pasture or meadow. Oats or wheat also appear at 32cm which corresponds with the fulacht fiadh
-sediments (context 21). The simplest interpretation of the data is that pine woodland was felled 
-and/or burnt prior to the construction of the fulacht fiadh and the site or land nearby used for both 
-cereal cultivation and pastoral activity. The Holocene decline in Pinus is highly diachronous in 
-Ireland being earlier (c. 2400-2200 cal BC) in northern Ireland (Hall et al. 1994) but later in 
-central and western Ireland where it can be as late as c. 600 BP (Molloy and O’Connell 2007). 
+From Inchagreenoge charcoal identifications are dominated by Alnus , with lesser amounts 
+of Fraxinus , Corylus , Betula , Prunus spinosa , Prunus avium / padus ( wild / bird cherry )  , 
+Maloideae , Ulmus ( elm )  , Taxus ( yew ) and Salix . The monolith section ( 0 . 58m x 0 . 10m ) was 
+taken through the stratigraphy of the southern baulk of the site . The stratigraphy reported was a 
+base of natural boulders , a peat unit , the edge of the burnt mound , another peat unit , a thin clay 
+and finally a soil A horizon . In addition a large section of the trough ( C28 , fill C35 ) was cut insitu and shipped to the laboratory ( Fig . 5 )  . The pollen diagram from the core profile 
+( Supplementary Fig . S2 ) has a basal pollen zone ( ISCP1 ) dominated by pine but this almost 
+completely disappears at the level of the fulacht fiadh sediments . The pine is difficult to interpret 
+due to its highly efficient dispersal of pollen , however , at approximately 30 % TLP it is high 
+enough to regard as of local or extra-local origin . The high common Polypodium ( polypody ) and 
+other Pteropsida ( ferns ) but low bracken also indicate that the site was at the edge of or close to a 
+woodland . In zone ISC2 the spectra is dominated by grass , herbs and sedges indicative of grazed 
+pasture or meadow . Oats or wheat also appear at 32cm which corresponds with the fulacht fiadh
+sediments ( context 21 )  . The simplest interpretation of the data is that pine woodland was felled 
+and / or burnt prior to the construction of the fulacht fiadh and the site or land nearby used for both 
+cereal cultivation and pastoral activity . The Holocene decline in Pinus is highly diachronous in 
+Ireland being earlier ( c . 2400-2200 cal BC ) in northern Ireland ( Hall et al . 1994 ) but later in 
+central and western Ireland where it can be as late as c . 600 BP ( Molloy and O ’ Connell 2007 )  . 
 Pinus is also known to survive in refugia with locally favourable conditions long after its 
 regional decline due to a combination of competition driven by climate change and human 
-activity (Brown 1988). Inchagreenoge is believed is early Bronze Age in date and this relatively 
+activity ( Brown 1988 )  . Inchagreenoge is believed is early Bronze Age in date and this relatively 
 early date helps explain the existence of pine woodland which must have been growing on the 
-slopes surrounding the bog in which the two fulachtaí fiadh were constructed. An animal bone 
+slopes surrounding the bog in which the two fulachtaí fiadh were constructed . An animal bone 
 assemblage was recovered from the fill of this trough which included large domestic ungulates 
-(cattle).
-Charcoal data from Cragbrien (C21) indicates that Corylus, Alnus, Prunus spinosa, 
-Quercus and Prunus avium/padus were growing in the vicinity. The high-resolution pollen 
-sequence (Fig. 6) is directly correlated with the rest of the mound with the base, and so start of 
-accumulation of the mound at 84 cm. The basal zone (CBP1) indicates wet alder-dominated 
-woodland with both pine and mixed oak/hazel woodland. That the woodland was not completely 
-closed and had gaps or clearings is indicated by the high Hedera (ivy) and the wide range of herb 
-types present many of which are light demanding. The fall in alder pre-dates construction of the 
-burnt mound, but by how much is unknown. The reduction in Pinus and Quercus are later and 
+( cattle )  . 
+Charcoal data from Cragbrien ( C21 ) indicates that Corylus , Alnus , Prunus spinosa , 
+Quercus and Prunus avium / padus were growing in the vicinity . The high-resolution pollen 
+sequence ( Fig . 6 ) is directly correlated with the rest of the mound with the base , and so start of 
+accumulation of the mound at 84 cm . The basal zone ( CBP1 ) indicates wet alder-dominated 
+woodland with both pine and mixed oak / hazel woodland . That the woodland was not completely 
+closed and had gaps or clearings is indicated by the high Hedera ( ivy ) and the wide range of herb 
+types present many of which are light demanding . The fall in alder pre-dates construction of the 
+burnt mound , but by how much is unknown . The reduction in Pinus and Quercus are later and 
 12
-immediately pre-date the burnt mound level and an interesting increase or spike in Salix (zone 
-CBP2a). This could be due to these trees having been left by the streamside (25m to the east) or 
-possibly by Salix branches with catkins (male) being brought onto the site. By the level of the 
+immediately pre-date the burnt mound level and an interesting increase or spike in Salix ( zone 
+CBP2a )  . This could be due to these trees having been left by the streamside ( 25m to the east ) or 
+possibly by Salix branches with catkins ( male ) being brought onto the site . By the level of the 
 mound in zone CBP2b the local area is open with scattered trees and the herbs are dominated by 
-pastoral indicators. The apparent rise in pine in zone CBP2a is almost certainly an artefact of the 
+pastoral indicators . The apparent rise in pine in zone CBP2a is almost certainly an artefact of the 
 opening up of the local canopy allowing far more regional and long distance pollen to reach the 
-ground surface. The Hordeum (barley) type record is difficult to interpret as it could be Glyceria
-(reed grass) which is typical of such wet locations, however, the correspondence with 
-Avena/Triticum type (oat/wheat type) and Secale (rye) in zone CBP3 and early zone CBP4 
+ground surface . The Hordeum ( barley ) type record is difficult to interpret as it could be Glyceria 
+( reed grass ) which is typical of such wet locations , however , the correspondence with 
+Avena / Triticum type ( oat / wheat type ) and Secale ( rye ) in zone CBP3 and early zone CBP4 
 suggests that the clearing was used for arable cultivation immediately after the deposition of the 
-mound sediments. The construction of the mound also seems to be associated with a high grass to 
-sedge ratio and a peak in Plantago lanceolata (ribwort plantain) suggesting grazing. Zone CBP3 
-largely post-dates the burnt mound levels and covers a reversal in the Poaceae/Cyperaceae 
-(grass/sedge) ratio which suggests either/or a reduction in grazing pressure or an increase in local 
-surface wetness. The final zone CB4 shows a peak in Pteridium (bracken) suggesting a reduction 
-in grazing pressure. The simplest interpretation of the vegetation sequence is: clearance of an 
+mound sediments . The construction of the mound also seems to be associated with a high grass to 
+sedge ratio and a peak in Plantago lanceolata ( ribwort plantain ) suggesting grazing . Zone CBP3 
+largely post-dates the burnt mound levels and covers a reversal in the Poaceae / Cyperaceae 
+( grass / sedge ) ratio which suggests either / or a reduction in grazing pressure or an increase in local 
+surface wetness . The final zone CB4 shows a peak in Pteridium ( bracken ) suggesting a reduction 
+in grazing pressure . The simplest interpretation of the vegetation sequence is : clearance of an 
 area of alder carr and oak woodland close to the river at a time when there was still a largely 
-wooded landscape. The burnt mound is then created in an open environment characterised by 
-rough pasture and some heathland of bracken and heather. After the mound has gone out of use 
-and is being buried by alluvial sediment, grazing pressure decreases and cereal cultivation 
-increases only to be abandoned at the end of the sequence. This suggests that the construction of 
+wooded landscape . The burnt mound is then created in an open environment characterised by 
+rough pasture and some heathland of bracken and heather . After the mound has gone out of use 
+and is being buried by alluvial sediment , grazing pressure decreases and cereal cultivation 
+increases only to be abandoned at the end of the sequence . This suggests that the construction of 
 the burnt mound is not unreasonably associated with a pastoral economy but with some cereal 
-cultivation in the vicinity.
-The pollen analysis and plant macrofossils from Killescragh and Caraun More (A024/22 
-and A024/23, Hatton unpub, Supplementary Data Table S1) reveal that the earliest peats 
-analysed from site A024/22 (F22 & F8) indicate a local landscape dominated by open wet
-woodland comprising Alnus, Betula, Corylus, Fraxinus, Prunus padus and Taxus (yew). Pinus
+cultivation in the vicinity . 
+The pollen analysis and plant macrofossils from Killescragh and Caraun More ( A024 / 22 
+and A024 / 23 , Hatton unpub , Supplementary Data Table S1 ) reveal that the earliest peats 
+analysed from site A024 / 22 ( F22 & F8 ) indicate a local landscape dominated by open wet
+woodland comprising Alnus , Betula , Corylus , Fraxinus , Prunus padus and Taxus ( yew )  . Pinus
 and Ulmus were also growing in the vicinity and may have occupied the well-drained slopes of 
-the nearby esker ridges. The plant macrofossil assemblages from the earliest deposits analysed 
-indicate the presence of open fen woodland with a diverse wetland understorey, which is likely to 
-have occupied the low-lying area between the River Craughwell and the esker. The woodland 
-comprised a range of trees which grow well in wet conditions, including Alnus glutinosa, Betula
-sp, Corylus avellana, Fraxinus excelsior and Taxus baccata. Pinus sp and Ulmus sp were also 
-growing in the vicinity, possibly occupying areas of blanket peat and the well-drained slopes of 
+the nearby esker ridges . The plant macrofossil assemblages from the earliest deposits analysed 
+indicate the presence of open fen woodland with a diverse wetland understorey , which is likely to 
+have occupied the low-lying area between the River Craughwell and the esker . The woodland 
+comprised a range of trees which grow well in wet conditions , including Alnus glutinosa , Betula
+sp , Corylus avellana , Fraxinus excelsior and Taxus baccata . Pinus sp and Ulmus sp were also 
+growing in the vicinity , possibly occupying areas of blanket peat and the well-drained slopes of 
 13
-the esker ridges, respectively. The expansion of Taxus is thought to be associated with 
-reductions in intensive woodland clearance in the Neolithic (O’Connell and Molloy 2001) and 
-Iron Age although it is regarded as over-represented in pollen diagrams (Newman et al. 2007). 
+the esker ridges , respectively . The expansion of Taxus is thought to be associated with 
+reductions in intensive woodland clearance in the Neolithic ( O ’ Connell and Molloy 2001 ) and 
+Iron Age although it is regarded as over-represented in pollen diagrams ( Newman et al . 2007 )  . 
 The possibility of immediate post-burnt mound anthropogenic activity in the area is also 
-suggested by the presence of a single charred grain of barley (Hordeum sp.) and charcoal 
-fragments of Corylus, Fraxinus and Ulmus, however, this context (F8) is above and close to the 
-burnt mound (Killescragh 2) is not in direct stratigraphic association. Plant remains from the peat 
-horizon underlying a wooden trackway (F21) suggest the continued presence of wet woodland, 
-although some of the arboreal remains may relate to the trackway construction. Charcoal from 
+suggested by the presence of a single charred grain of barley ( Hordeum sp .  ) and charcoal 
+fragments of Corylus , Fraxinus and Ulmus , however , this context ( F8 ) is above and close to the 
+burnt mound ( Killescragh 2 ) is not in direct stratigraphic association . Plant remains from the peat 
+horizon underlying a wooden trackway ( F21 ) suggest the continued presence of wet woodland , 
+although some of the arboreal remains may relate to the trackway construction . Charcoal from 
 the burnt mound deposit suggests that Corylus and Fraxinus may have been used for fuel for 
-fires associated with the feature. Plant macrofossils from the overlying peat deposit reflected 
-open fen vegetation with little woodland cover. Samples from below a possible trough base at 
-A024/23 indicate the presence of local wet woodland comprising Alnus glutinosa, Betula sp, 
-Corylus avellana and Taxus baccata. Betula and Corylus charcoal from the peat above the 
-possible trough base may derive from fuel associated with the burnt mound.
+fires associated with the feature . Plant macrofossils from the overlying peat deposit reflected 
+open fen vegetation with little woodland cover . Samples from below a possible trough base at 
+A024 / 23 indicate the presence of local wet woodland comprising Alnus glutinosa , Betula sp , 
+Corylus avellana and Taxus baccata . Betula and Corylus charcoal from the peat above the 
+possible trough base may derive from fuel associated with the burnt mound . 
 At Coonagh West pollen was extracted from 6 contexts from the excavation respectively 
-top, middle and base of the trough fill, and below the trough stones, deeper below the trough 
-stones and under a basal timber (Table 1, Supplementary Data Fig. S3). These were all counted 
-to an unusually high count (>600 grains) in order to improve statistical inferences. The 
-concentration of pollen and spores was high (20,000-100,000 grains ml) and very few showed 
-signs of degradation or corrosion. The site has therefore almost certainly not suffered from 
-differential preservation, and the counts can be taken as an accurate reflection of the pollen and 
-spore influx to the site. All six samples are dominated by trees, but this is where the similarity 
-ends. It is apparent that the three levels beneath the stones and timber (CWG1, CWH1, CWF5) 
+top , middle and base of the trough fill , and below the trough stones , deeper below the trough 
+stones and under a basal timber ( Table 1 , Supplementary Data Fig . S3 )  . These were all counted 
+to an unusually high count (  > 600 grains ) in order to improve statistical inferences . The 
+concentration of pollen and spores was high ( 20 , 000-100 , 000 grains ml ) and very few showed 
+signs of degradation or corrosion . The site has therefore almost certainly not suffered from 
+differential preservation , and the counts can be taken as an accurate reflection of the pollen and 
+spore influx to the site . All six samples are dominated by trees , but this is where the similarity 
+ends . It is apparent that the three levels beneath the stones and timber ( CWG1 , CWH1 , CWF5 ) 
 are all very similar to the point of having almost exactly the same percentage values of major 
-types such total trees (77.7%, 77.5% & 77.9% TLP) and the same frequency order of trees. It is 
+types such total trees ( 77 . 7% , 77 . 5% & 77 . 9% TLP ) and the same frequency order of trees . It is 
 reasonable to suggest that these three samples came from an Alnus-Quercus-Corylus dominated 
-woodland surrounded by mixed woodland with a significant component of Pinus. The other 
-samples have significant differences and so will be discussed individually. Sample CWA1 is 
-dominated by Alnus and Quercus with high Pinus, Corylus, Ulmus and Fraxinus. As with all the 
-samples elm is surprisingly high (>4% TLP) and suggests that it was a significant component of 
-the regional woodland (see later discussion). Betula and Salix although present do not appear to 
-be major components of the woodland, however, the Salicaceae due to their dioecious biology 
+woodland surrounded by mixed woodland with a significant component of Pinus . The other 
+samples have significant differences and so will be discussed individually . Sample CWA1 is 
+dominated by Alnus and Quercus with high Pinus , Corylus , Ulmus and Fraxinus . As with all the 
+samples elm is surprisingly high (  > 4% TLP ) and suggests that it was a significant component of 
+the regional woodland ( see later discussion )  . Betula and Salix although present do not appear to 
+be major components of the woodland , however , the Salicaceae due to their dioecious biology 
 are generally under and rather erratically represented in pollen diagrams even from Corylus-Salix
 14
-carrs. A clearing is also indicated by high Ilex, which only flowers in sunlight and most 
-prolifically at the edges of woodland, and a range of herbaceous pollen types including grasses 
-and sedges but also Lactuceae (dandelions family), Chenopodiaceae (goosefoot family), 
-Plantago lanceolata and Rumex acetosa (common sorrel) and the spores of Pteridium. A single 
-grain of cereal type pollen (Avena/Triticum type) was also recorded. The closed nature and close 
+carrs . A clearing is also indicated by high Ilex , which only flowers in sunlight and most 
+prolifically at the edges of woodland , and a range of herbaceous pollen types including grasses 
+and sedges but also Lactuceae ( dandelions family )  , Chenopodiaceae ( goosefoot family )  , 
+Plantago lanceolata and Rumex acetosa ( common sorrel ) and the spores of Pteridium . A single 
+grain of cereal type pollen ( Avena / Triticum type ) was also recorded . The closed nature and close 
 proximity of the surrounding woodland is also indicated by the high levels of Polypodium and 
-the occurrence of Chelidonium (celandine). Sample CWB1 is also dominated by Alnus and 
-Quercus with high Corylus, Pinus and Fraxinus. The extremely high Alnus value (1910 grains 
-counted) and the presence of clusters of Alnus grains clearly indicates that anthers had blown into 
-the trough from either overhanging or adjacent alder trees. An unusual occurrence is Malus 
-sylvestris (crab apple) at 1.1% TLP-A along with even higher Ilex than in sample CWA1 at 5.4 
-%TLP-A. The non-tree component is significantly higher at 27.9% TLP-A with unusually high 
-levels of common sorrel at 10.4 %TLP-A, Filipendula at 5.1 %TLP-A and Ranunculus at 2.5% 
-TLP-A. Cereals (Avena/Triticum type) are also high at 1.2 &TLP-A and one grain of Linum 
-bienne type (pale flax) was recorded. Sample CWC1 is also dominated by Alnus and Quercus
-with high Corylus, Pinus and Fraxinus. Alnus is still very high (865 grains counted) but no 
-clusters were observed and both the herbaceous total at 19% TLP-A and unusually high Ilex
-(nearly 6% TLP-A) indicate a clearing or forest gap. The high herbs are again buttercup family, 
-ribwort plantain, common sorrel and meadowsweet. Cereals are present, Cannabis type (hemp, 1 
-grain), Linum bienne type and Stellaria holostea (greater stitchwort). A similar gap or clearing 
-was recorded at Leahy which also had unusually high Lonicera (honeysuckle; Brown et al.
-2004). The remarkably high concentration of Alnus pollen in the lower levels of the Coonagh 
+the occurrence of Chelidonium ( celandine )  . Sample CWB1 is also dominated by Alnus and 
+Quercus with high Corylus , Pinus and Fraxinus . The extremely high Alnus value ( 1910 grains 
+counted ) and the presence of clusters of Alnus grains clearly indicates that anthers had blown into 
+the trough from either overhanging or adjacent alder trees . An unusual occurrence is Malus 
+sylvestris ( crab apple ) at 1 . 1% TLP-A along with even higher Ilex than in sample CWA1 at 5 . 4 
+%TLP-A . The non-tree component is significantly higher at 27 . 9% TLP-A with unusually high 
+levels of common sorrel at 10 . 4 %TLP-A , Filipendula at 5 . 1 %TLP-A and Ranunculus at 2 . 5% 
+TLP-A . Cereals ( Avena / Triticum type ) are also high at 1 . 2 & TLP-A and one grain of Linum 
+bienne type ( pale flax ) was recorded . Sample CWC1 is also dominated by Alnus and Quercus
+with high Corylus , Pinus and Fraxinus . Alnus is still very high ( 865 grains counted ) but no 
+clusters were observed and both the herbaceous total at 19% TLP-A and unusually high Ilex 
+( nearly 6% TLP-A ) indicate a clearing or forest gap . The high herbs are again buttercup family , 
+ribwort plantain , common sorrel and meadowsweet . Cereals are present , Cannabis type ( hemp , 1 
+grain )  , Linum bienne type and Stellaria holostea ( greater stitchwort )  . A similar gap or clearing 
+was recorded at Leahy which also had unusually high Lonicera ( honeysuckle ; Brown et al . 
+2004 )  . The remarkably high concentration of Alnus pollen in the lower levels of the Coonagh 
 West trough suggest deliberate collection and deposition especially when we consider that it was 
-possible that the trough was not cleaned out after its final use (Reilly 2010). Alder, common 
-sorrel and meadow sweet were commonly used in dying in Ireland.
+possible that the trough was not cleaned out after its final use ( Reilly 2010 )  . Alder , common 
+sorrel and meadow sweet were commonly used in dying in Ireland . 
 Plant macrofossil analysis conducted on columns 1 and 3 from Coonagh West all 
-produced a similar plant assemblage (Supplementary Table S2, Durham Archaeological Services 
-2007) and this can be compared with the pollen data from samples CWA1, CWB1 and CWC1 
-(Table 2). This is meaningful in this case because of the undoubtedly localised source area for 
-most of the pollen and spores. This is a strong correspondence amongst both the common 
-elements (e.g. Alnus, Quercus etc.) but also some rarities such as greater stitchwort. It reinforces 
-the inference of a small damp grass-dominated clearing within wet/damp Alnus-Corylus-Quercus
-woodland within the regional woodland with Pinus, Quercus, Ulmus and Fraxinus. The 
+produced a similar plant assemblage ( Supplementary Table S2 , Durham Archaeological Services 
+2007 ) and this can be compared with the pollen data from samples CWA1 , CWB1 and CWC1 
+( Table 2 )  . This is meaningful in this case because of the undoubtedly localised source area for 
+most of the pollen and spores . This is a strong correspondence amongst both the common 
+elements ( e . g . Alnus , Quercus etc .  ) but also some rarities such as greater stitchwort . It reinforces 
+the inference of a small damp grass-dominated clearing within wet / damp Alnus-Corylus-Quercus
+woodland within the regional woodland with Pinus , Quercus , Ulmus and Fraxinus . The 
 composition of the local woodland matches unusually well the main wood types used in the 
 15
-construction of the trough with Alnus (51%), Quercus (23%), Corylus (10%), Maloideae (8%), 
-Fraxinus (5%) and Salix (3%). In particular it is rare to be able to match less common species, in 
-this case crab apple, which of course is also a potentially important prehistoric food resource. 
+construction of the trough with Alnus ( 51% )  , Quercus ( 23% )  , Corylus ( 10% )  , Maloideae ( 8% )  , 
+Fraxinus ( 5% ) and Salix ( 3% )  . In particular it is rare to be able to match less common species , in 
+this case crab apple , which of course is also a potentially important prehistoric food resource . 
 The slight mismatch with Salix is probably due to the un-representivity of pollen influx value as 
-mentioned earlier. The interesting difference is a lack of any Ulmus or Pinus in the macrofossils, 
+mentioned earlier . The interesting difference is a lack of any Ulmus or Pinus in the macrofossils , 
 supporting the contention that they were growing in the region but not on the floodplain or in the 
-immediate vicinity of the site.
+immediate vicinity of the site . 
 The pollen sequence from Jigginstown is unusually complex given its limited depth 
-(Fig. 7). The basal zone JG1 almost certainly represents the end of the Lateglacial and very 
+( Fig . 7 )  . The basal zone JG1 almost certainly represents the end of the Lateglacial and very 
 beginning of the Holocene and the succeeding zone JG2 covers a period during which the 
 Boreal woodland of the early-mid Mesolithic is established as is confirmed by the 
-radiocarbon dates. This woodland becomes richer after the appearance of Corylus in zone 
-JG4. There are indications of disturbance, both natural and later human to this open, and 
-probably fragmented, woodland. Pollen zone JG5 covers a period when a clearing is created 
-in the Pinus-Corylus dominated woodland, perhaps with the aid of fire and this is initially 
-used for grazing and subsequently arable cultivation occurs in the close vicinity of the site. 
-The definite presence of Linum catharticum (purging flax) in three consecutive levels the 
+radiocarbon dates . This woodland becomes richer after the appearance of Corylus in zone 
+JG4 . There are indications of disturbance , both natural and later human to this open , and 
+probably fragmented , woodland . Pollen zone JG5 covers a period when a clearing is created 
+in the Pinus-Corylus dominated woodland , perhaps with the aid of fire and this is initially 
+used for grazing and subsequently arable cultivation occurs in the close vicinity of the site . 
+The definite presence of Linum catharticum ( purging flax ) in three consecutive levels the 
 base of the zone JG6 strongly suggests that is being grown or processed near the site and it 
 can be used as a yellow dye-plant but is also well known for its medicinal properties as it is 
-anthelmintic (expels parasites from the gut), diuretic, emetic and purgative. Linum 
+anthelmintic ( expels parasites from the gut )  , diuretic , emetic and purgative . Linum 
 catharticum macrofossil remains have been found at a number of Bronze Age sites in the 
-British Isles including Knights Farm (Berkshire), Runnymede (Surrey), Stackpole Warren 
-(Pembrokeshire), Wilsford Shaft (Wiltshire) and from several crannogs including Oakbank 
-Crannog Loch Tay, Tayside (Tomlinson and Hall 1996). The unusually high representation of 
-Centaurea nigra (black knapweed) throughout zone JG6 (at over 5% TLP) could be due to 
-the close proximity of a rough, damp Centaurea-infested meadow or alternatively it may have 
-been being encouraged/cultivated or brought onto site due to its well-known use in fabric 
-dying (it produces a yellow dye). This is an unusual pollen and spore diagram, as it appears 
+British Isles including Knights Farm ( Berkshire )  , Runnymede ( Surrey )  , Stackpole Warren 
+( Pembrokeshire )  , Wilsford Shaft ( Wiltshire ) and from several crannogs including Oakbank 
+Crannog Loch Tay , Tayside ( Tomlinson and Hall 1996 )  . The unusually high representation of 
+Centaurea nigra ( black knapweed ) throughout zone JG6 ( at over 5% TLP ) could be due to 
+the close proximity of a rough , damp Centaurea-infested meadow or alternatively it may have 
+been being encouraged / cultivated or brought onto site due to its well-known use in fabric 
+dying ( it produces a yellow dye )  . This is an unusual pollen and spore diagram , as it appears 
 that Quercus dominated temperate woodland never developed around this site and the 
 activities associated with the fulachtaí fiadh occurred in a Pinus and Corylus dominated 
-landscape. The evidence of purging flax and the anomalous levels of black knapweed suggest 
-that one function, or at least usage, of the fulachtaí fiadh may have been in some way related 
-to the manufacture and dying of textiles.
+landscape . The evidence of purging flax and the anomalous levels of black knapweed suggest 
+that one function , or at least usage , of the fulachtaí fiadh may have been in some way related 
+to the manufacture and dying of textiles . 
 16
 At Ballygawley a total of 2530 macroscopic charcoal identifications were carried out 
-from features and deposits across all periods of site use. Alnus and Corylus were identified as 
+from features and deposits across all periods of site use . Alnus and Corylus were identified as 
 the most abundant timbers used through each period with other arboreal taxa more popular as 
-fuel wood in varying periods e.g. Quercus was utilised mainly in the Neolithic period, while 
-Ilex was resourced in the Late Bronze Age to Early Iron Age period. Other tree and shrub 
-types used for fuel include: Prunus avium (wild cherry), Maloideae, Salix, Prunus spinosa
-and Fraxinus. Ring-curvature shows fragments mainly had strong and moderately curved 
+fuel wood in varying periods e . g . Quercus was utilised mainly in the Neolithic period , while 
+Ilex was resourced in the Late Bronze Age to Early Iron Age period . Other tree and shrub 
+types used for fuel include : Prunus avium ( wild cherry )  , Maloideae , Salix , Prunus spinosa
+and Fraxinus . Ring-curvature shows fragments mainly had strong and moderately curved 
 growth rings suggesting that branch wood was the main timber size used as wood fuel 
-(Wheeler et al. in press). Fragments with weakly curved growth rings were present in low 
-numbers, which together with the worked (waterlogged) wood from the trough linings show 
-that large-sized timbers (e.g. trunk wood) were also used on occasion. A total of thirty-seven 
+( Wheeler et al . in press )  . Fragments with weakly curved growth rings were present in low 
+numbers , which together with the worked ( waterlogged ) wood from the trough linings show 
+that large-sized timbers ( e . g . trunk wood ) were also used on occasion . A total of thirty-seven 
 bulk samples were analysed for macroscopic plant remains from archaeological features and 
-palaeochannel deposits. The overall assemblage from Ballygawley changes little 
-chronologically, consisting largely of wet/damp loving plants indicative of fen conditions that 
-are typical of stream side assemblages including: Viola palustris (marsh violet), Potentilla 
-palustris (marsh cinequefoil), Potamogeton sp. (pond weed) and Persicaria hydropiper
-(water pepper), together with a range of sedge species. Evidence of the local woodland is 
-limited within the samples with only Sambucus nigra (elder) fruits present suggesting the area 
-around the mound activity was cleared. The presence of pasture land near to the site is also 
-indicated from the presence of a number of meadow land plants in the assemblage, such as 
-Persicaria maculosa (redshank), Ranunculus (buttercups), Galeopsis tetrahit (hemp-nettle)
-Chenopodiaceae and Stellaria sp. (chick weed). There is some evidence for cultivation during 
+palaeochannel deposits . The overall assemblage from Ballygawley changes little 
+chronologically , consisting largely of wet / damp loving plants indicative of fen conditions that 
+are typical of stream side assemblages including : Viola palustris ( marsh violet )  , Potentilla 
+palustris ( marsh cinequefoil )  , Potamogeton sp .  ( pond weed ) and Persicaria hydropiper 
+( water pepper )  , together with a range of sedge species . Evidence of the local woodland is 
+limited within the samples with only Sambucus nigra ( elder ) fruits present suggesting the area 
+around the mound activity was cleared . The presence of pasture land near to the site is also 
+indicated from the presence of a number of meadow land plants in the assemblage , such as 
+Persicaria maculosa ( redshank )  , Ranunculus ( buttercups )  , Galeopsis tetrahit ( hemp-nettle ) 
+Chenopodiaceae and Stellaria sp .  ( chick weed )  . There is some evidence for cultivation during 
 the prehistoric period with the presence of charred cereal grain of naked barley recovered 
-from a pit (9539) associated with burnt mound (9009). The grains have been dated to the 
-Middle Bronze Age 1610-1410 cal BC (SUERC-20608; 3215±35 BP) and cereal-type pollen 
-is also present in the upper layers of Monolith 2 (LPAZ S1II4).
+from a pit ( 9539 ) associated with burnt mound ( 9009 )  . The grains have been dated to the 
+Middle Bronze Age 1610-1410 cal BC ( SUERC-20608 ; 3215±35 BP ) and cereal-type pollen 
+is also present in the upper layers of Monolith 2 ( LPAZ S1II4 )  . 
 The pollen sequence from Ballygawley monolith 2 has been divided into four local 
-pollen assemblage zones (LPAZ S1II1-4) (Fig. 8). The pollen diagram shows local Alnus-carr 
-with Salix and Betula, formed in the valley bottom, river banks and flood plain terraces while 
-dryland woodland of Quercus, Corylus and Ulmus was present on the drier valley slopes and 
-surrounds. The herbaceous pollen assemblage shows the field layer consisted mainly of 
-grasses and damp grassland taxa such as sedges, Peucedanum type (probably wild angelica) 
-and Urtica sp. (nettles). Within LPAZ S1ii1and at the beginning of LPAZ S1ii3, regular 
-fluctuations in the pollen of Quercus, Alnus and Corylus appear as a zig-zag pattern during 
+pollen assemblage zones ( LPAZ S1II1-4 )  ( Fig . 8 )  . The pollen diagram shows local Alnus-carr 
+with Salix and Betula , formed in the valley bottom , river banks and flood plain terraces while 
+dryland woodland of Quercus , Corylus and Ulmus was present on the drier valley slopes and 
+surrounds . The herbaceous pollen assemblage shows the field layer consisted mainly of 
+grasses and damp grassland taxa such as sedges , Peucedanum type ( probably wild angelica ) 
+and Urtica sp .  ( nettles )  . Within LPAZ S1ii1and at the beginning of LPAZ S1ii3 , regular 
+fluctuations in the pollen of Quercus , Alnus and Corylus appear as a zig-zag pattern during 
 17
-and following the end of activity at burnt mound 9031. It is suggested this zig-zag pattern 
-reflects some form of woodland management (e.g. coppicing cycles) of the local woodland in 
-association with the sampled burnt mound and one 40m to the south west (9034), dated to 
-2460-2200 cal BC (SUERC-20634; 3850±35 BP). This potential pattern of managed 
-woodland exploitation has been replicated at another burnt mound site at Roughan, Co. 
-Tyrone. This zig-zag pattern seen in the arboreal and shrub pollen is absent within some 
-levels from the burnt mound in LPAZ S1II2, and after the burnt mound material has been 
-deposited (upper LPAZ S1II3 and LPAZ S1II4); this is likely to be an effect of poor 
+and following the end of activity at burnt mound 9031 . It is suggested this zig-zag pattern 
+reflects some form of woodland management ( e . g . coppicing cycles ) of the local woodland in 
+association with the sampled burnt mound and one 40m to the south west ( 9034 )  , dated to 
+2460-2200 cal BC ( SUERC-20634 ; 3850±35 BP )  . This potential pattern of managed 
+woodland exploitation has been replicated at another burnt mound site at Roughan , Co . 
+Tyrone . This zig-zag pattern seen in the arboreal and shrub pollen is absent within some 
+levels from the burnt mound in LPAZ S1II2 , and after the burnt mound material has been 
+deposited ( upper LPAZ S1II3 and LPAZ S1II4 )  ; this is likely to be an effect of poor 
 preservation through the burnt mound material and counting at increased intervals in the 
-upper levels. Poor pollen preservation might also explain the decrease in total arboreal pollen 
-from 103 cm to 95 cm although a phase of woodland clearance cannot be discounted. Any 
+upper levels . Poor pollen preservation might also explain the decrease in total arboreal pollen 
+from 103 cm to 95 cm although a phase of woodland clearance cannot be discounted . Any 
 impact on woodland cover is short-lived as arboreal pollen percentages recover to close to 
-their pre-burnt mound values during the early stages of LPAZ S1ii3. Peaks in microscopic 
-charcoal of all sizes (<21 to >50 um) are seen during the levels of the burnt mound activity 
-reflecting the local burning taking place. Non-pollen palynomorph and spore data from levels 
+their pre-burnt mound values during the early stages of LPAZ S1ii3 . Peaks in microscopic 
+charcoal of all sizes (  < 21 to > 50 um ) are seen during the levels of the burnt mound activity 
+reflecting the local burning taking place . Non-pollen palynomorph and spore data from levels 
 in the lower and upper parts of burnt mound material show peaks in the presence of 
-Gloeotrichia (HdV-146) implying increased levels of eutrophism at the site, which could be 
-the result of water used in the troughs for cooking or other purposes, or from stagnant water 
-lying close by. Sphagnum was probably used to line the troughs and its spores peak in the 
-burnt mound material. Peaks in coprophilous fungi Cerocophora-type (HdV-112) and 
-Sordaria-type (HdV-55A) are also recorded during and following the burnt mound activity 
-suggesting the presence of animals around the site.
-Beetles (Coleoptera)
+Gloeotrichia ( HdV-146 ) implying increased levels of eutrophism at the site , which could be 
+the result of water used in the troughs for cooking or other purposes , or from stagnant water 
+lying close by . Sphagnum was probably used to line the troughs and its spores peak in the 
+burnt mound material . Peaks in coprophilous fungi Cerocophora-type ( HdV-112 ) and 
+Sordaria-type ( HdV-55A ) are also recorded during and following the burnt mound activity 
+suggesting the presence of animals around the site . 
+Beetles ( Coleoptera ) 
 Coleoptera fragments were high enough for meaningful analysis throughout the Cahiracon 
-monolith M7 (Supplementary Data Table S3). The basal sample (0.3m-0.5m) was the most 
-diverse of the three samples with the assemblage comprising 102 individuals from 45 taxa. A 
-number of taxa characteristic of swampy or waterside environments are present (15%). These 
-include the scirtid Cyphon sp., the pselaphid Reichenbachia juncorum and the cryptophagid 
-Paramecosoma melanocephalum. The water beetles present (Hydraena riparia, Anacaena 
-globulus) strongly suggest a slow-flowing water body and the most abundant ecological grouping 
-in this sample are indicative of accumulations of foul, rotting organic matter (c. 20% of all 
-individuals present). These include a wide variety of staphylinids such as Micropeplus fulvus, 
-Tachinus laticollis, Philonthus varians and Rugilus rufipes. In addition four dung-specific taxa 
+monolith M7 ( Supplementary Data Table S3 )  . The basal sample ( 0 . 3m-0 . 5m ) was the most 
+diverse of the three samples with the assemblage comprising 102 individuals from 45 taxa . A 
+number of taxa characteristic of swampy or waterside environments are present ( 15% )  . These 
+include the scirtid Cyphon sp .  , the pselaphid Reichenbachia juncorum and the cryptophagid 
+Paramecosoma melanocephalum . The water beetles present ( Hydraena riparia , Anacaena 
+globulus ) strongly suggest a slow-flowing water body and the most abundant ecological grouping 
+in this sample are indicative of accumulations of foul , rotting organic matter ( c . 20% of all 
+individuals present )  . These include a wide variety of staphylinids such as Micropeplus fulvus , 
+Tachinus laticollis , Philonthus varians and Rugilus rufipes . In addition four dung-specific taxa 
 18
-are present, including two species of Aphodius (A. contaminatus and A. sphacelatus) with a 
-preference for the dung of cattle or horse (Koch 1989), numerous fragments of Geotrupes (at 
-least one individual) and the staphylinid (Anotylus sculpturatus) which may also inhabit carrion. 
-Two woodland edge taxa seen in the other samples are again present; Stenichnus collaris and 
-Othius punctulatus. In addition three genuine woodland taxa are recorded; the relatively nonspecific weevil Strophosoma melanogrammum, the weevil Curculio pyrrhoceras, which is 
-oligophagus on oak, its larvae living in the galls of the oak gall wasp Cynips quercusfolii (Koch 
-1992) and the cossonine weevil Mesites tardii. This is the largest species of cossonine weevil in 
-the British Isles and has a preference for firm dead wood in coastal locations (Warren and Key 
-1991), so it may result naturally from the proximity of the site to the Shannon Estuary or from 
-the import of driftwood for fuel. M. tardyi seems surprisingly common in Irish prehistoric 
-samples compared with the UK where it is almost entirely driftwood related. Why this might be 
-is not clear. In addition the presence of the weevil Anthonomus rubi is characteristic of woody 
-members of the Rosaceae, probably Rubus fruticosus agg. of which a number of seeds were 
-evident in sorting. 
-The sample stratigraphically above (0.2m -0.3m) contained a moderately diverse fauna 
-(62 individuals from 37 taxa) relative to sample size. Again, the principal component of the 
+are present , including two species of Aphodius ( A . contaminatus and A . sphacelatus ) with a 
+preference for the dung of cattle or horse ( Koch 1989 )  , numerous fragments of Geotrupes ( at 
+least one individual ) and the staphylinid ( Anotylus sculpturatus ) which may also inhabit carrion . 
+Two woodland edge taxa seen in the other samples are again present ; Stenichnus collaris and 
+Othius punctulatus . In addition three genuine woodland taxa are recorded ; the relatively nonspecific weevil Strophosoma melanogrammum , the weevil Curculio pyrrhoceras , which is 
+oligophagus on oak , its larvae living in the galls of the oak gall wasp Cynips quercusfolii ( Koch 
+1992 ) and the cossonine weevil Mesites tardii . This is the largest species of cossonine weevil in 
+the British Isles and has a preference for firm dead wood in coastal locations ( Warren and Key 
+1991 )  , so it may result naturally from the proximity of the site to the Shannon Estuary or from 
+the import of driftwood for fuel . M . tardyi seems surprisingly common in Irish prehistoric 
+samples compared with the UK where it is almost entirely driftwood related . Why this might be 
+is not clear . In addition the presence of the weevil Anthonomus rubi is characteristic of woody 
+members of the Rosaceae , probably Rubus fruticosus agg . of which a number of seeds were 
+evident in sorting . 
+The sample stratigraphically above ( 0 . 2m -0 . 3m ) contained a moderately diverse fauna 
+( 62 individuals from 37 taxa ) relative to sample size . Again , the principal component of the 
 assemblage indicates a swampy or stream-side locality as is once again indicated by the inclusion 
-of members of the Pselaphidae and Carabidae of the genus Pterostichus. The water beetle fauna 
-present is characteristic of slow-moving water bodies (Anacaena globulus, Helophorus 
-brevipalpis, Hydraena riparia). The staphylinid Olophrum consimile is of particular interest in 
-that it has traditionally been considered an upland species in the British Isles (e.g. Joy 1932; 
-Tottenham 1954). However, a number of continental European studies suggest it is often also 
-present at the edges of lakes, ponds, bogs, and streams with luxuriant vegetation (e.g. Böcher 
-1995; Koch 1989). Several taxa present are characteristic of woodland or woodland edge 
-environments including the staphylinid Othius punctulatus, the carabid Bembidion harpaloides
-(which mainly lives under bark of logs and dead trees – Luff 1998) and the cantharid 
-Rhagonycha femoralis. The only obligate woodland species present is once again the nonspecific, deciduous tree dwelling Strophosoma melanogrammum. Four taxa characteristic of 
-rotting vegetable matter are present; the hydrophilids Megasternum boletophagum and Cercyon
-sp. and the staphylinids Philonthus sp. and Tachyporus hypnorum. Dung beetles of the genera 
-Geotrupes and Aphodius are present, the latter represented by A. fimetarius which may be found 
-in dung and more rarely in compost and stable manure heaps and rotting vegetation, especially 
-Brassicaceae (Koch 1989). A single phytophagous species is present; a weevil of the genus 
+of members of the Pselaphidae and Carabidae of the genus Pterostichus . The water beetle fauna 
+present is characteristic of slow-moving water bodies ( Anacaena globulus , Helophorus 
+brevipalpis , Hydraena riparia )  . The staphylinid Olophrum consimile is of particular interest in 
+that it has traditionally been considered an upland species in the British Isles ( e . g . Joy 1932 ; 
+Tottenham 1954 )  . However , a number of continental European studies suggest it is often also 
+present at the edges of lakes , ponds , bogs , and streams with luxuriant vegetation ( e . g . Böcher 
+1995 ; Koch 1989 )  . Several taxa present are characteristic of woodland or woodland edge 
+environments including the staphylinid Othius punctulatus , the carabid Bembidion harpaloides 
+( which mainly lives under bark of logs and dead trees – Luff 1998 ) and the cantharid 
+Rhagonycha femoralis . The only obligate woodland species present is once again the nonspecific , deciduous tree dwelling Strophosoma melanogrammum . Four taxa characteristic of 
+rotting vegetable matter are present ; the hydrophilids Megasternum boletophagum and Cercyon
+sp . and the staphylinids Philonthus sp . and Tachyporus hypnorum . Dung beetles of the genera 
+Geotrupes and Aphodius are present , the latter represented by A . fimetarius which may be found 
+in dung and more rarely in compost and stable manure heaps and rotting vegetation , especially 
+Brassicaceae ( Koch 1989 )  . A single phytophagous species is present ; a weevil of the genus 
 19
-Gymnetron, the majority of which favour Plantago spp. as a host plant. The uppermost sample 
-(0m-0.1m) also contained a moderate to highly diverse fauna (97 individuals from 42 taxa). The 
-assemblage is strongly dominated by taxa of swampy or stream-side localities (e.g. the 
-pselaphids Bryaxis bulbifer, Brachygluta haematica, Reichenbachia juncorum and the carabids 
-Pterostichus anthracinus, P. gracilis and P. vernalis), which comprise approximately 30% of all 
-taxa present. The limited water beetle community indicates a slow flowing water body 
-(Hydraena riparia and Anacaena globulus both prefer such environments) with vegetation 
-probably including Scirpus lacustris, upon which the larvae of Limnobaris t-album feed 
-(Hoffman 1954). Some of the taxa present suggest local woodland or the presence of woodland 
-litter, such as the scydmaenid Stenichnus collaris, which is usually found in damp woodland or 
-woodland margins (Koch 1989) and the staphylinid Lordithon exoletus which lives on agaric 
-fungi in similar environments (Koch 1989). Two taxa are strongly associated with woodland; the 
-elaterid Prosternum tesselatum which has a strong preference for oak and pine (Laibner 2000), 
-both of which are common within the pollen diagram at this time, and the weevil Strophosoma 
-melanogrammum which lives upon a wide range of deciduous tree taxa. Several taxa indicate the 
-presence of foul, rotting organic matter (e.g. the staphylinids Gyrohypnus punctulatus, Proteinus 
-ovalis and Tachinus laticollis, in addition to members of the Hydrophilidae). This may have been 
-in the form of dung, as fragments of two Aphodius dung beetles were present (too degraded to 
-identify to species). Also present are two carabids characteristic of open localities which exhibit a 
-preference for cultivated ground; Bembidion obtusum and Trechus quadristriatus. This is in 
-concurrence with the pollen diagram which records both Hordeum type and Avena/Triticum type 
-within this zone (CC7P5).
+Gymnetron , the majority of which favour Plantago spp . as a host plant . The uppermost sample 
+( 0m-0 . 1m ) also contained a moderate to highly diverse fauna ( 97 individuals from 42 taxa )  . The 
+assemblage is strongly dominated by taxa of swampy or stream-side localities ( e . g . the 
+pselaphids Bryaxis bulbifer , Brachygluta haematica , Reichenbachia juncorum and the carabids 
+Pterostichus anthracinus , P . gracilis and P . vernalis )  , which comprise approximately 30% of all 
+taxa present . The limited water beetle community indicates a slow flowing water body 
+( Hydraena riparia and Anacaena globulus both prefer such environments ) with vegetation 
+probably including Scirpus lacustris , upon which the larvae of Limnobaris t-album feed 
+( Hoffman 1954 )  . Some of the taxa present suggest local woodland or the presence of woodland 
+litter , such as the scydmaenid Stenichnus collaris , which is usually found in damp woodland or 
+woodland margins ( Koch 1989 ) and the staphylinid Lordithon exoletus which lives on agaric 
+fungi in similar environments ( Koch 1989 )  . Two taxa are strongly associated with woodland ; the 
+elaterid Prosternum tesselatum which has a strong preference for oak and pine ( Laibner 2000 )  , 
+both of which are common within the pollen diagram at this time , and the weevil Strophosoma 
+melanogrammum which lives upon a wide range of deciduous tree taxa . Several taxa indicate the 
+presence of foul , rotting organic matter ( e . g . the staphylinids Gyrohypnus punctulatus , Proteinus 
+ovalis and Tachinus laticollis , in addition to members of the Hydrophilidae )  . This may have been 
+in the form of dung , as fragments of two Aphodius dung beetles were present ( too degraded to 
+identify to species )  . Also present are two carabids characteristic of open localities which exhibit a 
+preference for cultivated ground ; Bembidion obtusum and Trechus quadristriatus . This is in 
+concurrence with the pollen diagram which records both Hordeum type and Avena / Triticum type 
+within this zone ( CC7P5 )  . 
 All three samples have a broadly similar character in that they imply a swampy area in 
-proximity to both a slow moving water body and an area of woodland (Fig. 9). More specifically 
+proximity to both a slow moving water body and an area of woodland ( Fig . 9 )  . More specifically 
 the upper two samples both include some taxa of open cultivated ground which in conjunction 
-with the pollen evidence strongly suggest arable cultivation. This element is absent from the 
-lower sample, which has a more extensive dung and refuse fauna, possibly suggesting a switch 
-from a pastoral system with the presence of cattle or horses in the vicinity to a mixed system. 
-Also, marginally more woodland taxa are present towards the base of the column, which is in 
-keeping with the pollen evidence of local woodland. Also in agreement is that this woodland 
-included oak as is indicated by Curculio pyrrhoceras. This beetle is associated with oak galls 
-which have a long use of history in the cloth dyeing industry. It is possible that the cossonine 
-weevil Mesites tardii would have arrived on the site as a result of human activity, as its preferred 
+with the pollen evidence strongly suggest arable cultivation . This element is absent from the 
+lower sample , which has a more extensive dung and refuse fauna , possibly suggesting a switch 
+from a pastoral system with the presence of cattle or horses in the vicinity to a mixed system . 
+Also , marginally more woodland taxa are present towards the base of the column , which is in 
+keeping with the pollen evidence of local woodland . Also in agreement is that this woodland 
+included oak as is indicated by Curculio pyrrhoceras . This beetle is associated with oak galls 
+which have a long use of history in the cloth dyeing industry . It is possible that the cossonine 
+weevil Mesites tardii would have arrived on the site as a result of human activity , as its preferred 
 20
 habitat is driftwood which given the apparently regular burning of such sites may well have been 
-an exploitable resource.
-The Coleoptera from the Inchagreenoge monolith was sparse but the sample from 0.57-
-0.42 m included taxa of slow waters (Agabus bipustulatus and Helophorus brevipalpis), 
-emergent vegetation (Donacia sp.) and shaded locales (Olophrum sp.). The leg of an Aphodius
-dung beetle is present. In the sample from 0-0.2 m depth one Dytiscid head (Agabus sp.) 
-suggested slow water and there were carabids of open ground (Pterostichus sp.) and 
-hygrophilous staphylinids (Stenus sp.). This is in agreement with the pollen and spore diagram 
-but due to the low concentration and poor state of preservation prohibited further inference.
-The coleoptera from the earliest peats from Killescragh and Caraun More (A024/22) are 
-suggestive of a predominantly wet, but open environment with occasional trees (Fig. 9). One 
-sample in particular demonstrates the presence of woody Rosaceae and possibly elm. The 
-predominant vegetation type appears to have been aquatic grasses, with the Field Chafer, 
-Phyllopertha horticola present in each of the three samples analysed from this phase. The 
-presence of large herbivores is indicated in some samples, but the evidence does not suggest 
-these were abundant or that pastoral agriculture represented a factor in the landscape at this time. 
-Of the three samples analysed contemporary with the burnt mound, two indicate a more or less 
-open floodplain landscape, the phytophages indicating plant taxa capable of rapid regeneration 
-(e.g. rosebay willowherb) and disturbed conditions (e.g. Plantago lanceolata). Grazing indicators 
+an exploitable resource . 
+The Coleoptera from the Inchagreenoge monolith was sparse but the sample from 0 . 57-
+0 . 42 m included taxa of slow waters ( Agabus bipustulatus and Helophorus brevipalpis )  , 
+emergent vegetation ( Donacia sp .  ) and shaded locales ( Olophrum sp .  )  . The leg of an Aphodius
+dung beetle is present . In the sample from 0-0 . 2 m depth one Dytiscid head ( Agabus sp .  ) 
+suggested slow water and there were carabids of open ground ( Pterostichus sp .  ) and 
+hygrophilous staphylinids ( Stenus sp .  )  . This is in agreement with the pollen and spore diagram 
+but due to the low concentration and poor state of preservation prohibited further inference . 
+The coleoptera from the earliest peats from Killescragh and Caraun More ( A024 / 22 ) are 
+suggestive of a predominantly wet , but open environment with occasional trees ( Fig . 9 )  . One 
+sample in particular demonstrates the presence of woody Rosaceae and possibly elm . The 
+predominant vegetation type appears to have been aquatic grasses , with the Field Chafer , 
+Phyllopertha horticola present in each of the three samples analysed from this phase . The 
+presence of large herbivores is indicated in some samples , but the evidence does not suggest 
+these were abundant or that pastoral agriculture represented a factor in the landscape at this time . 
+Of the three samples analysed contemporary with the burnt mound , two indicate a more or less 
+open floodplain landscape , the phytophages indicating plant taxa capable of rapid regeneration 
+( e . g . rosebay willowherb ) and disturbed conditions ( e . g . Plantago lanceolata )  . Grazing indicators 
 are sparse and the overall impression is of a landscape not dissimilar to that indicated in samples 
-prior to mound construction, perhaps wetter with the elaterid Prosternon tesselatum living at 
-distance on higher ground. However, the third sample analysed from this phase, which underlay a 
+prior to mound construction , perhaps wetter with the elaterid Prosternon tesselatum living at 
+distance on higher ground . However , the third sample analysed from this phase , which underlay a 
 trackway remnant provided a wealth of information regarding local and extra-local woodland at 
-the site. In addition to the suite of aquatic and marshy taxa present in the majority of the other 
-samples, this single sample included five woodland taxa no longer found in Ireland, including the 
-first record in Ireland of Elm Bark Beetle, Scolytus scolytus, two species of Cerylon and the 
-chrysomelid Oomorphus concolor, indicative of ivy. It is probable that many of these woodland 
-indicators arrived with the construction materials for the trackway itself, but they provide a 
-picture of a diverse primary local woodland with oak, ash, willow, elm and Prunus/Crataegus. 
+the site . In addition to the suite of aquatic and marshy taxa present in the majority of the other 
+samples , this single sample included five woodland taxa no longer found in Ireland , including the 
+first record in Ireland of Elm Bark Beetle , Scolytus scolytus , two species of Cerylon and the 
+chrysomelid Oomorphus concolor , indicative of ivy . It is probable that many of these woodland 
+indicators arrived with the construction materials for the trackway itself , but they provide a 
+picture of a diverse primary local woodland with oak , ash , willow , elm and Prunus / Crataegus . 
 The presence of this diverse woodland assemblage has obvious implications for the availability 
-of fuel for the mound itself; despite being situated in a largely cleared local landscape, diverse 
+of fuel for the mound itself ; despite being situated in a largely cleared local landscape , diverse 
 secondary woodland was still present in close enough proximity to allow its harvest for trackway 
-building. The post-mound assemblages comprise what appears to be a more or less cleared 
-floodplain environment, not unlike that observed in the pre-mound state but with some indication 
+building . The post-mound assemblages comprise what appears to be a more or less cleared 
+floodplain environment , not unlike that observed in the pre-mound state but with some indication 
 21
-of local woodland or occasional tree presence. The moderate diversity of dung taxa and the 
-presence of indications of P. lanceolata suggest a disturbed and grazed environment, typical of 
-many later period lowland floodplains. Two assemblages recovered from this phase include a 
-high proportion of fast water taxa and possible allochthonous taxa (i.e. dryland species within a 
-predominantly wetland assemblage) and may represent increased severity of floods.
-Only one sample (Feature 27; Sample 43) from Caraun More produced insect remains. 
-The sample yielded a sparse assemblage of 24 poorly preserved individuals from 14 taxa. This 
-was dominated by the throscid Trixagus dermestoides, present as a total of eight individuals. T. 
-dermestoides is primarily a woodland taxa, often found in woodland clearings and leafy debris. 
-The material processed, while devoid of leafy remains clearly incorporated a large proportion of 
-fine woody debris, reminiscent of wood shavings. The assemblage also included a few aquatic 
-taxa of slow or stagnant waters, two dung beetles (one Aphodius sp. and one Geotrupes sp.), and 
-a chrysomelid of the genus Longitarsus. Interestingly the assemblage also included a small 
-potentially synanthropic element. A single Ptinus sp. was recovered, many species of which are 
-strongly synanthropic, alongside two individuals of the Lathridius minutus group. L. minutus, 
-while typically synanthropic, is not an obligate synanthrope and may be recovered from 
-woodland debris where it lives upon fungal hyphae. As such, its presence in this assemblage 
-appears to relate to the decomposing wood ‘shavings’ which were home to T. dermestoides. It is 
-conceivable that this debris was created during working of wood for trough construction.
+of local woodland or occasional tree presence . The moderate diversity of dung taxa and the 
+presence of indications of P . lanceolata suggest a disturbed and grazed environment , typical of 
+many later period lowland floodplains . Two assemblages recovered from this phase include a 
+high proportion of fast water taxa and possible allochthonous taxa ( i . e . dryland species within a 
+predominantly wetland assemblage ) and may represent increased severity of floods . 
+Only one sample ( Feature 27 ; Sample 43 ) from Caraun More produced insect remains . 
+The sample yielded a sparse assemblage of 24 poorly preserved individuals from 14 taxa . This 
+was dominated by the throscid Trixagus dermestoides , present as a total of eight individuals . T . 
+dermestoides is primarily a woodland taxa , often found in woodland clearings and leafy debris . 
+The material processed , while devoid of leafy remains clearly incorporated a large proportion of 
+fine woody debris , reminiscent of wood shavings . The assemblage also included a few aquatic 
+taxa of slow or stagnant waters , two dung beetles ( one Aphodius sp . and one Geotrupes sp .  )  , and 
+a chrysomelid of the genus Longitarsus . Interestingly the assemblage also included a small 
+potentially synanthropic element . A single Ptinus sp . was recovered , many species of which are 
+strongly synanthropic , alongside two individuals of the Lathridius minutus group . L . minutus , 
+while typically synanthropic , is not an obligate synanthrope and may be recovered from 
+woodland debris where it lives upon fungal hyphae . As such , its presence in this assemblage 
+appears to relate to the decomposing wood ‘ shavings ’ which were home to T . dermestoides . It is 
+conceivable that this debris was created during working of wood for trough construction . 
 Two pre-mound samples from the palaeochannel fill stratigraphically below a trough at 
-Coonagh West were analysed and found to be extremely rich beetle assemblages. Numerically 
-these were dominated by taxa of slow or running waters, with taxa of fast-flowing waters 
-conspicuously absent (Fig. 9). Refuse taxa were well represented, with Anotylus rugosus the most 
-common species of this ecotype. A range of the taxa represented are typical of a waterside 
+Coonagh West were analysed and found to be extremely rich beetle assemblages . Numerically 
+these were dominated by taxa of slow or running waters , with taxa of fast-flowing waters 
+conspicuously absent ( Fig . 9 )  . Refuse taxa were well represented , with Anotylus rugosus the most 
+common species of this ecotype . A range of the taxa represented are typical of a waterside 
 location and dung taxa are present in frequencies suggesting moderate presence of large 
-herbivores. Numerically these are dominated by Aphodius sphacelatus/prodromus type, but the 
-presence of A. depressus is suggestive of a shaded, possibly woodland environment. In contrast, 
-A. merdarius is predominantly a taxon of open environments with a preference for dung of cattle, 
-though infrequently found in woodland margins; this suggests the local presence of woodland, 
-possibly providing considerable shade in places. Of particular interest is the diverse woodland 
-assemblage preserved within these samples. These include a range of silvicolous taxa exemplified 
-by the carabids Nebria brevicollis and Agonum assimile. This latter is a nocturnal woodland floor 
-predator, resting during the day under loose bark (Stork et al. 2001). The most common 
-woodland taxon present is the large cossonine weevil Mesites tardyi. Other woodland taxa present 
+herbivores . Numerically these are dominated by Aphodius sphacelatus / prodromus type , but the 
+presence of A . depressus is suggestive of a shaded , possibly woodland environment . In contrast , 
+A . merdarius is predominantly a taxon of open environments with a preference for dung of cattle , 
+though infrequently found in woodland margins ; this suggests the local presence of woodland , 
+possibly providing considerable shade in places . Of particular interest is the diverse woodland 
+assemblage preserved within these samples . These include a range of silvicolous taxa exemplified 
+by the carabids Nebria brevicollis and Agonum assimile . This latter is a nocturnal woodland floor 
+predator , resting during the day under loose bark ( Stork et al . 2001 )  . The most common 
+woodland taxon present is the large cossonine weevil Mesites tardyi . Other woodland taxa present 
 22
-included two species of bark beetles (Scolytidae), Scolytus mali and S. rugulosus, neither of which 
-are currently recorded in Ireland, although S. mali has been recorded from early Medieval Dublin 
-(cf. Whitehouse 2006); both of these taxa are typical of woody plants of the Rosaceae, earning S. 
-mali the English name of the Orchard Bark Beetle. Other woodland components indicated include 
-oak (the weevil Curculio pyrrhocerras lives upon oak galls) and ash (of which the Scolytid 
-Leperisinus varius is typical). Several taxa suggest an abundance of local dead wood, including 
-the Eucnemid Melasis buprestoides and the Cucujid Pediacus dermestoides, which is 
-characteristic of freshly cut or broken tree stumps but rare in Ireland (Alexander 1994). Several 
-taxa present suggest the local presence of grassland or pasture. These include the Elaterid 
-Adrastus pallens, usually found on stream and river meadows, in pastures and at woodland 
-margins, in addition to many individuals of the Carabid Trechus quadristriatus, typical of open, 
-rather dry country with short vegetation, including agricultural land. Non-woodland phytophagous 
-taxa are relatively sparse, but include the Nitulid Brachypterus glaber, characteristic of stinging 
-nettle (Urtica sp.) and hence increased nitrogen input, the Chrysomelid Hydrothassa marginella, 
-found on a range of plants by fresh water (including Caltha palustris and Ranunculus spp.) and 
-the weevil Thryogenes festucae, found in sedges in waterside locations. In summary, the 
-assemblages while diverse (particularly as regards the woodland element), are not unlike many 
-modern floodplain assemblages, indicating an area of mixed oak woodland, possibly secondary in 
-nature (suggested by the presence of ash), adjacent to a largely cleared floodplain environment. 
-This may have been agricultural pasture (implied by the presence of Urtica and some dung taxa), 
-possibly with the presence of some cattle.
-Two samples were investigated from a trough fill at Coonagh West (C395 and C366), 
-were dominated by taxa of slow-moving waters or waterside locations. A few woodland taxa are 
-present, including a single woodworm (Anobium punctatum) and the weevils M. tardyi and 
-Strophosoma melanogrammum. The latter of these is a common taxon, which feeds on the leaves 
-of a wide range of tree species (Harde 1984). Phytophages are restricted to a single individual of 
-H. marginella and the weevil Apion hydrolapathi, the latter of which is oligophagous on Rumex
-spp. (docks). This small assemblage possessed a fairly generic waterside character, though the 
-presence of some dead wood and possible local woodland is implied. The reduced woodland 
-component of the fauna is in keeping with it being of potentially later origin. While elements of 
-this assemblage may originate from the trough itself (i.e. the dead wood component), the fauna 
-probably derives in part from post-use infilling resulting from overbank sedimentation.
+included two species of bark beetles ( Scolytidae )  , Scolytus mali and S . rugulosus , neither of which 
+are currently recorded in Ireland , although S . mali has been recorded from early Medieval Dublin 
+( cf . Whitehouse 2006 )  ; both of these taxa are typical of woody plants of the Rosaceae , earning S . 
+mali the English name of the Orchard Bark Beetle . Other woodland components indicated include 
+oak ( the weevil Curculio pyrrhocerras lives upon oak galls ) and ash ( of which the Scolytid 
+Leperisinus varius is typical )  . Several taxa suggest an abundance of local dead wood , including 
+the Eucnemid Melasis buprestoides and the Cucujid Pediacus dermestoides , which is 
+characteristic of freshly cut or broken tree stumps but rare in Ireland ( Alexander 1994 )  . Several 
+taxa present suggest the local presence of grassland or pasture . These include the Elaterid 
+Adrastus pallens , usually found on stream and river meadows , in pastures and at woodland 
+margins , in addition to many individuals of the Carabid Trechus quadristriatus , typical of open , 
+rather dry country with short vegetation , including agricultural land . Non-woodland phytophagous 
+taxa are relatively sparse , but include the Nitulid Brachypterus glaber , characteristic of stinging 
+nettle ( Urtica sp .  ) and hence increased nitrogen input , the Chrysomelid Hydrothassa marginella , 
+found on a range of plants by fresh water ( including Caltha palustris and Ranunculus spp .  ) and 
+the weevil Thryogenes festucae , found in sedges in waterside locations . In summary , the 
+assemblages while diverse ( particularly as regards the woodland element )  , are not unlike many 
+modern floodplain assemblages , indicating an area of mixed oak woodland , possibly secondary in 
+nature ( suggested by the presence of ash )  , adjacent to a largely cleared floodplain environment . 
+This may have been agricultural pasture ( implied by the presence of Urtica and some dung taxa )  , 
+possibly with the presence of some cattle . 
+Two samples were investigated from a trough fill at Coonagh West ( C395 and C366 )  , 
+were dominated by taxa of slow-moving waters or waterside locations . A few woodland taxa are 
+present , including a single woodworm ( Anobium punctatum ) and the weevils M . tardyi and 
+Strophosoma melanogrammum . The latter of these is a common taxon , which feeds on the leaves 
+of a wide range of tree species ( Harde 1984 )  . Phytophages are restricted to a single individual of 
+H . marginella and the weevil Apion hydrolapathi , the latter of which is oligophagous on Rumex
+spp .  ( docks )  . This small assemblage possessed a fairly generic waterside character , though the 
+presence of some dead wood and possible local woodland is implied . The reduced woodland 
+component of the fauna is in keeping with it being of potentially later origin . While elements of 
+this assemblage may originate from the trough itself ( i . e . the dead wood component )  , the fauna 
+probably derives in part from post-use infilling resulting from overbank sedimentation . 
 Two assemblages from the post-mound phase of the Coonagh West site yielded 
-worthwhile assemblages. In contrast to previous samples discussed, the aquatic fauna represents 
+worthwhile assemblages . In contrast to previous samples discussed , the aquatic fauna represents 
 23
-a relatively small fraction of this, which coupled with indifferent preservation suggests a 
-potentially dryer depositional environment. However, several waterside taxa are present. A 
-number of woodland taxa are also still present within the assemblage, once again including M 
-tardyi and Leperisunus varius. These are accompanied by Cerylon histeroides and Scolytus 
-rugulosus, primarily a taxon of woody Rosaceae. Several taxa also suggest the presence of local 
-open ground, including the Field Chafer, Phyllopertha horticola and the dung beetle Aphodius 
-prodromus/sphacelatus. Despite comprising an appreciably smaller assemblage, the overall 
-impression is of an environment not unlike that of the pre-mound conditions; a wooded area 
-(including ash and woody Rosaceae) adjacent to a partially cleared floodplain environment. This 
+a relatively small fraction of this , which coupled with indifferent preservation suggests a 
+potentially dryer depositional environment . However , several waterside taxa are present . A 
+number of woodland taxa are also still present within the assemblage , once again including M 
+tardyi and Leperisunus varius . These are accompanied by Cerylon histeroides and Scolytus 
+rugulosus , primarily a taxon of woody Rosaceae . Several taxa also suggest the presence of local 
+open ground , including the Field Chafer , Phyllopertha horticola and the dung beetle Aphodius 
+prodromus / sphacelatus . Despite comprising an appreciably smaller assemblage , the overall 
+impression is of an environment not unlike that of the pre-mound conditions ; a wooded area 
+( including ash and woody Rosaceae ) adjacent to a partially cleared floodplain environment . This 
 suggests that following mound use either some woodland remained or that this deposit represents 
-a significantly later accumulation following growth of secondary woodland. The construction 
-and use of the trough/mounds appears to be marked by a change in the beetle fauna that is 
+a significantly later accumulation following growth of secondary woodland . The construction 
+and use of the trough / mounds appears to be marked by a change in the beetle fauna that is 
 indicative of high woodland component being replaced by more grassland and refuse species 
-(Fig. 10). This is a more pronounced picture of the changes to the forest than is given by the 
-pollen and plant macrofossils. This is probably due to the bias towards very local changes that is 
-typical of beetle assemblages, whereas the extra-local and regional component of the pollen 
-remains a major part of the pollen spectra. No carrion beetles were noted and dung beetles were 
-not high enough to support any concentration higher than some grazing, such as the corralling of 
-stock at the site. It is clear from these case studies that synanthropic taxa are conspicuous by their 
+( Fig . 10 )  . This is a more pronounced picture of the changes to the forest than is given by the 
+pollen and plant macrofossils . This is probably due to the bias towards very local changes that is 
+typical of beetle assemblages , whereas the extra-local and regional component of the pollen 
+remains a major part of the pollen spectra . No carrion beetles were noted and dung beetles were 
+not high enough to support any concentration higher than some grazing , such as the corralling of 
+stock at the site . It is clear from these case studies that synanthropic taxa are conspicuous by their 
 absence and statistical analyses reveals that the burnt mound samples cluster well together but 
-show little overlap with a variety of modern and ancient samples (Fig. 10). Woodland taxa are at 
-times extremely common and diverse, reflecting the likely presence of remnants of primary 
-woodland at the time of monument construction, becoming more fragmentary over the course of 
-mound use. However, canopy taxa are sparse, suggesting that many of these woodland taxa may 
-be arriving with fuel rather than directly from overhanging trees. Dung beetles are, in comparison 
-to late-Holocene floodplain assemblages, poorly represented and indicate low stocking levels (or 
-indeed the complete absence of pastoral agriculture) in the regions in which these sites were 
-constructed and used.
-Thirty-seven samples from Ballygawley were analysed for insect remains, again taken 
-from archaeological features such as wicker trough lining and palaeochannel deposits. The 
+show little overlap with a variety of modern and ancient samples ( Fig . 10 )  . Woodland taxa are at 
+times extremely common and diverse , reflecting the likely presence of remnants of primary 
+woodland at the time of monument construction , becoming more fragmentary over the course of 
+mound use . However , canopy taxa are sparse , suggesting that many of these woodland taxa may 
+be arriving with fuel rather than directly from overhanging trees . Dung beetles are , in comparison 
+to late-Holocene floodplain assemblages , poorly represented and indicate low stocking levels ( or 
+indeed the complete absence of pastoral agriculture ) in the regions in which these sites were 
+constructed and used . 
+Thirty-seven samples from Ballygawley were analysed for insect remains , again taken 
+from archaeological features such as wicker trough lining and palaeochannel deposits . The 
 overall assemblage from the insects is similar to that of the macroscopic plant remains 
-including many stream side indicators, such as Colymbetes fuscus and Hydroporus palustris 
-together with taxa indicative of the presence of damp/wet plants including Sitona hispidulus 
-and Leiosoma deflexum (Tetlow and Davis, 2009). The occurrence of insects, such as 
+including many stream side indicators , such as Colymbetes fuscus and Hydroporus palustris 
+together with taxa indicative of the presence of damp / wet plants including Sitona hispidulus 
+and Leiosoma deflexum ( Tetlow and Davis , 2009 )  . The occurrence of insects , such as 
 24
-Geotrupes sp., Aphodius sp. and Megasternum obscurum, associated with decaying matter 
-(probably decaying vegetation) and sometimes dung, in the assemblage is of interest and 
-suggests that animals were present around the site (Tetlow and Davis, 2009). The potential 
+Geotrupes sp .  , Aphodius sp . and Megasternum obscurum , associated with decaying matter 
+( probably decaying vegetation ) and sometimes dung , in the assemblage is of interest and 
+suggests that animals were present around the site ( Tetlow and Davis , 2009 )  . The potential 
 presence of domesticates is also shown in the faunal bone assemblage from the Bronze Age 
-with cattle, some pig and occasional sheep/goat recovered. The bones were largely recovered 
-from the palaeochannel fills, with over 200 faunal bones recovered and eight showing 
-evidence of butchery. Together with the bone fragments tools related to butchery were also 
-recovered from the palaeochannel fills including: two bone points for hanging skins, twelve 
-lithic scrapers and two stone knives.
+with cattle , some pig and occasional sheep / goat recovered . The bones were largely recovered 
+from the palaeochannel fills , with over 200 faunal bones recovered and eight showing 
+evidence of butchery . Together with the bone fragments tools related to butchery were also 
+recovered from the palaeochannel fills including : two bone points for hanging skins , twelve 
+lithic scrapers and two stone knives . 
 Multi-element Analyses
-The bulk sample of the Inchagreenoge trough (C28) was dissected and 6 samples of wood and 
-three of sediment were taken, washed if wood and then digested in nitric acid before dilution and 
-analysis by ICP-MS. This use of ICP-MS is based upon the comparison of the sediment as 
-control samples with wood from various parts of the inside of the trough (Fig. 11). The control 
-samples come from below, inside and outside the trough and should represent the geological 
-background of the site. The principle is, that wood values less than the control represent dilution, 
-as would be expected, whilst values above the control samples represent accumulation or 
-enhancement due to an external addition at some point in the past. As might be expected many 
-elements are higher in the control samples, especially the underlying sediment. These include; 
-strontium (Sr), molybdenum (Mo), cadmium (Cd), antimony (Sb), barium (Ba) and uranium (U). 
-These are mostly elements that are derived from the geology, probably from the Carboniferous 
-Limestone which underlies the site. However, there are a small number of elements with higher 
-concentrations in the wood than in the control samples. These include sodium (Na), titanium (Ti), 
-chromium (Cr) and arsenic (As). With the exception of sodium which could be of meteoric 
-and/or groundwater origin at this location these elements are associated with either tanning or the 
-dyeing of textiles.
+The bulk sample of the Inchagreenoge trough ( C28 ) was dissected and 6 samples of wood and 
+three of sediment were taken , washed if wood and then digested in nitric acid before dilution and 
+analysis by ICP-MS . This use of ICP-MS is based upon the comparison of the sediment as 
+control samples with wood from various parts of the inside of the trough ( Fig . 11 )  . The control 
+samples come from below , inside and outside the trough and should represent the geological 
+background of the site . The principle is , that wood values less than the control represent dilution , 
+as would be expected , whilst values above the control samples represent accumulation or 
+enhancement due to an external addition at some point in the past . As might be expected many 
+elements are higher in the control samples , especially the underlying sediment . These include ; 
+strontium ( Sr )  , molybdenum ( Mo )  , cadmium ( Cd )  , antimony ( Sb )  , barium ( Ba ) and uranium ( U )  . 
+These are mostly elements that are derived from the geology , probably from the Carboniferous 
+Limestone which underlies the site . However , there are a small number of elements with higher 
+concentrations in the wood than in the control samples . These include sodium ( Na )  , titanium ( Ti )  , 
+chromium ( Cr ) and arsenic ( As )  . With the exception of sodium which could be of meteoric 
+and / or groundwater origin at this location these elements are associated with either tanning or the 
+dyeing of textiles . 
 Multi-element analysis was undertaken on 21 samples from the trough at Coonagh West 
-using a 3D grid of samples (Supplementary Data Fig. S4). As can be seen from the values for 
-five of the more common metals lie in general within the normal range found in UK soils, 
-however, the higher values of Pb and Zn lie well above this range (Table 3). Started in 2000 the 
-Irish Soil Database (Fay et al. 2007) now provides comparative values of heavy metal 
-concentration from across Ireland. As can be seen from Table 3 the values for five of the more 
-common metals lie at the upper end, or above in general within the normal range found in UK 
+using a 3D grid of samples ( Supplementary Data Fig . S4 )  . As can be seen from the values for 
+five of the more common metals lie in general within the normal range found in UK soils , 
+however , the higher values of Pb and Zn lie well above this range ( Table 3 )  . Started in 2000 the 
+Irish Soil Database ( Fay et al . 2007 ) now provides comparative values of heavy metal 
+concentration from across Ireland . As can be seen from Table 3 the values for five of the more 
+common metals lie at the upper end , or above in general within the normal range found in UK 
 25
-soils exceeding the median values for Irish soils and for some (Cr, Cu, Pb) exceeding the highest 
-natural values found (i.e. not associated with anthropogenic enhancement). However, both at 
-Inchagreenoge and Coonagh West the higher values of Pb and Zn lie well above this range. They 
+soils exceeding the median values for Irish soils and for some ( Cr , Cu , Pb ) exceeding the highest 
+natural values found ( i . e . not associated with anthropogenic enhancement )  . However , both at 
+Inchagreenoge and Coonagh West the higher values of Pb and Zn lie well above this range . They 
 also lie well above the range of values from ancient agricultural field systems in Scotland 
-(Wilson et al. 2008) and Zn and Cu lie above the levels found in sewage effluent sludge within 
-the Shannon catchment (Reid et al. 2009). A full analysis of all the 44 elements analysed will 
+( Wilson et al . 2008 ) and Zn and Cu lie above the levels found in sewage effluent sludge within 
+the Shannon catchment ( Reid et al . 2009 )  . A full analysis of all the 44 elements analysed will 
 only be possible when more background soil and geological data becomes available for this 
-region of Ireland, but at Coonagh West and Inchagreenoge there are anomalously high values of 
-Pb and Zn, which is most easily explained by the importation of soil from an area or areas with 
-intrusive igneous rocks which have undergone mineralisation or some form of bio-accumulation.
+region of Ireland , but at Coonagh West and Inchagreenoge there are anomalously high values of 
+Pb and Zn , which is most easily explained by the importation of soil from an area or areas with 
+intrusive igneous rocks which have undergone mineralisation or some form of bio-accumulation . 
 An initial analysis of high outlier concentrations suggests that some samples are enriched 
-relative to others. The atypical samples appear to be CWA6, CW1C and CW2C which are low. 
+relative to others . The atypical samples appear to be CWA6 , CW1C and CW2C which are low . 
 What is noticeable about these is that they are all derived from the basal levels of the trough fill 
-(level C) and could be expected to be susceptible to groundwater leaching. These are all 
-significantly lower in Cr, than all the other samples. However, the samples above (H, G, D & B) 
-have higher concentrations of Co, Zn, Pb, Mo (Molybdenum) and in one case Cu. This suggests 
-that there is some depth-related structure to the data, particularly in Co, Zn and Mo. The mean 
-concentrations of Zn, Mo and Cu are respectively higher than the concentrations at level F 
-(below the timbers). The atypical sample here is CW6 A and given that this is a near-surface (top 
-of trough fill) sample it is probably that this reflects modern pollution and iron mobility. 
-Heavy metals occur naturally in zones of mineralization (Zn, Mo, Cu, Pb) and Ti, As and 
-Cr occur in titano-magnetites, arseno-pyrites and serpentinites. Serpentine bearing rocks are 
-relatively common in Ireland occurring in the Dalradian Southern Highlands Group in Tyrone, 
-north west Mayo and in north Connemara, and in the Appin Group in the Connemara green 
-marble (Daly 2001) as well as in association with Tertiary igneous activity in north west and 
-Northern Ireland (Preston 2001). Chromium particularly is known to be a particularly effective 
+( level C ) and could be expected to be susceptible to groundwater leaching . These are all 
+significantly lower in Cr , than all the other samples . However , the samples above ( H , G , D & B ) 
+have higher concentrations of Co , Zn , Pb , Mo ( Molybdenum ) and in one case Cu . This suggests 
+that there is some depth-related structure to the data , particularly in Co , Zn and Mo . The mean 
+concentrations of Zn , Mo and Cu are respectively higher than the concentrations at level F 
+( below the timbers )  . The atypical sample here is CW6 A and given that this is a near-surface ( top 
+of trough fill ) sample it is probably that this reflects modern pollution and iron mobility . 
+Heavy metals occur naturally in zones of mineralization ( Zn , Mo , Cu , Pb ) and Ti , As and 
+Cr occur in titano-magnetites , arseno-pyrites and serpentinites . Serpentine bearing rocks are 
+relatively common in Ireland occurring in the Dalradian Southern Highlands Group in Tyrone , 
+north west Mayo and in north Connemara , and in the Appin Group in the Connemara green 
+marble ( Daly 2001 ) as well as in association with Tertiary igneous activity in north west and 
+Northern Ireland ( Preston 2001 )  . Chromium particularly is known to be a particularly effective 
 mordant which has been used inadvertently as part of the use of soil as a mordant with natural 
-dyes. Heavy metals are particularly suitable for the dying of wool, after thorough washing as 
-possible, and with an acid dyes such as that derived from oak galls or leaves which contain tannic 
-acid (Liese 2004). The Shannon catchment is the largest catchment in Ireland draining over 
-12,000 km2
-and both Inchagreenoge and Coonagh West are located on the floodplain at its outlet. 
-The geology of the catchment is dominated by Carboniferous (Dinantian) limestone with small 
-areas of Ordovician rocks, and at its downstream end Devonian and Silurian sandstones and 
-siltsones (Holland 2001). The whole basin is covered by glacial deposits varying from till to 
+dyes . Heavy metals are particularly suitable for the dying of wool , after thorough washing as 
+possible , and with an acid dyes such as that derived from oak galls or leaves which contain tannic 
+acid ( Liese 2004 )  . The Shannon catchment is the largest catchment in Ireland draining over 
+12 , 000 km2
+and both Inchagreenoge and Coonagh West are located on the floodplain at its outlet . 
+The geology of the catchment is dominated by Carboniferous ( Dinantian ) limestone with small 
+areas of Ordovician rocks , and at its downstream end Devonian and Silurian sandstones and 
+siltsones ( Holland 2001 )  . The whole basin is covered by glacial deposits varying from till to 
 26
-glacial sands and gravels. The catchment includes very little of the highly mineralised areas of 
-Ireland such as the south west peninsula or the Tertiary igneous provinces which are high in Cu, 
-Ni, Zn and other metals and in for most heavy metals the area has relatively low values by 
-comparison with the rest of Ireland (Fay et al. 2007). The regions nearest to the lower Shannon 
-with higher heavy metal values include the Galway/Burren area to the north and the Galtee 
-Mountains to the south (Fay et al. 2007). Given this size, and its mixed sedimentary lithology 
+glacial sands and gravels . The catchment includes very little of the highly mineralised areas of 
+Ireland such as the south west peninsula or the Tertiary igneous provinces which are high in Cu , 
+Ni , Zn and other metals and in for most heavy metals the area has relatively low values by 
+comparison with the rest of Ireland ( Fay et al . 2007 )  . The regions nearest to the lower Shannon 
+with higher heavy metal values include the Galway / Burren area to the north and the Galtee 
+Mountains to the south ( Fay et al . 2007 )  . Given this size , and its mixed sedimentary lithology 
 outlet sediments would be expected to be relatively low background levels in trace elements and 
-heavy metals. This may be a coincidence, caused by the concentration of these elements in fine 
+heavy metals . This may be a coincidence , caused by the concentration of these elements in fine 
 alluvial sediments washed into the troughs or it could represent some importation of a foreign 
-soil which had particular properties valued by Bronze Age people. The alternative which may be 
+soil which had particular properties valued by Bronze Age people . The alternative which may be 
 more plausible is the concentration of these elements in peat ash or urine which was collected in 
-urine pots as a Mordant in the Medieval period particularly used for dying using weld (PriestDorman 2002). The most obvious use would be for either tanning and cleaning animal skins or 
-for the washing and processing of wool with the soil, ash and/or urine being used as a mordant. 
+urine pots as a Mordant in the Medieval period particularly used for dying using weld ( PriestDorman 2002 )  . The most obvious use would be for either tanning and cleaning animal skins or 
+for the washing and processing of wool with the soil , ash and / or urine being used as a mordant . 
 The possibility that the troughs were used for a combination of mordant and vat dyeing as is 
-known to have occurred in Europe (Joosten et al. 2006) is possible and would be consistent with 
-the low-level of vegetation disturbance, the accumulation of some organic materials, some 
-agriculture and the multi-element analyses to date.
- 
+known to have occurred in Europe ( Joosten et al . 2006 ) is possible and would be consistent with 
+the low-level of vegetation disturbance , the accumulation of some organic materials , some 
+agriculture and the multi-element analyses to date . 
+
 ARTEFACTS AND DISCUSSION
 One of the reasons for the relative neglect of burnt mounds in research excavations has 
-been their common lack of associated structures and artefacts. The principal structures are the 
+been their common lack of associated structures and artefacts . The principal structures are the 
 troughs which are often poorly preserved or truncated although a variety of stone structures are 
-also known (Ó Néill 2009). Artefacts often consist of a few stray animal bones, quernstones, 
+also known ( Ó Néill 2009 )  . Artefacts often consist of a few stray animal bones , quernstones , 
 occasional flints and personal ornaments but at some sites spindle-whorl weights have been 
-found (e.g. Coarhamore and Ballyvourney, Cherry 1990; Ó Néill 2009) and other sites often have 
-enigmatic round stones or stone discs such as in Ballyvourney, Drombeg and Catstown in Ireland 
-(Cherry 1990) and Bos Swallet in Somerest (ApSimon 1997). Several fulachtaí fiadh appear to 
-have closing deposits including the skull inserted into the spring at Inchagreenoge (Taylor 2004). 
-Other examples include the superb set of musical pipes preserved in a trough at Charlesland, Co. 
-Wicklow (Molloy 2004) and cow heads deposited after abandonment in the trough at Fordham, 
-Cambridgeshire (Mortimer pers com.). Whilst this may attest their importance to the builders or 
+found ( e . g . Coarhamore and Ballyvourney , Cherry 1990 ; Ó Néill 2009 ) and other sites often have 
+enigmatic round stones or stone discs such as in Ballyvourney , Drombeg and Catstown in Ireland 
+( Cherry 1990 ) and Bos Swallet in Somerest ( ApSimon 1997 )  . Several fulachtaí fiadh appear to 
+have closing deposits including the skull inserted into the spring at Inchagreenoge ( Taylor 2004 )  . 
+Other examples include the superb set of musical pipes preserved in a trough at Charlesland , Co . 
+Wicklow ( Molloy 2004 ) and cow heads deposited after abandonment in the trough at Fordham , 
+Cambridgeshire ( Mortimer pers com .  )  . Whilst this may attest their importance to the builders or 
 users of the sites it only reinforces the multi-functional nature of such sites and the anachrony of 
 27
-separating functional from ritualistic aspects of such sites (Ó Néill 2009). The troughs described 
-here all belong to Ó Néill’s (2009) pit types 1-9 and are not associated with high faunal remains 
-unlike circular pits (e.g. type 18). Additionally the shallow depth and thermal inefficiency of 
-these troughs (Table 4) would appear to make cooking meat unlikely but not impossible. 
-However, the shallow depth, the self-filling nature of the troughs (from the groundwater table) 
+separating functional from ritualistic aspects of such sites ( Ó Néill 2009 )  . The troughs described 
+here all belong to Ó Néill ’ s ( 2009 ) pit types 1-9 and are not associated with high faunal remains 
+unlike circular pits ( e . g . type 18 )  . Additionally the shallow depth and thermal inefficiency of 
+these troughs ( Table 4 ) would appear to make cooking meat unlikely but not impossible . 
+However , the shallow depth , the self-filling nature of the troughs ( from the groundwater table ) 
 and the frequent attempts to filter incoming water by using sand and moss under of between 
-planks (as at Cahiracon) is ideal for the washing and dying of fleeces as illustrated by Denvir’s 
-(2002) textile experiments. In this respect the frequent observation that burnt mounds are 
+planks ( as at Cahiracon ) is ideal for the washing and dying of fleeces as illustrated by Denvir ’ s 
+( 2002 ) textile experiments . In this respect the frequent observation that burnt mounds are 
 virtually never found within settlements but are typically in the vicinity but at least 200 m distant 
-(Grogan et al. 2007) would suggest a common practice but one which was not desirable within 
-the close proximity of dwellings. These observations along with the common association of 
-troughs with common dye plants such as alder, oak galls, meadow sweet and common sorrel all 
-suggest a link with the cleaning of wool and the dying of fibres. However, it is unlikely that all 
-burnt-mounds/troughs have the same function, as is suggested by the variation in their design and 
-dimensions, or indeed had only one function, and therefore there is unlikely to be a magic bullet 
-that conclusively verifies a unique function for these sites.
+( Grogan et al . 2007 ) would suggest a common practice but one which was not desirable within 
+the close proximity of dwellings . These observations along with the common association of 
+troughs with common dye plants such as alder , oak galls , meadow sweet and common sorrel all 
+suggest a link with the cleaning of wool and the dying of fibres . However , it is unlikely that all 
+burnt-mounds / troughs have the same function , as is suggested by the variation in their design and 
+dimensions , or indeed had only one function , and therefore there is unlikely to be a magic bullet 
+that conclusively verifies a unique function for these sites . 
 CONCLUSIONS
-The plant macrofossils, the pollen and insect analyses all indicate that all the fulachtaí fiadh were 
+The plant macrofossils , the pollen and insect analyses all indicate that all the fulachtaí fiadh were 
 constructed within partially cleared areas or clearings within light woodland with evidence of 
-timber/woody debris. At Killescragh there is also evidence of woodworking, with abundant 
-wood-chips and taxa characteristic of rotting wood debris. Whilst this is not unexpected due to 
+timber / woody debris . At Killescragh there is also evidence of woodworking , with abundant 
+wood-chips and taxa characteristic of rotting wood debris . Whilst this is not unexpected due to 
 the fuel-intensive nature of hot-stone activity and the use of wood for troughs and associated 
-structures, it does illustrate how fulachtaí fiadh construction is part of the process of opening-up 
-the landscape and clearing the wetter areas of woodland on floodplains and around springs. All 
-the sites also show limited livestock presence with dung beetles present, but at or only marginally 
-above, background levels (Fig. 14). No site investigated shows evidence of the levels of dung 
-taxa associated with even moderate-scale pastoral activity (Dinnin and Sadler 1999). No animal 
-ectoparasites were recovered and only occasional carrion-dwelling beetles, providing no support 
-for large-scale carcass processing activity. However, six out of the eight sites have pollen 
-evidence of arable cultivation. The insect analysis, however, revealed no pests of stored grain and 
-no chaff was recorded as might be expected if brewing activity was being undertaken. There is 
-some evidence of plants associated with dyeing including the weevil Curculio pyrrhocerras, 
+structures , it does illustrate how fulachtaí fiadh construction is part of the process of opening-up 
+the landscape and clearing the wetter areas of woodland on floodplains and around springs . All 
+the sites also show limited livestock presence with dung beetles present , but at or only marginally 
+above , background levels ( Fig . 14 )  . No site investigated shows evidence of the levels of dung 
+taxa associated with even moderate-scale pastoral activity ( Dinnin and Sadler 1999 )  . No animal 
+ectoparasites were recovered and only occasional carrion-dwelling beetles , providing no support 
+for large-scale carcass processing activity . However , six out of the eight sites have pollen 
+evidence of arable cultivation . The insect analysis , however , revealed no pests of stored grain and 
+no chaff was recorded as might be expected if brewing activity was being undertaken . There is 
+some evidence of plants associated with dyeing including the weevil Curculio pyrrhocerras , 
 28
-which lives in oak galls (used in prehistoric dying) and alder catkins (green dye) and fruit (red 
-dye) in one trough. It is however, difficult to prove such activity due to the large number of 
-common plants that have been used as natural dyes, and because dye plants could have been 
-brought some distance to the site and used almost immediately. The elevated heavy metals 
-revealed at two sites suggests off-site soil, ash or possibly urine all of which could have been 
-used as a mordant. Archaeological support for a possible textile-related function for these sites 
-comes from their locations vis-á-vis settlements, dimensions, their self-filling nature, evidence of 
-water filtration, the occurrence of flat stones in and around several sites, and the evidence at one
-site (Inchagreenoge) of a structure made up of small stakes identified as a possible drying 
-structure. It is not suggested here that all fulachtaí fiadh or burnt mounds have the same function,
-but this study will it is hoped, prompt more investigation of suitably well preserved sites with the 
+which lives in oak galls ( used in prehistoric dying ) and alder catkins ( green dye ) and fruit ( red 
+dye ) in one trough . It is however , difficult to prove such activity due to the large number of 
+common plants that have been used as natural dyes , and because dye plants could have been 
+brought some distance to the site and used almost immediately . The elevated heavy metals 
+revealed at two sites suggests off-site soil , ash or possibly urine all of which could have been 
+used as a mordant . Archaeological support for a possible textile-related function for these sites 
+comes from their locations vis-á-vis settlements , dimensions , their self-filling nature , evidence of 
+water filtration , the occurrence of flat stones in and around several sites , and the evidence at one
+site ( Inchagreenoge ) of a structure made up of small stakes identified as a possible drying 
+structure . It is not suggested here that all fulachtaí fiadh or burnt mounds have the same function , 
+but this study will it is hoped , prompt more investigation of suitably well preserved sites with the 
 aim of testing a possible connection with the transition from animal skins to textiles that 
-accompanied deforestation and population increase in the Middle to Late Bronze Age of Europe.
+accompanied deforestation and population increase in the Middle to Late Bronze Age of Europe . 

@@ -1,564 +1,564 @@
 Abstract
-Explaining complex or seemingly simple machine learning models is an important practical problem. We want to explain individual predictions from such models by learning simple, interpretable explanations. Shapley value is a game theoretic concept that can be used for this purpose. The Shapley value framework has a series of desirable theoretical properties, and can in principle handle any predictive model. Kernel SHAP is a computationally efficient approximation to Shapley values in higher dimensions. Like several other existing methods, this approach assumes that the features are independent. Since Shapley values currently suffer from inclusion of unrealistic data instances when features are correlated, the explanations may be very misleading. This is the case even if a simple linear model is used for predictions. In this paper, we extend the Kernel SHAP method to handle dependent features. We provide several examples of linear and non-linear models with various degrees of feature dependence, where our method gives more accurate approximations to the true Shapley values.
+Explaining complex or seemingly simple machine learning models is an important practical problem . We want to explain individual predictions from such models by learning simple , interpretable explanations . Shapley value is a game theoretic concept that can be used for this purpose . The Shapley value framework has a series of desirable theoretical properties , and can in principle handle any predictive model . Kernel SHAP is a computationally efficient approximation to Shapley values in higher dimensions . Like several other existing methods , this approach assumes that the features are independent . Since Shapley values currently suffer from inclusion of unrealistic data instances when features are correlated , the explanations may be very misleading . This is the case even if a simple linear model is used for predictions . In this paper , we extend the Kernel SHAP method to handle dependent features . We provide several examples of linear and non-linear models with various degrees of feature dependence , where our method gives more accurate approximations to the true Shapley values . 
 
 Previous article in issueNext article in issue
 Keywords
 Feature attributionShapley valuesKernel SHAPDependence
-1. Introduction
-Interpretability is crucial when a complex machine learning model is to be applied in areas such as medicine [1], fraud detection [2] or credit scoring [3]. In many applications, complex hard-to-interpret machine learning models like deep neural networks, random forests and gradient boosting machines are currently outperforming the traditional, and to some extent interpretable, linear/logistic regression models. However, often there is a clear trade-off between model complexity and model interpretability, meaning that it is often hard to understand why these sophisticated models perform so well. This lack of explanation constitutes a practical issue – can I trust the model? [4], and a legal issue – those who develop the model can be required by law to explain what the model does to those who are exposed to automated decisions (the General Data Protection Regulation [5]). In response, a new line of research has emerged that focuses on helping users to interpret the predictions from advanced machine learning methods.
+1 . Introduction
+Interpretability is crucial when a complex machine learning model is to be applied in areas such as medicine [ 1 ]  , fraud detection [ 2 ] or credit scoring [ 3 ]  . In many applications , complex hard-to-interpret machine learning models like deep neural networks , random forests and gradient boosting machines are currently outperforming the traditional , and to some extent interpretable , linear / logistic regression models . However , often there is a clear trade-off between model complexity and model interpretability , meaning that it is often hard to understand why these sophisticated models perform so well . This lack of explanation constitutes a practical issue – can I trust the model ?  [ 4 ]  , and a legal issue – those who develop the model can be required by law to explain what the model does to those who are exposed to automated decisions ( the General Data Protection Regulation [ 5 ]  )  . In response , a new line of research has emerged that focuses on helping users to interpret the predictions from advanced machine learning methods . 
 
-Existing work on explaining complex models can be divided into two main categories; global and local explanations. The former tries to describe the model as a whole, in terms of which variables/features that influenced the general model the most. Two common methods for such an overall explanation are permutation based feature importance [6] or partial dependence plots [7]. Local explanations, on the other hand, try to identify how the different input variables/features influenced a specific prediction/output from the model, and are often referred to as individual prediction explanation methods. Such explanations are particularly useful for complex models which behave rather different for different feature combinations, meaning that the global explanation is not representative for the local behavior.
+Existing work on explaining complex models can be divided into two main categories ; global and local explanations . The former tries to describe the model as a whole , in terms of which variables / features that influenced the general model the most . Two common methods for such an overall explanation are permutation based feature importance [ 6 ] or partial dependence plots [ 7 ]  . Local explanations , on the other hand , try to identify how the different input variables / features influenced a specific prediction / output from the model , and are often referred to as individual prediction explanation methods . Such explanations are particularly useful for complex models which behave rather different for different feature combinations , meaning that the global explanation is not representative for the local behavior . 
 
-Local explanation methods may further be divided into two categories: model-specific and model-agnostic (general) explanation methods. In this paper the focus is on the latter. The methods in this category usually try to explain individual predictions by determining simple, interpretable explanations of the model specifically for a given prediction. Three examples are Explanation Vectors [8], LIME (Local Interpretable Model-agnostic Explanations) [4] and Shapley values [9], [10], [11]. The latter approach, which builds on concepts from cooperative game theory [12], has a series of desirable theoretical properties [11].
+Local explanation methods may further be divided into two categories : model-specific and model-agnostic ( general ) explanation methods . In this paper the focus is on the latter . The methods in this category usually try to explain individual predictions by determining simple , interpretable explanations of the model specifically for a given prediction . Three examples are Explanation Vectors [ 8 ]  , LIME ( Local Interpretable Model-agnostic Explanations )  [ 4 ] and Shapley values [ 9 ]  ,  [ 10 ]  ,  [ 11 ]  . The latter approach , which builds on concepts from cooperative game theory [ 12 ]  , has a series of desirable theoretical properties [ 11 ]  . 
 
-The Shapley value is a method originally invented for assigning payouts to players depending on their contribution towards the total payout. In the explanation setting, the features are the players and the prediction is the total payout. In this framework, the difference between the prediction and the average prediction is perfectly distributed among the features. This property distinguishes Shapley values from other methods like for example LIME, which does not guarantee perfectly distributed effects. It should be noted that LIME and Shapley values actually explain two different things. For instance, if the prediction to be explained is the probability of person A crashing his car, the sum of the Shapley values for all features is equal to the difference between this prediction and the mean probability of a person crashing his car, where the mean is taken over all persons having a driver license. The sum of the LIME values is also equal to the difference between this prediction and a mean probability, but here the mean is taken over all persons “similar to” person A. That is, Shapley values explain the difference between the prediction and the global average prediction, while LIME explains the difference between the prediction and a local average prediction. Appropriate model explanations should be consistent with how humans understand that model. In their study, [11] found a much stronger agreement between human explanations and Shapley values than with LIME.
+The Shapley value is a method originally invented for assigning payouts to players depending on their contribution towards the total payout . In the explanation setting , the features are the players and the prediction is the total payout . In this framework , the difference between the prediction and the average prediction is perfectly distributed among the features . This property distinguishes Shapley values from other methods like for example LIME , which does not guarantee perfectly distributed effects . It should be noted that LIME and Shapley values actually explain two different things . For instance , if the prediction to be explained is the probability of person A crashing his car , the sum of the Shapley values for all features is equal to the difference between this prediction and the mean probability of a person crashing his car , where the mean is taken over all persons having a driver license . The sum of the LIME values is also equal to the difference between this prediction and a mean probability , but here the mean is taken over all persons “ similar to ” person A . That is , Shapley values explain the difference between the prediction and the global average prediction , while LIME explains the difference between the prediction and a local average prediction . Appropriate model explanations should be consistent with how humans understand that model . In their study ,  [ 11 ] found a much stronger agreement between human explanations and Shapley values than with LIME . 
 
-Shapley values have also been used for measuring global feature importance. For instance, it has been used to partition the  quantity among the d features in a linear regression model (“Shapley regression values”), both assuming independent features [13], and more recently also for dependent features [14], [15], [16]. A general Shapley framework for global additive importance measures is suggested by [17].
+Shapley values have also been used for measuring global feature importance . For instance , it has been used to partition the quantity among the d features in a linear regression model (  “ Shapley regression values ”  )  , both assuming independent features [ 13 ]  , and more recently also for dependent features [ 14 ]  ,  [ 15 ]  ,  [ 16 ]  . A general Shapley framework for global additive importance measures is suggested by [ 17 ]  . 
 
-The main disadvantage of the Shapley value is that the computational complexity grows exponentially and becomes intractable for more than, say, ten features. This has led to approximations like the Shapley Sampling Values [9], [10] and Kernel SHAP [11]. The latter requires less computational power to obtain a similar approximation accuracy. Hence, in this paper, the focus is on the Kernel SHAP method. While having many desirable properties, this method assumes feature independence. In observational studies and machine learning problems, it is very rare that the features are statistically independent, meaning that the Shapley value methods suffer from inclusion of predictions based on unrealistic data instances when features are correlated. This is the case even if a simple linear model is used.
+The main disadvantage of the Shapley value is that the computational complexity grows exponentially and becomes intractable for more than , say , ten features . This has led to approximations like the Shapley Sampling Values [ 9 ]  ,  [ 10 ] and Kernel SHAP [ 11 ]  . The latter requires less computational power to obtain a similar approximation accuracy . Hence , in this paper , the focus is on the Kernel SHAP method . While having many desirable properties , this method assumes feature independence . In observational studies and machine learning problems , it is very rare that the features are statistically independent , meaning that the Shapley value methods suffer from inclusion of predictions based on unrealistic data instances when features are correlated . This is the case even if a simple linear model is used . 
 
-The main contribution of this paper is to extend the Kernel SHAP method to handle dependent features. The methodology has been implemented in the R-package shapr available on CRAN [18]. Our paper is a revised version of an unpublished paper [19], which, to the best of our knowledge, was the first to address and account for dependence within Shapley value based individual prediction explanation.
+The main contribution of this paper is to extend the Kernel SHAP method to handle dependent features . The methodology has been implemented in the R-package shapr available on CRAN [ 18 ]  . Our paper is a revised version of an unpublished paper [ 19 ]  , which , to the best of our knowledge , was the first to address and account for dependence within Shapley value based individual prediction explanation . 
 
-Later there has been several papers discussing the difference between our approach and the original Kernel SHAP method, termed respectively the observational and the interventional approach in the succeeding literature. Lundberg and Lee [11] advocate the observational approach, but uses the interventional approach for computational reasons. Janzing et al. [20] argue for a causal interpretation of Shapley values, where they replace conventional “conditioning by observation” with “conditioning by intervention”, as in Pearl's do-calculus [21]. Frye et al. [22] suggest so-called asymmetric Shapley values as a way to incorporate causal knowledge in the real world by restricting the possible permutations of the features when computing the Shapley values to those consistent with a partial causal ordering. In line with our approach, they then apply conventional conditioning by observation to make sure that the explanations respect the multivariate distribution of the data, which they denote the “data manifold”. Heskes et al. [23] generalize the work on causal Shapley values further, partly based on our approach. They define our approach as “symmetric conditional Shapley values”. Chen et al. [24] argue that neither is preferable in general, but that the choice between the observational (“true to the data”) or interventional (“true to the model”) approach is application dependent.
+Later there has been several papers discussing the difference between our approach and the original Kernel SHAP method , termed respectively the observational and the interventional approach in the succeeding literature . Lundberg and Lee [ 11 ] advocate the observational approach , but uses the interventional approach for computational reasons . Janzing et al .  [ 20 ] argue for a causal interpretation of Shapley values , where they replace conventional “ conditioning by observation ” with “ conditioning by intervention ”  , as in Pearl ' s do-calculus [ 21 ]  . Frye et al .  [ 22 ] suggest so-called asymmetric Shapley values as a way to incorporate causal knowledge in the real world by restricting the possible permutations of the features when computing the Shapley values to those consistent with a partial causal ordering . In line with our approach , they then apply conventional conditioning by observation to make sure that the explanations respect the multivariate distribution of the data , which they denote the “ data manifold ”  . Heskes et al .  [ 23 ] generalize the work on causal Shapley values further , partly based on our approach . They define our approach as “ symmetric conditional Shapley values ”  . Chen et al .  [ 24 ] argue that neither is preferable in general , but that the choice between the observational (  “ true to the data ”  ) or interventional (  “ true to the model ”  ) approach is application dependent . 
 
-All the above-mentioned approaches are model-agnostic in the sense that they can be used to explain any machine learning method. In addition to these methods, there is a method called TreeSHAP [25] which is specially designed for tree ensemble methods like XGBoost [26]. According to the authors, TreeSHAP accounts for some of the feature dependence, but not all. As will be apparent from our simulation experiments, this method can be inaccurate when the features are dependent.
+All the above-mentioned approaches are model-agnostic in the sense that they can be used to explain any machine learning method . In addition to these methods , there is a method called TreeSHAP [ 25 ] which is specially designed for tree ensemble methods like XGBoost [ 26 ]  . According to the authors , TreeSHAP accounts for some of the feature dependence , but not all . As will be apparent from our simulation experiments , this method can be inaccurate when the features are dependent . 
 
-The rest of this paper is organized as follows. Section 2 reviews the Shapley values and the Kernel SHAP method. Section 3 contains the main contribution of the paper, that is the proposed approaches for accounting for the dependence, while Section 4 gives the results from several experiments validating these methods. Finally, Section 5 contains some concluding remarks.
+The rest of this paper is organized as follows . Section 2 reviews the Shapley values and the Kernel SHAP method . Section 3 contains the main contribution of the paper , that is the proposed approaches for accounting for the dependence , while Section 4 gives the results from several experiments validating these methods . Finally , Section 5 contains some concluding remarks . 
 
-2. The exact Shapley value and the Kernel SHAP approximation
-In this section we first give the definition of the Shapley value from game theory in Section 2.1, then explain its use in the context of explaining individual predictions in Section 2.2. In Section 2.3 we finally describe the Kernel SHAP method.
+2 . The exact Shapley value and the Kernel SHAP approximation
+In this section we first give the definition of the Shapley value from game theory in Section 2 . 1 , then explain its use in the context of explaining individual predictions in Section 2 . 2 . In Section 2 . 3 we finally describe the Kernel SHAP method . 
 
-2.1. The exact Shapley value and cooperative game theory
-Consider a cooperative game with M players aiming at maximizing a payoff, and let  be a subset consisting of  players. Assume that we have a contribution function  that maps subsets of players to the real numbers, called the worth or contribution of coalition . It describes the total expected sum of payoffs the members of  can obtain by cooperation. The Shapley value [12] is one way to distribute the total gains to the players, assuming that they all collaborate. It is a “fair” distribution in the sense that it is the only distribution with certain desirable properties listed below. According to the Shapley value, the amount that player j gets is
-(1)
-that is, a weighted mean over contribution function differences for all subsets  of players not containing player j. Note that the empty set  is also part of this sum. The formula can be interpreted as follows: Imagine the coalition being formed for one player at a time, with each player demanding their contribution  as a fair compensation. Then, for each player, compute the average of this contribution over all permutations of all possible coalitions, yielding a weighted mean over the unique coalitions.
+2 . 1 . The exact Shapley value and cooperative game theory
+Consider a cooperative game with M players aiming at maximizing a payoff , and let be a subset consisting of players . Assume that we have a contribution function that maps subsets of players to the real numbers , called the worth or contribution of coalition . It describes the total expected sum of payoffs the members of can obtain by cooperation . The Shapley value [ 12 ] is one way to distribute the total gains to the players , assuming that they all collaborate . It is a “ fair ” distribution in the sense that it is the only distribution with certain desirable properties listed below . According to the Shapley value , the amount that player j gets is 
+( 1 ) 
+that is , a weighted mean over contribution function differences for all subsets of players not containing player j . Note that the empty set is also part of this sum . The formula can be interpreted as follows : Imagine the coalition being formed for one player at a time , with each player demanding their contribution as a fair compensation . Then , for each player , compute the average of this contribution over all permutations of all possible coalitions , yielding a weighted mean over the unique coalitions . 
 
-To illustrate the application of (1), let us consider a game with three players such that . Then, there are eight possible subsets; , and . Using (1), the Shapley values for the three players are given by
-Let us also define the non-distributed gain , that is, the fixed payoff which is not associated to the actions of any of the players, although this is often zero for coalition games.
+To illustrate the application of ( 1 )  , let us consider a game with three players such that . Then , there are eight possible subsets ;  , and . Using ( 1 )  , the Shapley values for the three players are given by
+Let us also define the non-distributed gain , that is , the fixed payoff which is not associated to the actions of any of the players , although this is often zero for coalition games . 
 
-By summarizing the right hand sides above, we easily see that they add up to the total worth of the game: .
+By summarizing the right hand sides above , we easily see that they add up to the total worth of the game :  . 
 
-The Shapley value has the following desirable properties:
-Efficiency:
-The total gain is distributed:
+The Shapley value has the following desirable properties : 
+Efficiency : 
+The total gain is distributed : 
 
-Symmetry:
-If i and j are two players who contribute equally to all possible coalitions, i.e.
-for every subset  which contains neither i nor j, then their Shapley values are identical:
+Symmetry : 
+If i and j are two players who contribute equally to all possible coalitions , i . e . 
+for every subset which contains neither i nor j , then their Shapley values are identical : 
 
-Dummy player:
-If  for a player j and all coalitions , then .
+Dummy player : 
+If for a player j and all coalitions , then . 
 
-Linearity:
-If two coalition games described by gain functions v and w are combined, then the distributed gains correspond to the gains derived from v and the gains derived from w:
-for every i. Also, for any real number a we have that
+Linearity : 
+If two coalition games described by gain functions v and w are combined , then the distributed gains correspond to the gains derived from v and the gains derived from w : 
+for every i . Also , for any real number a we have that
 
-The Shapley values is the only set of values satisfying the above properties, see [12] and [27] for proofs.
+The Shapley values is the only set of values satisfying the above properties , see [ 12 ] and [ 27 ] for proofs . 
 
-2.2. Shapley values for prediction explanation
-Consider a classical machine learning scenario where a training set  of size  has been used to train a predictive model  attempting to resemble a response value y as closely as possible. Assume now that we want to explain the prediction from the model 
-⁎
+2 . 2 . Shapley values for prediction explanation
+Consider a classical machine learning scenario where a training set of size has been used to train a predictive model attempting to resemble a response value y as closely as possible . Assume now that we want to explain the prediction from the model 
+⁎ 
 , for a specific feature vector 
-⁎
-. Štrumbel and Kononenko [9], [10] and Lundberg and Lee [11] suggest to do this using Shapley values. By moving from game theory to decomposing an individual prediction into feature contributions, the single prediction takes the place of the payout, and the features take the place of the players. We have that the prediction 
-⁎
- is decomposed as follows
-⁎
-⁎
-where  and 
-⁎
- is the  for the prediction 
-⁎
-. That is, the Shapley values explain the difference between the prediction 
+⁎ 
+. Štrumbel and Kononenko [ 9 ]  ,  [ 10 ] and Lundberg and Lee [ 11 ] suggest to do this using Shapley values . By moving from game theory to decomposing an individual prediction into feature contributions , the single prediction takes the place of the payout , and the features take the place of the players . We have that the prediction 
+⁎ 
+is decomposed as follows
 ⁎
 ⁎
- and the global average prediction. A model of this form is an additive feature attribution method, and it is the only additive feature attribution method that adhers to the properties listed in Section 2.1 [11]. In Appendix A we discuss why these properties are useful in the prediction explanation setting.
+where and 
+⁎ 
+is the for the prediction 
+⁎ 
+. That is , the Shapley values explain the difference between the prediction 
+⁎
+⁎ 
+and the global average prediction . A model of this form is an additive feature attribution method , and it is the only additive feature attribution method that adhers to the properties listed in Section 2 . 1 [ 11 ]  . In Appendix A we discuss why these properties are useful in the prediction explanation setting . 
 
-To be able to compute the Shapley values in the prediction explanation setting, we need to define the contribution function  for a certain subset . This function should resemble the value of 
+To be able to compute the Shapley values in the prediction explanation setting , we need to define the contribution function for a certain subset . This function should resemble the value of 
+⁎ 
+when we only know the value of the subset of these features . To quantify this , we follow [ 11 ] and use the expected output of the predictive model , conditional on the feature values 
+⁎ 
+of this subset :  
+( 2 ) 
 ⁎
- when we only know the value of the subset  of these features. To quantify this, we follow [11] and use the expected output of the predictive model, conditional on the feature values 
-⁎
- of this subset:
-(2)
-⁎
-Other measures, such as the conditional median, may also be appropriate. However, the conditional expectation summarizes the whole probability distribution and it is the most common estimator in prediction applications. When viewed as a prediction for 
-⁎
-, it is also the minimizer of the commonly used squared error loss function.
+Other measures , such as the conditional median , may also be appropriate . However , the conditional expectation summarizes the whole probability distribution and it is the most common estimator in prediction applications . When viewed as a prediction for 
+⁎ 
+, it is also the minimizer of the commonly used squared error loss function . 
 
-We show in Appendix B that if the predictive model is a linear regression model , where all features  are independent, then, under (2), the Shapley values take the simple form:
-(3)
+We show in Appendix B that if the predictive model is a linear regression model , where all features are independent , then , under ( 2 )  , the Shapley values take the simple form :  
+( 3 ) 
 ⁎
-Note that for ease of notation, we have here and in the rest of the paper dropped the superscript * for the  values. Every prediction 
-⁎
- to be explained will result in different sets of  values.
+Note that for ease of notation , we have here and in the rest of the paper dropped the superscript * for the values . Every prediction 
+⁎ 
+to be explained will result in different sets of values . 
 
-To the best of our knowledge, no explicit formula like (3) exists for the general case of dependent features with non-linear models. With M features, the number of possible subsets involved in (1) is . Hence, the number of possible subsets increases exponentially when M increases, meaning that the exact solution to this problem becomes computationally intractable when we have more than a few features. In Section 2.3, we shall see how a clever approximation method may be used to (partly) overcome this issue.
+To the best of our knowledge , no explicit formula like ( 3 ) exists for the general case of dependent features with non-linear models . With M features , the number of possible subsets involved in ( 1 ) is . Hence , the number of possible subsets increases exponentially when M increases , meaning that the exact solution to this problem becomes computationally intractable when we have more than a few features . In Section 2 . 3 , we shall see how a clever approximation method may be used to ( partly ) overcome this issue . 
 
-In addition to a computationally tractable approximation for computing the Shapley values, applying the above method in practice requires an estimate of the expectation in (2) for all . The main methodological contribution of this paper is describing, developing, and comparing methodology to appropriately estimate these expectations. In Section 2.3.2 we describe the state-of-art method for determining the expectations before we describe our proposed approaches in Section 3.
+In addition to a computationally tractable approximation for computing the Shapley values , applying the above method in practice requires an estimate of the expectation in ( 2 ) for all . The main methodological contribution of this paper is describing , developing , and comparing methodology to appropriately estimate these expectations . In Section 2 . 3 . 2 we describe the state-of-art method for determining the expectations before we describe our proposed approaches in Section 3 . 
 
-2.3. Kernel SHAP
-The Kernel SHAP method of [11] aims at estimating Shapley values under (2) in practical situations. The method may be divided in two separate parts:
-(i)
-A clever computationally tractable approximation for computing the Shapley values of (1)
-
-(ii)
+2 . 3 . Kernel SHAP
+The Kernel SHAP method of [ 11 ] aims at estimating Shapley values under ( 2 ) in practical situations . The method may be divided in two separate parts :  
+( i ) 
+A clever computationally tractable approximation for computing the Shapley values of ( 1 )  
+ 
+( ii ) 
 A simple method for estimating 
 
-In [11], the method is presented in a somewhat limited form without full detail. In order to facilitate the understanding of the method and our consecutive improvements to the method, we shall therefore in this section carefully re-state the Kernel SHAP method. We will first present part i), assuming  is known, and then present the method for estimating  used by Kernel SHAP.
+In [ 11 ]  , the method is presented in a somewhat limited form without full detail . In order to facilitate the understanding of the method and our consecutive improvements to the method , we shall therefore in this section carefully re-state the Kernel SHAP method . We will first present part i )  , assuming is known , and then present the method for estimating used by Kernel SHAP . 
 
-2.3.1. Approximated weighted least squares
-There are several alternative equivalent formulas for the Shapley values. Charnes et al. [28], [28] and later Lundberg and Lee [11] define the Shapley values as the optimal solution of a certain weighted least squares (WLS) problem.
+2 . 3 . 1 . Approximated weighted least squares
+There are several alternative equivalent formulas for the Shapley values . Charnes et al .  [ 28 ]  ,  [ 28 ] and later Lundberg and Lee [ 11 ] define the Shapley values as the optimal solution of a certain weighted least squares ( WLS ) problem . 
 
-In its simplest form, the WLS problem can be stated as the problem of minimizing
-(4)
-with respect to , where , are denoted the Shapley kernel weights. Let us write Z for the  binary matrix representing all possible combinations of inclusion/exclusion of the M features, where the first column is 1 for every row, while entry  of row l is 1 if feature j is included in combination l, and 0 otherwise. Let also v be a vector containing , and W be the  diagonal matrix containing , where  in both cases resembles the feature combinations of the corresponding row in Z. Letting ϕ be a vector containing , (4) may be rewritten to
-(5)
-for which the solution is
-(6)
-In practice, the infinite Shapley kernel weights  may be set to a large constant c, for example , or imposing the constraints that  and  into the problem.
+In its simplest form , the WLS problem can be stated as the problem of minimizing 
+( 4 ) 
+with respect to , where , are denoted the Shapley kernel weights . Let us write Z for the binary matrix representing all possible combinations of inclusion / exclusion of the M features , where the first column is 1 for every row , while entry of row l is 1 if feature j is included in combination l , and 0 otherwise . Let also v be a vector containing , and W be the diagonal matrix containing , where in both cases resembles the feature combinations of the corresponding row in Z . Letting ϕ be a vector containing ,  ( 4 ) may be rewritten to 
+( 5 ) 
+for which the solution is 
+( 6 ) 
+In practice , the infinite Shapley kernel weights may be set to a large constant c , for example , or imposing the constraints that and into the problem . 
 
-When the model contains more than a few features M, computing the right hand side of (6) is still computationally expensive. The Kernel SHAP trick is to use the weighted least squares formulation to approximate (6). The Shapley kernel weights have very different sizes, meaning that the majority of the subsets , that is, the rows in Z, contributes very little to the Shapley value. Hence, assuming that we have a proper approximation for the elements in v, a consistent approximation may be obtained by sampling (with replacement) a subset  of  from a probability distribution following the Shapley weighting kernel, and using only those rows  of Z and elements  of v in the computation. As the Shapley kernel weights are used in the sampling, the sampled subsets are weighted equally in the new least squares problem. Note that  and  are excluded from the sampling procedure. As above, their corresponding Z-rows are appended to , their -elements are appended to , and the diagonal matrix  is extended with two diagonal elements equal to c. This procedure gives the following approximation to (6)1:
-(7)
-A practical consequence of using (7) as opposed to (1) is that when explaining several predictions, which typically is the case, the matrix operations producing the  matrix  only have to be carried out once. Provided that  is pre-computed, all that is needed to explain different predictions from the same model is to perform the matrix multiplication of  and  for the different .
+When the model contains more than a few features M , computing the right hand side of ( 6 ) is still computationally expensive . The Kernel SHAP trick is to use the weighted least squares formulation to approximate ( 6 )  . The Shapley kernel weights have very different sizes , meaning that the majority of the subsets , that is , the rows in Z , contributes very little to the Shapley value . Hence , assuming that we have a proper approximation for the elements in v , a consistent approximation may be obtained by sampling ( with replacement ) a subset of from a probability distribution following the Shapley weighting kernel , and using only those rows of Z and elements of v in the computation . As the Shapley kernel weights are used in the sampling , the sampled subsets are weighted equally in the new least squares problem . Note that and are excluded from the sampling procedure . As above , their corresponding Z-rows are appended to , their -elements are appended to , and the diagonal matrix is extended with two diagonal elements equal to c . This procedure gives the following approximation to ( 6 ) 1 :  
+( 7 ) 
+A practical consequence of using ( 7 ) as opposed to ( 1 ) is that when explaining several predictions , which typically is the case , the matrix operations producing the matrix only have to be carried out once . Provided that is pre-computed , all that is needed to explain different predictions from the same model is to perform the matrix multiplication of and for the different . 
 
-2.3.2. Estimating the contribution function under feature independence
-When computing the vector v, we need the  values for all possible feature subsets represented by the matrix Z (or  if we use the approximation in (7)). As stated in Section 2.1, the contribution value  for a certain subset  is defined as
+2 . 3 . 2 . Estimating the contribution function under feature independence
+When computing the vector v , we need the values for all possible feature subsets represented by the matrix Z ( or if we use the approximation in ( 7 )  )  . As stated in Section 2 . 1 , the contribution value for a certain subset is defined as
 ⁎
-Let  denote the complement of , such that  is the part of x not in . Then, the expected value may be computed as follows
-(8)
+Let denote the complement of , such that is the part of x not in . Then , the expected value may be computed as follows 
+( 8 ) 
 ⁎
 ⁎
 ⁎
 ⁎
 where 
-⁎
- is the conditional distribution of  given 
-⁎
-. Hence, to be able to compute the exact  values we need the conditional distribution 
-⁎
-, which seldom is known. In this step of the procedure, the Kernel SHAP method assumes feature independence, replacing 
-⁎
- by  in (8). Hence, by assuming feature independence, Kernel SHAP “intervenes” on the features by breaking the dependence between the features in  and  and therefore produces interventional Shapley values.
+⁎ 
+is the conditional distribution of given 
+⁎ 
+. Hence , to be able to compute the exact values we need the conditional distribution 
+⁎ 
+, which seldom is known . In this step of the procedure , the Kernel SHAP method assumes feature independence , replacing 
+⁎ 
+by in ( 8 )  . Hence , by assuming feature independence , Kernel SHAP “ intervenes ” on the features by breaking the dependence between the features in and and therefore produces interventional Shapley values . 
 
-Using the training set, that is, the data used to train the model , as the empirical distribution of x, the integral in (8) can be approximated by Monte Carlo integration:
-(9)
+Using the training set , that is , the data used to train the model , as the empirical distribution of x , the integral in ( 8 ) can be approximated by Monte Carlo integration :  
+( 9 ) 
 ⁎
-Here,  are samples from the training data. Due to the independence assumption, they are sampled independently of .
+Here ,  are samples from the training data . Due to the independence assumption , they are sampled independently of . 
 
-3. Incorporating dependence into the Kernel SHAP method
-If the features in a given model are highly dependent, the Kernel SHAP method may not give a correct answer, due to predictions using non-representative data instances. As stated in Section 1, it is very rare that features in real datasets are statistically independent. The only place in the Kernel SHAP method where the independence assumption  is used, is when approximating the integral in (8). Apart from this rough assumption, the Kernel SHAP framework stands out as a clever and fruitful way to approximate the Shapley values. It would therefore be desirable to incorporate dependence into the Kernel SHAP method by avoiding the independence assumption. This can be done by estimating/approximating 
-⁎
- directly and generate samples from this distribution, instead of generating them independently from  as described in Section 2.3.2. We propose four approaches for estimating 
-⁎
-; (i) assuming a Gaussian distribution for , (ii) assuming a Gaussian copula distribution for , (iii) approximating 
-⁎
- by an empirical (conditional) distribution and (iv) a combination of the empirical approach and either the Gaussian or the Gaussian copula approach.
+3 . Incorporating dependence into the Kernel SHAP method
+If the features in a given model are highly dependent , the Kernel SHAP method may not give a correct answer , due to predictions using non-representative data instances . As stated in Section 1 , it is very rare that features in real datasets are statistically independent . The only place in the Kernel SHAP method where the independence assumption is used , is when approximating the integral in ( 8 )  . Apart from this rough assumption , the Kernel SHAP framework stands out as a clever and fruitful way to approximate the Shapley values . It would therefore be desirable to incorporate dependence into the Kernel SHAP method by avoiding the independence assumption . This can be done by estimating / approximating 
+⁎ 
+directly and generate samples from this distribution , instead of generating them independently from as described in Section 2 . 3 . 2 . We propose four approaches for estimating 
+⁎ 
+;  ( i ) assuming a Gaussian distribution for ,  ( ii ) assuming a Gaussian copula distribution for ,  ( iii ) approximating 
+⁎ 
+by an empirical ( conditional ) distribution and ( iv ) a combination of the empirical approach and either the Gaussian or the Gaussian copula approach . 
 
-3.1. Multivariate Gaussian distribution
-If we assume that the feature vector x stems from a multivariate Gaussian distribution with some mean vector μ and covariance matrix Σ, the conditional distribution 
-⁎
- is also multivariate Gaussian. In particular, writing  with  and
+3 . 1 . Multivariate Gaussian distribution
+If we assume that the feature vector x stems from a multivariate Gaussian distribution with some mean vector μ and covariance matrix Σ , the conditional distribution 
+⁎ 
+is also multivariate Gaussian . In particular , writing with and
 gives 
+⁎ 
+, with 
+( 10 ) 
 ⁎
-, with
-(10)
-⁎
-and
-(11)
-Hence, instead of sampling from the marginal distribution of , we can sample from the Gaussian distribution with expectation vector and covariance matrix given by (10) and (11), where the full expectation vector μ and the full covariance matrix Σ are estimated by the sample mean and covariance matrix of the training data, respectively. Using the samples  from the conditional distribution, the integral in (8) is finally approximated by (9).
+and 
+( 11 ) 
+Hence , instead of sampling from the marginal distribution of , we can sample from the Gaussian distribution with expectation vector and covariance matrix given by ( 10 ) and ( 11 )  , where the full expectation vector μ and the full covariance matrix Σ are estimated by the sample mean and covariance matrix of the training data , respectively . Using the samples from the conditional distribution , the integral in ( 8 ) is finally approximated by ( 9 )  . 
 
-3.2. Gaussian copula
-When the features are far from multivariate Gaussian distributed, one may instead represent the marginals by their empirical distributions, and model the dependence structure by a Gaussian copula. The definition of a d-dimensional copula is a multivariate distribution, C, with uniformly distributed marginals U(0,1) on [0,1]. Sklar's theorem [29] states that every multivariate distribution F with marginals , ,…,  can be written as
-(12)
-for some appropriate d-dimensional copula C. In fact, the copula from (12) has the expression
-where the s are the inverse distribution functions of the marginals. While other copulas may be used, the Gaussian copula has the benefit that we may use the analytical expressions for the conditionals in (10) and (11).
+3 . 2 . Gaussian copula
+When the features are far from multivariate Gaussian distributed , one may instead represent the marginals by their empirical distributions , and model the dependence structure by a Gaussian copula . The definition of a d-dimensional copula is a multivariate distribution , C , with uniformly distributed marginals U ( 0 , 1 ) on [ 0 , 1 ]  . Sklar ' s theorem [ 29 ] states that every multivariate distribution F with marginals ,  , … ,  can be written as 
+( 12 ) 
+for some appropriate d-dimensional copula C . In fact , the copula from ( 12 ) has the expression
+where the s are the inverse distribution functions of the marginals . While other copulas may be used , the Gaussian copula has the benefit that we may use the analytical expressions for the conditionals in ( 10 ) and ( 11 )  . 
 
-Assuming a Gaussian copula, we may thus use the following procedure for generating samples from 
-⁎
-:
+Assuming a Gaussian copula , we may thus use the following procedure for generating samples from 
+⁎ 
+: 
 •
-Convert each marginal  of the feature distribution X to a Gaussian feature  by , where  is the empirical distribution function of marginal j.
-
-•
-Assume that V is distributed according to a multivariate Gaussian,2 and sample from the conditional distribution 
-⁎
- using the method described in Section 3.1.
+Convert each marginal of the feature distribution X to a Gaussian feature by , where is the empirical distribution function of marginal j . 
 
 •
-Convert the margins  in the conditional distribution to the original distribution using .
+Assume that V is distributed according to a multivariate Gaussian , 2 and sample from the conditional distribution 
+⁎ 
+using the method described in Section 3 . 1 . 
 
-With a series of samples generated as described above, the integral in (8) is finally approximated by (9).
+•
+Convert the margins in the conditional distribution to the original distribution using . 
 
-3.3. Empirical conditional distribution
-If both the dependence structure and the marginal distributions of x are very far from the Gaussian, neither of the two aforementioned methods are expected to work very well. For such situations, we propose a non-parametric approach. The classical method for non-parametric density estimation is the kernel estimator [30], which in the decades following its introduction has been refined and developed in many directions, see for example [31], [32], [33]. However, the kernel estimator suffers greatly from the curse of dimensionality, which quickly inhibits its use in multivariate problems. Moreover, very few methods exist for the non-parametric estimation of conditional densities, especially when either  or  are not one-dimensional. Finally, most kernel estimation approaches gives a non-parametric density estimate, only, while we need to be able to generate samples from the estimated distribution.
+With a series of samples generated as described above , the integral in ( 8 ) is finally approximated by ( 9 )  . 
 
-Hence, we have developed an empirical conditional approach to sample approximately from 
-⁎
-. The method, which is motivated by the idea that samples  with  close to 
-⁎
- are informative about the conditional distribution 
-⁎
-, consists of the following steps:
-1.
+3 . 3 . Empirical conditional distribution
+If both the dependence structure and the marginal distributions of x are very far from the Gaussian , neither of the two aforementioned methods are expected to work very well . For such situations , we propose a non-parametric approach . The classical method for non-parametric density estimation is the kernel estimator [ 30 ]  , which in the decades following its introduction has been refined and developed in many directions , see for example [ 31 ]  ,  [ 32 ]  ,  [ 33 ]  . However , the kernel estimator suffers greatly from the curse of dimensionality , which quickly inhibits its use in multivariate problems . Moreover , very few methods exist for the non-parametric estimation of conditional densities , especially when either or are not one-dimensional . Finally , most kernel estimation approaches gives a non-parametric density estimate , only , while we need to be able to generate samples from the estimated distribution . 
+
+Hence , we have developed an empirical conditional approach to sample approximately from 
+⁎ 
+. The method , which is motivated by the idea that samples with close to 
+⁎ 
+are informative about the conditional distribution 
+⁎ 
+, consists of the following steps : 
+1 . 
 Compute the distance between the instance 
+⁎ 
+to be explained and all training instances . The distance between 
+⁎ 
+and instance i is computed as 
+( 13 ) 
 ⁎
- to be explained and all training instances . The distance between 
-⁎
- and instance i is computed as
-(13)
 ⁎
 ⁎
-⁎
-where  is the sample covariance matrix for the  instances of . That is, when we compute the distance we only use the elements in the subset . Equation (13) may be viewed as a scaled version of the Mahalanobis distance [34].
+where is the sample covariance matrix for the instances of . That is , when we compute the distance we only use the elements in the subset . Equation ( 13 ) may be viewed as a scaled version of the Mahalanobis distance [ 34 ]  . 
 
-2.
-Compute weights for all training instances  from the distances similarly to a Gaussian distribution kernel:
+2 . 
+Compute weights for all training instances from the distances similarly to a Gaussian distribution kernel : 
 ⁎
 ⁎
-where σ may be viewed as a smoothing parameter or bandwidth that needs to be specified.
+where σ may be viewed as a smoothing parameter or bandwidth that needs to be specified . 
 
-3.
+3 . 
 Sort the weights 
-⁎
- in increasing order, and let  be the training instance corresponding to the kth largest weight.
+⁎ 
+in increasing order , and let be the training instance corresponding to the kth largest weight . 
 
-4.
-Approximate the integral in (8) with a weighted version of (9):
-(14)
+4 . 
+Approximate the integral in ( 8 ) with a weighted version of ( 9 )  :  
+( 14 ) 
 ⁎
 ⁎
 ⁎
 
-Note that we could have used (9), with the  sampled (with replacement) from the training data with weights . Our approach is, however, more sampling effective as it uses each training observation only once, and uses their weights in the integral computation, rather than as input for the sampling only.
+Note that we could have used ( 9 )  , with the sampled ( with replacement ) from the training data with weights . Our approach is , however , more sampling effective as it uses each training observation only once , and uses their weights in the integral computation , rather than as input for the sampling only . 
 
-The number of samples K to be used in the approximate prediction in step 4 can for instance be chosen such that most of the total sum of weights is accounted for by the K largest weights:
-(15)
+The number of samples K to be used in the approximate prediction in step 4 can for instance be chosen such that most of the total sum of weights is accounted for by the K largest weights :  
+( 15 ) 
 ⁎
 ⁎
-where η is set to for instance 0.9. If K in (15) exceeds a certain limit, for instance 5,000, it might be set to that limit.
+where η is set to for instance 0 . 9 . If K in ( 15 ) exceeds a certain limit , for instance 5 , 000 , it might be set to that limit . 
 
-Essentially all kernel based estimation procedures (such as kernel density estimation) require selection of one or more bandwidth parameters. Our method is no exception. The choice of the bandwidth parameter σ may be viewed as a bias-variance trade-off. A small σ puts most of the weight to a few of the closest training observations and thereby gives low bias, but high variance. A large σ spreads the weight to a higher number of (more distant) training observations and thereby gives high bias, but low variance. Typically, when the features are highly dependent, a small σ is needed such that the bias does not dominate. When the features are essentially independent, there is no bias for any σ and a larger σ is preferable. As  our method approximates the original Kernel SHAP method in Section 2.3.2.
+Essentially all kernel based estimation procedures ( such as kernel density estimation ) require selection of one or more bandwidth parameters . Our method is no exception . The choice of the bandwidth parameter σ may be viewed as a bias-variance trade-off . A small σ puts most of the weight to a few of the closest training observations and thereby gives low bias , but high variance . A large σ spreads the weight to a higher number of ( more distant ) training observations and thereby gives high bias , but low variance . Typically , when the features are highly dependent , a small σ is needed such that the bias does not dominate . When the features are essentially independent , there is no bias for any σ and a larger σ is preferable . As our method approximates the original Kernel SHAP method in Section 2 . 3 . 2 . 
 
 By viewing the estimation of 
-⁎
- as a regression problem with response 
-⁎
- and covariates , it turns out that our empirical conditional distribution approach (with ) is equivalent to the Nadaraya-Watson estimator [35]. Hurvich et al. [36] have developed a small-sample-size corrected version of Akaike information criterion (AICc) to select bandwidth parameters in such nonparametric regression problems. The connection to the Nadaraya-Watson estimator allows us to apply the AICc directly to select σ.
+⁎ 
+as a regression problem with response 
+⁎ 
+and covariates , it turns out that our empirical conditional distribution approach ( with ) is equivalent to the Nadaraya-Watson estimator [ 35 ]  . Hurvich et al .  [ 36 ] have developed a small-sample-size corrected version of Akaike information criterion ( AICc ) to select bandwidth parameters in such nonparametric regression problems . The connection to the Nadaraya-Watson estimator allows us to apply the AICc directly to select σ . 
 
-The strategy used in AICc to find a suitable smoothing parameter is to choose the σ which is the minimizer of
-(16)
+The strategy used in AICc to find a suitable smoothing parameter is to choose the σ which is the minimizer of 
+( 16 ) 
 where
 ⁎
 ⁎
 and
-Here, H is the  matrix with indexes
-commonly called the smoother or hat matrix, and  is the trace of H.
+Here , H is the matrix with indexes
+commonly called the smoother or hat matrix , and is the trace of H . 
 
-Thus, to select σ we compute the AICc in (16) for various σ values and select the σ corresponding to the smallest AICc value. This should be done for all subsets  and every new observation 
-⁎
- to be explained, meaning that it is a computationally intensive approach. To reduce the computational burden, we have experimented with different approximations, and ended up with one where σ is assumed to have the same value for all subsets  of the same size . In this approach, which is denoted the approximate AICc method in Section 4, the sum of the AICc values for all subsets of the same size is minimized instead of the AICc values for each subset.
+Thus , to select σ we compute the AICc in ( 16 ) for various σ values and select the σ corresponding to the smallest AICc value . This should be done for all subsets and every new observation 
+⁎ 
+to be explained , meaning that it is a computationally intensive approach . To reduce the computational burden , we have experimented with different approximations , and ended up with one where σ is assumed to have the same value for all subsets of the same size . In this approach , which is denoted the approximate AICc method in Section 4 , the sum of the AICc values for all subsets of the same size is minimized instead of the AICc values for each subset . 
 
-Even the approximate AICc method is quite time consuming. Hence, in Section 4 we have also experimented with a fixed  for all subsets .
+Even the approximate AICc method is quite time consuming . Hence , in Section 4 we have also experimented with a fixed for all subsets . 
 
-3.4. A combined approach
-When performing the experiments to be described in Section 4, it turned out that the empirical conditional distribution method works very well if the dimension of 
-⁎
+3 . 4 . A combined approach
+When performing the experiments to be described in Section 4 , it turned out that the empirical conditional distribution method works very well if the dimension of 
+⁎ 
 , where 
+⁎ 
+is a small number , while it is outperformed by the multivariate Gaussian method and the Gaussian copula method if we condition on more features . This is in accordance with previous literature , see for instance [ 37 ] and references therein . Very few papers attempt to estimate when x has more than dimensions , even if z is one-dimensional . In higher dimensions , the previously proposed methods typically rely on a prior dimension reduction step , which can result in significant loss of information . Hence , it might be wise to combine the empirical approach with either the multivariate Gaussian or the Gaussian copula approach , simulating the conditional distributions for which 
+⁎ 
+using the empirical method , and all other conditional distributions using the parametric method . In this combined approach we at least partly avoid the curse of dimensionality , since the empirical approach is used only when conditioning on a few features and the conditional distributions can be analytically computed for the Gaussian approach . To determine 
+⁎ 
+, one may use for instance cross validation . In our experiments we have , however , determined 
+⁎ 
+based on experience . 
+
+4 . Experiments
+A problem with evaluating prediction explanation methods is that there generally is no ground truth . Hence , to verify that our approaches are more accurate than the original Kernel SHAP method described in Section 2 . 3 . 2 when we have dependent features , we have to turn to simulated data for which we may compute the true Shapley values . 
+
+As computing the exact Shapley values for a single prediction requires solving integrals of the type in ( 8 )  , which are of dimension 1 to , we cannot perform accurate experiments in high dimensional settings . We will however perform experiments in a low dimensional (  ) and moderate dimensional (  ) setting , using various multivariate distributions for the features x , sampling models for , and forms of the predictive model . The experiments with and are treated in Sections 4 . 2 and 4 . 3 , respectively . Due to the low / moderate dimension of the features in these experiments , it is computationally tractable to use the exact version of Kernel SHAP in ( 6 )  . Hence , we do not have to turn to the approximation in ( 7 )  . 
+
+As the AICc dependent approximation methods are directly dependent on the sampled training set , we run the experiments in 10 batches . In each batch , we sample a new training set of size , and use the model fitted to those training data to explain predictions in a test set of size 100 . This means that the quality of the conditional expectation approximations is measured based on a total of test observations . Sampling new training data for each batch also reduces the influence of the exact form of the fitted predictive model , compared to using a single training set across all simulations . 
+
+The Shapley value approximations we compare with the original Kernel SHAP method ( original ) are : 
+•
+The Kernel SHAP with the Gaussian conditional distribution ( Gaussian ) 
+
+•
+The Kernel SHAP with the Gaussian copula and empirical margins ( copula ) 
+
+•
+The Kernel SHAP with the empirical conditional distribution determining σ with exact AICc ( empirical-AICc-exact ) 
+
+•
+The Kernel SHAP with the empirical conditional distribution determining σ with approximate AICc ( empirical-AICc-approx ) 
+
+•
+The Kernel SHAP with the empirical conditional distribution setting for all conditional distributions ( empirical-0 . 1 ) 
+
+•
+The Kernel SHAP with the combined approach using the empirical approach for subsets with dimension ≤3 and the Gaussian approach otherwise ( empirical-0 . 1 + Gaussian and empirical-AICc-approx + Gaussian ) 
+
+•
+The Kernel SHAP with the combined approach using the empirical approach for subsets with dimension ≤3 and the copula approach otherwise ( empirical-0 . 1 + copula and empirical-AICc-approx + copula ) 
+
+Due to the computational complexity , the empirical-AICc-exact method is only used in the 3 dimensional experiments . Furthermore , the combined approaches are only used in the 10 dimensional experiments . For the experiments where XGBoost is used to fit the predictive model , we will also include the so-called TreeSHAP method [ 25 ] in the comparison . 
+
+4 . 1 . Evaluation measures
+To quantify the accuracy of the different methods , we rely on the mean absolute error ( MAE ) of the Shapley value approximations , averaged over all features and all test samples , that is
+where denotes the Shapley value of feature j , for prediction i , and computed with approximation method q , while is the corresponding true value . In order to determine the superiority of the various proposed methods over the original Kernel SHAP method , we rely on the so-called skill score [ 38 ] associated with the aforementioned MAE . The skill score for method q takes the form
+where is the MAE of an optimal method , being equal to zero . The skill score measures the superiority of a method compared to the reference method ( here the original Kernel SHAP )  . It is standardized in such a way that it takes the value 1 for a perfect approximation and 0 for the reference method . When the approximation method is worse than the reference method , the skill score becomes negative . 
+
+To compare the methods on equal terms , all methods are restricted to use samples from the training set for each feature combination and test observation . 
+
+4 . 2 . Dimension 3
+For the three dimensional setting , we will use two different sampling models for  ( linear and piecewise constant )  , and combine these with three different multivariate distributions for the features x ( Gaussian , Generalized Hyperbolic distribution and Gaussian mixture )  , such that we get a total of six experimental setups A-F . In Sections 4 . 2 . 1—4 . 2 . 3 we describe the multivariate feature distributions , while the sampling models are discussed in Sections 4 . 2 . 4 and 4 . 2 . 5 . Finally , Section 4 . 2 . 6 contains the results . 
+
+The noise term is common for all experiments and assumed to follow the distribution . Due to the low dimension , the exact Shapley value in ( 8 ) can be computed using numerical integration . 
+
+4 . 2 . 1 . Gaussian distributed features
+The first feature distribution we shall consider is a multivariate Gaussian distribution , where the covariance matrix takes the form 
+( 17 ) 
+In the various experiments , the correlation coefficient ρ varies between 0 and 0 . 98 , representing an increasing positive correlation among the features . 
+
+4 . 2 . 2 . Skewed and heavy-tailed distributed features
+The second feature distribution to be considered is the Generalized Hyperbolic ( GH ) -distribution . Following [ 39 ]  , a random vector X is said to follow a GH-distribution with index parameter λ , concentration parameter ω , location vector μ , dispersion matrix Σ , and skewness vector β , denoted by , if it can be represented by
+where ,  and W is independent of U . GIG is the Generalized Inverse Gaussian distribution introduced by [ 40 ]  . Appendix C contains more details on this distribution . We use the following parameter values in our experiments : 
 ⁎
- is a small number, while it is outperformed by the multivariate Gaussian method and the Gaussian copula method if we condition on more features. This is in accordance with previous literature, see for instance [37] and references therein. Very few papers attempt to estimate  when x has more than  dimensions, even if z is one-dimensional. In higher dimensions, the previously proposed methods typically rely on a prior dimension reduction step, which can result in significant loss of information. Hence, it might be wise to combine the empirical approach with either the multivariate Gaussian or the Gaussian copula approach, simulating the conditional distributions for which 
-⁎
- using the empirical method, and all other conditional distributions using the parametric method. In this combined approach we at least partly avoid the curse of dimensionality, since the empirical approach is used only when conditioning on a few features and the conditional distributions can be analytically computed for the Gaussian approach. To determine 
-⁎
-, one may use for instance cross validation. In our experiments we have, however, determined 
-⁎
- based on experience.
+where the skewness coefficient κ varies from 1 to 10 in different experiments , resulting in an increasingly more skewed , heavy-tailed and positively correlated distribution .  denotes the mean of the GIG distribution , equal to approximately 4 . 56 for the above parameter values . The special form of μ is chosen such that the GH-distribution has mean zero . 
 
-4. Experiments
-A problem with evaluating prediction explanation methods is that there generally is no ground truth. Hence, to verify that our approaches are more accurate than the original Kernel SHAP method described in Section 2.3.2 when we have dependent features, we have to turn to simulated data for which we may compute the true Shapley values.
+4 . 2 . 3 . Multi-modal distributed features
+The last feature distribution is a mixture of two Gaussian distributions with different means . That is , 
+with mixture probabilities and mean functions . The covariance matrix Σ is assumed to be on the form in ( 17 )  . The γ parameter represents the distance between the two Gaussian distributions , and will range from 0 . 5 to 10 in the different experiments . 
 
-As computing the exact Shapley values for a single prediction requires solving  integrals of the type in (8), which are of dimension 1 to , we cannot perform accurate experiments in high dimensional settings. We will however perform experiments in a low dimensional () and moderate dimensional () setting, using various multivariate distributions for the features x, sampling models for , and forms of the predictive model . The experiments with  and  are treated in Sections 4.2 and 4.3, respectively. Due to the low/moderate dimension of the features in these experiments, it is computationally tractable to use the exact version of Kernel SHAP in (6). Hence, we do not have to turn to the approximation in (7).
+4 . 2 . 4 . Linear model
+The first sampling model is a simple linear model : 
+Data from such a distribution will be modeled by fitting the parameters in the linear model
+using ordinary linear regression . 
 
-As the AICc dependent approximation methods are directly dependent on the sampled training set, we run the experiments in 10 batches. In each batch, we sample a new training set of size , and use the model fitted to those training data to explain predictions in a test set of size 100. This means that the quality of the conditional expectation approximations is measured based on a total of  test observations. Sampling new training data for each batch also reduces the influence of the exact form of the fitted predictive model, compared to using a single training set across all simulations.
+4 . 2 . 5 . Piecewise constant model
+The second sampling model is a piecewise constant model constructed by summing three different piecewise constant functions : 
+The functions ,  , and are displayed in Fig . 1 . We fit the model with the XGBoost framework [ 26 ] using default values of all hyperparameters , the histogram tree learning method and 50 boosting iterations . 
 
-The Shapley value approximations we compare with the original Kernel SHAP method (original) are:
-•
-The Kernel SHAP with the Gaussian conditional distribution (Gaussian)
+Fig . 1
+Download : Download high-res image ( 132KB ) Download : Download full-size image
+Fig . 1 . Piecewise constant functions used in experiment D , E and F .  ( For interpretation of the colors in the figure ( s )  , the reader is referred to the web version of this article .  ) 
 
-•
-The Kernel SHAP with the Gaussian copula and empirical margins (copula)
+4 . 2 . 6 . Results
+The results from the 3D-experiments are visualized in Fig . 2 , Fig . 3 . In experiment A we have used a linear sampling model and Gaussian features . As seen from the upper row of Fig . 2 , the original Kernel SHAP method works well when the features are independent , but it is outperformed by all other methods when ρ is greater than 0 . 05 . The Gaussian model generally shows the best performance . It should also be noted that the AICc method for determining σ works better than using the fixed value of 0 . 1 . 
 
-•
-The Kernel SHAP with the empirical conditional distribution determining σ with exact AICc (empirical-AICc-exact)
+Fig . 2
+Download : Download high-res image ( 838KB ) Download : Download full-size image
+Fig . 2 . Dimension 3 : MAE and skill score for the linear model . Upper row : Gaussian features . Middle row : GH-distributed features . Lower row : Gaussian mixture distributed features . 
 
-•
-The Kernel SHAP with the empirical conditional distribution determining σ with approximate AICc (empirical-AICc-approx)
+Fig . 3
+Download : Download high-res image ( 958KB ) Download : Download full-size image
+Fig . 3 . Dimension 3 : MAE and skill score for the piecewise constant model . Upper row : Gaussian features . Middle row : GH-distributed features . Lower row : Gaussian mixture distributed features . 
 
-•
-The Kernel SHAP with the empirical conditional distribution setting  for all conditional distributions (empirical-0.1)
+In experiment B , we still have the linear sampling model , but now we have skewed and heavy-tailed features . Like for the previous experiment , the original Kernel SHAP method is outperformed by all other approaches . As shown in the middle row of Fig . 2 , when κ increases , the MAE values of the copula and Gaussian methods are reduced . This might be due to the increased variance of the features that comes as a by-product of increasing the κ parameter . For this experiment , the empirical approach with a fixed performs uniformly better than those based on AICc . 
 
-•
-The Kernel SHAP with the combined approach using the empirical approach for subsets with dimension ≤3 and the Gaussian approach otherwise (empirical-0.1+Gaussian and empirical-AICc-approx+Gaussian)
+In experiment C , we have the same sampling model , but now with bimodal Gaussian mixture distributed features . Again , all our methods perform uniformly better than the original Kernel SHAP method . The lower row of Fig . 2 further shows that the empirical methods outperform the Gaussian and copula methods , especially when γ ( that is , the distance between the modes of the feature distribution ) is large . 
 
-•
-The Kernel SHAP with the combined approach using the empirical approach for subsets with dimension ≤3 and the copula approach otherwise (empirical-0.1+copula and empirical-AICc-approx+copula)
+In experiments D-F we use the same feature distributions as in A-C , but for these experiments we use a piecewise constant model instead of the linear . The results are largely the same as in the linear model case . The original Kernel SHAP method is outperformed by all other approaches . Further the Gaussian model is best when we have Gaussian features , while the empirical approaches are best when the feature distribution is bi-modal . In the case with skewed and heavy-tailed features , the Gaussian and copula methods again seem to be preferable for larger values of κ . 
 
-Due to the computational complexity, the empirical-AICc-exact method is only used in the 3 dimensional experiments. Furthermore, the combined approaches are only used in the 10 dimensional experiments. For the experiments where XGBoost is used to fit the predictive model, we will also include the so-called TreeSHAP method [25] in the comparison.
+For the experiments with the piecewise constant model , we have used the TreeSHAP method in addition to the other ones . As shown in Fig . 3 , the performance of this method is just slightly better than that of the original kernel SHAP method for experiments D and E , and worse in experiment F . This is surprising , since the TreeSHAP method is supposed to handle dependence better than the original kernel SHAP method . 
 
-4.1. Evaluation measures
-To quantify the accuracy of the different methods, we rely on the mean absolute error (MAE) of the Shapley value approximations, averaged over all features and all test samples, that is
-where  denotes the Shapley value of feature j, for prediction i, and computed with approximation method q, while  is the corresponding true value. In order to determine the superiority of the various proposed methods over the original Kernel SHAP method, we rely on the so-called skill score [38] associated with the aforementioned MAE. The skill score for method q takes the form
-where  is the MAE of an optimal method, being equal to zero. The skill score measures the superiority of a method compared to the reference method (here the original Kernel SHAP). It is standardized in such a way that it takes the value 1 for a perfect approximation and 0 for the reference method. When the approximation method is worse than the reference method, the skill score becomes negative.
+Overall , our 3 dimensional experiments clearly show that it is important to account for the dependence between the features when computing the Shapley values . Which of the suggested methods that is best , depends on the underlying feature distribution . Further , since the results for our empirical method using the approximate AICc version are fairly similar ( and in some cases even better ) to those using the slower exact version , we recommend the former . 
 
-To compare the methods on equal terms, all methods are restricted to use  samples from the training set for each feature combination and test observation.
+4 . 3 . Dimension 10
+In the 10 dimensional case we have restricted ourselves to three types of experiments . In the first two , we use Gaussian distributed features on the same form as described for the 3 dimensional case in Section 4 . 2 . 1 . That is ,  , where is the 10 dimensional extension of ( 17 ) such that all features have variance 1 and the pairwise correlation between any two features is ρ . 
 
-4.2. Dimension 3
-For the three dimensional setting, we will use two different sampling models for  (linear and piecewise constant), and combine these with three different multivariate distributions for the features x (Gaussian, Generalized Hyperbolic distribution and Gaussian mixture), such that we get a total of six experimental setups A-F. In Sections 4.2.1—4.2.3 we describe the multivariate feature distributions, while the sampling models are discussed in Sections 4.2.4 and 4.2.5. Finally, Section 4.2.6 contains the results.
+The first experiment uses a sampling model directly extending the 3 dimensional linear model in Section 4 . 2 . 4 , that is , 
+where we use the same error term as in the 3 dimensional experiments . Analogous to the 3 dimensional case , y is modeled by ordinary linear regression
 
-The noise term  is common for all experiments and assumed to follow the distribution . Due to the low dimension, the exact Shapley value in (8) can be computed using numerical integration.
+The second experiment extends the 3 dimensional experiment described in Section 4 . 2 . 5 , taking the form
+again excluding the effect of the 10th feature . As for the 3 dimensional case , the model is fitted using the XGBoost framework , using the same settings . Note that for both the above settings , feature 10 has no direct influence on y . 
 
-4.2.1. Gaussian distributed features
-The first feature distribution  we shall consider is a multivariate Gaussian distribution , where the covariance matrix  takes the form
-(17)
-In the various experiments, the correlation coefficient ρ varies between 0 and 0.98, representing an increasing positive correlation among the features.
+In the last experiment , we simulate data from a 10 dimensional GH-distribution with the following parameter values
+As sampling model , we use the piecewise constant model described above . 
 
-4.2.2. Skewed and heavy-tailed distributed features
-The second feature distribution  to be considered is the Generalized Hyperbolic(GH)-distribution. Following [39], a random vector X is said to follow a GH-distribution with index parameter λ, concentration parameter ω, location vector μ, dispersion matrix Σ, and skewness vector β, denoted by , if it can be represented by
-where ,  and W is independent of U. GIG is the Generalized Inverse Gaussian distribution introduced by [40]. Appendix C contains more details on this distribution. We use the following parameter values in our experiments:
-⁎
-where the skewness coefficient κ varies from 1 to 10 in different experiments, resulting in an increasingly more skewed, heavy-tailed and positively correlated distribution.  denotes the mean of the GIG distribution, equal to approximately 4.56 for the above parameter values. The special form of μ is chosen such that the GH-distribution has mean zero.
+We didn ' t use the empirical-AICc-exact approach for any of the 10 dimensional experiments . As previously stated , this approach is computationally intensive . Moreover , the 3 dimensional experiments showed that the performance of the empirical-AICc-exact and the empirical-AICc-approx approaches were very similar . For the 3 dimensional experiment with the Generalized Hyperbolic features and piecewise constant model , the MAE and skill scores for the three empirical approaches were almost equal , meaning that it is not necessary to use the significantly more computational heavy AICc approach . Hence , the only empirical approach used in the last experiment was the empirical-0 . 1 method . In the combined approaches , we use the empirical approach for subsets with dimension ≤3 , with the bandwidth parameter σ either determined by the approximate AICc method ( in the linear case , only ) or fixed to 0 . 1 . 
 
-4.2.3. Multi-modal distributed features
-The last feature distribution is a mixture of two Gaussian distributions with different means. That is,
-with mixture probabilities  and mean functions . The covariance matrix Σ is assumed to be on the form in (17). The γ parameter represents the distance between the two Gaussian distributions, and will range from 0.5 to 10 in the different experiments.
+The results from the simulation experiments are shown in Fig . 4 , Fig . 5 and Table 1 . While numerical integration was used to compute the exact Shapley values in the 3 dimensional experiments , we have to turn to Monte Carlo integration for the 10 dimensional case . That is , we use ( 9 ) even when computing the true Shapley value , but using samples from the true conditional distribution instead of samples from the estimated conditional distribution . 
 
-4.2.4. Linear model
-The first sampling model  is a simple linear model:
-Data from such a distribution will be modeled by fitting the parameters  in the linear model
-using ordinary linear regression.
+Fig . 4
+Download : Download high-res image ( 321KB ) Download : Download full-size image
+Fig . 4 . Dimension 10 : MAE and skill score for linear model with Gaussian distributed features . 
 
-4.2.5. Piecewise constant model
-The second sampling model  is a piecewise constant model constructed by summing three different piecewise constant functions:
-The functions , , and  are displayed in Fig. 1. We fit the model  with the XGBoost framework [26] using default values of all hyperparameters, the histogram tree learning method and 50 boosting iterations.
+Fig . 5
+Download : Download high-res image ( 362KB ) Download : Download full-size image
+Fig . 5 . Dimension 10 : MAE and skill score for piecewise constant model with Gaussian distributed features . 
 
-Fig. 1
-Download : Download high-res image (132KB)Download : Download full-size image
-Fig. 1. Piecewise constant functions used in experiment D, E and F. (For interpretation of the colors in the figure(s), the reader is referred to the web version of this article.)
-
-4.2.6. Results
-The results from the 3D-experiments are visualized in Fig. 2, Fig. 3. In experiment A we have used a linear sampling model and Gaussian features. As seen from the upper row of Fig. 2, the original Kernel SHAP method works well when the features are independent, but it is outperformed by all other methods when ρ is greater than 0.05. The Gaussian model generally shows the best performance. It should also be noted that the AICc method for determining σ works better than using the fixed value of 0.1.
-
-Fig. 2
-Download : Download high-res image (838KB)Download : Download full-size image
-Fig. 2. Dimension 3: MAE and skill score for the linear model. Upper row: Gaussian features. Middle row: GH-distributed features. Lower row: Gaussian mixture distributed features.
-
-Fig. 3
-Download : Download high-res image (958KB)Download : Download full-size image
-Fig. 3. Dimension 3: MAE and skill score for the piecewise constant model. Upper row: Gaussian features. Middle row: GH-distributed features. Lower row: Gaussian mixture distributed features.
-
-In experiment B, we still have the linear sampling model, but now we have skewed and heavy-tailed features. Like for the previous experiment, the original Kernel SHAP method is outperformed by all other approaches. As shown in the middle row of Fig. 2, when κ increases, the MAE values of the copula and Gaussian methods are reduced. This might be due to the increased variance of the features that comes as a by-product of increasing the κ parameter. For this experiment, the empirical approach with a fixed  performs uniformly better than those based on AICc.
-
-In experiment C, we have the same sampling model, but now with bimodal Gaussian mixture distributed features. Again, all our methods perform uniformly better than the original Kernel SHAP method. The lower row of Fig. 2 further shows that the empirical methods outperform the Gaussian and copula methods, especially when γ (that is, the distance between the modes of the feature distribution) is large.
-
-In experiments D-F we use the same feature distributions as in A-C, but for these experiments we use a piecewise constant model instead of the linear. The results are largely the same as in the linear model case. The original Kernel SHAP method is outperformed by all other approaches. Further the Gaussian model is best when we have Gaussian features, while the empirical approaches are best when the feature distribution is bi-modal. In the case with skewed and heavy-tailed features, the Gaussian and copula methods again seem to be preferable for larger values of κ.
-
-For the experiments with the piecewise constant model, we have used the TreeSHAP method in addition to the other ones. As shown in Fig. 3, the performance of this method is just slightly better than that of the original kernel SHAP method for experiments D and E, and worse in experiment F. This is surprising, since the TreeSHAP method is supposed to handle dependence better than the original kernel SHAP method.
-
-Overall, our 3 dimensional experiments clearly show that it is important to account for the dependence between the features when computing the Shapley values. Which of the suggested methods that is best, depends on the underlying feature distribution. Further, since the results for our empirical method using the approximate AICc version are fairly similar (and in some cases even better) to those using the slower exact version, we recommend the former.
-
-4.3. Dimension 10
-In the 10 dimensional case we have restricted ourselves to three types of experiments. In the first two, we use Gaussian distributed features on the same form as described for the 3 dimensional case in Section 4.2.1. That is, , where  is the 10 dimensional extension of (17) such that all features have variance 1 and the pairwise correlation between any two features is ρ.
-
-The first experiment uses a sampling model  directly extending the 3 dimensional linear model in Section 4.2.4, that is,
-where we use the same error term  as in the 3 dimensional experiments. Analogous to the 3 dimensional case, y is modeled by ordinary linear regression
-
-The second experiment extends the 3 dimensional experiment described in Section 4.2.5, taking the form
-again excluding the effect of the 10th feature. As for the 3 dimensional case, the model  is fitted using the XGBoost framework, using the same settings. Note that for both the above settings, feature 10 has no direct influence on y.
-
-In the last experiment, we simulate data from a 10 dimensional GH-distribution with the following parameter values
-As sampling model, we use the piecewise constant model described above.
-
-We didn't use the empirical-AICc-exact approach for any of the 10 dimensional experiments. As previously stated, this approach is computationally intensive. Moreover, the 3 dimensional experiments showed that the performance of the empirical-AICc-exact and the empirical-AICc-approx approaches were very similar. For the 3 dimensional experiment with the Generalized Hyperbolic features and piecewise constant model, the MAE and skill scores for the three empirical approaches were almost equal, meaning that it is not necessary to use the significantly more computational heavy AICc approach. Hence, the only empirical approach used in the last experiment was the empirical-0.1 method. In the combined approaches, we use the empirical approach for subsets with dimension ≤3, with the bandwidth parameter σ either determined by the approximate AICc method (in the linear case, only) or fixed to 0.1.
-
-The results from the simulation experiments are shown in Fig. 4, Fig. 5 and Table 1. While numerical integration was used to compute the exact Shapley values in the 3 dimensional experiments, we have to turn to Monte Carlo integration for the 10 dimensional case. That is, we use (9) even when computing the true Shapley value, but using samples from the true conditional distribution instead of samples from the estimated conditional distribution.
-
-Fig. 4
-Download : Download high-res image (321KB)Download : Download full-size image
-Fig. 4. Dimension 10: MAE and skill score for linear model with Gaussian distributed features.
-
-Fig. 5
-Download : Download high-res image (362KB)Download : Download full-size image
-Fig. 5. Dimension 10: MAE and skill score for piecewise constant model with Gaussian distributed features.
-
-Table 1. Dimension 10: MAE and skill score for piecewise constant model with GH-distributed features.
+Table 1 . Dimension 10 : MAE and skill score for piecewise constant model with GH-distributed features . 
 
 Approach	MAE	Skill score
-original	1.182	0.000
-Gaussian	0.377	0.633
-copula	0.526	0.504
-empirical-0.1	0.307	0.737
-empirical-0.1+Gaussian	0.199	0.821
-empirical-0.1+Copula	0.236	0.791
-TreeSHAP	1.181	0.014
-From the figures, we see that the results with Gaussian distributed features in dimension 10 are mostly the same as for the 3 dimensional counterparts in Fig. 2, with the Gaussian method generally showing the best performance. The combined empirical and Gaussian/copula approaches also work well. For the piecewise constant model, the TreeSHAP method behaves as in the 3 dimensional case: slightly better than the original kernel SHAP method for small and medium sized dependence, but worse when there is high dependence between the features.
+original	1 . 182	0 . 000
+Gaussian	0 . 377	0 . 633
+copula	0 . 526	0 . 504
+empirical-0 . 1	0 . 307	0 . 737
+empirical-0 . 1 + Gaussian	0 . 199	0 . 821
+empirical-0 . 1 + Copula	0 . 236	0 . 791
+TreeSHAP	1 . 181	0 . 014
+From the figures , we see that the results with Gaussian distributed features in dimension 10 are mostly the same as for the 3 dimensional counterparts in Fig . 2 , with the Gaussian method generally showing the best performance . The combined empirical and Gaussian / copula approaches also work well . For the piecewise constant model , the TreeSHAP method behaves as in the 3 dimensional case : slightly better than the original kernel SHAP method for small and medium sized dependence , but worse when there is high dependence between the features . 
 
-For the skewed and heavy-tailed data, Table 1 shows that the empirical-0.1+Gaussian method gives the best performance, having slightly better MAE values and skill scores than the empirical-0.1+copula method. Finally, like for the other experiments, all our suggested approaches outperform the original Kernel SHAP and the TreeSHAP method.
+For the skewed and heavy-tailed data , Table 1 shows that the empirical-0 . 1 + Gaussian method gives the best performance , having slightly better MAE values and skill scores than the empirical-0 . 1 + copula method . Finally , like for the other experiments , all our suggested approaches outperform the original Kernel SHAP and the TreeSHAP method . 
 
-4.4. Real data example
-In our last example, we use a real data set. The data set consists of 28 features extracted from 6 transaction time series. It has previously been used for predicting mortgage default, relating probability of default to transaction information [3]. The transaction information consists of the daily balances on consumers' credit (kk), checking (br), and savings (sk) accounts, in addition to the daily number of transactions on the checking account (tr), the amount transferred into the checking account (inn), and the sum of the checking, savings, and credit card accounts (sum). For each of these time series, which were of length 365 days, the mean (mean), maximum (max), minimum (min), standard deviation (std), and the coefficient of variation (cv) were computed, resulting in 28 features. These are scaled to have mean 0 and standard deviation 1 before they are used in our computations.
+4 . 4 . Real data example
+In our last example , we use a real data set . The data set consists of 28 features extracted from 6 transaction time series . It has previously been used for predicting mortgage default , relating probability of default to transaction information [ 3 ]  . The transaction information consists of the daily balances on consumers ' credit ( kk )  , checking ( br )  , and savings ( sk ) accounts , in addition to the daily number of transactions on the checking account ( tr )  , the amount transferred into the checking account ( inn )  , and the sum of the checking , savings , and credit card accounts ( sum )  . For each of these time series , which were of length 365 days , the mean ( mean )  , maximum ( max )  , minimum ( min )  , standard deviation ( std )  , and the coefficient of variation ( cv ) were computed , resulting in 28 features . These are scaled to have mean 0 and standard deviation 1 before they are used in our computations . 
 
-Fig. 6 shows histograms for nine of the features (the remaining features have similar distributions). The feature distributions are skewed and heavy-tailed. The pairwise rank correlations measured by Kendall's τ [41] are shown in Fig. 7. We use Kendall's τ instead of the linear correlation coefficient because our variables are far from linearly dependent, see Fig. 9 for some examples. Most rank correlations in Fig. 7 are close to 0, but there are groups of features with high mutual correlations. Hence, we expect our approach to give more accurate approximations to the true Shapley values than the original Kernel SHAP method since the latter assumes independent features.
+Fig . 6 shows histograms for nine of the features ( the remaining features have similar distributions )  . The feature distributions are skewed and heavy-tailed . The pairwise rank correlations measured by Kendall ' s τ [ 41 ] are shown in Fig . 7 . We use Kendall ' s τ instead of the linear correlation coefficient because our variables are far from linearly dependent , see Fig . 9 for some examples . Most rank correlations in Fig . 7 are close to 0 , but there are groups of features with high mutual correlations . Hence , we expect our approach to give more accurate approximations to the true Shapley values than the original Kernel SHAP method since the latter assumes independent features . 
 
-Fig. 6
-Download : Download high-res image (393KB)Download : Download full-size image
-Fig. 6. Histograms for nine of the variables in the real data set.
+Fig . 6
+Download : Download high-res image ( 393KB ) Download : Download full-size image
+Fig . 6 . Histograms for nine of the variables in the real data set . 
 
-Fig. 7
-Download : Download high-res image (633KB)Download : Download full-size image
-Fig. 7. Kendall's τ correlation matrix for the real data set.
+Fig . 7
+Download : Download high-res image ( 633KB ) Download : Download full-size image
+Fig . 7 . Kendall ' s τ correlation matrix for the real data set . 
 
-The data set was divided into a training set and a test set, containing 12,696 and 1,921 observations respectively. We fitted an XGBoost model with 50 trees to the training data, using default parameter settings. The resulting AUC for the test data was 0.88.
+The data set was divided into a training set and a test set , containing 12 , 696 and 1 , 921 observations respectively . We fitted an XGBoost model with 50 trees to the training data , using default parameter settings . The resulting AUC for the test data was 0 . 88 . 
 
-The last example in Section 4.3 showed that for the case with skewed and heavy-tailed features and a piecewise constant model, the combined approaches were superior to the other, with the empirical-0.1+Gaussian approach as the best performing method. We assume that this is also the case for the real data set, and compare the performance of this method with the original Kernel SHAP approach.
+The last example in Section 4 . 3 showed that for the case with skewed and heavy-tailed features and a piecewise constant model , the combined approaches were superior to the other , with the empirical-0 . 1 + Gaussian approach as the best performing method . We assume that this is also the case for the real data set , and compare the performance of this method with the original Kernel SHAP approach . 
 
-Fig. 8 shows the Shapley-values for two of the individuals in the data set. The Shapley values are quite different. For individual A, there are e.g. large differences for the variables br_mean, br_min and br_max and for the variables sum_min, sum_mean and sum_max. From the Kendall's τ matrix in Fig. 7 we see that all these variables are positively correlated with many other variables. Hence, it is not surprising that the Shapley values for the two methods are different. For individual B, we also observe large differences for the variables sum_min, sum_mean and sum_max. In addition, it is worth noticing that the Shapley values for variable kk_cv have opposite signs. This variable is strongly negatively correlated to the variable kk_std. In addition it is positively correlated to kk_min, kk_mean and kk_max.
+Fig . 8 shows the Shapley-values for two of the individuals in the data set . The Shapley values are quite different . For individual A , there are e . g . large differences for the variables br_mean , br_min and br_max and for the variables sum_min , sum_mean and sum_max . From the Kendall ' s τ matrix in Fig . 7 we see that all these variables are positively correlated with many other variables . Hence , it is not surprising that the Shapley values for the two methods are different . For individual B , we also observe large differences for the variables sum_min , sum_mean and sum_max . In addition , it is worth noticing that the Shapley values for variable kk_cv have opposite signs . This variable is strongly negatively correlated to the variable kk_std . In addition it is positively correlated to kk_min , kk_mean and kk_max . 
 
-Fig. 8
-Download : Download high-res image (456KB)Download : Download full-size image
-Fig. 8. Shapley values for two persons in the real data set computed using our method and the original Kernel SHAP method.
+Fig . 8
+Download : Download high-res image ( 456KB ) Download : Download full-size image
+Fig . 8 . Shapley values for two persons in the real data set computed using our method and the original Kernel SHAP method . 
 
-As previously stated, a problem with evaluating Shapley values for real data is that there is no ground truth. Hence, we have to justify the results in other ways. As shown in (1), the Shapley value is a weighted sum of differences  for several subsets . Both in our method and in the original Kernel SHAP method  is estimated by (9). The two methods differ, however, in that the original Kernel SHAP method assumes feature independence when generating samples from the conditional distribution 
-⁎
-. Hence, if we are able to show that the samples from the conditional distributions generated using our method are more representative than the samples generated using the original Kernel SHAP method, it is likely that the Shapley values obtained using our method are more accurate than those obtained using the original Kernel SHAP method.
+As previously stated , a problem with evaluating Shapley values for real data is that there is no ground truth . Hence , we have to justify the results in other ways . As shown in ( 1 )  , the Shapley value is a weighted sum of differences for several subsets . Both in our method and in the original Kernel SHAP method is estimated by ( 9 )  . The two methods differ , however , in that the original Kernel SHAP method assumes feature independence when generating samples from the conditional distribution 
+⁎ 
+. Hence , if we are able to show that the samples from the conditional distributions generated using our method are more representative than the samples generated using the original Kernel SHAP method , it is likely that the Shapley values obtained using our method are more accurate than those obtained using the original Kernel SHAP method . 
 
-Since there are very many conditional distributions involved in the Shapley formula when we have 28 variables, it is impossible to show all here. However, we have included some examples that illustrate that our method gives more correct approximations to the true conditional distributions than the original Kernel SHAP approach. First, Fig. 9 shows plots of br_min against br_max and br_std against br_max. The black dots are the training data. The turquoise dots are the samples from the conditional distribution of the variable at the x-axis given that br_max is equal to zero generated using our method, while the red dots are the corresponding samples generated using the original Kernel SHAP approach. The original Kernel SHAP approach generates samples that are unrealistic, in the sense that they are far outside the range of what is observed in the training data. It is well known that evaluation of predictive machine learning models far from the domain at which they have been trained, can lead to spurious predictions. Thus, it is important that the explanation methods are evaluating the predictive model at appropriate feature combinations. The samples generated by our method are inside the range of what is observed in the training data.
+Since there are very many conditional distributions involved in the Shapley formula when we have 28 variables , it is impossible to show all here . However , we have included some examples that illustrate that our method gives more correct approximations to the true conditional distributions than the original Kernel SHAP approach . First , Fig . 9 shows plots of br_min against br_max and br_std against br_max . The black dots are the training data . The turquoise dots are the samples from the conditional distribution of the variable at the x-axis given that br_max is equal to zero generated using our method , while the red dots are the corresponding samples generated using the original Kernel SHAP approach . The original Kernel SHAP approach generates samples that are unrealistic , in the sense that they are far outside the range of what is observed in the training data . It is well known that evaluation of predictive machine learning models far from the domain at which they have been trained , can lead to spurious predictions . Thus , it is important that the explanation methods are evaluating the predictive model at appropriate feature combinations . The samples generated by our method are inside the range of what is observed in the training data . 
 
-Fig. 9
-Download : Download high-res image (195KB)Download : Download full-size image
-Fig. 9. Plots of br_min against br_max (left) and br_std against br_max (right). The black dots are the training data. The turquoise dots are the samples from the conditional distribution of the variable at the x-axis given that br_max is equal to zero generated using our method, while the red dots are the corresponding samples generated using the original Kernel SHAP approach.
+Fig . 9
+Download : Download high-res image ( 195KB ) Download : Download full-size image
+Fig . 9 . Plots of br_min against br_max ( left ) and br_std against br_max ( right )  . The black dots are the training data . The turquoise dots are the samples from the conditional distribution of the variable at the x-axis given that br_max is equal to zero generated using our method , while the red dots are the corresponding samples generated using the original Kernel SHAP approach . 
 
-Further, in Fig. 10 we study three different conditional distributions involved in the Shapley formula:
+Further , in Fig . 10 we study three different conditional distributions involved in the Shapley formula : 
 •
-The conditional distribution of sum_min, sum_mean and sum_max given all the other variables.
-
-•
-The conditional distribution of all variables except inn_cv given inn_cv.
+The conditional distribution of sum_min , sum_mean and sum_max given all the other variables . 
 
 •
-The conditional distribution of all variables except kk_mean and br_max given kk_mean and br_max.
+The conditional distribution of all variables except inn_cv given inn_cv . 
 
-For all the three distributions, we generate 1,000 samples for four of the individuals in the test data set using our method and the original Kernel SHAP approach. That is, we condition on four different sets of values. For each combination of individual, conditional distribution and method, we compute the mean Mahalanobis distance between each sample and its ten nearest training samples, resulting in 1,000 different mean distances. Each panel of Fig. 10 shows the probability density of such mean distances after scaling the mean distances with the average for the original method. Hence, the distances are sized relative to the mean distance of the original method. If the generated samples are realistic, we would expect the majority of the mean distances to be small.
+•
+The conditional distribution of all variables except kk_mean and br_max given kk_mean and br_max . 
 
-Fig. 10
-Download : Download high-res image (324KB)Download : Download full-size image
-Fig. 10. Probability densities of mean Mahalanobis distances for three different conditional distributions and three different individuals. See the text for a further description.
+For all the three distributions , we generate 1 , 000 samples for four of the individuals in the test data set using our method and the original Kernel SHAP approach . That is , we condition on four different sets of values . For each combination of individual , conditional distribution and method , we compute the mean Mahalanobis distance between each sample and its ten nearest training samples , resulting in 1 , 000 different mean distances . Each panel of Fig . 10 shows the probability density of such mean distances after scaling the mean distances with the average for the original method . Hence , the distances are sized relative to the mean distance of the original method . If the generated samples are realistic , we would expect the majority of the mean distances to be small . 
 
-Starting with the leftmost column, the mode of the density corresponding to our method is smaller that corresponding to the original Kernel SHAP approach. This indicates that the samples generated by our approach are more realistic than those generated by the original Kernel SHAP approach. From the Kendall's τ matrix in Fig. 7 we see that the variables sum_min, sum_mean and sum_max are positively correlated with many of the other variables. Hence, it makes sense that our method provides a better estimate of this conditional distribution.
+Fig . 10
+Download : Download high-res image ( 324KB ) Download : Download full-size image
+Fig . 10 . Probability densities of mean Mahalanobis distances for three different conditional distributions and three different individuals . See the text for a further description . 
 
-If we proceed to the second column, the densities for the two approaches are very similar. This is not surprising, since, as shown in Fig. 7, the variable inn_cv is almost uncorrelated with all other variables.
+Starting with the leftmost column , the mode of the density corresponding to our method is smaller that corresponding to the original Kernel SHAP approach . This indicates that the samples generated by our approach are more realistic than those generated by the original Kernel SHAP approach . From the Kendall ' s τ matrix in Fig . 7 we see that the variables sum_min , sum_mean and sum_max are positively correlated with many of the other variables . Hence , it makes sense that our method provides a better estimate of this conditional distribution . 
 
-Finally, in the rightmost column, the mode of the density corresponding to our method is again smaller than that corresponding to the original Kernel SHAP approach, but the differences are not as large as those in the first column. We believe that this can be explained by the fact that one of the variables we condition on, kk_mean, is strongly correlated to only a few of the other variables.
+If we proceed to the second column , the densities for the two approaches are very similar . This is not surprising , since , as shown in Fig . 7 , the variable inn_cv is almost uncorrelated with all other variables . 
 
-To summarize, we have illustrated that the Shapley values computed using our method and the original method are different. We have tried to justify that this is due to the fact that our method gives more correct approximations to the true conditional distributions than the original Kernel SHAP approach.
+Finally , in the rightmost column , the mode of the density corresponding to our method is again smaller than that corresponding to the original Kernel SHAP approach , but the differences are not as large as those in the first column . We believe that this can be explained by the fact that one of the variables we condition on , kk_mean , is strongly correlated to only a few of the other variables . 
 
-5. Summary and discussion
-Shapley values is a model-agnostic method for explaining individual predictions with a solid theoretical foundation. The main disadvantage with this method is that the computational complexity grows exponentially with the number of features. This has led to approximations, of which the Kernel SHAP method is the most known. A key ingredient of the Kernel SHAP method is the conditional distribution of a subset  of the features, conditional on the features in  that are not in this subset. In the original version of the Kernel SHAP method it is implicitly assumed that the features in the two subsets are independent, meaning that the conditional distribution may be replaced by the marginal distribution of the features in . If there is a high degree of dependence among some or all the features, the independence assumption may lead to unrealistic combinations of feature values. Since evaluation of predictive machine learning models far from the domain at which they have been trained can lead to spurious predictions, the resulting Shapley values may not be correct. This paper introduces a modified version of the Kernel SHAP method, which handles dependent features. We have proposed four different approaches for estimating the conditional distribution; assuming a Gaussian multivariate distribution for all features, assuming a Gaussian copula with empirical margins, using an empirical approach and a combination of the empirical approach and either the Gaussian or the Gaussian copula approach.
+To summarize , we have illustrated that the Shapley values computed using our method and the original method are different . We have tried to justify that this is due to the fact that our method gives more correct approximations to the true conditional distributions than the original Kernel SHAP approach . 
 
-We have performed a comprehensive simulation study with linear and non-linear models, Gaussian and non-Gaussian distributions, and dimensions 3 and 10, where our methods give more accurate approximations to the true Shapley values than the original Kernel SHAP approach. For the non-linear models, these methods clearly outperformed the TreeSHAP method, which, to the best of our knowledge, is the only Shapley approach which tries to handle dependence between features in the prediction explanation setting. When performing our experiments, it turned out that the non-parametric approach was superior when conditioning on a small number of the features, while it was outperformed by the Gaussian and copula methods if we condition on more variables. Hence, we regard the combined approach to be the most promising of our proposed methods. This approach was applied to a real case with 28 variables, where the predictions to be explained were produced by a XGBoost classifier designed to predict mortgage default. In this case, the true Shapley values are not known. However, we provide results, which indicate that our combined approach provides more sensible approximations than the original Kernel SHAP methods.
+5 . Summary and discussion
+Shapley values is a model-agnostic method for explaining individual predictions with a solid theoretical foundation . The main disadvantage with this method is that the computational complexity grows exponentially with the number of features . This has led to approximations , of which the Kernel SHAP method is the most known . A key ingredient of the Kernel SHAP method is the conditional distribution of a subset of the features , conditional on the features in that are not in this subset . In the original version of the Kernel SHAP method it is implicitly assumed that the features in the two subsets are independent , meaning that the conditional distribution may be replaced by the marginal distribution of the features in . If there is a high degree of dependence among some or all the features , the independence assumption may lead to unrealistic combinations of feature values . Since evaluation of predictive machine learning models far from the domain at which they have been trained can lead to spurious predictions , the resulting Shapley values may not be correct . This paper introduces a modified version of the Kernel SHAP method , which handles dependent features . We have proposed four different approaches for estimating the conditional distribution ; assuming a Gaussian multivariate distribution for all features , assuming a Gaussian copula with empirical margins , using an empirical approach and a combination of the empirical approach and either the Gaussian or the Gaussian copula approach . 
 
-While having many desirable properties, our method has one obvious drawback: the computational time. The most time-consuming part is the AICc computation of the bandwidth parameter in the non-parametric approach. Using a fixed bandwidth parameter instead, the computational time of the combined approach is the same as that of the original Kernel SHAP method. Recently, there has been some attempts at using the underlying graph structure of the input data to reduce the computational complexity [42], [43]. If several conditional independence requirements are satisfied, the full graph may first be divided into separate communities and then the Kernel SHAP method may be applied to each community individually. The methods proposed by [42], [43] were tested on predictions obtained from text and image classification. In such settings the data often has a graph structure, enabling factorization into separate communities. The main challenge with using this method for tabular data is the potentially huge number of tests for conditional dependence which has to be performed. However, it is definitely worth a closer look.
+We have performed a comprehensive simulation study with linear and non-linear models , Gaussian and non-Gaussian distributions , and dimensions 3 and 10 , where our methods give more accurate approximations to the true Shapley values than the original Kernel SHAP approach . For the non-linear models , these methods clearly outperformed the TreeSHAP method , which , to the best of our knowledge , is the only Shapley approach which tries to handle dependence between features in the prediction explanation setting . When performing our experiments , it turned out that the non-parametric approach was superior when conditioning on a small number of the features , while it was outperformed by the Gaussian and copula methods if we condition on more variables . Hence , we regard the combined approach to be the most promising of our proposed methods . This approach was applied to a real case with 28 variables , where the predictions to be explained were produced by a XGBoost classifier designed to predict mortgage default . In this case , the true Shapley values are not known . However , we provide results , which indicate that our combined approach provides more sensible approximations than the original Kernel SHAP methods . 
 
-In this paper, we assume that the aim is to explain the actual predictions from the model. For some models, the prediction is a probability. If the Shapley framework is used to decompose probabilities, summing over a subset of the -values may in theory produce values that are not in the range [0,1]. Hence, in such cases it might be more natural to assume that the importance of features is additive in the log odds space rather than in the space of probabilities. There are however problems even with this solution, since it is not straightforward for a human to interpret a log odds contribution to the probability. Hence, what to decompose seems to be more a practical than a mathematical question.
+While having many desirable properties , our method has one obvious drawback : the computational time . The most time-consuming part is the AICc computation of the bandwidth parameter in the non-parametric approach . Using a fixed bandwidth parameter instead , the computational time of the combined approach is the same as that of the original Kernel SHAP method . Recently , there has been some attempts at using the underlying graph structure of the input data to reduce the computational complexity [ 42 ]  ,  [ 43 ]  . If several conditional independence requirements are satisfied , the full graph may first be divided into separate communities and then the Kernel SHAP method may be applied to each community individually . The methods proposed by [ 42 ]  ,  [ 43 ] were tested on predictions obtained from text and image classification . In such settings the data often has a graph structure , enabling factorization into separate communities . The main challenge with using this method for tabular data is the potentially huge number of tests for conditional dependence which has to be performed . However , it is definitely worth a closer look . 
 
-Tabular data often contain ordered or even non-ordered categorical data. The proposed non-parametric approach may still be used if the categorical variables are converted into numerical ones. The simplest solution is to use one-hot-encoding. However, large data sets often handle categorical features with hundreds of categories, meaning that such a method needs to handle a large number of binary attributes. An alternative approach is to use ideas from the clustering literature [44], [45] defining distance functions that handle both categorical and mixed-type features. There are also generalizations of the Mahalanobis distance treating data with a mixture of nominal, ordinal and continuous variables that might be used instead of the approach described above, see for instance [46]. When it comes to the parametric approaches, categorical data represents a greater challenge. The most promising alternative might be to use entity embedding [47] to convert the categorical features into numerical ones, and then treat these features similarly to the other numerical features.
+In this paper , we assume that the aim is to explain the actual predictions from the model . For some models , the prediction is a probability . If the Shapley framework is used to decompose probabilities , summing over a subset of the -values may in theory produce values that are not in the range [ 0 , 1 ]  . Hence , in such cases it might be more natural to assume that the importance of features is additive in the log odds space rather than in the space of probabilities . There are however problems even with this solution , since it is not straightforward for a human to interpret a log odds contribution to the probability . Hence , what to decompose seems to be more a practical than a mathematical question . 
+
+Tabular data often contain ordered or even non-ordered categorical data . The proposed non-parametric approach may still be used if the categorical variables are converted into numerical ones . The simplest solution is to use one-hot-encoding . However , large data sets often handle categorical features with hundreds of categories , meaning that such a method needs to handle a large number of binary attributes . An alternative approach is to use ideas from the clustering literature [ 44 ]  ,  [ 45 ] defining distance functions that handle both categorical and mixed-type features . There are also generalizations of the Mahalanobis distance treating data with a mixture of nominal , ordinal and continuous variables that might be used instead of the approach described above , see for instance [ 46 ]  . When it comes to the parametric approaches , categorical data represents a greater challenge . The most promising alternative might be to use entity embedding [ 47 ] to convert the categorical features into numerical ones , and then treat these features similarly to the other numerical features . 
 
 Declaration of Competing Interest
-The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper . 
 
 Acknowledgements
-The authors are grateful to Scott Lundberg for valuable advice concerning the Kernel SHAP method. We also want to thank Ingrid Hobæk Haff for suggesting the copula approach, and Nikolai Sellereite for help implementing the methods in the R-package shapr. This work was supported by the Norwegian Research Council grant 237718 (Big Insight).
+The authors are grateful to Scott Lundberg for valuable advice concerning the Kernel SHAP method . We also want to thank Ingrid Hobæk Haff for suggesting the copula approach , and Nikolai Sellereite for help implementing the methods in the R-package shapr . This work was supported by the Norwegian Research Council grant 237718 ( Big Insight )  . 
 
-Appendix A. Shapley properties in the prediction explanation setting
-When using Shapley values for prediction explanation,  actually plays an important role, quantifying how much of a prediction which is not due to any of the features, but merely to the global average prediction. If  is large (in absolute value) compared to , the features are said to be ‘unimportant’ for that specific prediction. Moreover, in the prediction explanation setting, the interpretations of the properties of the Shapley value discussed in Section 2.1 are as follows:
-Efficiency:
-The sum of the Shapley values for the different features is equal to the difference between the prediction and the global average prediction: 
-⁎
-. This property ensures that the part of the prediction value which is not explained by the global mean prediction is fully devoted and explained by the features, and that the  can be compared across different predictions 
-⁎
-.
+Appendix A . Shapley properties in the prediction explanation setting
+When using Shapley values for prediction explanation ,  actually plays an important role , quantifying how much of a prediction which is not due to any of the features , but merely to the global average prediction . If is large ( in absolute value ) compared to , the features are said to be ‘ unimportant ’ for that specific prediction . Moreover , in the prediction explanation setting , the interpretations of the properties of the Shapley value discussed in Section 2 . 1 are as follows : 
+Efficiency : 
+The sum of the Shapley values for the different features is equal to the difference between the prediction and the global average prediction : 
+⁎ 
+. This property ensures that the part of the prediction value which is not explained by the global mean prediction is fully devoted and explained by the features , and that the can be compared across different predictions 
+⁎ 
+. 
 
-Symmetry:
-The Shapley values for two features are equal if, when combined with any other subsets of features, they contribute equally to the prediction. Failure to fulfill such a criterion, that is, that the same contribution from two different features does not give the same explanation, would be inconsistent and give untrustworthy explanations.
+Symmetry : 
+The Shapley values for two features are equal if , when combined with any other subsets of features , they contribute equally to the prediction . Failure to fulfill such a criterion , that is , that the same contribution from two different features does not give the same explanation , would be inconsistent and give untrustworthy explanations . 
 
-Dummy player:
-A feature that does not change the prediction, no matter which other features it is combined with, has a Shapley value of 0. Assigning a nonzero explanation value to a feature that has no influence on the prediction would be very odd, so this is a natural requirement.
+Dummy player : 
+A feature that does not change the prediction , no matter which other features it is combined with , has a Shapley value of 0 . Assigning a nonzero explanation value to a feature that has no influence on the prediction would be very odd , so this is a natural requirement . 
 
-Linearity:
-When a prediction function consists of a sum of prediction functions, the Shapley value for a feature is identical to the sum of that feature's Shapley values from each of the individual prediction functions. This also holds for linear combinations of prediction functions. This property ensures that models on this form, such as Random Forests or other structurally simple ensemble models, can be explained and interpreted individually.
+Linearity : 
+When a prediction function consists of a sum of prediction functions , the Shapley value for a feature is identical to the sum of that feature ' s Shapley values from each of the individual prediction functions . This also holds for linear combinations of prediction functions . This property ensures that models on this form , such as Random Forests or other structurally simple ensemble models , can be explained and interpreted individually . 
 
-Failure to fulfill any of these basic and advantageous properties gives an odd, undesirable or inconsistent explanation framework. There is no other additive explanation method than Shapley values which satisfies all these criteria [11].
+Failure to fulfill any of these basic and advantageous properties gives an odd , undesirable or inconsistent explanation framework . There is no other additive explanation method than Shapley values which satisfies all these criteria [ 11 ]  . 
 
-Appendix B. Shapley values when the model is linear
-In this section we first give a proof for the explicit formula for the Shapley values when the predictive model is a linear regression model, and all features are independent. Then, we show how to obtain the contribution function  when the model still is linear, but the features might be dependent.
+Appendix B . Shapley values when the model is linear
+In this section we first give a proof for the explicit formula for the Shapley values when the predictive model is a linear regression model , and all features are independent . Then , we show how to obtain the contribution function when the model still is linear , but the features might be dependent . 
 
-B.1. Linear model and independent features
+B . 1 . Linear model and independent features
 When 
-⁎
-, the predictive model is a linear regression model, and all features are independent, then the Shapley values take the simple form
+⁎ 
+, the predictive model is a linear regression model , and all features are independent , then the Shapley values take the simple form
 ⁎
 
 Proof
 
-First, we derive the expression for  in this case:
-(B.1)
+First , we derive the expression for in this case :  
+( B . 1 ) 
 ⁎
 ⁎
+⁎ 
+( B . 2 ) 
 ⁎
-(B.2)
+⁎ 
+( B . 3 ) 
 ⁎
 ⁎
-(B.3)
-⁎
-⁎
-The transition from step (B.1) to (B.2) follows from the assumption of a linear model, while the transition from (B.2) to (B.3) follows from the independent features assumption.
+The transition from step ( B . 1 ) to ( B . 2 ) follows from the assumption of a linear model , while the transition from ( B . 2 ) to ( B . 3 ) follows from the independent features assumption . 
 
-Having computed , the expression for  can be simply found as
+Having computed , the expression for can be simply found as
 ⁎
 meaning that
 ⁎
-From the above, we see that in this case, the difference  is independent of . Hence, the Shapley formula may be written as
+From the above , we see that in this case , the difference is independent of . Hence , the Shapley formula may be written as
 ⁎
-Since the sum of the Shapley weights is 1, we have
+Since the sum of the Shapley weights is 1 , we have
 ⁎
 for . □
 
 
-B.2. Linear model and dependent features
-If the model is linear, but the features are not independent,  instead may be derived as follows
-(B.4)
+B . 2 . Linear model and dependent features
+If the model is linear , but the features are not independent ,  instead may be derived as follows 
+( B . 4 ) 
+⁎
+⁎
+⁎ 
+( B . 5 ) 
+⁎
+⁎ 
+( B . 6 ) 
 ⁎
 ⁎
 ⁎
-(B.5)
+⁎ 
+( B . 7 ) 
 ⁎
 ⁎
-(B.6)
-⁎
-⁎
-⁎
-⁎
-(B.7)
-⁎
-⁎
-In this case, one may therefore avoid time-consuming simulations if one is able to analytically obtain a proper estimate of 
-⁎
-. This is not straightforward in general.
+In this case , one may therefore avoid time-consuming simulations if one is able to analytically obtain a proper estimate of 
+⁎ 
+. This is not straightforward in general . 
 
-Appendix C. Generalized hyperbolic distribution
+Appendix C . Generalized hyperbolic distribution
 The density of a d-dimensional Generalized Hyperbolic random vector X is
-where  is the squared Mahalanobis distance between x and μ, and  is the modified Bessel function of the third kind with index λ. The mean vector and covariance matrix of X are
+where is the squared Mahalanobis distance between x and μ , and is the modified Bessel function of the third kind with index λ . The mean vector and covariance matrix of X are
 
-It can be shown [48] that if X is partitioned as , where  is -dimensional and  is -dimensional, the conditional distribution of  given that  is Generalized Hyperbolic distributed, that is, 
-⁎
+It can be shown [ 48 ] that if X is partitioned as , where is -dimensional and is -dimensional , the conditional distribution of given that is Generalized Hyperbolic distributed , that is , 
+⁎ 
 , where
 
-Here, GH*(⋅) is a slightly different parameterization of the GH distribution is used for the conditional distribution. For technical reasons, we use the parameterization proposed by [49]:
+Here , GH *  ( ⋅ ) is a slightly different parameterization of the GH distribution is used for the conditional distribution . For technical reasons , we use the parameterization proposed by [ 49 ]  : 

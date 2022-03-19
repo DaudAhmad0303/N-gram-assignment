@@ -1,617 +1,617 @@
 Abstract
-We demonstrate the need and potential of systematically integrated vision and semantics solutions for visual sensemaking in the backdrop of autonomous driving. A general neurosymbolic method for online visual sensemaking using answer set programming (ASP) is systematically formalised and fully implemented. The method integrates state of the art in visual computing, and is developed as a modular framework that is generally usable within hybrid architectures for realtime perception and control. We evaluate and demonstrate with community established benchmarks KITTIMOD, MOT-2017, and MOT-2020. As use-case, we focus on the significance of human-centred visual sensemaking —e.g., involving semantic representation and explainability, question-answering, commonsense interpolation— in safety-critical autonomous driving situations.
+We demonstrate the need and potential of systematically integrated vision and semantics solutions for visual sensemaking in the backdrop of autonomous driving . A general neurosymbolic method for online visual sensemaking using answer set programming ( ASP ) is systematically formalised and fully implemented . The method integrates state of the art in visual computing , and is developed as a modular framework that is generally usable within hybrid architectures for realtime perception and control . We evaluate and demonstrate with community established benchmarks KITTIMOD , MOT-2017 , and MOT-2020 . As use-case , we focus on the significance of human-centred visual sensemaking —e . g .  , involving semantic representation and explainability , question-answering , commonsense interpolation— in safety-critical autonomous driving situations . 
 
-The developed neurosymbolic framework is domain-independent, with the case of autonomous driving designed to serve as an exemplar for online visual sensemaking in diverse cognitive interaction settings in the backdrop of select human-centred AI technology design considerations.
+The developed neurosymbolic framework is domain-independent , with the case of autonomous driving designed to serve as an exemplar for online visual sensemaking in diverse cognitive interaction settings in the backdrop of select human-centred AI technology design considerations . 
 
 Previous article in issueNext article in issue
 Keywords
 Cognitive visionDeep semanticsDeclarative spatial reasoningKnowledge representation and reasoningCommonsense reasoningVisual abductionAnswer set programmingAutonomous drivingHuman-centred computing and designStandardisation in driving technologySpatial cognition and AI
-1. Motivation
-Autonomous driving research has received enormous academic & industrial interest in recent years (Sec 5). This surge has coincided with (and been driven by) advances in deep learning based computer vision research. Although end-to-end deep learning based vision & control has (arguably) been successful for self-driving vehicles, we posit that there is a clear need and tremendous potential for hybrid visual sensemaking solutions that integrate vision and semantics towards fulfilling essential legal and ethical responsibilities involving explainability, human-centred AI (Artificial Intelligence), and industrial standardisation (e.g, pertaining to representation, realisation of rules and norms, fulfilling statutory obligations).
+1 . Motivation
+Autonomous driving research has received enormous academic & industrial interest in recent years ( Sec 5 )  . This surge has coincided with ( and been driven by ) advances in deep learning based computer vision research . Although end-to-end deep learning based vision & control has ( arguably ) been successful for self-driving vehicles , we posit that there is a clear need and tremendous potential for hybrid visual sensemaking solutions that integrate vision and semantics towards fulfilling essential legal and ethical responsibilities involving explainability , human-centred AI ( Artificial Intelligence )  , and industrial standardisation ( e . g , pertaining to representation , realisation of rules and norms , fulfilling statutory obligations )  . 
 
-Autonomous Vehicles: “Standardisation and Regulation”
+Autonomous Vehicles :  “ Standardisation and Regulation ” 
 
-As the self-driving vehicle industry develops further, it will be necessary to have an articulation and community consensus on aspects such as representation, interoperability, human-centred performance benchmarks, and data archival & retrieval mechanisms. Within autonomous driving, the need for standardisation and ethical regulation has most recently garnered interest internationally, e.g., with the Federal Ministry of Transport and Digital Infrastructure in Germany (BMVI) taking a lead in eliciting 20 key propositions1 (with legal implications) for the fulfilment of ethical commitments for automated and connected driving systems [20]. In spite of major investments in self-driving vehicle research, issues related to human-centred'ness, human collaboration, and standardisation have been barely addressed, with the current focus in driving research primarily being on two basic considerations: how fast to drive, and which way and how much to steer. This is necessary, but inadequate if autonomous vehicles are to become commonplace and function with humans [4], [24]. Ethically driven standardisation and regulation will require addressing challenges in foundational human-centred AI technology design, e.g., pertaining to semantic visual interpretation, natural / multimodal human-machine interaction, high-level data analytics (e.g., for post hoc diagnostics, dispute settlement). This will necessitate —amongst other things— human-centred qualitative benchmarks and design & evaluation of multifaceted hybrid solutions integrating diverse methodologies in Artificial Intelligence, Machine Learning, Cognitive Science, Design Science etc.
+As the self-driving vehicle industry develops further , it will be necessary to have an articulation and community consensus on aspects such as representation , interoperability , human-centred performance benchmarks , and data archival & retrieval mechanisms . Within autonomous driving , the need for standardisation and ethical regulation has most recently garnered interest internationally , e . g .  , with the Federal Ministry of Transport and Digital Infrastructure in Germany ( BMVI ) taking a lead in eliciting 20 key propositions1 ( with legal implications ) for the fulfilment of ethical commitments for automated and connected driving systems [ 20 ]  . In spite of major investments in self-driving vehicle research , issues related to human-centred ' ness , human collaboration , and standardisation have been barely addressed , with the current focus in driving research primarily being on two basic considerations : how fast to drive , and which way and how much to steer . This is necessary , but inadequate if autonomous vehicles are to become commonplace and function with humans [ 4 ]  ,  [ 24 ]  . Ethically driven standardisation and regulation will require addressing challenges in foundational human-centred AI technology design , e . g .  , pertaining to semantic visual interpretation , natural / multimodal human-machine interaction , high-level data analytics ( e . g .  , for post hoc diagnostics , dispute settlement )  . This will necessitate —amongst other things— human-centred qualitative benchmarks and design & evaluation of multifaceted hybrid solutions integrating diverse methodologies in Artificial Intelligence , Machine Learning , Cognitive Science , Design Science etc . 
 
-Neurosymbolism: Visual Sensemaking Needs Both “Vision and Semantics”
+Neurosymbolism : Visual Sensemaking Needs Both “ Vision and Semantics ” 
 
-Visual sensemaking requires a systematically developed general and modular integration of high-level techniques concerned with “commonsense and semantics” with low-level neural methods capable of computing primitive features of interest in visual data [18]. Towards this, this research demonstrates the significance of semantically-driven methods rooted in knowledge representation and reasoning (KR) in addressing research questions pertaining to explainability and human-centred AI particularly from the viewpoint of (perceptual) sensemaking of dynamic visual imagery. This is done in the backdrop of the autonomous driving domain; as an example, consider the occlusion scenario in Fig. 1:
-Car (c) is Image 1, and indicating to Image 2; Image 3 this time, person (p) is Image 4 a bicycle (b) and positioned Image 5 of c and Image 6. Car c turns-right, during which the bicyclist [Math Processing Error] is not Image 7. Image 8, bicyclist [Math Processing Error] Image 9.
+Visual sensemaking requires a systematically developed general and modular integration of high-level techniques concerned with “ commonsense and semantics ” with low-level neural methods capable of computing primitive features of interest in visual data [ 18 ]  . Towards this , this research demonstrates the significance of semantically-driven methods rooted in knowledge representation and reasoning ( KR ) in addressing research questions pertaining to explainability and human-centred AI particularly from the viewpoint of ( perceptual ) sensemaking of dynamic visual imagery . This is done in the backdrop of the autonomous driving domain ; as an example , consider the occlusion scenario in Fig . 1 : 
+Car ( c ) is Image 1 , and indicating to Image 2 ; Image 3 this time , person ( p ) is Image 4 a bicycle ( b ) and positioned Image 5 of c and Image 6 . Car c turns-right , during which the bicyclist [ Math Processing Error ] is not Image 7 . Image 8 , bicyclist [ Math Processing Error ] Image 9 . 
 
-The occlusion scenario of Fig. 1 is one of range of (seemingly) mundane safety-critical moments that one may regularly experience while driving a vehicle (Fig. 4, Fig. 7, Fig. 8 and Table 6 include additional examples). This scenario is sufficiently indicative of several challenges concerning epistemological and phenomenological aspects relevant to a wide range of dynamic spatial systems [11], [14], [10]:
+The occlusion scenario of Fig . 1 is one of range of ( seemingly ) mundane safety-critical moments that one may regularly experience while driving a vehicle ( Fig . 4 , Fig . 7 , Fig . 8 and Table 6 include additional examples )  . This scenario is sufficiently indicative of several challenges concerning epistemological and phenomenological aspects relevant to a wide range of dynamic spatial systems [ 11 ]  ,  [ 14 ]  ,  [ 10 ]  : 
 •
-projection and interpolation of missing information, e.g., what could be hypothesised about bicyclist [Math Processing Error] when it is occluded; how can this hypothesis support planning an immediate next step
-
-•
-object identity maintenance at a semantic level, e.g., in the presence of occlusions, missing and noisy quantitative data, error in detection and tracking
+projection and interpolation of missing information , e . g .  , what could be hypothesised about bicyclist [ Math Processing Error ] when it is occluded ; how can this hypothesis support planning an immediate next step
 
 •
-ability to make default assumptions, e.g., pertaining to persistence objects and/or object attributes
+object identity maintenance at a semantic level , e . g .  , in the presence of occlusions , missing and noisy quantitative data , error in detection and tracking
 
 •
-maintaining consistent beliefs respecting (domain-neutral) commonsense criteria, e.g., related to compositionality & indirect effects, space-time continuity, positional changes resulting from motion
+ability to make default assumptions , e . g .  , pertaining to persistence objects and / or object attributes
 
 •
-inferring / computing counterfactuals, in a manner akin to human cognitive ability to perform mental simulation for purposes of introspection, performing “what-if” reasoning tasks etc
+maintaining consistent beliefs respecting ( domain-neutral ) commonsense criteria , e . g .  , related to compositionality & indirect effects , space-time continuity , positional changes resulting from motion
 
-Addressing such challenges —be it realtime or post-hoc— in view of human-centred AI concerns pertaining to representations rooted to natural language, explainability, ethics and regulation requires a systematic (neurosymbolic) integration of Semantics and Vision, i.e., robust commonsense representation & inference about spacetime dynamics on the one hand, and powerful low-level visual computing capabilities, e.g., pertaining to object detection and tracking on the other.
+•
+inferring / computing counterfactuals , in a manner akin to human cognitive ability to perform mental simulation for purposes of introspection , performing “ what-if ” reasoning tasks etc
 
-Fig. 1
-Download : Download high-res image (633KB)Download : Download full-size image
-Fig. 1. Out of sight but not out of mind; the case of hidden entities: e.g., an occluded cyclist.
+Addressing such challenges —be it realtime or post-hoc— in view of human-centred AI concerns pertaining to representations rooted to natural language , explainability , ethics and regulation requires a systematic ( neurosymbolic ) integration of Semantics and Vision , i . e .  , robust commonsense representation & inference about spacetime dynamics on the one hand , and powerful low-level visual computing capabilities , e . g .  , pertaining to object detection and tracking on the other . 
 
-Deep Semantics: (Systematically) “Integrating AI and Vision”
+Fig . 1
+Download : Download high-res image ( 633KB ) Download : Download full-size image
+Fig . 1 . Out of sight but not out of mind ; the case of hidden entities : e . g .  , an occluded cyclist . 
 
-The development of domain-independent computational models of perceptual sensemaking —e.g., encompassing capabilities such as visuospatial Q/A, spatio-temporal relational learning, visuospatial abduction— with multimodal human behavioural stimuli such as RGB(D), video, audio, eye-tracking requires the representational and inferential mediation of commonsense and spatio-linguistically rooted abstractions of space, motion, actions, events and interaction. We characterise Deep Semantics [12] within a declarative AI setting as:
+Deep Semantics :  ( Systematically )  “ Integrating AI and Vision ” 
+
+The development of domain-independent computational models of perceptual sensemaking —e . g .  , encompassing capabilities such as visuospatial Q / A , spatio-temporal relational learning , visuospatial abduction— with multimodal human behavioural stimuli such as RGB ( D )  , video , audio , eye-tracking requires the representational and inferential mediation of commonsense and spatio-linguistically rooted abstractions of space , motion , actions , events and interaction . We characterise Deep Semantics [ 12 ] within a declarative AI setting as : 
 ►
-general methods for the processing and semantic interpretation of dynamic visuospatial imagery with an emphasis on the ability to abstract, learn, and reason with cognitively rooted structured characterisations of commonsense knowledge about space and motion.
+general methods for the processing and semantic interpretation of dynamic visuospatial imagery with an emphasis on the ability to abstract , learn , and reason with cognitively rooted structured characterisations of commonsense knowledge about space and motion . 
 
 ►
-the existence of declarative models –e.g., pertaining to space, space-time, motion, actions & events, spatio-linguistic conceptual knowledge (e.g., Table 2)– and corresponding formalisation supporting (domain-neutral) reasoning capabilities (e.g., visual Q/A and learning, non-monotonic visuospatial abduction)
+the existence of declarative models –e . g .  , pertaining to space , space-time , motion , actions & events , spatio-linguistic conceptual knowledge ( e . g .  , Table 2 ) – and corresponding formalisation supporting ( domain-neutral ) reasoning capabilities ( e . g .  , visual Q / A and learning , non-monotonic visuospatial abduction ) 
 
-Formal semantics and computational models of deep semantics manifest themselves in declarative AI settings such as constraint logic programming, inductive logic programming, and answer set programming. Naturally, a practical illustration of the integrated “AI and Vision” method requires a tight but modular integration of the (declarative) commonsense spatio-temporal abstraction and reasoning with robust low-level visual computing foundations (primarily) driven by state of the art visual computing techniques (e.g., for visual feature detection, tracking).
+Formal semantics and computational models of deep semantics manifest themselves in declarative AI settings such as constraint logic programming , inductive logic programming , and answer set programming . Naturally , a practical illustration of the integrated “ AI and Vision ” method requires a tight but modular integration of the ( declarative ) commonsense spatio-temporal abstraction and reasoning with robust low-level visual computing foundations ( primarily ) driven by state of the art visual computing techniques ( e . g .  , for visual feature detection , tracking )  . 
 
 Key Contributions
 
-This research is situated within the broader auspices of the scientific agenda of cognitive vision and perception, which addresses visual, visuospatial and visuo-locomotive perception and interaction from the viewpoints of language, logic, spatial cognition and artificial intelligence [12] (Sec 5). The key contribution of this paper is to develop a general and systematic declarative visual sensemaking method capable of online abduction: realtime, incremental, commonsense question-answering and belief maintenance over dynamic visuospatial imagery. Supported are (1–3):
+This research is situated within the broader auspices of the scientific agenda of cognitive vision and perception , which addresses visual , visuospatial and visuo-locomotive perception and interaction from the viewpoints of language , logic , spatial cognition and artificial intelligence [ 12 ]  ( Sec 5 )  . The key contribution of this paper is to develop a general and systematic declarative visual sensemaking method capable of online abduction : realtime , incremental , commonsense question-answering and belief maintenance over dynamic visuospatial imagery . Supported are ( 1–3 )  :  
+ 
+( 1 )  . Human-Centred Representation for Space and Motion
 
-(1). Human-Centred Representation for Space and Motion
+Declaratively modelled ontological characterisation of human-centric relational representations that are semantically rooted to commonsense spatio-linguistic primitives pertaining to space and motion as they occur in natural language [ 16 ]  ,  [ 57 ]  .  
+ 
+( 2 )  . Systematic High-level Abductive Reasoning
 
-Declaratively modelled ontological characterisation of human-centric relational representations that are semantically rooted to commonsense spatio-linguistic primitives pertaining to space and motion as they occur in natural language [16], [57].
+Driven by Answer Set Programming ( ASP )  [ 25 ]  , the ability to abductively compute commonsense interpretations and explanations in a range of ( a ) typical everyday driving situations , e . g .  , concerning safety-critical decision-making ; the declarative model of space and motion , in addition to supporting abductive reasoning about space and change , is also naturally amenable to high-level semantic interpretation ( e . g .  , by question answering ) for post-hoc analytical purposes ( e . g .  , as might be relevant in situations requiring diagnosis et al . for litigation , insurance claims )  .  
+ 
+( 3 )  . Online Performance of Modularly Integrated Vision and Semantics
 
-(2). Systematic High-level Abductive Reasoning
-
-Driven by Answer Set Programming (ASP) [25], the ability to abductively compute commonsense interpretations and explanations in a range of (a)typical everyday driving situations, e.g., concerning safety-critical decision-making; the declarative model of space and motion, in addition to supporting abductive reasoning about space and change, is also naturally amenable to high-level semantic interpretation (e.g., by question answering) for post-hoc analytical purposes (e.g., as might be relevant in situations requiring diagnosis et al. for litigation, insurance claims).
-
-(3). Online Performance of Modularly Integrated Vision and Semantics
-
-Online performance –in an “active vision” context– of the overall framework modularly integrating high-level commonsense reasoning component with state of the art low-level (deep learning based) visual computing for practical application in real world settings (with autonomous driving serving as a solid demonstration platform).
+Online performance –in an “ active vision ” context– of the overall framework modularly integrating high-level commonsense reasoning component with state of the art low-level ( deep learning based ) visual computing for practical application in real world settings ( with autonomous driving serving as a solid demonstration platform )  . 
 
 Organisation of the Paper
 
-The rest of the article is organised as follows:
+The rest of the article is organised as follows : 
 •
-Section 2 presents the ontological and formal representational foundations of the developed visual sensemaking framework; main focus is on the commonsense representation aspects pertaining to the modelling of space, space-time, motion, events, and other aspects relevant to modelling and reasoning about spatio-temporal dynamics.
-
-•
-Section 3 presents the overall visual sensemaking framework and its technical implementation with a central focus on the general answer set programming based method for online abduction; we elaborate on the declarative model directly vis-a-vis the ASP implementation.
+Section 2 presents the ontological and formal representational foundations of the developed visual sensemaking framework ; main focus is on the commonsense representation aspects pertaining to the modelling of space , space-time , motion , events , and other aspects relevant to modelling and reasoning about spatio-temporal dynamics . 
 
 •
-Section 4 demonstrates & empirically evaluates the core online abduction component with community established real-world datasets and benchmarks, namely: KITTIMOD [41], MOT-17 [58], and MOT-20 [33].
+Section 3 presents the overall visual sensemaking framework and its technical implementation with a central focus on the general answer set programming based method for online abduction ; we elaborate on the declarative model directly vis-a-vis the ASP implementation . 
 
 •
-Section 5 discusses related works primarily from the viewpoints of knowledge representation, and visual computing as pursued in computer vision research.
+Section 4 demonstrates & empirically evaluates the core online abduction component with community established real-world datasets and benchmarks , namely : KITTIMOD [ 41 ]  , MOT-17 [ 58 ]  , and MOT-20 [ 33 ]  . 
 
 •
-Section 6 concludes with a brief summary of our work, together with pointers to immediate research questions for follow-up, as well as more broad-based directions that this work aims to open up.
-
-
-Appendices A–D. Appendix A provides a general overview of the Answer Set Programming paradigm in a manner that is independent of the rest of the paper; Appendix B provides annotations of select Answer Set Programming source code relevant to the declarative model presented in Section 3. Appendix C presents additional examples chosen from community benchmark datasets together with sample data; it also includes an elaborated version of a running example used in the paper. Appendix D provide a succinct view of (select) data corresponding to (select) scenes.
-
-2. Commonsense – space – motion: ontological and representational aspects
-We present the ontological and formal representational foundations of the developed visual sensemaking framework while focussing on the commonsense representational aspects pertaining to the modelling of space, space-time, motion, events, and other aspects relevant to modelling and reasoning about spatio-temporal dynamics. Towards this, Table 1 summarises the individual constituents of [Math Processing Error] (spatiotemporal primitives) and [Math Processing Error] (spatiotemporal dynamics), and Table 2 elaborates the supported commonsense relations for the abstraction of space, motion, and (inter)action. Fig. 3 is a (non-exhaustive) collection of generic / domain-neutral spacetime motion patterns supported; Fig. 2, Fig. 4 include concrete instance of such generic motion patterns: Fig. 2 illustrates motion patterns for approach, occlusion, and connected motion; and Fig. 4 illustrates the motion patterns underlying a security-critical scenario involved an elaborate lane changing episode.
-
-Table 1. Commonsense – Space – Motion: Ontological and Representational Aspects.
-
-
-Table 2. Commonsense Relations for Abstract Representation of Space, Motion, Interaction.
-
-
-Fig. 2
-Download : Download high-res image (249KB)Download : Download full-size image
-Fig. 2. Space-Time Histories in Context: Motion Tracks Under Conditions of Occlusion and Partial Overlap.
-
-2.1. Commonsense abstractions for space and motion
-Commonsense spatio-temporal relations and patterns (e.g., left, touching, part of, during, collision) offer a human-centered and cognitively adequate formalism for semantic grounding and automated reasoning for everyday (embodied) multimodal interactions [16], [57], [73], [72]. Qualitative, multi-domain2 representations of spatial, temporal, and spatio-temporal relations and motion patterns (e.g., Fig. 2, Fig. 3), and their mutual transitions can provide a mapping between high-level semantic models of actions and events on one hand, and low-level / quantitative trajectory data emanating from visual computing algorithms on the other. For instance, by spatio-linguistically grounding complex trajectory data –e.g., pertaining to on-road moving objects– to a formal framework of space and motion, generalized (activity-based) commonsense reasoning about dynamic scenes, spatial relations, and motion trajectories denoting single and multi-object path & motion predicates can be supported [15], [85]. For instance, such predicates can be abstracted within a region-based 4D space-time framework [67], [42], [6], object interactions [29], [30], or even spatio-temporal narrative knowledge [13], [17], [74], [71]. An adequate commonsense spatio-temporal representation can, therefore, connect with low-level quantitative data, and also help to ground symbolic descriptions of actions and objects to be queried, reasoned about, or even manipulated in the real world.
-
-Fig. 3
-Download : Download high-res image (369KB)Download : Download full-size image
-Fig. 3. Commonsense Spatial Reasoning with Spatio-Temporal Entities. Illustrated are: Space-Time Histories for Spatio-temporal Patterns and Events.
-
-2.2. Space, motion, objects, events, change: ontology and formal model
-Reasoning about spatio-temporal dynamics is based on high-level representations of objects, and their respective motion & mutual interactions in spacetime. Foundational ontological primitives for commonsense representation and reasoning about spatio-temporal dynamics are:
-•
-[Math Processing Error] corresponds to primitives for representing space, time, motion and scene-level relational spatiotemporal structure
+Section 5 discusses related works primarily from the viewpoints of knowledge representation , and visual computing as pursued in computer vision research . 
 
 •
-[Math Processing Error] corresponds to the domain-independent commonsense theory for representing and reasoning about change.
+Section 6 concludes with a brief summary of our work , together with pointers to immediate research questions for follow-up , as well as more broad-based directions that this work aims to open up . 
 
-Let Σ [Math Processing Error] [Math Processing Error] <[Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error]> ∪ [Math Processing Error] <Φ, Θ> be as follows: (Refer Table 1, Table 2)
+
+Appendices A–D . Appendix A provides a general overview of the Answer Set Programming paradigm in a manner that is independent of the rest of the paper ; Appendix B provides annotations of select Answer Set Programming source code relevant to the declarative model presented in Section 3 . Appendix C presents additional examples chosen from community benchmark datasets together with sample data ; it also includes an elaborated version of a running example used in the paper . Appendix D provide a succinct view of ( select ) data corresponding to ( select ) scenes . 
+
+2 . Commonsense – space – motion : ontological and representational aspects
+We present the ontological and formal representational foundations of the developed visual sensemaking framework while focussing on the commonsense representational aspects pertaining to the modelling of space , space-time , motion , events , and other aspects relevant to modelling and reasoning about spatio-temporal dynamics . Towards this , Table 1 summarises the individual constituents of [ Math Processing Error ]  ( spatiotemporal primitives ) and [ Math Processing Error ]  ( spatiotemporal dynamics )  , and Table 2 elaborates the supported commonsense relations for the abstraction of space , motion , and ( inter ) action . Fig . 3 is a ( non-exhaustive ) collection of generic / domain-neutral spacetime motion patterns supported ; Fig . 2 , Fig . 4 include concrete instance of such generic motion patterns : Fig . 2 illustrates motion patterns for approach , occlusion , and connected motion ; and Fig . 4 illustrates the motion patterns underlying a security-critical scenario involved an elaborate lane changing episode . 
+
+Table 1 . Commonsense – Space – Motion : Ontological and Representational Aspects . 
+
+
+Table 2 . Commonsense Relations for Abstract Representation of Space , Motion , Interaction . 
+
+
+Fig . 2
+Download : Download high-res image ( 249KB ) Download : Download full-size image
+Fig . 2 . Space-Time Histories in Context : Motion Tracks Under Conditions of Occlusion and Partial Overlap . 
+
+2 . 1 . Commonsense abstractions for space and motion
+Commonsense spatio-temporal relations and patterns ( e . g .  , left , touching , part of , during , collision ) offer a human-centered and cognitively adequate formalism for semantic grounding and automated reasoning for everyday ( embodied ) multimodal interactions [ 16 ]  ,  [ 57 ]  ,  [ 73 ]  ,  [ 72 ]  . Qualitative , multi-domain2 representations of spatial , temporal , and spatio-temporal relations and motion patterns ( e . g .  , Fig . 2 , Fig . 3 )  , and their mutual transitions can provide a mapping between high-level semantic models of actions and events on one hand , and low-level / quantitative trajectory data emanating from visual computing algorithms on the other . For instance , by spatio-linguistically grounding complex trajectory data –e . g .  , pertaining to on-road moving objects– to a formal framework of space and motion , generalized ( activity-based ) commonsense reasoning about dynamic scenes , spatial relations , and motion trajectories denoting single and multi-object path & motion predicates can be supported [ 15 ]  ,  [ 85 ]  . For instance , such predicates can be abstracted within a region-based 4D space-time framework [ 67 ]  ,  [ 42 ]  ,  [ 6 ]  , object interactions [ 29 ]  ,  [ 30 ]  , or even spatio-temporal narrative knowledge [ 13 ]  ,  [ 17 ]  ,  [ 74 ]  ,  [ 71 ]  . An adequate commonsense spatio-temporal representation can , therefore , connect with low-level quantitative data , and also help to ground symbolic descriptions of actions and objects to be queried , reasoned about , or even manipulated in the real world . 
+
+Fig . 3
+Download : Download high-res image ( 369KB ) Download : Download full-size image
+Fig . 3 . Commonsense Spatial Reasoning with Spatio-Temporal Entities . Illustrated are : Space-Time Histories for Spatio-temporal Patterns and Events . 
+
+2 . 2 . Space , motion , objects , events , change : ontology and formal model
+Reasoning about spatio-temporal dynamics is based on high-level representations of objects , and their respective motion & mutual interactions in spacetime . Foundational ontological primitives for commonsense representation and reasoning about spatio-temporal dynamics are : 
+• 
+[ Math Processing Error ] corresponds to primitives for representing space , time , motion and scene-level relational spatiotemporal structure
+
+• 
+[ Math Processing Error ] corresponds to the domain-independent commonsense theory for representing and reasoning about change . 
+
+Let Σ [ Math Processing Error ]  [ Math Processing Error ]  <  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  > ∪ [ Math Processing Error ]  < Φ , Θ > be as follows :  ( Refer Table 1 , Table 2 ) 
 •
-Domain Objects ([Math Processing Error]). The high-level, domain-dependent visual elements in the scene, e.g., road-side stakeholders such as people, cars, cyclists, constitute domain objects. Domain objects are denoted by [Math Processing Error] = [Math Processing Error]; elements in [Math Processing Error] are geometrically interpreted as spatial entities.
+Domain Objects (  [ Math Processing Error ]  )  . The high-level , domain-dependent visual elements in the scene , e . g .  , road-side stakeholders such as people , cars , cyclists , constitute domain objects . Domain objects are denoted by [ Math Processing Error ]  =  [ Math Processing Error ]  ; elements in [ Math Processing Error ] are geometrically interpreted as spatial entities . 
 
 •
-Spatial Entities ([Math Processing Error]). Spatial entities correspond to abstractions of domain objects by way of points, line-segments or (axis-aligned) rectangles based on their spatial properties (and a particular reasoning task at hand). Spatial entities are denoted by [Math Processing Error] = [Math Processing Error].
+Spatial Entities (  [ Math Processing Error ]  )  . Spatial entities correspond to abstractions of domain objects by way of points , line-segments or ( axis-aligned ) rectangles based on their spatial properties ( and a particular reasoning task at hand )  . Spatial entities are denoted by [ Math Processing Error ]  =  [ Math Processing Error ]  . 
 
 •
-Time ([Math Processing Error]). The temporal dimension is represented by time points, denoted as [Math Processing Error] [Math Processing Error].
+Time (  [ Math Processing Error ]  )  . The temporal dimension is represented by time points , denoted as [ Math Processing Error ]  [ Math Processing Error ]  . 
 
 •
-Motion Tracks ([Math Processing Error]). Motion-tracks represent the spacetime motion trajectories (e.g., Fig. 2) of abstract spatial entities ([Math Processing Error]) corresponding to domain object ([Math Processing Error]) of interest. [Math Processing Error] = ([Math Processing Error]) represents the motion track of a single object [Math Processing Error], where [Math Processing Error] and [Math Processing Error] denote the start and end time of the track and [Math Processing Error] to [Math Processing Error] denotes the spatial entity ([Math Processing Error]) —e.g., the axis-aligned bounding box—corresponding to the object [Math Processing Error] at time points [Math Processing Error] to [Math Processing Error]. Whereas Fig. 2, Fig. 4 presents one example of a space-time trajectory, Fig. 3 is a general (but non-exhaustive) set of patterns supported by our reasoning framework.
+Motion Tracks (  [ Math Processing Error ]  )  . Motion-tracks represent the spacetime motion trajectories ( e . g .  , Fig . 2 ) of abstract spatial entities (  [ Math Processing Error ]  ) corresponding to domain object (  [ Math Processing Error ]  ) of interest .  [ Math Processing Error ]  =  (  [ Math Processing Error ]  ) represents the motion track of a single object [ Math Processing Error ]  , where [ Math Processing Error ] and [ Math Processing Error ] denote the start and end time of the track and [ Math Processing Error ] to [ Math Processing Error ] denotes the spatial entity (  [ Math Processing Error ]  ) —e . g .  , the axis-aligned bounding box—corresponding to the object [ Math Processing Error ] at time points [ Math Processing Error ] to [ Math Processing Error ]  . Whereas Fig . 2 , Fig . 4 presents one example of a space-time trajectory , Fig . 3 is a general ( but non-exhaustive ) set of patterns supported by our reasoning framework . 
 
-Fig. 4
-Download : Download high-res image (593KB)Download : Download full-size image
-Fig. 4. Space-Time Histories of Moving Objects: Safety-Criticality Case of a Close Encounter / Car(1) is Image 12 car(2) on the right lane, and Image 13 to the left lane to perform an Image 14 action; Image 15, car(2) also Image 13 to left lane to Image 16 car(3) that Image 17 and is blocking the right lane. To avoid a Image 18 car(1) performs an Image 19 and Image 20 the left lane to the left, Image 21 the lane for the oncoming traffic. (For interpretation of the colours in the figure(s), the reader is referred to the web version of this article.)
-
-•
-Spatio-Temporal Relationships ([Math Processing Error]). The spatial configuration of the scene and changes thereof are characterised based on the spatio-temporal relationships ([Math Processing Error]; Table 2) between abstract representations ([Math Processing Error]) of the domain objects ([Math Processing Error]). For the running and demo examples of this paper, positional relations on axis-aligned rectangles based on the Rectangle Algebra (RA) [5] suffice; RA uses the relations of Interval Algebra (IA) [2] [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error], [Math Processing Error] to relate two objects by the interval relations projected along each modelled dimension separately (e.g., horizontal and vertical dimensions).
+Fig . 4
+Download : Download high-res image ( 593KB ) Download : Download full-size image
+Fig . 4 . Space-Time Histories of Moving Objects : Safety-Criticality Case of a Close Encounter / Car ( 1 ) is Image 12 car ( 2 ) on the right lane , and Image 13 to the left lane to perform an Image 14 action ; Image 15 , car ( 2 ) also Image 13 to left lane to Image 16 car ( 3 ) that Image 17 and is blocking the right lane . To avoid a Image 18 car ( 1 ) performs an Image 19 and Image 20 the left lane to the left , Image 21 the lane for the oncoming traffic .  ( For interpretation of the colours in the figure ( s )  , the reader is referred to the web version of this article .  ) 
 
 •
-Dynamics / Fluents and Events. The set of fluents [Math Processing Error] and events [Math Processing Error] respectively characterise the dynamic properties of the objects in the scene and high-level abducibles (e.g., Table 4, Table 5). For reasoning about dynamics (with <Φ, Θ>), we use the epistemic generalisation of the event calculus [49] as per the formalisation in [55], [59]; in particular, for examples of this paper, the Functional Event Calculus (FEC) fragment of Ma et al. [55] suffices.3
-
-Problem Specification and Hypothesis.
-•
-Problem Specification [Math Processing Error].  The abduction for each time point is given by the visual observations ([Math Processing Error]) consisting of spatial entities [Math Processing Error], i.e., bounding boxes for the detected objects, spatial entities [Math Processing Error] of object detections; the predicted locations ([Math Processing Error]) for each track at time point t given as spatial entities [Math Processing Error]; and the matching likelihood ([Math Processing Error]), i.e., based on the Intersection over Union (IoU) between detected objects and tracks, providing an estimate of how likely a detection belongs to a track.
+Spatio-Temporal Relationships (  [ Math Processing Error ]  )  . The spatial configuration of the scene and changes thereof are characterised based on the spatio-temporal relationships (  [ Math Processing Error ]  ; Table 2 ) between abstract representations (  [ Math Processing Error ]  ) of the domain objects (  [ Math Processing Error ]  )  . For the running and demo examples of this paper , positional relations on axis-aligned rectangles based on the Rectangle Algebra ( RA )  [ 5 ] suffice ; RA uses the relations of Interval Algebra ( IA )  [ 2 ]  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ]  ,  [ Math Processing Error ] to relate two objects by the interval relations projected along each modelled dimension separately ( e . g .  , horizontal and vertical dimensions )  . 
 
 •
-Hypothesis.  Abduced hypothesis consist of assignments ([Math Processing Error]) of detections to tracks and high-level events ([Math Processing Error]) explaining object motion, e.g., occlusion of an object, caused by the object passing behind an other object. The online abduction results in abduced visuo-spatial dynamics ([Math Processing Error]) consisting of motion tracks ([Math Processing Error]) (generated using the abduced assignments in [Math Processing Error]) and the events ([Math Processing Error]) explaining the motion tracks.
+Dynamics / Fluents and Events . The set of fluents [ Math Processing Error ] and events [ Math Processing Error ] respectively characterise the dynamic properties of the objects in the scene and high-level abducibles ( e . g .  , Table 4 , Table 5 )  . For reasoning about dynamics ( with < Φ , Θ >  )  , we use the epistemic generalisation of the event calculus [ 49 ] as per the formalisation in [ 55 ]  ,  [ 59 ]  ; in particular , for examples of this paper , the Functional Event Calculus ( FEC ) fragment of Ma et al .  [ 55 ] suffices . 3
+
+Problem Specification and Hypothesis . 
+•
+Problem Specification [ Math Processing Error ]  .  The abduction for each time point is given by the visual observations (  [ Math Processing Error ]  ) consisting of spatial entities [ Math Processing Error ]  , i . e .  , bounding boxes for the detected objects , spatial entities [ Math Processing Error ] of object detections ; the predicted locations (  [ Math Processing Error ]  ) for each track at time point t given as spatial entities [ Math Processing Error ]  ; and the matching likelihood (  [ Math Processing Error ]  )  , i . e .  , based on the Intersection over Union ( IoU ) between detected objects and tracks , providing an estimate of how likely a detection belongs to a track . 
+
+•
+Hypothesis .  Abduced hypothesis consist of assignments (  [ Math Processing Error ]  ) of detections to tracks and high-level events (  [ Math Processing Error ]  ) explaining object motion , e . g .  , occlusion of an object , caused by the object passing behind an other object . The online abduction results in abduced visuo-spatial dynamics (  [ Math Processing Error ]  ) consisting of motion tracks (  [ Math Processing Error ]  )  ( generated using the abduced assignments in [ Math Processing Error ]  ) and the events (  [ Math Processing Error ]  ) explaining the motion tracks . 
 
 
-3. Visual sensemaking: a general method driven by answer set programming
-Rooted in answer set programming, the developed framework is general, modular, and designed for integration as a reasoning engine within (hybrid) architectures designed for real-time decision-making and control where visual perception is needed as one of the several components. In such large scale AI systems the declarative model of the scene dynamics resulting from the presented framework can be used for semantic question-answering (Q/A), inference etc to support decision-making.
+3 . Visual sensemaking : a general method driven by answer set programming
+Rooted in answer set programming , the developed framework is general , modular , and designed for integration as a reasoning engine within ( hybrid ) architectures designed for real-time decision-making and control where visual perception is needed as one of the several components . In such large scale AI systems the declarative model of the scene dynamics resulting from the presented framework can be used for semantic question-answering ( Q / A )  , inference etc to support decision-making . 
 
-3.1. Tracking as abduction
-Our proposed framework, in essence, jointly solves the problem of assignment of detections to tracks and explaining overall scene dynamics (e.g. appearance, disappearance) in terms of high-level events within an online integrated low-level visual computing and high-level abductive reasoning framework (Fig. 5).
+3 . 1 . Tracking as abduction
+Our proposed framework , in essence , jointly solves the problem of assignment of detections to tracks and explaining overall scene dynamics ( e . g . appearance , disappearance ) in terms of high-level events within an online integrated low-level visual computing and high-level abductive reasoning framework ( Fig . 5 )  . 
 
-Fig. 5
-Download : Download high-res image (723KB)Download : Download full-size image
-Fig. 5. A General Online Abduction Framework / Conceptual Overview.
+Fig . 5
+Download : Download high-res image ( 723KB ) Download : Download full-size image
+Fig . 5 . A General Online Abduction Framework / Conceptual Overview . 
 
-Scene dynamics are tracked using a detect and track approach: we tightly integrate low-level visual computing (for detecting scene elements) with high-level ASP-based abduction to solve the assignment of observations to object tracks in an incremental manner. For each time point t we generate a problem specification consisting of the object tracks and visual observations and use ASP to abductively solve the corresponding assignment problem incorporating the ontological structure of the domain / data (abstracted with Σ).
+Scene dynamics are tracked using a detect and track approach : we tightly integrate low-level visual computing ( for detecting scene elements ) with high-level ASP-based abduction to solve the assignment of observations to object tracks in an incremental manner . For each time point t we generate a problem specification consisting of the object tracks and visual observations and use ASP to abductively solve the corresponding assignment problem incorporating the ontological structure of the domain / data ( abstracted with Σ )  . 
 
-Steps 1–3 (Algorithm 1 & Table 3) consist of:
+Steps 1–3 ( Algorithm 1 & Table 3 ) consist of : 
 
 Algorithm 1
-Download : Download high-res image (127KB)Download : Download full-size image
-Algorithm 1. Image 23.
+Download : Download high-res image ( 127KB ) Download : Download full-size image
+Algorithm 1 . Image 23 . 
 
-Table 3. Computational Steps for Online Visual Abduction.
+Table 3 . Computational Steps for Online Visual Abduction . 
 
 
-1) Formulating the ASP problem specification consisting of the visual observations, prediction of motion of each object, and a measure for the likelyhood that a detection is associated with a track. Further the problem specification contains the state of the world, given by the sequence of events ([Math Processing Error]) before time point t.
+1 ) Formulating the ASP problem specification consisting of the visual observations , prediction of motion of each object , and a measure for the likelyhood that a detection is associated with a track . Further the problem specification contains the state of the world , given by the sequence of events (  [ Math Processing Error ]  ) before time point t . 
 
-2) Associating detections to tracks, by jointly abducing matchings between object detections and tracks, together with the high-level events explaining these matches.
+2 ) Associating detections to tracks , by jointly abducing matchings between object detections and tracks , together with the high-level events explaining these matches . 
 
-3) Finding the hypothesis and corresponding associations best explaining the visual observations using optimization, i.e., maximizing matching likelihood and minimizing event costs.
+3 ) Finding the hypothesis and corresponding associations best explaining the visual observations using optimization , i . e .  , maximizing matching likelihood and minimizing event costs . 
 
-In the following we describe each step in detail:
+In the following we describe each step in detail : 
 
-Image 22 Formulating the Problem Specification The ASP4 problem specification for each time point t is given by the tuple [Math Processing Error] and the sequence of events ([Math Processing Error]) before time point t.
+Image 22 Formulating the Problem Specification The ASP4 problem specification for each time point t is given by the tuple [ Math Processing Error ] and the sequence of events (  [ Math Processing Error ]  ) before time point t . 
 
-• Visual Observations Scene elements derived directly from the visual input data are represented as spatial entities [Math Processing Error], i.e., [Math Processing Error] = [Math Processing Error] is the set of observations at time t (Table 3). For the examples and empirical evaluation in this paper (Sec. 4) we focus on Obstacle / Object Detections – detecting cars, pedestrians, cyclists, traffic lights etc using YOLOv3 [64]. Further we generate scene context using Semantic Segmentation – segmenting the road, sidewalk, buildings, cars, people, trees, etc. using DeepLabv3+ [26], and Lane Detection – estimating lane markings, to detect lanes on the road, using SCNN [61]. Type and confidence score for each observation is given by [Math Processing Error] and [Math Processing Error].
+• Visual Observations Scene elements derived directly from the visual input data are represented as spatial entities [ Math Processing Error ]  , i . e .  ,  [ Math Processing Error ]  =  [ Math Processing Error ] is the set of observations at time t ( Table 3 )  . For the examples and empirical evaluation in this paper ( Sec . 4 ) we focus on Obstacle / Object Detections – detecting cars , pedestrians , cyclists , traffic lights etc using YOLOv3 [ 64 ]  . Further we generate scene context using Semantic Segmentation – segmenting the road , sidewalk , buildings , cars , people , trees , etc . using DeepLabv3 +  [ 26 ]  , and Lane Detection – estimating lane markings , to detect lanes on the road , using SCNN [ 61 ]  . Type and confidence score for each observation is given by [ Math Processing Error ] and [ Math Processing Error ]  . 
 
-• Movement Prediction For each track [Math Processing Error] changes in position and size are predicted using kalman filters; this results in an estimate of the spatial entity ε for the next time-point t of each motion track [Math Processing Error] = [Math Processing Error].
+• Movement Prediction For each track [ Math Processing Error ] changes in position and size are predicted using kalman filters ; this results in an estimate of the spatial entity ε for the next time-point t of each motion track [ Math Processing Error ]  =  [ Math Processing Error ]  . 
 
-• Matching Likelihood For each pair of tracks and observations [Math Processing Error] and [Math Processing Error], where [Math Processing Error] and [Math Processing Error], we compute the likelihood [Math Processing Error] that [Math Processing Error] belongs to [Math Processing Error]. The intersection over union (IoU) provides a measure for the amount of overlap between the spatial entities [Math Processing Error] and [Math Processing Error].
+• Matching Likelihood For each pair of tracks and observations [ Math Processing Error ] and [ Math Processing Error ]  , where [ Math Processing Error ] and [ Math Processing Error ]  , we compute the likelihood [ Math Processing Error ] that [ Math Processing Error ] belongs to [ Math Processing Error ]  . The intersection over union ( IoU ) provides a measure for the amount of overlap between the spatial entities [ Math Processing Error ] and [ Math Processing Error ]  . 
 
-Image 25 Abduction based Association Following perception as logical abduction most directly in the sense of Shanahan [69], we define the task of abducing visual explanations as finding an association ([Math Processing Error]) of observed scene elements ([Math Processing Error]) to the motion tracks of objects ([Math Processing Error]) given by the predictions [Math Processing Error], together with a high-level explanation ([Math Processing Error]), such that [Math Processing Error] is consistent with the background knowledge and the previously abduced event sequence [Math Processing Error], and entails the perceived scene given by [Math Processing Error]:
-[Math Processing Error]
-where [Math Processing Error] consists of the assignment of detections to object tracks, and [Math Processing Error] consists of the high-level events Θ explaining the assignments.
+Image 25 Abduction based Association Following perception as logical abduction most directly in the sense of Shanahan [ 69 ]  , we define the task of abducing visual explanations as finding an association (  [ Math Processing Error ]  ) of observed scene elements (  [ Math Processing Error ]  ) to the motion tracks of objects (  [ Math Processing Error ]  ) given by the predictions [ Math Processing Error ]  , together with a high-level explanation (  [ Math Processing Error ]  )  , such that [ Math Processing Error ] is consistent with the background knowledge and the previously abduced event sequence [ Math Processing Error ]  , and entails the perceived scene given by [ Math Processing Error ]  :  
+[ Math Processing Error ] 
+where [ Math Processing Error ] consists of the assignment of detections to object tracks , and [ Math Processing Error ] consists of the high-level events Θ explaining the assignments . 
 
-• Associating Objects and Observations Finding the best match between observations ([Math Processing Error]) and object tracks ([Math Processing Error]) is done by generating all possible assignments and then maximising a matching likelihood [Math Processing Error] between pairs of spatial entities for matched observations [Math Processing Error] and predicted track region [Math Processing Error] (see Step 3). Towards this we use choice rules [40] (i.e., one of the heads of the rule has to be in the stable model) for [Math Processing Error] and [Math Processing Error], generating all possible assignments in terms of assignment actions: assign, start, end, halt, resume, ignore_det, ignore_trk. The corresponding ASP code is as follows:
+• Associating Objects and Observations Finding the best match between observations (  [ Math Processing Error ]  ) and object tracks (  [ Math Processing Error ]  ) is done by generating all possible assignments and then maximising a matching likelihood [ Math Processing Error ] between pairs of spatial entities for matched observations [ Math Processing Error ] and predicted track region [ Math Processing Error ]  ( see Step 3 )  . Towards this we use choice rules [ 40 ]  ( i . e .  , one of the heads of the rule has to be in the stable model ) for [ Math Processing Error ] and [ Math Processing Error ]  , generating all possible assignments in terms of assignment actions : assign , start , end , halt , resume , ignore_det , ignore_trk . The corresponding ASP code is as follows : 
 
-Download : Download high-res image (36KB)Download : Download full-size image
+Download : Download high-res image ( 36KB ) Download : Download full-size image
 
-Download : Download high-res image (34KB)Download : Download full-size image
-For each assignment action we define integrity constraints5 that restrict the set of answers generated by the choice rules, e.g., the following constraints are applied to assigning an observation [Math Processing Error] to a track [Math Processing Error], applying thresholds on the [Math Processing Error] and the confidence of the observation [Math Processing Error], further we define that the type of the observation has to match the type of the track it is assigned to (e.g., also see Fig. 6):
+Download : Download high-res image ( 34KB ) Download : Download full-size image
+For each assignment action we define integrity constraints5 that restrict the set of answers generated by the choice rules , e . g .  , the following constraints are applied to assigning an observation [ Math Processing Error ] to a track [ Math Processing Error ]  , applying thresholds on the [ Math Processing Error ] and the confidence of the observation [ Math Processing Error ]  , further we define that the type of the observation has to match the type of the track it is assigned to ( e . g .  , also see Fig . 6 )  : 
 
-Download : Download high-res image (19KB)Download : Download full-size image
+Download : Download high-res image ( 19KB ) Download : Download full-size image
 
-Download : Download high-res image (56KB)Download : Download full-size image
+Download : Download high-res image ( 56KB ) Download : Download full-size image
 
-Fig. 6
-Download : Download high-res image (1MB)Download : Download full-size image
-Fig. 6. Commonsense Visual Explainability in Active Vision & Control (for Autonomous Driving); The Case of Hidden Entities.
+Fig . 6
+Download : Download high-res image ( 1MB ) Download : Download full-size image
+Fig . 6 . Commonsense Visual Explainability in Active Vision & Control ( for Autonomous Driving )  ; The Case of Hidden Entities . 
 
-• Abducible High-Level Events  For the length of this paper, we restrict to high-level visuo-spatial abducibles pertaining to object persistence and visibility (Table 4, Table 5): (1). Occlusion: Objects can disappear or reappear as result of occlusion with other objects; (2). Noise and Missing Observation: (Missing-)observations can be the result of faulty detections.
+• Abducible High-Level Events For the length of this paper , we restrict to high-level visuo-spatial abducibles pertaining to object persistence and visibility ( Table 4 , Table 5 )  :  ( 1 )  . Occlusion : Objects can disappear or reappear as result of occlusion with other objects ;  ( 2 )  . Noise and Missing Observation :  ( Missing- ) observations can be the result of faulty detections . 
 
-Table 4. ABDUCIBLES; Events Relevant to Explaining (Dis)Appearance.
+Table 4 . ABDUCIBLES ; Events Relevant to Explaining ( Dis ) Appearance . 
 
 
-Table 5. ABDUCIBLES; Fluents Relevant to Explaining (Dis)Appearance.
+Table 5 . ABDUCIBLES ; Fluents Relevant to Explaining ( Dis ) Appearance . 
 
 
-Lets take the case of occlusion: functional fluent visibility could be denoted [Math Processing Error], [Math Processing Error] or [Math Processing Error]:
+Lets take the case of occlusion : functional fluent visibility could be denoted [ Math Processing Error ]  ,  [ Math Processing Error ] or [ Math Processing Error ]  : 
 
-Download : Download high-res image (16KB)Download : Download full-size image
+Download : Download high-res image ( 16KB ) Download : Download full-size image
 
-Download : Download high-res image (48KB)Download : Download full-size image
-We define the event [Math Processing Error], stating that an object hides behind another object by defining the conditions that have to hold for the event to possibly occur, and the effects the occurrence of the event has on the properties of the objects, i.e., the value of the visibility fluent changes to [Math Processing Error].
+Download : Download high-res image ( 48KB ) Download : Download full-size image
+We define the event [ Math Processing Error ]  , stating that an object hides behind another object by defining the conditions that have to hold for the event to possibly occur , and the effects the occurrence of the event has on the properties of the objects , i . e .  , the value of the visibility fluent changes to [ Math Processing Error ]  . 
 
-Download : Download high-res image (21KB)Download : Download full-size image
+Download : Download high-res image ( 21KB ) Download : Download full-size image
 
-Download : Download high-res image (32KB)Download : Download full-size image
+Download : Download high-res image ( 32KB ) Download : Download full-size image
 
-Download : Download high-res image (80KB)Download : Download full-size image
-For abducing the occurrence of an event we use choice rules that connect the event with assignment actions, e.g., a track getting halted may be explained by the event that the track hides behind another track.
+Download : Download high-res image ( 80KB ) Download : Download full-size image
+For abducing the occurrence of an event we use choice rules that connect the event with assignment actions , e . g .  , a track getting halted may be explained by the event that the track hides behind another track . 
 
-Download : Download high-res image (27KB)Download : Download full-size image
-Image 28 Finding the Optimal Hypothesis To ensure an optimal assignment, we use ASP based optimization to maximize the matching likelihood between matched pairs of tracks and detections. Towards this, we first define the matching likelihood based on the Intersection over Union (IoU) between the observations and the predicted boxes for each track as described in [9]:
+Download : Download high-res image ( 27KB ) Download : Download full-size image
+Image 28 Finding the Optimal Hypothesis To ensure an optimal assignment , we use ASP based optimization to maximize the matching likelihood between matched pairs of tracks and detections . Towards this , we first define the matching likelihood based on the Intersection over Union ( IoU ) between the observations and the predicted boxes for each track as described in [ 9 ]  : 
 
-Download : Download high-res image (24KB)Download : Download full-size image
-We then maximize the matching likelihood for all assignments, using the build in maximize statement:
+Download : Download high-res image ( 24KB ) Download : Download full-size image
+We then maximize the matching likelihood for all assignments , using the build in maximize statement : 
 
-Download : Download high-res image (24KB)Download : Download full-size image
-To find the best set of hypotheses with respect to the observations, we minimize the occurrence of certain events and association actions, e.g., the following optimization statements minimize starting and ending tracks; the resulting assignment is then used to update the motion tracks accordingly.
+Download : Download high-res image ( 24KB ) Download : Download full-size image
+To find the best set of hypotheses with respect to the observations , we minimize the occurrence of certain events and association actions , e . g .  , the following optimization statements minimize starting and ending tracks ; the resulting assignment is then used to update the motion tracks accordingly . 
 
-Download : Download high-res image (21KB)Download : Download full-size image
-It is important here to note that: (1). by jointly abducing the object dynamics and high-level events we can impose constraints on the assignment of detections to tracks, i.e., an assignment is only possible if we can find an explanation supporting the assignment; and (2). the likelihood that an event occurs guides the assignments of observations to tracks. Instead of independently tracking objects and interpreting the interactions, this yields to event sequences that are consistent with the abduced object tracks, and noise in the observations is reduced (See evaluation in Sec. 4).
+Download : Download high-res image ( 21KB ) Download : Download full-size image
+It is important here to note that :  ( 1 )  . by jointly abducing the object dynamics and high-level events we can impose constraints on the assignment of detections to tracks , i . e .  , an assignment is only possible if we can find an explanation supporting the assignment ; and ( 2 )  . the likelihood that an event occurs guides the assignments of observations to tracks . Instead of independently tracking objects and interpreting the interactions , this yields to event sequences that are consistent with the abduced object tracks , and noise in the observations is reduced ( See evaluation in Sec . 4 )  . 
 
-4. Evaluation: application and empirical performance analysis
-We demonstrate applicability towards identifying and interpreting safety-critical situations (e.g., Table 6; Fig. 7, Fig. 8; Fig. 4); these encompass those scenarios where interpretation of spacetime dynamics, driving behaviour, environmental characteristics is necessary to anticipate and avoid potential dangers. We also provide an empirical evaluation of the active sensemaking framework in the context of community benchmark datasets.
+4 . Evaluation : application and empirical performance analysis
+We demonstrate applicability towards identifying and interpreting safety-critical situations ( e . g .  , Table 6 ; Fig . 7 , Fig . 8 ; Fig . 4 )  ; these encompass those scenarios where interpretation of spacetime dynamics , driving behaviour , environmental characteristics is necessary to anticipate and avoid potential dangers . We also provide an empirical evaluation of the active sensemaking framework in the context of community benchmark datasets . 
 
-Table 6. Select Safety-Critical Situations.
+Table 6 . Select Safety-Critical Situations . 
 
 
-Fig. 7
-Download : Download high-res image (208KB)Download : Download full-size image
-Fig. 7. Safety-Critical Situation (select prototypes): (a). momentarily occluded / hidden entities; (b). overtaking / lane-crossing situation; (c). blocked visibility; and (d) suddenly appearing objects.
+Fig . 7
+Download : Download high-res image ( 208KB ) Download : Download full-size image
+Fig . 7 . Safety-Critical Situation ( select prototypes )  :  ( a )  . momentarily occluded / hidden entities ;  ( b )  . overtaking / lane-crossing situation ;  ( c )  . blocked visibility ; and ( d ) suddenly appearing objects . 
 
-Fig. 8
-Download : Download high-res image (905KB)Download : Download full-size image
-Fig. 8. Sample Safety-Critical Episodes: (a). overtaking event in front of the car; (b). occlusion while turning left; (c). abrupt lane change on the highway; (d). pedestrian suddenly appearing from between two parked cars; and (e). (relatively) crowded and chaotic inner city traffic.
+Fig . 8
+Download : Download high-res image ( 905KB ) Download : Download full-size image
+Fig . 8 . Sample Safety-Critical Episodes :  ( a )  . overtaking event in front of the car ;  ( b )  . occlusion while turning left ;  ( c )  . abrupt lane change on the highway ;  ( d )  . pedestrian suddenly appearing from between two parked cars ; and ( e )  .  ( relatively ) crowded and chaotic inner city traffic . 
 
-4.1. Application: visual perception by abduction
-In the context of active vision as relevant to autonomous driving, we demonstrate select examples focussing on abducing appearance, disappearance, and occlusion events.
+4 . 1 . Application : visual perception by abduction
+In the context of active vision as relevant to autonomous driving , we demonstrate select examples focussing on abducing appearance , disappearance , and occlusion events . 
 
-4.1.1. Abducing explanations: appearance and disappearance
-Consider the scene in Fig. 9, where a car is passing behind a bus and is getting hidden during this. When the car hides behind the bus (time point 235), the track [Math Processing Error] gets [Math Processing Error] and the event [Math Processing Error] is abduced to explain why the car is not detected anymore and the corresponding track is halted.
+4 . 1 . 1 . Abducing explanations : appearance and disappearance
+Consider the scene in Fig . 9 , where a car is passing behind a bus and is getting hidden during this . When the car hides behind the bus ( time point 235 )  , the track [ Math Processing Error ] gets [ Math Processing Error ] and the event [ Math Processing Error ] is abduced to explain why the car is not detected anymore and the corresponding track is halted . 
 
-Fig. 9
-Download : Download high-res image (379KB)Download : Download full-size image
-Fig. 9. Abducing 'Hiding Behind' Event.
+Fig . 9
+Download : Download high-res image ( 379KB ) Download : Download full-size image
+Fig . 9 . Abducing ' Hiding Behind ' Event . 
 
-The problem specification for time point 235 ([Math Processing Error]) is given as follows: •  [Math Processing Error] the visual observation, consisting of the object detections, given by the bounding box, the type and the confidence:
+The problem specification for time point 235 (  [ Math Processing Error ]  ) is given as follows : •  [ Math Processing Error ] the visual observation , consisting of the object detections , given by the bounding box , the type and the confidence : 
 
-Download : Download high-res image (84KB)Download : Download full-size image
-•  [Math Processing Error] the predictions for each track, given by the predicted bounding box, the state in which the track currently is, and the type of the tracked object:
+Download : Download high-res image ( 84KB ) Download : Download full-size image
+•  [ Math Processing Error ] the predictions for each track , given by the predicted bounding box , the state in which the track currently is , and the type of the tracked object : 
 
-Download : Download high-res image (119KB)Download : Download full-size image
-•  And [Math Processing Error] the matching likelihood for each track with each detection, here given by the IoU between the detection bounding box and the predicted bounding box for the track6:
+Download : Download high-res image ( 119KB ) Download : Download full-size image
+• And [ Math Processing Error ] the matching likelihood for each track with each detection , here given by the IoU between the detection bounding box and the predicted bounding box for the track6 : 
 
-Download : Download high-res image (38KB)Download : Download full-size image
-Solving the assignment of detections to tracks can now be done based on the choice rules for associating objects and observations, detailed in Section 3.1 Step 2.
+Download : Download high-res image ( 38KB ) Download : Download full-size image
+Solving the assignment of detections to tracks can now be done based on the choice rules for associating objects and observations , detailed in Section 3 . 1 Step 2 . 
 
-To restrict the assignment we can impose constraints on the matching, by stating integrity constraints, e.g., for ensuring that only tracks and detections with the same type are matched, we could state the following integrity constraint. Stating that any stable model where the body is satisfied can not be in the set of answers, i.e., any model assigning a track and a detection which are not of the same type can not be an answer. Further, the track has to be active, the confidence of the detection has to be above a threshold, and the IoU between the track and the detection has to be above a threshold:
+To restrict the assignment we can impose constraints on the matching , by stating integrity constraints , e . g .  , for ensuring that only tracks and detections with the same type are matched , we could state the following integrity constraint . Stating that any stable model where the body is satisfied can not be in the set of answers , i . e .  , any model assigning a track and a detection which are not of the same type can not be an answer . Further , the track has to be active , the confidence of the detection has to be above a threshold , and the IoU between the track and the detection has to be above a threshold : 
 
-Download : Download high-res image (73KB)Download : Download full-size image
-By maximizing the matching likelihood we get the optimal assignment of detections to tracks, in our example the bus is detected by detection [Math Processing Error] which gets assigned to the corresponding track [Math Processing Error], but as the car is hiding behind the bus, there is no corresponding detection, thus the track of the car [Math Processing Error] gets halted:
+Download : Download high-res image ( 73KB ) Download : Download full-size image
+By maximizing the matching likelihood we get the optimal assignment of detections to tracks , in our example the bus is detected by detection [ Math Processing Error ] which gets assigned to the corresponding track [ Math Processing Error ]  , but as the car is hiding behind the bus , there is no corresponding detection , thus the track of the car [ Math Processing Error ] gets halted : 
 
-Download : Download high-res image (36KB)Download : Download full-size image
-The assignment actions are linked with high-level events for explaining the assignments, i.e., the halted track [Math Processing Error] can be explained either by missing detections or by the track hiding behind another track. In this case track [Math Processing Error] is hiding behind track [Math Processing Error], this can be abduced based on possible events, which in this case is the [Math Processing Error] event.
+Download : Download high-res image ( 36KB ) Download : Download full-size image
+The assignment actions are linked with high-level events for explaining the assignments , i . e .  , the halted track [ Math Processing Error ] can be explained either by missing detections or by the track hiding behind another track . In this case track [ Math Processing Error ] is hiding behind track [ Math Processing Error ]  , this can be abduced based on possible events , which in this case is the [ Math Processing Error ] event . 
 
-For the event [Math Processing Error]/2 the predicted tracks have to be overlapping. This is ensured by (spatial) preconditions of the event, given by the predicate [Math Processing Error]/1:
+For the event [ Math Processing Error ]  / 2 the predicted tracks have to be overlapping . This is ensured by ( spatial ) preconditions of the event , given by the predicate [ Math Processing Error ]  / 1 : 
 
-Download : Download high-res image (58KB)Download : Download full-size image
-In our example we can now abduce that the track [Math Processing Error] representing the car is ended, because the car got hidden by the bus represented by track [Math Processing Error]. In the formal representation of event calculus this is represented by the predicate [Math Processing Error]/2 as follows:
+Download : Download high-res image ( 58KB ) Download : Download full-size image
+In our example we can now abduce that the track [ Math Processing Error ] representing the car is ended , because the car got hidden by the bus represented by track [ Math Processing Error ]  . In the formal representation of event calculus this is represented by the predicate [ Math Processing Error ]  / 2 as follows : 
 
-Download : Download high-res image (18KB)Download : Download full-size image
-At time point 268 the car reappears, after passing behind the bus. Due to the previously abduced event [Math Processing Error]/2, the visibility fluent for the track of the car [Math Processing Error] has now the value [Math Processing Error].
+Download : Download high-res image ( 18KB ) Download : Download full-size image
+At time point 268 the car reappears , after passing behind the bus . Due to the previously abduced event [ Math Processing Error ]  / 2 , the visibility fluent for the track of the car [ Math Processing Error ] has now the value [ Math Processing Error ]  . 
 
-For the detection [Math Processing Error] we can then abduce that track [Math Processing Error] unhides from behind track [Math Processing Error] based on the following event definition, stating that the event [Math Processing Error]/2 is possible when Trk1 is [Math Processing Error] and Trk2 is not [Math Processing Error]:
+For the detection [ Math Processing Error ] we can then abduce that track [ Math Processing Error ] unhides from behind track [ Math Processing Error ] based on the following event definition , stating that the event [ Math Processing Error ]  / 2 is possible when Trk1 is [ Math Processing Error ] and Trk2 is not [ Math Processing Error ]  : 
 
-Download : Download high-res image (50KB)Download : Download full-size image
+Download : Download high-res image ( 50KB ) Download : Download full-size image
 
-Download : Download high-res image (38KB)Download : Download full-size image
+Download : Download high-res image ( 38KB ) Download : Download full-size image
 
-Download : Download high-res image (21KB)Download : Download full-size image
-Similarly, when looking at a slightly more complex scene, like the one depicted in Fig. 10, we get an event sequence describing the interactions happening in the scene:
+Download : Download high-res image ( 21KB ) Download : Download full-size image
+Similarly , when looking at a slightly more complex scene , like the one depicted in Fig . 10 , we get an event sequence describing the interactions happening in the scene : 
 
-Download : Download high-res image (59KB)Download : Download full-size image
-This event sequence explains the visuospatial dynamics of the scene and can be used for reasoning about the scene.
+Download : Download high-res image ( 59KB ) Download : Download full-size image
+This event sequence explains the visuospatial dynamics of the scene and can be used for reasoning about the scene . 
 
-Fig. 10
-Download : Download high-res image (483KB)Download : Download full-size image
-Fig. 10. Abducing Event Sequences (Example from MOT Dataset).
+Fig . 10
+Download : Download high-res image ( 483KB ) Download : Download full-size image
+Fig . 10 . Abducing Event Sequences ( Example from MOT Dataset )  . 
 
-4.1.2. Reasoning about hidden entities
-Consider the situation of Fig. 11: a car gets occluded by another car turning left and reappears in front of the autonomous vehicle. Using online abduction for abducing high-level interactions of scene objects we can hypothesize that the car got occluded and anticipate its reappearance based on the perceived scene dynamics.
+4 . 1 . 2 . Reasoning about hidden entities
+Consider the situation of Fig . 11 : a car gets occluded by another car turning left and reappears in front of the autonomous vehicle . Using online abduction for abducing high-level interactions of scene objects we can hypothesize that the car got occluded and anticipate its reappearance based on the perceived scene dynamics . 
 
-Fig. 11
-Download : Download high-res image (486KB)Download : Download full-size image
-Fig. 11. Abducing Occlusion to Anticipate Reappearance.
+Fig . 11
+Download : Download high-res image ( 486KB ) Download : Download full-size image
+Fig . 11 . Abducing Occlusion to Anticipate Reappearance . 
 
-The prediction for each track is given by the predicted bounding box, the state in which the track currently is, and the type of the tracked object:
+The prediction for each track is given by the predicted bounding box , the state in which the track currently is , and the type of the tracked object : 
 
-Download : Download high-res image (45KB)Download : Download full-size image
-Based on this problem specification for time point 179, the event [Math Processing Error] is abduced, as there is no detection that could be associated with [Math Processing Error] and [Math Processing Error] is partially overlapping with [Math Processing Error]:
+Download : Download high-res image ( 45KB ) Download : Download full-size image
+Based on this problem specification for time point 179 , the event [ Math Processing Error ] is abduced , as there is no detection that could be associated with [ Math Processing Error ] and [ Math Processing Error ] is partially overlapping with [ Math Processing Error ]  : 
 
-Download : Download high-res image (18KB)Download : Download full-size image
-The abduced explanation together with the object dynamics may then be used for visual reasoning and anticipation of events, which can serve for decision support. Towards this we define a rule stating that a hidden object may unhide from behind the object it is hidden by and anticipate the time point t based on the object movement as follows:
+Download : Download high-res image ( 18KB ) Download : Download full-size image
+The abduced explanation together with the object dynamics may then be used for visual reasoning and anticipation of events , which can serve for decision support . Towards this we define a rule stating that a hidden object may unhide from behind the object it is hidden by and anticipate the time point t based on the object movement as follows : 
 
-Download : Download high-res image (55KB)Download : Download full-size image
-We then interpolate the objects position at time point t to predict where the object may reappear:
+Download : Download high-res image ( 55KB ) Download : Download full-size image
+We then interpolate the objects position at time point t to predict where the object may reappear : 
 
-Download : Download high-res image (49KB)Download : Download full-size image
-For the occluded car in our example we get the following prediction for time t and position [Math Processing Error]:
+Download : Download high-res image ( 49KB ) Download : Download full-size image
+For the occluded car in our example we get the following prediction for time t and position [ Math Processing Error ]  : 
 
-Download : Download high-res image (35KB)Download : Download full-size image
-Based on this prediction we can then define a rule that gives a warning if a hidden entity may reappear in front of the vehicle, which could be used by the control mechanism, e.g., to adapt driving and slow down in order to keep safe distance:
+Download : Download high-res image ( 35KB ) Download : Download full-size image
+Based on this prediction we can then define a rule that gives a warning if a hidden entity may reappear in front of the vehicle , which could be used by the control mechanism , e . g .  , to adapt driving and slow down in order to keep safe distance : 
 
-Download : Download high-res image (53KB)Download : Download full-size image
+Download : Download high-res image ( 53KB ) Download : Download full-size image
 
-4.2. Empirical performance analysis
-For online sensemaking, evaluation focusses on accuracy of abduced motion tracks, real-time performance, and the tradeoff between performance and accuracy. Our evaluation uses the KITTI object tracking dataset [41], which is a community established benchmark dataset for autonomous cars: it consists of 21 training and 29 test scenes, and provides accurate track annotations for 8 object classes (e.g., car, pedestrian, van, cyclist). We also evaluate tracking results using the more general cross-domain Multi-Object Tracking (MOT) dataset [58] established as part of the MOT Challenge; We evaluate on MOT 2017 consisting of 7 training and 7 test scenes which are highly unconstrained videos filmed with both static and moving cameras, and MOT 2020 consisting of 4 training and 4 test scenes filmed in crowded environments. We evaluate on the available groundtruth for training scenes of both KITTI using YOLOv3 detections, and MOT17 / MOT20 using the provided faster RCNN (Region Based Convolutional Neural Network [65]) detections.
+4 . 2 . Empirical performance analysis
+For online sensemaking , evaluation focusses on accuracy of abduced motion tracks , real-time performance , and the tradeoff between performance and accuracy . Our evaluation uses the KITTI object tracking dataset [ 41 ]  , which is a community established benchmark dataset for autonomous cars : it consists of 21 training and 29 test scenes , and provides accurate track annotations for 8 object classes ( e . g .  , car , pedestrian , van , cyclist )  . We also evaluate tracking results using the more general cross-domain Multi-Object Tracking ( MOT ) dataset [ 58 ] established as part of the MOT Challenge ; We evaluate on MOT 2017 consisting of 7 training and 7 test scenes which are highly unconstrained videos filmed with both static and moving cameras , and MOT 2020 consisting of 4 training and 4 test scenes filmed in crowded environments . We evaluate on the available groundtruth for training scenes of both KITTI using YOLOv3 detections , and MOT17 / MOT20 using the provided faster RCNN ( Region Based Convolutional Neural Network [ 65 ]  ) detections . 
 
-4.2.1. Evaluating object tracking
-For evaluating accuracy (MOTA) and precision (MOTP) of abduced object tracks we follow the Clear MOT [8] evaluation schema.
+4 . 2 . 1 . Evaluating object tracking
+For evaluating accuracy ( MOTA ) and precision ( MOTP ) of abduced object tracks we follow the Clear MOT [ 8 ] evaluation schema . 
 •
-MOTA describes the accuracy of the tracking, taking into account the number of missed objects / false negatives (FN), the number of false positives (FP), and the number of miss-matches (MM).
-
-•
-MOTP describes the precision of the tracking based on the distance of the hypothesised track to the ground truth of the object it is associated to.
-
-These metrics are used to assess how well the generated visual explanations describe the low-level motion in the scene.
-
-Results (Table 7) show that jointly abducing high-level object interactions together with low-level scene dynamics increases the accuracy of the object tracks, i.e, we consistently observe an improvement of about 5% on KITTI and MOT 2017. On KITTI MOTA improves from 45.72% to 50.5% for cars and 28.71% to 32.57% for pedestrians, and on MOT 2017 it improves from 41.4% to 46.2%. On MOT 2020 we still observe an improvement of 1.2% from 49.5% to 50.7%. This relatively small improvement is mainly because of the different nature of the dataset, i.e., the focus on crowded scenes filmed from a slightly above perspective, which leads to only few targets that get fully occluded by others, and thus there are fewer corrected tracks when using abductive sensemaking compared to the scenes in KITTI and MOT 2017.
-
-Table 7. Evaluation of Tracking Performance; accuracy (MOTA), precision (MOTP), mostly tracked (MT) and mostly lost (ML) tracks, false positives (FP), false negatives (FN), identity switches (ID Sw.), and fragmentation (Frag.)
-
-
-4.2.2. Online performance and scalability
-Performance of online abduction is evaluated with respect to its real-time capabilities.7 (1). We compare the time & accuracy of online abduction for state of the art (real-time) detection methods: YOLOv3, SSD [54], and Faster RCNN [65] (Fig. 12). (2). We evaluate scalability of the ASP based abduction on a synthetic dataset with controlled number of tracks and percentage of overlapping tracks per frame. Results (Fig. 13) show that online abduction can perform with above 30 frames per second for scenes with up to 10 highly overlapping object tracks, and more than 50 tracks with 1fps (for the sake of testing, it is worth noting that even for 100 objects per frame it only takes about an average of 4 secs per frame). Importantly, for realistic scenes such as in the KITTI dataset, abduction runs realtime at 33.9fps using YOLOv3, and 46.7 using SSD with lower accuracy but providing good precision.
-
-Fig. 12
-Download : Download high-res image (41KB)Download : Download full-size image
-Fig. 12. Online Performance; performance for pretrained detectors (DET.) on the 'cars' class of KITTI dataset.
-
-Fig. 13
-Download : Download high-res image (48KB)Download : Download full-size image
-Fig. 13. Scalability; processing time relative to the no. of tracks on synthetic dataset.
-
-4.2.3. Discussion of empirical results
-Results show that integrating high-level abduction and object tracking improves the resulting object tracks and reduce the noise in the visual observations. For the case of online visual sense-making, ASP based abduction provides the required performance: even though the complexity of ASP based abduction increases quickly, with large numbers of tracked objects the framework can track up to 20 objects simultaneously with [Math Processing Error] and achieve real-time performance on the KITTI benchmark dataset. It is also important to note that the tracking approach in this paper is based on tracking by detection using a naive measure, i.e, the IoU (Sec. 3.1; Step 1), to associate observations and tracks, and it is not using any visual information in the prediction or association step. Naturally, this results in a lower accuracy, in particular when used with noisy detections and when tracking fast moving objects in a benchmark dataset such as KITTI. That said, due to the modularity of the implemented framework, extensions with different methods for predicting motion (e.g., using particle filters or optical flow based prediction) are straightforward: i.e., improving tracking is not the aim of our research.
-
-5. Discussion and related work
-Answer Set Programming is now widely used as a foundational declarative language and robust methodology for a range of (non-monotonic) knowledge representation and reasoning tasks [25], [66], [39], [38], [40]. With ASP as a foundation, and driven by semantics, commonsense and explainability [32], [31], this research aims to bridge the gap between high-level formalisms for logical visual reasoning (e.g., by abduction) and low-level visual processing by tightly integrating semantic abstractions of space and change with their underlying numerical representations. More broadly, this goal is pursued within the larger agenda of cognitive vision and perception [12], which is an emerging line of research bringing together a novel & unique combination of methodologies from Artificial Intelligence, Vision and Machine Learning, Cognitive Science and Psychology, Visual Perception, and Spatial Cognition and Computation. Research in cognitive vision and perception addresses visual, visuospatial and visuo-locomotive perception and interaction from the viewpoints of language, logic, spatial cognition and artificial intelligence [78], [70], [77], [75], [76]. In this broader context, the principal motivation and developmental goal of this research follows a one-point agenda [12], [79], namely:
-to develop a systematic, general, and modular integration of (methods in) Computer Vision and AI, particularly emphasising the integration of high-level knowledge representation and reasoning techniques with low-level (i.e., quantitatively) based visual computing techniques (which in the present scientific status quo are primarily driven by end-to-end, black-box deep learning pipelines).
-
-The integration of Vision and AI addressed in our research is motivated by the need to realise human-centred criteria pertinent to the design and implementation of high-level visual sensemaking technology, e.g., within autonomous driving systems where such criteria emanating from standardisation and regulation considerations are of utmost priority. Although this paper selectively focusses on the needs and challenges of active / online sensemaking in autonomous driving, the generality and modularly of the developed framework ensures foundational applicability in diverse applied contexts requiring perception, interaction and control; e.g., a case in point here being the fact that the demonstrated application and evaluation also directly function with general datasets such as MOT concerned with moving objects (Sec 4). Of at least equal importance are the modularity and elaboration tolerance of the framework, enabling seamless integration and experimention with advances in fast evolving computer vision methods, as well as experimenting with different forms of formal methods for reasoning about space, actions, and change [10], [11] that could either be embedded directly within answer set programming, or possibly be utilised independently as part of other declarative frameworks for knowledge representation and reasoning.
-
-Perception and Abduction: A KR Perspective.  Within KR, the significance of general abduction and high-level abductive explanations in a range of contexts is long established: planning & process recognition [46], [45], vision & abduction [69], probabilistic abduction [19], reasoning about spatio-temporal dynamics [11], reasoning about continuous spacetime change [60], [43], general abduction in ASP and related logics [53], [23], [22], [35], [36] etc. Dubba et al. [34] formalises abductive reasoning in an inductive-abductive loop within inductive logic programming (ILP). Aditya et al. [1] formalise general rules for image interpretation with ASP. Closely related to this research is [77], which uses a two-step approach (with one huge problem specification), first tracking and then explaining (and fixing) tracking errors; such an approach is not runtime / realtime capable. Within computer vision research there has recently been an interest to synergise with cognitively motivated methods; in particular, e.g., for perceptual grounding and inference [89], and combining video analysis with textual information for understanding events and answering queries about video data [82].
-
-Perception in Autonomous Driving.  The present industrial relevance and market potential8 of autonomous driving technology can be primarily attributed to recent advances in deep learning driven computer vision. A typical engineering stack for autonomous driving consists of perception, prediction, planning and control modules [91]: perception gives the location, pose of the objects in the world while prediction forecasts the motion of the objects; planning involves creating a trajectory for the motion of the vehicle which is then executed by the controller. In object detection, Tan and Le [81] introduced EfficientDet which achieves order-of-magnitude better efficiency than previous works [64], [65], [54], [81] without any drop in performance. Large datasets and self-supervised methods [27], [92] enable end to end joint learning of flow [86], depth and camera pose estimation more accurately, exploiting the inherent relation between each other. More specialised research on object detection has investigated specific cases relevant in driving, such as detection of smaller objects [88], partially occluded pedestrians [62] and 3D object detection [87], [51], [93]. Recent advancements in object tracking involves neural methods like [7] which employ a tracking by detection paradigm and predicts the next object position using a simple neural network. Multi-object tracking is also extended to multi-object tracking and segmentation by [83]. Semantic and Instance segmentation of the object [28] [94] [90] [80] provides accurate boundaries. Advancements in robust lane detection [44] make it possible to extend automatic lane keeping and lane switching. Recent neural methods estimate visual odometry, ego motion, depth and flow through a set of multi-task learning methodologies. [92] [56] show that depth and ego-motion can be learnt in a joint manner. Flow and depth are also learnt using a multi-task approach [27] [95] [86].
-
-Hybrid Methods to Meet Multi-Faceted Challenges. Critical challenges in driving, e.g., pertaining to perception, prediction, planning and control modules [91], are researched and developed individually which leads to a sub-optimal overall performance. End-to-end driving methodologies [21], [91] are constructed in such a way that the sensor outputs such as images, LiDAR (Light Detection and Ranging) are directly used to predict control signals like steering and acceleration. Furthermore, these methods are generally black-box and are unable to model the complex multi-faceted nature of autonomous driving encompassing dimensions of human factors and usability, (natural) roadside multimodal interaction [48], [47] etc, or support the range of human-centred AI considerations related to declarative explainability, queryability etc that have been the principal impulse underlying the aims of the methods developed in this paper.
-
-Our research achieves a systematic integration of KR and Vision methods hitherto developed, evaluated, and applied in completion isolation of one another; we believe that our resulting framework can serve as a one possible interpretation and exemplar for the neurosymbolic integration of relational AI and neural (visual) feature detectors. Furthermore, it offers a novel potential for a multifaceted but integrated applied evaluation and benchmarking of visual sensemaking technologies: e.g., it is common practice within computer vision research to evaluate and benchmark visual computing capabilities, e.g., for object detection, tracking, using absolute performance benchmarks either solely or primarily centred on incremental improvements in accuracy. Naturally, this is necessary for fundamental progress in vision research, but such an evaluation metric misses out on other crucial requirements as they pertain to human-centred AI considerations in applications domains such as autonomous driving. For instance, in light of ethically driven standardisation and regulatory considerations (Section 1), this research has been motivated and directly addresses interpretability and explainability challenges (C1 – C4):
-C1.
-Active visual sensemaking, e.g., involving (real-time) commonsense visuospatial abduction and (simulated) prediction of grounded percepts
-
-C2.
-Posthoc analysis of quantitative archives, e.g., requiring semantic search / retrieval / visualisation for diagnosis, dispute settlement, inspection
-
-C3.
-Natural human-machine interaction, e.g., involving natural language interfaces for (explanatory) communication between vehicle and passengers (or other stakeholders)
-
-C4.
-Standardisation for vehicular licensing & validation, e.g., involving creation of diverse, naturalistic datasets usable in testing of autonomous vehicle performance; how to access the quality and distribution of training datasets utilised? (Sec 6)
-
-Our research, by its integrative approach, makes it possible to explicitly address “human-centred interpretability and explainability challenges” such as in (C1–C4) for autonomous driving systems at the practical level of methods and tools. This is especially beneficial and timely since not everything in autonomous vehicles is about realtime control / decision-making; several human-machine interaction requirements (e.g., for interpretable diagnostic communication, universal design) also exist. The Federal Ministry of Transport and Digital Infrastructure in Germany (BMVI) has taken a lead in eliciting 20 key propositions (with possible legal implications) for the fulfilment of ethical commitments for automated and connected driving systems [20]. The BMVI report highlights a range of factors pertaining to safety, utilitarian considerations, human rights, statutory liability, technological transparency, data management and privacy etc. We claim that what appears as spectrum of complex challenges (in autonomous driving) that may possibly delay technology adoption is actually rooted to one fundamental methodological consideration that needs to be prioritised, namely: the design and implementation of human-centred technology based on a confluence of techniques and perspectives from AI+ML, Cognitive Science & Psychology, Human-Machine Interaction, and Design Science. Like in many applications of AI, such an integrative approach has so far not been explored also within autonomous driving research.
-
-6. Summary and outlook
-We have developed a novel neurosymbolic abduction-driven online (i.e., realtime, incremental) visual sensemaking framework: general, systematically formalised, modular, and fully implemented. Integrating robust state-of-the-art methods in knowledge representation and computer vision, the framework has been evaluated and demonstrated with established community benchmarks. We highlight application prospects of semantic vision for autonomous driving, a domain of emerging and long-term significance for research in Artificial Intelligence and Machine Learning. From the applied viewpoint of autonomous driving, our work is motivated by interpretability and explainability benchmarks (e.g., in active visual sensemaking, posthoc analysis, natural human-machine interaction, standardisation for licensing & validation; Sec 4.1) that go far beyond basic considerations in contemporary autonomous driving research, namely: how fast to drive and which way to steer, and testing performance by clocking mileage alone by the use of deep learning based methods in training and testing phases.
-
-Technical Extensions.  Our development of a systematic, modular, and general visual sensemaking methodology opens up several possibilities for further technical developments / extensions:
-•
-Commonsense. Specialised commonsense theories about multi-sensory integration, multi-agent belief merging, incorporation of contextual knowledge and situational norms within the declarative framework of ASP merits individual strands of further development.
+MOTA describes the accuracy of the tracking , taking into account the number of missed objects / false negatives ( FN )  , the number of false positives ( FP )  , and the number of miss-matches ( MM )  . 
 
 •
-Tracking by detection. Given the modularity of the developed framework, incorporating and experimenting with specialised / emerging low-level visual computing methods becomes feasible with relative ease. For instance, in this paper we have not attempted to develop a new tracking algorithm as such; instead, one of our aims has been to showcase the manner in which perceptual sensemaking by visual abduction can be integrated into a standard “tracking by detection” paradigm, which is most widely used approach in state of the art tracking (Sec 5). Nevertheless, extensions and variations of this approach deserve further investigation where tracking itself takes a centre-stage.
+MOTP describes the precision of the tracking based on the distance of the hypothesised track to the ground truth of the object it is associated to . 
+
+These metrics are used to assess how well the generated visual explanations describe the low-level motion in the scene . 
+
+Results ( Table 7 ) show that jointly abducing high-level object interactions together with low-level scene dynamics increases the accuracy of the object tracks , i . e , we consistently observe an improvement of about 5% on KITTI and MOT 2017 . On KITTI MOTA improves from 45 . 72% to 50 . 5% for cars and 28 . 71% to 32 . 57% for pedestrians , and on MOT 2017 it improves from 41 . 4% to 46 . 2% . On MOT 2020 we still observe an improvement of 1 . 2% from 49 . 5% to 50 . 7% . This relatively small improvement is mainly because of the different nature of the dataset , i . e .  , the focus on crowded scenes filmed from a slightly above perspective , which leads to only few targets that get fully occluded by others , and thus there are fewer corrected tracks when using abductive sensemaking compared to the scenes in KITTI and MOT 2017 . 
+
+Table 7 . Evaluation of Tracking Performance ; accuracy ( MOTA )  , precision ( MOTP )  , mostly tracked ( MT ) and mostly lost ( ML ) tracks , false positives ( FP )  , false negatives ( FN )  , identity switches ( ID Sw .  )  , and fragmentation ( Frag .  ) 
+
+
+4 . 2 . 2 . Online performance and scalability
+Performance of online abduction is evaluated with respect to its real-time capabilities . 7 ( 1 )  . We compare the time & accuracy of online abduction for state of the art ( real-time ) detection methods : YOLOv3 , SSD [ 54 ]  , and Faster RCNN [ 65 ]  ( Fig . 12 )  .  ( 2 )  . We evaluate scalability of the ASP based abduction on a synthetic dataset with controlled number of tracks and percentage of overlapping tracks per frame . Results ( Fig . 13 ) show that online abduction can perform with above 30 frames per second for scenes with up to 10 highly overlapping object tracks , and more than 50 tracks with 1fps ( for the sake of testing , it is worth noting that even for 100 objects per frame it only takes about an average of 4 secs per frame )  . Importantly , for realistic scenes such as in the KITTI dataset , abduction runs realtime at 33 . 9fps using YOLOv3 , and 46 . 7 using SSD with lower accuracy but providing good precision . 
+
+Fig . 12
+Download : Download high-res image ( 41KB ) Download : Download full-size image
+Fig . 12 . Online Performance ; performance for pretrained detectors ( DET .  ) on the ' cars ' class of KITTI dataset . 
+
+Fig . 13
+Download : Download high-res image ( 48KB ) Download : Download full-size image
+Fig . 13 . Scalability ; processing time relative to the no . of tracks on synthetic dataset . 
+
+4 . 2 . 3 . Discussion of empirical results
+Results show that integrating high-level abduction and object tracking improves the resulting object tracks and reduce the noise in the visual observations . For the case of online visual sense-making , ASP based abduction provides the required performance : even though the complexity of ASP based abduction increases quickly , with large numbers of tracked objects the framework can track up to 20 objects simultaneously with [ Math Processing Error ] and achieve real-time performance on the KITTI benchmark dataset . It is also important to note that the tracking approach in this paper is based on tracking by detection using a naive measure , i . e , the IoU ( Sec . 3 . 1 ; Step 1 )  , to associate observations and tracks , and it is not using any visual information in the prediction or association step . Naturally , this results in a lower accuracy , in particular when used with noisy detections and when tracking fast moving objects in a benchmark dataset such as KITTI . That said , due to the modularity of the implemented framework , extensions with different methods for predicting motion ( e . g .  , using particle filters or optical flow based prediction ) are straightforward : i . e .  , improving tracking is not the aim of our research . 
+
+5 . Discussion and related work
+Answer Set Programming is now widely used as a foundational declarative language and robust methodology for a range of ( non-monotonic ) knowledge representation and reasoning tasks [ 25 ]  ,  [ 66 ]  ,  [ 39 ]  ,  [ 38 ]  ,  [ 40 ]  . With ASP as a foundation , and driven by semantics , commonsense and explainability [ 32 ]  ,  [ 31 ]  , this research aims to bridge the gap between high-level formalisms for logical visual reasoning ( e . g .  , by abduction ) and low-level visual processing by tightly integrating semantic abstractions of space and change with their underlying numerical representations . More broadly , this goal is pursued within the larger agenda of cognitive vision and perception [ 12 ]  , which is an emerging line of research bringing together a novel & unique combination of methodologies from Artificial Intelligence , Vision and Machine Learning , Cognitive Science and Psychology , Visual Perception , and Spatial Cognition and Computation . Research in cognitive vision and perception addresses visual , visuospatial and visuo-locomotive perception and interaction from the viewpoints of language , logic , spatial cognition and artificial intelligence [ 78 ]  ,  [ 70 ]  ,  [ 77 ]  ,  [ 75 ]  ,  [ 76 ]  . In this broader context , the principal motivation and developmental goal of this research follows a one-point agenda [ 12 ]  ,  [ 79 ]  , namely : 
+to develop a systematic , general , and modular integration of ( methods in ) Computer Vision and AI , particularly emphasising the integration of high-level knowledge representation and reasoning techniques with low-level ( i . e .  , quantitatively ) based visual computing techniques ( which in the present scientific status quo are primarily driven by end-to-end , black-box deep learning pipelines )  . 
+
+The integration of Vision and AI addressed in our research is motivated by the need to realise human-centred criteria pertinent to the design and implementation of high-level visual sensemaking technology , e . g .  , within autonomous driving systems where such criteria emanating from standardisation and regulation considerations are of utmost priority . Although this paper selectively focusses on the needs and challenges of active / online sensemaking in autonomous driving , the generality and modularly of the developed framework ensures foundational applicability in diverse applied contexts requiring perception , interaction and control ; e . g .  , a case in point here being the fact that the demonstrated application and evaluation also directly function with general datasets such as MOT concerned with moving objects ( Sec 4 )  . Of at least equal importance are the modularity and elaboration tolerance of the framework , enabling seamless integration and experimention with advances in fast evolving computer vision methods , as well as experimenting with different forms of formal methods for reasoning about space , actions , and change [ 10 ]  ,  [ 11 ] that could either be embedded directly within answer set programming , or possibly be utilised independently as part of other declarative frameworks for knowledge representation and reasoning . 
+
+Perception and Abduction : A KR Perspective .  Within KR , the significance of general abduction and high-level abductive explanations in a range of contexts is long established : planning & process recognition [ 46 ]  ,  [ 45 ]  , vision & abduction [ 69 ]  , probabilistic abduction [ 19 ]  , reasoning about spatio-temporal dynamics [ 11 ]  , reasoning about continuous spacetime change [ 60 ]  ,  [ 43 ]  , general abduction in ASP and related logics [ 53 ]  ,  [ 23 ]  ,  [ 22 ]  ,  [ 35 ]  ,  [ 36 ] etc . Dubba et al .  [ 34 ] formalises abductive reasoning in an inductive-abductive loop within inductive logic programming ( ILP )  . Aditya et al .  [ 1 ] formalise general rules for image interpretation with ASP . Closely related to this research is [ 77 ]  , which uses a two-step approach ( with one huge problem specification )  , first tracking and then explaining ( and fixing ) tracking errors ; such an approach is not runtime / realtime capable . Within computer vision research there has recently been an interest to synergise with cognitively motivated methods ; in particular , e . g .  , for perceptual grounding and inference [ 89 ]  , and combining video analysis with textual information for understanding events and answering queries about video data [ 82 ]  . 
+
+Perception in Autonomous Driving .  The present industrial relevance and market potential8 of autonomous driving technology can be primarily attributed to recent advances in deep learning driven computer vision . A typical engineering stack for autonomous driving consists of perception , prediction , planning and control modules [ 91 ]  : perception gives the location , pose of the objects in the world while prediction forecasts the motion of the objects ; planning involves creating a trajectory for the motion of the vehicle which is then executed by the controller . In object detection , Tan and Le [ 81 ] introduced EfficientDet which achieves order-of-magnitude better efficiency than previous works [ 64 ]  ,  [ 65 ]  ,  [ 54 ]  ,  [ 81 ] without any drop in performance . Large datasets and self-supervised methods [ 27 ]  ,  [ 92 ] enable end to end joint learning of flow [ 86 ]  , depth and camera pose estimation more accurately , exploiting the inherent relation between each other . More specialised research on object detection has investigated specific cases relevant in driving , such as detection of smaller objects [ 88 ]  , partially occluded pedestrians [ 62 ] and 3D object detection [ 87 ]  ,  [ 51 ]  ,  [ 93 ]  . Recent advancements in object tracking involves neural methods like [ 7 ] which employ a tracking by detection paradigm and predicts the next object position using a simple neural network . Multi-object tracking is also extended to multi-object tracking and segmentation by [ 83 ]  . Semantic and Instance segmentation of the object [ 28 ]  [ 94 ]  [ 90 ]  [ 80 ] provides accurate boundaries . Advancements in robust lane detection [ 44 ] make it possible to extend automatic lane keeping and lane switching . Recent neural methods estimate visual odometry , ego motion , depth and flow through a set of multi-task learning methodologies .  [ 92 ]  [ 56 ] show that depth and ego-motion can be learnt in a joint manner . Flow and depth are also learnt using a multi-task approach [ 27 ]  [ 95 ]  [ 86 ]  . 
+
+Hybrid Methods to Meet Multi-Faceted Challenges . Critical challenges in driving , e . g .  , pertaining to perception , prediction , planning and control modules [ 91 ]  , are researched and developed individually which leads to a sub-optimal overall performance . End-to-end driving methodologies [ 21 ]  ,  [ 91 ] are constructed in such a way that the sensor outputs such as images , LiDAR ( Light Detection and Ranging ) are directly used to predict control signals like steering and acceleration . Furthermore , these methods are generally black-box and are unable to model the complex multi-faceted nature of autonomous driving encompassing dimensions of human factors and usability ,  ( natural ) roadside multimodal interaction [ 48 ]  ,  [ 47 ] etc , or support the range of human-centred AI considerations related to declarative explainability , queryability etc that have been the principal impulse underlying the aims of the methods developed in this paper . 
+
+Our research achieves a systematic integration of KR and Vision methods hitherto developed , evaluated , and applied in completion isolation of one another ; we believe that our resulting framework can serve as a one possible interpretation and exemplar for the neurosymbolic integration of relational AI and neural ( visual ) feature detectors . Furthermore , it offers a novel potential for a multifaceted but integrated applied evaluation and benchmarking of visual sensemaking technologies : e . g .  , it is common practice within computer vision research to evaluate and benchmark visual computing capabilities , e . g .  , for object detection , tracking , using absolute performance benchmarks either solely or primarily centred on incremental improvements in accuracy . Naturally , this is necessary for fundamental progress in vision research , but such an evaluation metric misses out on other crucial requirements as they pertain to human-centred AI considerations in applications domains such as autonomous driving . For instance , in light of ethically driven standardisation and regulatory considerations ( Section 1 )  , this research has been motivated and directly addresses interpretability and explainability challenges ( C1 – C4 )  : 
+C1 . 
+Active visual sensemaking , e . g .  , involving ( real-time ) commonsense visuospatial abduction and ( simulated ) prediction of grounded percepts
+
+C2 . 
+Posthoc analysis of quantitative archives , e . g .  , requiring semantic search / retrieval / visualisation for diagnosis , dispute settlement , inspection
+
+C3 . 
+Natural human-machine interaction , e . g .  , involving natural language interfaces for ( explanatory ) communication between vehicle and passengers ( or other stakeholders ) 
+
+C4 . 
+Standardisation for vehicular licensing & validation , e . g .  , involving creation of diverse , naturalistic datasets usable in testing of autonomous vehicle performance ; how to access the quality and distribution of training datasets utilised ?  ( Sec 6 ) 
+
+Our research , by its integrative approach , makes it possible to explicitly address “ human-centred interpretability and explainability challenges ” such as in ( C1–C4 ) for autonomous driving systems at the practical level of methods and tools . This is especially beneficial and timely since not everything in autonomous vehicles is about realtime control / decision-making ; several human-machine interaction requirements ( e . g .  , for interpretable diagnostic communication , universal design ) also exist . The Federal Ministry of Transport and Digital Infrastructure in Germany ( BMVI ) has taken a lead in eliciting 20 key propositions ( with possible legal implications ) for the fulfilment of ethical commitments for automated and connected driving systems [ 20 ]  . The BMVI report highlights a range of factors pertaining to safety , utilitarian considerations , human rights , statutory liability , technological transparency , data management and privacy etc . We claim that what appears as spectrum of complex challenges ( in autonomous driving ) that may possibly delay technology adoption is actually rooted to one fundamental methodological consideration that needs to be prioritised , namely : the design and implementation of human-centred technology based on a confluence of techniques and perspectives from AI + ML , Cognitive Science & Psychology , Human-Machine Interaction , and Design Science . Like in many applications of AI , such an integrative approach has so far not been explored also within autonomous driving research . 
+
+6 . Summary and outlook
+We have developed a novel neurosymbolic abduction-driven online ( i . e .  , realtime , incremental ) visual sensemaking framework : general , systematically formalised , modular , and fully implemented . Integrating robust state-of-the-art methods in knowledge representation and computer vision , the framework has been evaluated and demonstrated with established community benchmarks . We highlight application prospects of semantic vision for autonomous driving , a domain of emerging and long-term significance for research in Artificial Intelligence and Machine Learning . From the applied viewpoint of autonomous driving , our work is motivated by interpretability and explainability benchmarks ( e . g .  , in active visual sensemaking , posthoc analysis , natural human-machine interaction , standardisation for licensing & validation ; Sec 4 . 1 ) that go far beyond basic considerations in contemporary autonomous driving research , namely : how fast to drive and which way to steer , and testing performance by clocking mileage alone by the use of deep learning based methods in training and testing phases . 
+
+Technical Extensions .  Our development of a systematic , modular , and general visual sensemaking methodology opens up several possibilities for further technical developments / extensions : 
+•
+Commonsense . Specialised commonsense theories about multi-sensory integration , multi-agent belief merging , incorporation of contextual knowledge and situational norms within the declarative framework of ASP merits individual strands of further development . 
 
 •
-Uncertainty. The present work handles the uncertainty involved in low-level object tracking using a naive approach, which suffices for the present purposes, i.e., a full-scale systematic formalisation of a probabilistic model has not been attempted herein. However, handling uncertainty calls for its systematic treatment, e.g., requiring either integrating a declarative probabilistic model directly within the answer set programming framework, or possibly independently as a separately module. One seemingly natural approach towards this would be to explore possibilities with probabilistic ASP [50].
+Tracking by detection . Given the modularity of the developed framework , incorporating and experimenting with specialised / emerging low-level visual computing methods becomes feasible with relative ease . For instance , in this paper we have not attempted to develop a new tracking algorithm as such ; instead , one of our aims has been to showcase the manner in which perceptual sensemaking by visual abduction can be integrated into a standard “ tracking by detection ” paradigm , which is most widely used approach in state of the art tracking ( Sec 5 )  . Nevertheless , extensions and variations of this approach deserve further investigation where tracking itself takes a centre-stage . 
 
-Towards a Dataset: Reasoning and Scenario Visuospatial Complexity Coverage.  The application demonstrations of this paper have been conducted in the backdrop of select safety-critical situations (Table 6; e.g., Fig. 7), without aiming to achieve an exhaustive collection (if at all it is even possible to be comprehensive in this respect). The scenarios and corresponding safety-criticality are exemplary, with the selections emanating from a behavioural study of human-factors in everyday driving situations, and safety criticality determined based on analysis of empirical data about roadside accidents / hazardous situations from publicly available data published in accident research reports, e.g., by the German Insurance Association (“Unfallforschung der Versicherer”) [37]. Work is presently in progress to develop novel benchmark datasets (in synergy with behavioural human studies; refer below) that centralise range and distribution vis-vis commonsense explainability and visuospatial complexity ([47], [48]) criteria classes within a dataset, as opposed to merely collecting accumulating “mileage” / “big data”.
+•
+Uncertainty . The present work handles the uncertainty involved in low-level object tracking using a naive approach , which suffices for the present purposes , i . e .  , a full-scale systematic formalisation of a probabilistic model has not been attempted herein . However , handling uncertainty calls for its systematic treatment , e . g .  , requiring either integrating a declarative probabilistic model directly within the answer set programming framework , or possibly independently as a separately module . One seemingly natural approach towards this would be to explore possibilities with probabilistic ASP [ 50 ]  . 
 
-Human-Factors in Autonomous Driving: A Cognitive Methodology Combining Behavioural and Computational Approaches In addition to continuing (aforediscussed) technical developments in computational cognitive vision pertaining to the integration of “vision & AI”, our ongoing focus is to develop a novel dataset emphasising (visuospatial) semantics and (commonsense) explainability. For instance, we develop a methodology —focussing on visuospatial complexity [48] of stimuli and multimodal interactions [47] in ecologically valid naturalistic [3], [63] driving conditions— for establishing human-centred benchmarks and corresponding testing & validation datasets for visual sensemaking primarily from a human cognitive factors viewpoint. Our particular focus here is on embodied multimodal interactions (e.g., gestures, joint attention, visual search complexity) amongst drivers, pedestrians, cyclists etc under ecologically valid naturalistic conditions. This initiative is driven by bottom-up interdisciplinary research –encompassing AI, Psychology, HCI, and Design– for the study of driving behaviour particularly in diverse low-speed, complex urban environments possibly with unstructured traffic. Such interdisciplinary studies –at the confluence of Cognition, AI, Interaction, and Design– are needed to better appreciate the complexity and spectrum of varied human-centred challenges in autonomous driving, and demonstrate the significance of integrated vision & AI solutions [12] in those contexts.
+Towards a Dataset : Reasoning and Scenario Visuospatial Complexity Coverage .  The application demonstrations of this paper have been conducted in the backdrop of select safety-critical situations ( Table 6 ; e . g .  , Fig . 7 )  , without aiming to achieve an exhaustive collection ( if at all it is even possible to be comprehensive in this respect )  . The scenarios and corresponding safety-criticality are exemplary , with the selections emanating from a behavioural study of human-factors in everyday driving situations , and safety criticality determined based on analysis of empirical data about roadside accidents / hazardous situations from publicly available data published in accident research reports , e . g .  , by the German Insurance Association (  “ Unfallforschung der Versicherer ”  )  [ 37 ]  . Work is presently in progress to develop novel benchmark datasets ( in synergy with behavioural human studies ; refer below ) that centralise range and distribution vis-vis commonsense explainability and visuospatial complexity (  [ 47 ]  ,  [ 48 ]  ) criteria classes within a dataset , as opposed to merely collecting accumulating “ mileage ”  /  “ big data ”  . 
+
+Human-Factors in Autonomous Driving : A Cognitive Methodology Combining Behavioural and Computational Approaches In addition to continuing ( aforediscussed ) technical developments in computational cognitive vision pertaining to the integration of “ vision & AI ”  , our ongoing focus is to develop a novel dataset emphasising ( visuospatial ) semantics and ( commonsense ) explainability . For instance , we develop a methodology —focussing on visuospatial complexity [ 48 ] of stimuli and multimodal interactions [ 47 ] in ecologically valid naturalistic [ 3 ]  ,  [ 63 ] driving conditions— for establishing human-centred benchmarks and corresponding testing & validation datasets for visual sensemaking primarily from a human cognitive factors viewpoint . Our particular focus here is on embodied multimodal interactions ( e . g .  , gestures , joint attention , visual search complexity ) amongst drivers , pedestrians , cyclists etc under ecologically valid naturalistic conditions . This initiative is driven by bottom-up interdisciplinary research –encompassing AI , Psychology , HCI , and Design– for the study of driving behaviour particularly in diverse low-speed , complex urban environments possibly with unstructured traffic . Such interdisciplinary studies –at the confluence of Cognition , AI , Interaction , and Design– are needed to better appreciate the complexity and spectrum of varied human-centred challenges in autonomous driving , and demonstrate the significance of integrated vision & AI solutions [ 12 ] in those contexts . 
 
 Declaration of Competing Interest
-The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper . 
 
 Acknowledgements
-This article is an extended version of an IJCAI 2019 publication [78]. We thank the reviewers at IJCAI 2019 for their constructive feedback and support of [78]; all reviewer suggestions that could not be included in the conference length paper have been fully incorporated in the present article. We are also grateful to the anonymous reviewers and editors at the AIJ journal whose comments have helped us further improve the paper; we remain especially appreciative for their timely service during the special times of 2020.
+This article is an extended version of an IJCAI 2019 publication [ 78 ]  . We thank the reviewers at IJCAI 2019 for their constructive feedback and support of [ 78 ]  ; all reviewer suggestions that could not be included in the conference length paper have been fully incorporated in the present article . We are also grateful to the anonymous reviewers and editors at the AIJ journal whose comments have helped us further improve the paper ; we remain especially appreciative for their timely service during the special times of 2020 . 
 
-We acknowledge partial funding by the German Research Foundation (DFG) via the Collaborative Research Center 1320 EASE – “Everyday Activity Science and Engineering” (http://www.ease-crc.org) project:
+We acknowledge partial funding by the German Research Foundation ( DFG ) via the Collaborative Research Center 1320 EASE – “ Everyday Activity Science and Engineering ”  (  ) project : 
 
-Spatial Reasoning in Everyday Activity, Number 329551904.
+Spatial Reasoning in Everyday Activity , Number 329551904 . 
 
-http://gepris.dfg.de/gepris/projekt/374123335
 
-The overall scientific agenda (pertaining to Cognitive Vision and Deep Semantics [12]) driving this research is available at:
 
-CoDesign Lab (EU) > Cognitive Vision / https://codesign-lab.org/cognitive-vision/
+The overall scientific agenda ( pertaining to Cognitive Vision and Deep Semantics [ 12 ]  ) driving this research is available at : 
 
-Related select publications: https://codesign-lab.org/select-papers/#cognitive_vision
+CoDesign Lab ( EU )  > Cognitive Vision / 
 
-Appendices A–D.
-Appendix A. Answer Set Programming
+Related select publications : 
 
-Appendix B. Select Answer Set Programming Code
+Appendices A–D . 
+Appendix A . Answer Set Programming
 
-Appendix C. Additional Examples
+Appendix B . Select Answer Set Programming Code
 
-Appendix D. Example Data
+Appendix C . Additional Examples
 
-Appendix A provides a general overview of the Answer Set Programming paradigm in a manner that is independent of the rest of the paper; Appendix B provides annotations of select Answer Set Programming source code relevant to the declarative model presented in Section 3. Appendix C presents additional examples chosen from community benchmark datasets together with sample data; it also includes an elaborated version of a running example used in the paper. Appendix D provide a succinct view of (select) data corresponding to (select) scenes.
+Appendix D . Example Data
 
-Appendix A. Answer set programming
-Answer Set Programming (ASP) is an influential declarative programming methodology designed –at its core– to solve complex (NP-hard) search and optimisation problems [25]. An outgrowth and culmination of state-of-the-art KRR research in logic programming, constraint satisfaction, and the stable model semantics of logic programs, ASP is now established as a general and powerful knowledge-centred reasoning method within AI [52]. Answer set programs follow the generate and test paradigm, where first a set of candidate solutions is generated and subsequently invalid candidates are eliminated (e.g., based on domain constraints, choice rules).
+Appendix A provides a general overview of the Answer Set Programming paradigm in a manner that is independent of the rest of the paper ; Appendix B provides annotations of select Answer Set Programming source code relevant to the declarative model presented in Section 3 . Appendix C presents additional examples chosen from community benchmark datasets together with sample data ; it also includes an elaborated version of a running example used in the paper . Appendix D provide a succinct view of ( select ) data corresponding to ( select ) scenes . 
 
-In the following, we include basic minimal examples of the key aspects of an ASP program as relevant to understanding the examples developed in this paper, including the code snippets provided in the following appendices.9
+Appendix A . Answer set programming
+Answer Set Programming ( ASP ) is an influential declarative programming methodology designed –at its core– to solve complex ( NP-hard ) search and optimisation problems [ 25 ]  . An outgrowth and culmination of state-of-the-art KRR research in logic programming , constraint satisfaction , and the stable model semantics of logic programs , ASP is now established as a general and powerful knowledge-centred reasoning method within AI [ 52 ]  . Answer set programs follow the generate and test paradigm , where first a set of candidate solutions is generated and subsequently invalid candidates are eliminated ( e . g .  , based on domain constraints , choice rules )  . 
 
-ASP Programs.
+In the following , we include basic minimal examples of the key aspects of an ASP program as relevant to understanding the examples developed in this paper , including the code snippets provided in the following appendices . 9
 
-An answer set program, similar to a logic program, is essentially a set of rules, where each rule is composed of the head of the rule and its body. Rules are defined as per the following notation:
-[Math Processing Error]
-Here, ‘:-’ reads as if and separates the head of the rule from its body. The symbol ‘,’ denotes a conjunction, and ‘;’ denotes a disjunction. Rules where the body is empty constitute primitive facts and rules where the head is empty constitute constraints. A rule is considered to be true if all elements of its body are also true.
+ASP Programs . 
 
-Negation may be denoted in two different ways, i.e., ASP provides constructs for negation by failure using not, stating that a rule or atom is not [Math Processing Error], and for strong or classical negation ‘−’, explicitly stating that a rule or atom is [Math Processing Error].
-[Math Processing Error]
-ASP also supports the use of constants and variables, where variables represent a collection of ground instances given by the constants. Constants are denoted by names where the first letter is lowercase, and variables are denoted by names where the first letter is uppercase. The symbol‘_’ denotes an anonymous variable that is not necessary to be named in a given context (e.g., if it remains unused).
-[Math Processing Error]
-ASP supports optimisation statements, which can be used to find optimal solutions (i.e., answer sets) based on so called weak constraints, where a cost is given by a weight assigned to a constraint. An answer set is considered optimal if its cost is minimal compared to all other possible solutions. Within the examples in this paper we use optimisation statements of the following form:
-[Math Processing Error]
-where, optimise is either: [Math Processing Error] or [Math Processing Error] as applicable to [Math Processing Error] to [Math Processing Error] with corresponding optimisation weight w and priority p.
+An answer set program , similar to a logic program , is essentially a set of rules , where each rule is composed of the head of the rule and its body . Rules are defined as per the following notation :  
+[ Math Processing Error ] 
+Here ,  ‘  : - ’ reads as if and separates the head of the rule from its body . The symbol ‘  ,  ’ denotes a conjunction , and ‘  ;  ’ denotes a disjunction . Rules where the body is empty constitute primitive facts and rules where the head is empty constitute constraints . A rule is considered to be true if all elements of its body are also true . 
 
-Visuospatial Scene Semantics: A Context-Specific Minimal ASP Example.
+Negation may be denoted in two different ways , i . e .  , ASP provides constructs for negation by failure using not , stating that a rule or atom is not [ Math Processing Error ]  , and for strong or classical negation ‘ − ’  , explicitly stating that a rule or atom is [ Math Processing Error ]  .  
+[ Math Processing Error ] 
+ASP also supports the use of constants and variables , where variables represent a collection of ground instances given by the constants . Constants are denoted by names where the first letter is lowercase , and variables are denoted by names where the first letter is uppercase . The symbol ‘ _ ’ denotes an anonymous variable that is not necessary to be named in a given context ( e . g .  , if it remains unused )  .  
+[ Math Processing Error ] 
+ASP supports optimisation statements , which can be used to find optimal solutions ( i . e .  , answer sets ) based on so called weak constraints , where a cost is given by a weight assigned to a constraint . An answer set is considered optimal if its cost is minimal compared to all other possible solutions . Within the examples in this paper we use optimisation statements of the following form :  
+[ Math Processing Error ] 
+where , optimise is either :  [ Math Processing Error ] or [ Math Processing Error ] as applicable to [ Math Processing Error ] to [ Math Processing Error ] with corresponding optimisation weight w and priority p . 
 
-In the context of interpreting scene semantics consider the following situation, where we have two detections and two tracks and the task is to decide how we assign the detections to the tracks.
+Visuospatial Scene Semantics : A Context-Specific Minimal ASP Example . 
+
+In the context of interpreting scene semantics consider the following situation , where we have two detections and two tracks and the task is to decide how we assign the detections to the tracks . 
 •
-Facts: Detected objects and tracks are represented as facts, i.e., for detections we define facts providing an id, type and a confidence value, and for tracks we define facts providing an id and a type.
+Facts : Detected objects and tracks are represented as facts , i . e .  , for detections we define facts providing an id , type and a confidence value , and for tracks we define facts providing an id and a type . 
 
-Download : Download high-res image (36KB)Download : Download full-size image
-
-•
-Rules: Further we define a rule to state that a track and a detection are of the same type, e.g., [Math Processing Error], or car. Here the head of the rule is true if all of the atoms in the body are true, i.e., there is a track and a detection for which the type value represented by the variable [Math Processing Error] is the same.
-
-Download : Download high-res image (19KB)Download : Download full-size image
+Download : Download high-res image ( 36KB ) Download : Download full-size image
 
 •
-Choice Rules: Choice rules state possible heads of the rule that have to be included in the answer set. I.e., the choice rule below states that for every track Trk there has to be either a detection Det that gets assigned to the track, or the track is ended.
+Rules : Further we define a rule to state that a track and a detection are of the same type , e . g .  ,  [ Math Processing Error ]  , or car . Here the head of the rule is true if all of the atoms in the body are true , i . e .  , there is a track and a detection for which the type value represented by the variable [ Math Processing Error ] is the same . 
 
-Additionally, the numbers before and after the brackets specify how many of the possible heads have to be included in the included, i.e., the lower and the higher limit are stated. In the case below there has to be exactly one of the heads included in the answer set.
-
-Download : Download high-res image (21KB)Download : Download full-size image
+Download : Download high-res image ( 19KB ) Download : Download full-size image
 
 •
-Integrity Constraints: Integrity constraints restrict the set of answers by eliminating stable models where the body is satisfied. The integrity constraint below states that it is not possible that a detection gets assigned to a track when the track and the detection do not have the same type, i.e, both are cars, or both are persons.
+Choice Rules : Choice rules state possible heads of the rule that have to be included in the answer set . I . e .  , the choice rule below states that for every track Trk there has to be either a detection Det that gets assigned to the track , or the track is ended . 
 
-Download : Download high-res image (15KB)Download : Download full-size image
+Additionally , the numbers before and after the brackets specify how many of the possible heads have to be included in the included , i . e .  , the lower and the higher limit are stated . In the case below there has to be exactly one of the heads included in the answer set . 
 
-•
-Optimization: To assign detections Det to tacks Trk, we may maximise a matching likelihood between matched tracks and detections. This is expressed by the following maximisation statement:
-
-
-Download : Download high-res image (24KB)Download : Download full-size image
-To make sure that tracks and detections are matched when ever possible, the main priority is to minimise the ending of tracks Trk using the following minimisation statement:
-
-Download : Download high-res image (11KB)Download : Download full-size image
-
-
-Appendix B. Select answer set programming code
-Select code snippets in support of the examples in the paper are included below:
-
-B.1. Abduction based association
-Following the generate and test paradigm of ASP, choice rules are used to generate all assignments between detections and tracks to resulting on all possible assignments; assignments are tested using integrity constraints.
-
-• Choice rules for generating assignment actions generate the set of assignments actions for all tracks and all detections; for example:
-
-Download : Download high-res image (72KB)Download : Download full-size image
-• Generated assignments are tested based on (spatio-temporal) constraints for each assignment action. Assignments not consistent with these constraints are eliminated from the set of answers using integrity constraints:
-
-Download : Download high-res image (200KB)Download : Download full-size image
-This results in the set of all possible assignments, which further gets optimized based on optimization statements in B.4.
-
-B.2. Abducible high-level events
-Event hypotheses with respect to background fluents and events are generated to explain assignment actions.
-
-• Functional fluent [Math Processing Error] of a track can be [Math Processing Error], or [Math Processing Error].
-
-Download : Download high-res image (57KB)Download : Download full-size image
-• Boolean fluent [Math Processing Error] for two tracks can be [Math Processing Error] or [Math Processing Error].
-
-Download : Download high-res image (52KB)Download : Download full-size image
-• Boolean fluent [Math Processing Error] for a track can be [Math Processing Error] or [Math Processing Error].
-
-Download : Download high-res image (36KB)Download : Download full-size image
-• Fluents corresponding to all tracks and pairs of tracks are initialised as follows: all tracks are initialised as fully visible, not hidden by another track, and not clipped (however, note that it can be the case that events occurring with the start of a track have an effect on initialised fluent values, e.g., an event for a track starting partially occluded).
-
-Download : Download high-res image (53KB)Download : Download full-size image
-• Events and causal effects are defined to describe changes in the fluents as effects of events occurring in the world. Here we show examples for the events hides_behind and missing_detections. The event hides_behind is defined on two tracks as follows:
-
-Download : Download high-res image (21KB)Download : Download full-size image
-One object hiding behind another object causes the visibility fluent for the hidden object to change its value to [Math Processing Error]. Further the fluent [Math Processing Error] for the two tracks changes its value to [Math Processing Error].
-
-Download : Download high-res image (60KB)Download : Download full-size image
-The event [Math Processing Error] is defined on a single track as follows.
-
-Download : Download high-res image (39KB)Download : Download full-size image
-
-B.3. Abducing high-level events explaining assignments
-Possible explanations are generated using choice rules for explaining association actions, i.e., for each association a possible explanation in terms of high-level events is generated based on preconditions and causal effects. Here we show examples for the events [Math Processing Error] and [Math Processing Error].
-
-• Choice rule (snippet) for explaining halted tracks: A track can be halted because it is hiding behind another track, or there are missing detections within the track.
-
-Download : Download high-res image (39KB)Download : Download full-size image
-• Constraints for events are defined using integrity constraints for each event:
-
-Integrity constraint for event hides_behind can not occur if poss(hides_behind(_ , _)) is not true.
-
-Download : Download high-res image (27KB)Download : Download full-size image
-• The event [Math Processing Error] is possible if the tracks are overlapping and both tracks visible.
-
-Download : Download high-res image (58KB)Download : Download full-size image
-• Integrity constraint for event [Math Processing Error].
-
-Download : Download high-res image (58KB)Download : Download full-size image
-• The event [Math Processing Error] is possible if the track is not clipped and it is visible.
-
-Download : Download high-res image (27KB)Download : Download full-size image
-
-B.4. Optimisation
-• Finding best fitting hypothesis on assignments and high-level events is achieved using ASP optimisation statements as follows:
-
-— Matching likelihood is maximised to ensure matching of best fitting detections to tracks, i.e., here maximising IoU between bounding rectangles of predicted tracks and the detections:
-
-Download : Download high-res image (40KB)Download : Download full-size image
-
-Download : Download high-res image (24KB)Download : Download full-size image
-— Maximising assignment of detections to tracks to avoid segmented tracks, i.e., assign detections to tracks whenever possible:
-
-Download : Download high-res image (26KB)Download : Download full-size image
-— Resume tracks if possible; start / end tracks if resuming is not possible:
-
-Download : Download high-res image (24KB)Download : Download full-size image
-— Only if no other explanation can be found, tracks and detections are ignored:
-
-Download : Download high-res image (15KB)Download : Download full-size image
-
-Appendix C. Additional examples
-C.1. Occlusion example from MOT 2017 benchmark dataset
-Abduced event sequence for scene 04 from the MOT 2017 benchmark, involving people moving in a crowded environment, with various occlusions (Fig. C.14).
-
-Fig. C.14
-Download : Download high-res image (188KB)Download : Download full-size image
-Fig. C.14. Abduced events for scene MOT17-04 between time point 270 and time point 310.
-
-C.2. Results for select (complete) scenes
-The following are results for select scenes from the datasets being used in the evaluation (Sec 4): KITTIMOD, MOT, and safety-criticality set of scenarios developed as part of this work. For lack of space, we only choose to illustrate one select frames per sec of input stimuli:
-•
-Fig. C.15: Scene 20 from KITTIMOD [41] tracking dataset
-
-Fig. C.15
-Download : Download high-res image (382KB)Download : Download full-size image
-Fig. C.15. Complete example scene form KITTIMOD tracking benchmark. High traffic highway situation including high and low speed driving.
+Download : Download high-res image ( 21KB ) Download : Download full-size image
 
 •
-Fig. C.16: Scene 02 from the MOT Challenge [58]
+Integrity Constraints : Integrity constraints restrict the set of answers by eliminating stable models where the body is satisfied . The integrity constraint below states that it is not possible that a detection gets assigned to a track when the track and the detection do not have the same type , i . e , both are cars , or both are persons . 
 
-Fig. C.16
-Download : Download high-res image (553KB)Download : Download full-size image
-Fig. C.16. Complete example scene from MOT16 benchmark dataset for people tracking.
+Download : Download high-res image ( 15KB ) Download : Download full-size image
 
 •
-Fig. C.17: Scene from safety-critical scenario dataset (Sec 4.1.2)
-
-Fig. C.17
-Download : Download high-res image (581KB)Download : Download full-size image
-Fig. C.17. Tracking results for the complete scene of the occlusion example (Fig. 11; Section 4.1.2) involving tracking of cars, pedestrians, and traffic lights.
+Optimization : To assign detections Det to tacks Trk , we may maximise a matching likelihood between matched tracks and detections . This is expressed by the following maximisation statement : 
 
 
-Appendix D. Example data
-The problem specification for each time point t, which is the input data for the answer set programming based abduction, is generated online based on the visual stimuli; because of the size of the data (visual observations, predictions, and matching likelihood for each frame of the video) we only include a snippet for one frame to illustrate the nature of the data.
+Download : Download high-res image ( 24KB ) Download : Download full-size image
+To make sure that tracks and detections are matched when ever possible , the main priority is to minimise the ending of tracks Trk using the following minimisation statement : 
 
-Example problem specification ([Math Processing Error]) generated for KITTI 0020, time point 79.
+Download : Download high-res image ( 11KB ) Download : Download full-size image
 
-Download : Download high-res image (25KB)Download : Download full-size image
-[Math Processing Error] — Spatial entities of detected objects as bounding boxes:
 
-Download : Download high-res image (141KB)Download : Download full-size image
-[Math Processing Error] — Spatial entities of predicted tracks for time-point 79 as bounding boxes:
+Appendix B . Select answer set programming code
+Select code snippets in support of the examples in the paper are included below : 
 
-Download : Download high-res image (9KB)Download : Download full-size image
-[Math Processing Error] — Matching likelihood for pairs of tracks and detections at time point 79 given by the IoU between them.
+B . 1 . Abduction based association
+Following the generate and test paradigm of ASP , choice rules are used to generate all assignments between detections and tracks to resulting on all possible assignments ; assignments are tested using integrity constraints . 
 
-Download : Download high-res image (201KB)Download : Download full-size image
-Abduced Event Sequence for time point 79 (snippet for 10 time points)
+• Choice rules for generating assignment actions generate the set of assignments actions for all tracks and all detections ; for example : 
+
+Download : Download high-res image ( 72KB ) Download : Download full-size image
+• Generated assignments are tested based on ( spatio-temporal ) constraints for each assignment action . Assignments not consistent with these constraints are eliminated from the set of answers using integrity constraints : 
+
+Download : Download high-res image ( 200KB ) Download : Download full-size image
+This results in the set of all possible assignments , which further gets optimized based on optimization statements in B . 4 . 
+
+B . 2 . Abducible high-level events
+Event hypotheses with respect to background fluents and events are generated to explain assignment actions . 
+
+• Functional fluent [ Math Processing Error ] of a track can be [ Math Processing Error ]  , or [ Math Processing Error ]  . 
+
+Download : Download high-res image ( 57KB ) Download : Download full-size image
+• Boolean fluent [ Math Processing Error ] for two tracks can be [ Math Processing Error ] or [ Math Processing Error ]  . 
+
+Download : Download high-res image ( 52KB ) Download : Download full-size image
+• Boolean fluent [ Math Processing Error ] for a track can be [ Math Processing Error ] or [ Math Processing Error ]  . 
+
+Download : Download high-res image ( 36KB ) Download : Download full-size image
+• Fluents corresponding to all tracks and pairs of tracks are initialised as follows : all tracks are initialised as fully visible , not hidden by another track , and not clipped ( however , note that it can be the case that events occurring with the start of a track have an effect on initialised fluent values , e . g .  , an event for a track starting partially occluded )  . 
+
+Download : Download high-res image ( 53KB ) Download : Download full-size image
+• Events and causal effects are defined to describe changes in the fluents as effects of events occurring in the world . Here we show examples for the events hides_behind and missing_detections . The event hides_behind is defined on two tracks as follows : 
+
+Download : Download high-res image ( 21KB ) Download : Download full-size image
+One object hiding behind another object causes the visibility fluent for the hidden object to change its value to [ Math Processing Error ]  . Further the fluent [ Math Processing Error ] for the two tracks changes its value to [ Math Processing Error ]  . 
+
+Download : Download high-res image ( 60KB ) Download : Download full-size image
+The event [ Math Processing Error ] is defined on a single track as follows . 
+
+Download : Download high-res image ( 39KB ) Download : Download full-size image
+
+B . 3 . Abducing high-level events explaining assignments
+Possible explanations are generated using choice rules for explaining association actions , i . e .  , for each association a possible explanation in terms of high-level events is generated based on preconditions and causal effects . Here we show examples for the events [ Math Processing Error ] and [ Math Processing Error ]  . 
+
+• Choice rule ( snippet ) for explaining halted tracks : A track can be halted because it is hiding behind another track , or there are missing detections within the track . 
+
+Download : Download high-res image ( 39KB ) Download : Download full-size image
+• Constraints for events are defined using integrity constraints for each event : 
+
+Integrity constraint for event hides_behind can not occur if poss ( hides_behind ( _ , _ )  ) is not true . 
+
+Download : Download high-res image ( 27KB ) Download : Download full-size image
+• The event [ Math Processing Error ] is possible if the tracks are overlapping and both tracks visible . 
+
+Download : Download high-res image ( 58KB ) Download : Download full-size image
+• Integrity constraint for event [ Math Processing Error ]  . 
+
+Download : Download high-res image ( 58KB ) Download : Download full-size image
+• The event [ Math Processing Error ] is possible if the track is not clipped and it is visible . 
+
+Download : Download high-res image ( 27KB ) Download : Download full-size image
+
+B . 4 . Optimisation
+• Finding best fitting hypothesis on assignments and high-level events is achieved using ASP optimisation statements as follows : 
+
+— Matching likelihood is maximised to ensure matching of best fitting detections to tracks , i . e .  , here maximising IoU between bounding rectangles of predicted tracks and the detections : 
+
+Download : Download high-res image ( 40KB ) Download : Download full-size image
+
+Download : Download high-res image ( 24KB ) Download : Download full-size image
+— Maximising assignment of detections to tracks to avoid segmented tracks , i . e .  , assign detections to tracks whenever possible : 
+
+Download : Download high-res image ( 26KB ) Download : Download full-size image
+— Resume tracks if possible ; start / end tracks if resuming is not possible : 
+
+Download : Download high-res image ( 24KB ) Download : Download full-size image
+— Only if no other explanation can be found , tracks and detections are ignored : 
+
+Download : Download high-res image ( 15KB ) Download : Download full-size image
+
+Appendix C . Additional examples
+C . 1 . Occlusion example from MOT 2017 benchmark dataset
+Abduced event sequence for scene 04 from the MOT 2017 benchmark , involving people moving in a crowded environment , with various occlusions ( Fig . C . 14 )  . 
+
+Fig . C . 14
+Download : Download high-res image ( 188KB ) Download : Download full-size image
+Fig . C . 14 . Abduced events for scene MOT17-04 between time point 270 and time point 310 . 
+
+C . 2 . Results for select ( complete ) scenes
+The following are results for select scenes from the datasets being used in the evaluation ( Sec 4 )  : KITTIMOD , MOT , and safety-criticality set of scenarios developed as part of this work . For lack of space , we only choose to illustrate one select frames per sec of input stimuli : 
+•
+Fig . C . 15 : Scene 20 from KITTIMOD [ 41 ] tracking dataset
+
+Fig . C . 15
+Download : Download high-res image ( 382KB ) Download : Download full-size image
+Fig . C . 15 . Complete example scene form KITTIMOD tracking benchmark . High traffic highway situation including high and low speed driving . 
+
+•
+Fig . C . 16 : Scene 02 from the MOT Challenge [ 58 ] 
+
+Fig . C . 16
+Download : Download high-res image ( 553KB ) Download : Download full-size image
+Fig . C . 16 . Complete example scene from MOT16 benchmark dataset for people tracking . 
+
+•
+Fig . C . 17 : Scene from safety-critical scenario dataset ( Sec 4 . 1 . 2 ) 
+
+Fig . C . 17
+Download : Download high-res image ( 581KB ) Download : Download full-size image
+Fig . C . 17 . Tracking results for the complete scene of the occlusion example ( Fig . 11 ; Section 4 . 1 . 2 ) involving tracking of cars , pedestrians , and traffic lights . 
+
+
+Appendix D . Example data
+The problem specification for each time point t , which is the input data for the answer set programming based abduction , is generated online based on the visual stimuli ; because of the size of the data ( visual observations , predictions , and matching likelihood for each frame of the video ) we only include a snippet for one frame to illustrate the nature of the data . 
+
+Example problem specification (  [ Math Processing Error ]  ) generated for KITTI 0020 , time point 79 . 
+
+Download : Download high-res image ( 25KB ) Download : Download full-size image 
+[ Math Processing Error ] — Spatial entities of detected objects as bounding boxes : 
+
+Download : Download high-res image ( 141KB ) Download : Download full-size image 
+[ Math Processing Error ] — Spatial entities of predicted tracks for time-point 79 as bounding boxes : 
+
+Download : Download high-res image ( 9KB ) Download : Download full-size image 
+[ Math Processing Error ] — Matching likelihood for pairs of tracks and detections at time point 79 given by the IoU between them . 
+
+Download : Download high-res image ( 201KB ) Download : Download full-size image
+Abduced Event Sequence for time point 79 ( snippet for 10 time points ) 

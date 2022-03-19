@@ -1,52 +1,52 @@
 How to improve medication access for chronic illnesses
-ANDREAS SEITERPRASHANT YADAVAUSTEN DAVIS|SEPTEMBER 22, 2021
-This page in: English
+ANDREAS SEITERPRASHANT YADAVAUSTEN DAVIS | SEPTEMBER 22 , 2021
+This page in : English
 Image
-Health worker Dinatu Kpaji at the Wamba Health Center in Nigeria. Photo: Dasan Bobo/World Bank
-Non-communicable diseases (NCDs) have been increasing as a proportion disease burden for many years – and in nearly every part of the world. In all but the poorest countries, NCDs are now a public health priority. The World Bank, in partnership with Access Accelerated, is working with more than 30 countries to help them better understand their NCD burden – and develop strategies to prevent, control and improve services at primary care level.
+Health worker Dinatu Kpaji at the Wamba Health Center in Nigeria . Photo : Dasan Bobo / World Bank
+Non-communicable diseases ( NCDs ) have been increasing as a proportion disease burden for many years – and in nearly every part of the world . In all but the poorest countries , NCDs are now a public health priority . The World Bank , in partnership with Access Accelerated , is working with more than 30 countries to help them better understand their NCD burden – and develop strategies to prevent , control and improve services at primary care level . 
 
-Many chronic diseases, such as cardiovascular diseases, diabetes, chronic respiratory diseases including asthma and some cancers, are manageable with pharmaceuticals – delivered through strong primary health systems that can enhance and extend life. However, many people living with NCDs – most notably in lower-income countries – struggle to get early and effective diagnosis, and access the affordable quality medicines they need. 
+Many chronic diseases , such as cardiovascular diseases , diabetes , chronic respiratory diseases including asthma and some cancers , are manageable with pharmaceuticals – delivered through strong primary health systems that can enhance and extend life . However , many people living with NCDs – most notably in lower-income countries – struggle to get early and effective diagnosis , and access the affordable quality medicines they need . 
 
-Higher costs, reduced access
+Higher costs , reduced access
 
-Studies in more than 40 countries have shown that, in both the public and private sector, generic medicines for the treatment of chronic diseases are generally harder to find than acute disease medicines (as NCD Alliance reports). In many countries, out-of-pocket prices for NCD medicines far exceed actual procurement prices. The result: patients either go without treatment, or their families fall into poverty.
+Studies in more than 40 countries have shown that , in both the public and private sector , generic medicines for the treatment of chronic diseases are generally harder to find than acute disease medicines ( as NCD Alliance reports )  . In many countries , out-of-pocket prices for NCD medicines far exceed actual procurement prices . The result : patients either go without treatment , or their families fall into poverty . 
 
-If governments could reliably source quality medicines at an affordable price, it would obviously create potential for the expansion of services and treatment to a broader section of the public. To expand equitable access to medicines, some have suggested setting up mechanisms that pool the procurement of NCD medicines. 
+If governments could reliably source quality medicines at an affordable price , it would obviously create potential for the expansion of services and treatment to a broader section of the public . To expand equitable access to medicines , some have suggested setting up mechanisms that pool the procurement of NCD medicines . 
 
-Pooled procurement seeks to aggregate market demand and enhance demand transparency. It can give producers easier market entry and buyers greater negotiating power to secure quality and supply assurance at affordable prices. In principle, pooled procurement can also reduce transaction costs, consolidate fragmented markets, and allow for more accurate collection of market data.
+Pooled procurement seeks to aggregate market demand and enhance demand transparency . It can give producers easier market entry and buyers greater negotiating power to secure quality and supply assurance at affordable prices . In principle , pooled procurement can also reduce transaction costs , consolidate fragmented markets , and allow for more accurate collection of market data . 
 
 Models of success
 
-Some global pooled procurement initiatives have improved access to HIV/AIDS and malaria treatments – particularly in lower- and middle-income countries.
+Some global pooled procurement initiatives have improved access to HIV / AIDS and malaria treatments – particularly in lower- and middle-income countries . 
 
-The Global Fund’s Pooled Procurement Mechanism, for example, has “managed approximately US$1 billion in orders, serving grant implementers in 63 countries,” and it generated an estimated US$174 million in cost savings for HIV and malaria-related treatments and diagnostics in 2019 alone.
+The Global Fund ’ s Pooled Procurement Mechanism , for example , has “ managed approximately US$1 billion in orders , serving grant implementers in 63 countries ,  ” and it generated an estimated US$174 million in cost savings for HIV and malaria-related treatments and diagnostics in 2019 alone . 
 
-Similarly, the PAHO Strategic Fund, a regional initiative has served 49 entities in 35 countries with more than US$ 580 million worth of essential medicines procured since 2018.
+Similarly , the PAHO Strategic Fund , a regional initiative has served 49 entities in 35 countries with more than US$ 580 million worth of essential medicines procured since 2018 . 
 
 Impediments to pooled procurement
 
-But applying those models to NCD medicines is not as simple as it sounds.
+But applying those models to NCD medicines is not as simple as it sounds . 
 
-As one of us (PY) said at July 2021 WHO-hosted webinar on pooled procurement for NCD medicines, the leap to directly apply pooled procurement mechanisms from other therapeutic areas might be more complicated than many might imagine. There are no magic bullets to improve access to NCD medicines. There are vastly more medicines for NCDs (excluding those for cancer) and many more manufacturers than for example for HIV or tuberculosis. There is competition at the global and regional level, which in principle can drive down prices and increase efficiencies. But, when you look at the number of manufacturers that are registered in countries, then the market structure changes. For some drugs, many global manufacturers are registered, and for others, very few are registered.
+As one of us ( PY ) said at July 2021 WHO-hosted webinar on pooled procurement for NCD medicines , the leap to directly apply pooled procurement mechanisms from other therapeutic areas might be more complicated than many might imagine . There are no magic bullets to improve access to NCD medicines . There are vastly more medicines for NCDs ( excluding those for cancer ) and many more manufacturers than for example for HIV or tuberculosis . There is competition at the global and regional level , which in principle can drive down prices and increase efficiencies . But , when you look at the number of manufacturers that are registered in countries , then the market structure changes . For some drugs , many global manufacturers are registered , and for others , very few are registered . 
 
-Ultimately, the market is failing for a different set of reasons – many of which relate to local demand and procurement capacity and policies. And so, we need different solutions – often changing from country to country.
+Ultimately , the market is failing for a different set of reasons – many of which relate to local demand and procurement capacity and policies . And so , we need different solutions – often changing from country to country . 
 
-Pooled procurement of NCD medicines is also hobbled by a lack of resources. In many countries there is little, if any, public money for NCDs.
+Pooled procurement of NCD medicines is also hobbled by a lack of resources . In many countries there is little , if any , public money for NCDs . 
 
-Inefficiencies of government procurement and supply chain management – which are common in many low-income countries – can easily cancel out benefits of pooled procurement. There are many examples of centrally managed public procurement and supply systems suffering from leakage, losses due to expired medicines and lack of inventory management systems that can match central supply with demand at health facility level.
+Inefficiencies of government procurement and supply chain management – which are common in many low-income countries – can easily cancel out benefits of pooled procurement . There are many examples of centrally managed public procurement and supply systems suffering from leakage , losses due to expired medicines and lack of inventory management systems that can match central supply with demand at health facility level . 
 
-Larger countries may opt out of regional pools if they already benefit from economies of scale, and that can weaken the pool’s bargaining power.
+Larger countries may opt out of regional pools if they already benefit from economies of scale , and that can weaken the pool ’ s bargaining power . 
 
 Opportunities worth pursuing
 
-But what if we try to address the issue at the point where most patients get their medicines – the private pharmacy?
+But what if we try to address the issue at the point where most patients get their medicines – the private pharmacy ? 
 
-Studies in Africa have shown that retail prices are high because the market is fragmented, with many middlemen in the supply chain who make money on every transactional link in that chain. Increasingly, local entrepreneurs are consolidating the market into pharmacy chains that aggregate demand and buy directly from importers or manufacturers, allowing for lower prices and higher supply security.
+Studies in Africa have shown that retail prices are high because the market is fragmented , with many middlemen in the supply chain who make money on every transactional link in that chain . Increasingly , local entrepreneurs are consolidating the market into pharmacy chains that aggregate demand and buy directly from importers or manufacturers , allowing for lower prices and higher supply security . 
 
-For example, a pharmacy chain called mPharma (covered in a World Bank blog post last year is a potential partner for governments. Several more such innovators are covered in a recent report from Salient Advisory.
+For example , a pharmacy chain called mPharma ( covered in a World Bank blog post last year is a potential partner for governments . Several more such innovators are covered in a recent report from Salient Advisory . 
 
-Governments interested in better access to NCD medicines could contract with such private pharmacy chains to negotiate framework contracts for government health facilities.  Another would allow patients to get selected medicines from retail pharmacies at agreed prices. But these solutions should be developed within a framework of well-defined and prioritized basic packages of care – algorithmic treatment – and with insurance and private service providers to ensure coherent diagnosis and treatment protocols.
+Governments interested in better access to NCD medicines could contract with such private pharmacy chains to negotiate framework contracts for government health facilities .  Another would allow patients to get selected medicines from retail pharmacies at agreed prices . But these solutions should be developed within a framework of well-defined and prioritized basic packages of care – algorithmic treatment – and with insurance and private service providers to ensure coherent diagnosis and treatment protocols . 
 
-Bringing markets together would then mean governments or donors could essentially subsidize the purchase of medicines to the poor or uninsured through vouchers or mobile apps.  Civil society organizations such as the NCD Alliance can help monitor compliance and empower their members with knowledge and tools to utilize the new model.
+Bringing markets together would then mean governments or donors could essentially subsidize the purchase of medicines to the poor or uninsured through vouchers or mobile apps .  Civil society organizations such as the NCD Alliance can help monitor compliance and empower their members with knowledge and tools to utilize the new model . 
 
-While “traditional” pooled public procurement should not be entirely ruled out as a solution, we believe that in many places the NCD challenge can only work in the long term when we muster the courage to try something new: that is, work at scale and across public and private sectors.
+While “ traditional ” pooled public procurement should not be entirely ruled out as a solution , we believe that in many places the NCD challenge can only work in the long term when we muster the courage to try something new : that is , work at scale and across public and private sectors . 

@@ -1,207 +1,207 @@
-NFTs, explained
+NFTs , explained
 81
-I have questions about this emerging... um... art form? Platform?
+I have questions about this emerging .  .  . um .  .  . art form ? Platform ? 
 
-By Mitchell Clark  Updated Aug 18, 2021, 9:20pm EDT
+By Mitchell Clark Updated Aug 18 , 2021 , 9 : 20pm EDT
 Share this story
-Share this on Facebook (opens in new window)
-Share this on Twitter (opens in new window)
+Share this on Facebook ( opens in new window ) 
+Share this on Twitter ( opens in new window ) 
 SHARE
 All sharing options
 
-There’s nothing like an explosion of blockchain news to leave you thinking, “Um… what’s going on here?” That’s the feeling I’ve experienced while reading about Grimes getting millions of dollars for NFTs or about Nyan Cat being sold as one. And by the time we all thought we sort of knew what the deal was, the founder of Twitter put an autographed tweet up for sale as an NFT. Now, months after we first published this explainer, we’re still seeing headlines about people paying house-money for clip art of rocks — and my mom still doesn’t really understand what an NFT is.
+There ’ s nothing like an explosion of blockchain news to leave you thinking ,  “ Um… what ’ s going on here ?  ” That ’ s the feeling I ’ ve experienced while reading about Grimes getting millions of dollars for NFTs or about Nyan Cat being sold as one . And by the time we all thought we sort of knew what the deal was , the founder of Twitter put an autographed tweet up for sale as an NFT . Now , months after we first published this explainer , we ’ re still seeing headlines about people paying house-money for clip art of rocks — and my mom still doesn ’ t really understand what an NFT is . 
 
-You might be wondering: what is an NFT, anyhow?
+You might be wondering : what is an NFT , anyhow ? 
 
-After literal hours of reading, I think I know. I also think I’m going to cry.
+After literal hours of reading , I think I know . I also think I ’ m going to cry . 
 
-Okay, let’s start with the basics:
+Okay , let ’ s start with the basics : 
 
-WHAT IS AN NFT? WHAT DOES NFT STAND FOR?
-Non-fungible token.
+WHAT IS AN NFT ? WHAT DOES NFT STAND FOR ? 
+Non-fungible token . 
 
-That doesn’t make it any clearer.
+That doesn ’ t make it any clearer . 
 
-Right, sorry. “Non-fungible” more or less means that it’s unique and can’t be replaced with something else. For example, a bitcoin is fungible — trade one for another bitcoin, and you’ll have exactly the same thing. A one-of-a-kind trading card, however, is non-fungible. If you traded it for a different card, you’d have something completely different. You gave up a Squirtle, and got a 1909 T206 Honus Wagner, which StadiumTalk calls “the Mona Lisa of baseball cards.” (I’ll take their word for it.)
+Right , sorry .  “ Non-fungible ” more or less means that it ’ s unique and can ’ t be replaced with something else . For example , a bitcoin is fungible — trade one for another bitcoin , and you ’ ll have exactly the same thing . A one-of-a-kind trading card , however , is non-fungible . If you traded it for a different card , you ’ d have something completely different . You gave up a Squirtle , and got a 1909 T206 Honus Wagner , which StadiumTalk calls “ the Mona Lisa of baseball cards .  ”  ( I ’ ll take their word for it .  ) 
 
-How do NFTs work?
+How do NFTs work ? 
 
-At a very high level, most NFTs are part of the Ethereum blockchain. Ethereum is a cryptocurrency, like bitcoin or dogecoin, but its blockchain also supports these NFTs, which store extra information that makes them work differently from, say, an ETH coin. It is worth noting that other blockchains can implement their own versions of NFTs. (Some already have.)
+At a very high level , most NFTs are part of the Ethereum blockchain . Ethereum is a cryptocurrency , like bitcoin or dogecoin , but its blockchain also supports these NFTs , which store extra information that makes them work differently from , say , an ETH coin . It is worth noting that other blockchains can implement their own versions of NFTs .  ( Some already have .  ) 
 
-What’s worth picking up at the NFT supermarket?
+What ’ s worth picking up at the NFT supermarket ? 
 
-NFTs can really be anything digital (such as drawings, music, your brain downloaded and turned into an AI), but a lot of the current excitement is around using the tech to sell digital art.
+NFTs can really be anything digital ( such as drawings , music , your brain downloaded and turned into an AI )  , but a lot of the current excitement is around using the tech to sell digital art . 
 
 
-Dogecoin isn’t an NFT. But this GIF of a dogecoin is. GIF: NyanCat on OpenSea
-You mean, like, people buying my good tweets?
+Dogecoin isn ’ t an NFT . But this GIF of a dogecoin is . GIF : NyanCat on OpenSea
+You mean , like , people buying my good tweets ? 
 
-I don’t think anyone can stop you, but that’s not really what I meant. A lot of the conversation is about NFTs as an evolution of fine art collecting, only with digital art.
+I don ’ t think anyone can stop you , but that ’ s not really what I meant . A lot of the conversation is about NFTs as an evolution of fine art collecting , only with digital art .  
+ 
+( Side note , when coming up with the line “ buying my good tweets ,  ” we were trying to think of something so silly that it wouldn ’ t be a real thing . So of course the founder of Twitter sold one for just under $3 million shortly after we posted the article .  ) 
 
-(Side note, when coming up with the line “buying my good tweets,” we were trying to think of something so silly that it wouldn’t be a real thing. So of course the founder of Twitter sold one for just under $3 million shortly after we posted the article.)
+Do people really think this will become like art collecting ? 
 
-Do people really think this will become like art collecting?
+I ’ m sure some people really hope so — like whoever paid almost $390 , 000 for a 50-second video by Grimes or the person who paid $6 . 6 million for a video by Beeple . Actually , one of Beeple ’ s pieces was auctioned at Christie ’ s , the famou—
 
-I’m sure some people really hope so — like whoever paid almost $390,000 for a 50-second video by Grimes or the person who paid $6.6 million for a video by Beeple. Actually, one of Beeple’s pieces was auctioned at Christie’s, the famou—
 
+Yoink ! Image : Beeple
+Sorry , I was busy right-clicking on that Beeple video and downloading the same file the person paid millions of dollars for . 
 
-Yoink! Image: Beeple
-Sorry, I was busy right-clicking on that Beeple video and downloading the same file the person paid millions of dollars for.
+Wow , rude . But yeah , that ’ s where it gets a bit awkward . You can copy a digital file as many times as you want , including the art that ’ s included with an NFT . 
 
-Wow, rude. But yeah, that’s where it gets a bit awkward. You can copy a digital file as many times as you want, including the art that’s included with an NFT.
+But NFTs are designed to give you something that can ’ t be copied : ownership of the work ( though the artist can still retain the copyright and reproduction rights , just like with physical artwork )  . To put it in terms of physical art collecting : anyone can buy a Monet print . But only one person can own the original . 
 
-But NFTs are designed to give you something that can’t be copied: ownership of the work (though the artist can still retain the copyright and reproduction rights, just like with physical artwork). To put it in terms of physical art collecting: anyone can buy a Monet print. But only one person can own the original.
+No shade to Beeple , but the video isn ’ t really a Monet . 
 
-No shade to Beeple, but the video isn’t really a Monet.
+What do you think of the $3 , 600 Gucci Ghost ? Also , you didn ’ t let me finish earlier . That image that Beeple was auctioning off at Christie ’ s ended up selling for $69 million , which , by the way , is $15 million more than Monet ’ s painting Nymphéas sold for in 2014 . 
 
-What do you think of the $3,600 Gucci Ghost? Also, you didn’t let me finish earlier. That image that Beeple was auctioning off at Christie’s ended up selling for $69 million, which, by the way, is $15 million more than Monet’s painting Nymphéas sold for in 2014.
 
+This last sold for $3 , 600 , but the current owner is asking for $16 , 300 . GIF by Trevor Andrew
+Whoever got that Monet can actually appreciate it as a physical object . With digital art , a copy is literally as good as the original . 
 
-This last sold for $3,600, but the current owner is asking for $16,300. GIF by Trevor Andrew
-Whoever got that Monet can actually appreciate it as a physical object. With digital art, a copy is literally as good as the original.
+But the flex of owning an original Beeple .  .  . 
 
-But the flex of owning an original Beeple...
+I think I remember hearing that NFTs are already over . Didn ’ t the boom go bust ? 
 
-I think I remember hearing that NFTs are already over. Didn’t the boom go bust?
+But surely you ’ ve heard of penguin communities ? 
 
-But surely you’ve heard of penguin communities?
+P .  .  . Penguin communities ? 
 
-P...Penguin communities?
+Right , so .  .  . people have long built communities based on things they own , and now it ’ s happening with NFTs . One community that ’ s been exceedingly popular revolves around a collection of NFTs called Pudgy Penguins , but it ’ s not the only community built up around the tokens . It could be argued that one of the earliest NFT projects , CryptoPunks , has a community around it , and there are other animal-themed projects like the Bored Ape Yacht Club that have their own clique . 
 
-Right, so... people have long built communities based on things they own, and now it’s happening with NFTs. One community that’s been exceedingly popular revolves around a collection of NFTs called Pudgy Penguins, but it’s not the only community built up around the tokens. It could be argued that one of the earliest NFT projects, CryptoPunks, has a community around it, and there are other animal-themed projects like the Bored Ape Yacht Club that have their own clique.
+Of course , the communal activities depend on the community . For Pudgy Penguin or Bored Ape owners , it seems to involve vibing and sharing memes on Discord , or complimenting each other on their Pudgy Penguin Twitter avatars . 
 
-Of course, the communal activities depend on the community. For Pudgy Penguin or Bored Ape owners, it seems to involve vibing and sharing memes on Discord, or complimenting each other on their Pudgy Penguin Twitter avatars.
+What ’ s the point of NFTs ? 
 
-What’s the point of NFTs?
+That really depends on whether you ’ re an artist or a buyer . 
 
-That really depends on whether you’re an artist or a buyer.
+I ’ m an artist . 
 
-I’m an artist.
+First off : I ’ m proud of you . Way to go . You might be interested in NFTs because it gives you a way to sell work that there otherwise might not be much of a market for . If you come up with a really cool digital sticker idea , what are you going to do ? Sell it on the iMessage App Store ? No way . 
 
-First off: I’m proud of you. Way to go. You might be interested in NFTs because it gives you a way to sell work that there otherwise might not be much of a market for. If you come up with a really cool digital sticker idea, what are you going to do? Sell it on the iMessage App Store? No way.
+Also , NFTs have a feature that you can enable that will pay you a percentage every time the NFT is sold or changes hands , making sure that if your work gets super popular and balloons in value , you ’ ll see some of that benefit . 
 
-Also, NFTs have a feature that you can enable that will pay you a percentage every time the NFT is sold or changes hands, making sure that if your work gets super popular and balloons in value, you’ll see some of that benefit.
+I ’ m a buyer . 
 
-I’m a buyer.
+One of the obvious benefits of buying art is it lets you financially support artists you like , and that ’ s true with NFTs ( which are way trendier than , like , Telegram stickers )  . Buying an NFT also usually gets you some basic usage rights , like being able to post the image online or set it as your profile picture . Plus , of course , there are bragging rights that you own the art , with a blockchain entry to back it up . 
 
-One of the obvious benefits of buying art is it lets you financially support artists you like, and that’s true with NFTs (which are way trendier than, like, Telegram stickers). Buying an NFT also usually gets you some basic usage rights, like being able to post the image online or set it as your profile picture. Plus, of course, there are bragging rights that you own the art, with a blockchain entry to back it up.
+No , I meant I ’ m a collector . 
 
-No, I meant I’m a collector.
+Ah , okay , yes . NFTs can work like any other speculative asset , where you buy it and hope that the value of it goes up one day , so you can sell it for a profit . I feel kind of dirty for talking about that , though . 
 
-Ah, okay, yes. NFTs can work like any other speculative asset, where you buy it and hope that the value of it goes up one day, so you can sell it for a profit. I feel kind of dirty for talking about that, though.
+So every NFT is unique ? 
 
-So every NFT is unique?
+In the boring , technical sense that every NFT is a unique token on the blockchain . But while it could be like a van Gogh , where there ’ s only one definitive actual version , it could also be like a trading card , where there ’ s 50 or hundreds of numbered copies of the same artwork . 
 
-In the boring, technical sense that every NFT is a unique token on the blockchain. But while it could be like a van Gogh, where there’s only one definitive actual version, it could also be like a trading card, where there’s 50 or hundreds of numbered copies of the same artwork.
+Who would pay hundreds of thousands of dollars for what basically amounts to a trading card ? 
 
-Who would pay hundreds of thousands of dollars for what basically amounts to a trading card?
+Well , that ’ s part of what makes NFTs so messy . Some people treat them like they ’ re the future of fine art collecting ( read : as a playground for the mega-rich )  , and some people treat them like Pokémon cards ( where they ’ re accessible to normal people but also a playground for the mega-rich )  . Speaking of Pokémon cards , Logan Paul just sold some NFTs relating to a million-dollar box of the—
 
-Well, that’s part of what makes NFTs so messy. Some people treat them like they’re the future of fine art collecting (read: as a playground for the mega-rich), and some people treat them like Pokémon cards (where they’re accessible to normal people but also a playground for the mega-rich). Speaking of Pokémon cards, Logan Paul just sold some NFTs relating to a million-dollar box of the—
+Please stop . I hate where this is going . 
 
-Please stop. I hate where this is going.
 
+You ’ ve activated my trap card ( which sold for $17 , 000 )  . Image by Logan Paul
+Yeah , he sold NFT video clips , which are just clips from a video you can watch on YouTube anytime you want , for up to $20 , 000 . He also sold NFTs of a Logan Paul Pokémon card . 
 
-You’ve activated my trap card (which sold for $17,000). Image by Logan Paul
-Yeah, he sold NFT video clips, which are just clips from a video you can watch on YouTube anytime you want, for up to $20,000. He also sold NFTs of a Logan Paul Pokémon card.
+Who paid $20 , 000 for a video clip of Logan Paul ?  ! 
 
-Who paid $20,000 for a video clip of Logan Paul?!
+A fool and their money are soon parted , I guess ? 
 
-A fool and their money are soon parted, I guess?
+It would be hilarious if Logan Paul decided to sell 50 more NFTs of the exact same video . 
 
-It would be hilarious if Logan Paul decided to sell 50 more NFTs of the exact same video.
+Linkin Park ’ s Mike Shinoda ( who also sold some NFTs that included a song ) actually talked about that . It ’ s totally a thing someone could do if they were , in his words ,  “ an opportunist crooked jerk .  ” I ’ m not saying that Logan Paul is that , just that you should be careful who you buy from . 
 
-Linkin Park’s Mike Shinoda (who also sold some NFTs that included a song) actually talked about that. It’s totally a thing someone could do if they were, in his words, “an opportunist crooked jerk.” I’m not saying that Logan Paul is that, just that you should be careful who you buy from.
+Are NFTs mainstream now ? 
 
-Are NFTs mainstream now?
+It depends on what you mean . If you ’ re asking if , say , my mom owns one , the answer is no . 
 
-It depends on what you mean. If you’re asking if, say, my mom owns one, the answer is no.
 
+The response from my mom when I asked her about owning NFTs . 
+But we have seen big brands and celebrities like Marvel and Wayne Gretzky launch their own NFTs , which seem to be aimed at more traditional collectors , rather than crypto-enthusiasts . While I don ’ t think I ’ d call NFTs “ mainstream ” in the way that smartphones are mainstream , or Star Wars is mainstream , they do seem to have , at least to some extent , shown some staying power even outside of the cryptosphere . 
 
-The response from my mom when I asked her about owning NFTs.
-But we have seen big brands and celebrities like Marvel and Wayne Gretzky launch their own NFTs, which seem to be aimed at more traditional collectors, rather than crypto-enthusiasts. While I don’t think I’d call NFTs “mainstream” in the way that smartphones are mainstream, or Star Wars is mainstream, they do seem to have, at least to some extent, shown some staying power even outside of the cryptosphere.
+But what do The Youth think of them ? 
 
-But what do The Youth think of them?
+Ah yes , excellent question . We here at The Verge have an interest in what the next generation is doing , and it certainly does seem like some of them have been experimenting with NFTs . An 18 year-old who goes by the name FEWOCiOUS says that his NFT drops have netted over $17 million — though obviously most haven ’ t had the same success . The New York Times talked to a few teens in the NFC space , and some said they used NFTs as a way to get used to working on a project with a team , or to just earn some spending money . 
 
-Ah yes, excellent question. We here at The Verge have an interest in what the next generation is doing, and it certainly does seem like some of them have been experimenting with NFTs. An 18 year-old who goes by the name FEWOCiOUS says that his NFT drops have netted over $17 million — though obviously most haven’t had the same success. The New York Times talked to a few teens in the NFC space, and some said they used NFTs as a way to get used to working on a project with a team, or to just earn some spending money.
+Can I buy this article as an NFT ? 
 
-Can I buy this article as an NFT?
+No , but technically anything digital could be sold as an NFT ( including articles from Quartz and The New York Times , provided you have anywhere from $1 , 800 to $560 , 000 )  . deadmau5 has sold digital animated stickers . William Shatner has sold Shatner-themed trading cards ( one of which was apparently an X-ray of his teeth )  . 
 
-No, but technically anything digital could be sold as an NFT (including articles from Quartz and The New York Times, provided you have anywhere from $1,800 to $560,000). deadmau5 has sold digital animated stickers. William Shatner has sold Shatner-themed trading cards (one of which was apparently an X-ray of his teeth).
 
+This one I like . Maybe not for $700 , but .  .  . Image by deadmau5 and Mad Dog Jones
+Gross . Actually , could I buy someone ’ s teeth as an NFT ? 
 
-This one I like. Maybe not for $700, but... Image by deadmau5 and Mad Dog Jones
-Gross. Actually, could I buy someone’s teeth as an NFT?
+There have been some attempts at connecting NFTs to real-world objects , often as a sort of verification method . Nike has patented a method to verify sneakers ’ authenticity using an NFT system , which it calls CryptoKicks . But so far , I haven ’ t found any teeth , no . I ’ m scared to look . 
 
-There have been some attempts at connecting NFTs to real-world objects, often as a sort of verification method. Nike has patented a method to verify sneakers’ authenticity using an NFT system, which it calls CryptoKicks. But so far, I haven’t found any teeth, no. I’m scared to look.
+Look ? Where ? 
 
-Look? Where?
+There are several marketplaces that have popped up around NFTs , which allow people to buy and sell . These include OpenSea , Rarible , and Grimes ’ choice , Nifty Gateway , but there are plenty of others . 
 
-There are several marketplaces that have popped up around NFTs, which allow people to buy and sell. These include OpenSea, Rarible, and Grimes’ choice, Nifty Gateway, but there are plenty of others.
+I ’ ve heard there were kittens involved . Tell me about the kittens . 
 
-I’ve heard there were kittens involved. Tell me about the kittens.
+NFTs really became technically possible when the Ethereum blockchain added support for them as part of a new standard . Of course , one of the first uses was a game called CryptoKitties that allowed users to trade and sell virtual kittens . Thank you , internet . 
 
-NFTs really became technically possible when the Ethereum blockchain added support for them as part of a new standard. Of course, one of the first uses was a game called CryptoKitties that allowed users to trade and sell virtual kittens. Thank you, internet.
+I love kittens . 
 
-I love kittens.
+Not as much as the person who paid over $170 , 000 for one . 
 
-Not as much as the person who paid over $170,000 for one.
 
+My face when I ’ m worth $170K . Image : Cryptokitties . co
+Arrrrrggggg ! 
 
-My face when I’m worth $170K. Image: Cryptokitties.co
-Arrrrrggggg!
+Same . But in my opinion , the kittens show that one of the most interesting aspects of NFTs ( for those of us not looking to create a digital dragon ’ s lair of art ) is how they can be used in games . There are already games that let you have NFTs as items . One even sells virtual plots of land as NFTs . There could be opportunities for players to buy a unique in-game gun or helmet or whatever as an NFT , which would be a flex that most people could actually appreciate . 
 
-Same. But in my opinion, the kittens show that one of the most interesting aspects of NFTs (for those of us not looking to create a digital dragon’s lair of art) is how they can be used in games. There are already games that let you have NFTs as items. One even sells virtual plots of land as NFTs. There could be opportunities for players to buy a unique in-game gun or helmet or whatever as an NFT, which would be a flex that most people could actually appreciate.
+At least it ’ s not digital pet rocks .  .  . right ? 
 
-At least it’s not digital pet rocks... right?
+In fact , there are people who are spending tens or hundreds of thousands of dollars on NFT pet rocks ( the website for which says that the rocks serve no purpose other than being tradable and limited )  . 
 
-In fact, there are people who are spending tens or hundreds of thousands of dollars on NFT pet rocks (the website for which says that the rocks serve no purpose other than being tradable and limited).
 
+Can I cry on your shoulder ? 
 
-Can I cry on your shoulder?
+Only if I can cry on yours . 
 
-Only if I can cry on yours.
+Could I pull off a museum heist to steal NFTs ? 
 
-Could I pull off a museum heist to steal NFTs?
 
+This image is not an NFT . Yet . Image : Wallace and Gromit : The Wrong Trousers
+That depends . Part of the allure of blockchain is that it stores a record of each time a transaction takes place , making it harder to steal and flip than , say , a painting hanging in a museum . That said , cryptocurrencies have been stolen before , so it really would depend on how the NFT is being stored and how much work a potential victim would be willing to put in to get their stuff back . 
 
-This image is not an NFT. Yet. Image: Wallace and Gromit: The Wrong Trousers
-That depends. Part of the allure of blockchain is that it stores a record of each time a transaction takes place, making it harder to steal and flip than, say, a painting hanging in a museum. That said, cryptocurrencies have been stolen before, so it really would depend on how the NFT is being stored and how much work a potential victim would be willing to put in to get their stuff back.
+Note : Please don ’ t steal . 
 
-Note: Please don’t steal.
+Should I be worried about digital art being around in 500 years ? 
 
-Should I be worried about digital art being around in 500 years?
+Probably . Bit rot is a real thing : image quality deteriorates , file formats can ’ t be opened anymore , websites go down , people forget the password to their wallets . But physical art in museums is also shockingly fragile . 
 
-Probably. Bit rot is a real thing: image quality deteriorates, file formats can’t be opened anymore, websites go down, people forget the password to their wallets. But physical art in museums is also shockingly fragile.
+I want to maximize my blockchain use . Can I buy NFTs with cryptocurrencies ? 
 
-I want to maximize my blockchain use. Can I buy NFTs with cryptocurrencies?
+Yes . Probably . A lot of the marketplaces accept Ethereum . But technically , anyone can sell an NFT , and they could ask for whatever currency they want . 
 
-Yes. Probably. A lot of the marketplaces accept Ethereum. But technically, anyone can sell an NFT, and they could ask for whatever currency they want.
+Will trading my Logan Paul NFTs contribute to global warming and melt Greenland ? 
 
-Will trading my Logan Paul NFTs contribute to global warming and melt Greenland?
+It ’ s definitely something to look out for . Since NFTs use the same blockchain technology as some energy-hungry cryptocurrencies , they also end up using a lot of electricity . There are people working on mitigating this issue , but so far , most NFTs are still tied to cryptocurrencies that generate a lot of greenhouse gas emissions . There have been a few cases where artists have decided to not sell NFTs or to cancel future drops after hearing about the effects they could have on climate change . Thankfully , one of my colleagues has really dug into it , so you can read this piece to get a fuller picture . 
 
-It’s definitely something to look out for. Since NFTs use the same blockchain technology as some energy-hungry cryptocurrencies, they also end up using a lot of electricity. There are people working on mitigating this issue, but so far, most NFTs are still tied to cryptocurrencies that generate a lot of greenhouse gas emissions. There have been a few cases where artists have decided to not sell NFTs or to cancel future drops after hearing about the effects they could have on climate change. Thankfully, one of my colleagues has really dug into it, so you can read this piece to get a fuller picture.
 
+Can I build an underground art cave / bunker to store my NFTs ? 
 
-Can I build an underground art cave / bunker to store my NFTs?
+Well , like cryptocurrencies , NFTs are stored in digital wallets ( though it is worth noting that the wallet does specifically have to be NFT-compatible )  . You could always put the wallet on a computer in an underground bunker , though . 
 
-Well, like cryptocurrencies, NFTs are stored in digital wallets (though it is worth noting that the wallet does specifically have to be NFT-compatible). You could always put the wallet on a computer in an underground bunker, though.
+What if I wanted to watch a TV show that ’ s somehow related to NFTs ? 
 
-What if I wanted to watch a TV show that’s somehow related to NFTs?
+Believe it or not , you have options ! Steve Aoki is working on a show based on a character from a previous NFT drop , called Dominion X . The show ’ s site says that it ’ ll be an episodic series launched on the blockchain ( the first short video is on OpenSea )  , and there are hundreds of NFTs already associated with the show . 
 
-Believe it or not, you have options! Steve Aoki is working on a show based on a character from a previous NFT drop, called Dominion X. The show’s site says that it’ll be an episodic series launched on the blockchain (the first short video is on OpenSea), and there are hundreds of NFTs already associated with the show.
+There ’ s also a show called Stoner Cats ( yes , it ’ s about cats that get high , and yes it stars Mila Kunis , Chris Rock , and Jane Fonda )  , which uses NFTs as a sort of ticket system . Currently , there ’ s only one episode available , but a Stoner Cat NFT ( which , of course , is called a TOKEn ) is required to watch it . 
 
-There’s also a show called Stoner Cats (yes, it’s about cats that get high, and yes it stars Mila Kunis, Chris Rock, and Jane Fonda), which uses NFTs as a sort of ticket system. Currently, there’s only one episode available, but a Stoner Cat NFT (which, of course, is called a TOKEn) is required to watch it.
+Are you tired of typing “ NFT ”  ? 
 
-Are you tired of typing “NFT”?
+Yes . 
 
-Yes.
+Update March 5th , 8 : 07PM ET : Added the news that Jack Dorsey was selling one of his tweets as an NFT because I originally made a joke and cannot believe it actually happened . 
 
-Update March 5th, 8:07PM ET: Added the news that Jack Dorsey was selling one of his tweets as an NFT because I originally made a joke and cannot believe it actually happened.
+Update March 11th , 1 : 42PM ET : Added the news that Beeple ’ s piece sold for $69 million and added more information to the climate change section . 
 
-Update March 11th, 1:42PM ET: Added the news that Beeple’s piece sold for $69 million and added more information to the climate change section.
+Update March 15th , 1 : 30PM ET : Added a link to our piece on the environmental impact of NFTs and updated some of the language to reflect some recent research . Also added a poem . 
 
-Update March 15th, 1:30PM ET: Added a link to our piece on the environmental impact of NFTs and updated some of the language to reflect some recent research. Also added a poem.
+Update March 25th , 3 : 20PM ET : Added note about Quartz and the NYT selling articles as NFTs because once again it ’ s something that I made a joke about and then actually happened . Also updated the part about Jack Dorsey selling his tweet with the final price . 
 
-Update March 25th, 3:20PM ET: Added note about Quartz and the NYT selling articles as NFTs because once again it’s something that I made a joke about and then actually happened. Also updated the part about Jack Dorsey selling his tweet with the final price.
-
-Update August 18th, 9:20PM ET: Added new questions and answers that have cropped up over the course of 2021, like “are NFTs dead,” “are there NFT-based TV shows,” and “are there clipart images of rocks being sold as NFTs?”
+Update August 18th , 9 : 20PM ET : Added new questions and answers that have cropped up over the course of 2021 , like “ are NFTs dead ,  ”  “ are there NFT-based TV shows ,  ” and “ are there clipart images of rocks being sold as NFTs ?  ” 

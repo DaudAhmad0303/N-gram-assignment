@@ -1,14 +1,14 @@
-Slack went down today, but work wasn't canceled
+Slack went down today , but work wasn ' t canceled
 Clare Duffy
-By Clare Duffy, CNN Business
+By Clare Duffy , CNN Business
 
-Updated 2015 GMT (0415 HKT) February 22, 2022
-Slack went down for many users Tuesday morning, throwing off companies that rely on the popular workplace communication platform just as workers returned from the extended holiday weekend.
-
-"We're investigating the issue where Slack is not loading for some users," the company said on its status page around 9:30 am ET. Issues persisted for some users throughout the morning. The issue was fully resolved about five hours later, the company said.
-Slack and similar services emerged as essential tools for office workers to stay connected to their colleagues during the pandemic. The company serves major companies including Netflix, Uber and Target, as well as government agencies such as the US Department of Veterans Affairs. Many news organizations, including CNN, also rely on the platform. Slack was acquired by Salesforce (CRM) last year.
-"Slack is down which means work is canceled," one Twitter user joked Tuesday. Others joked that they worried they had been fired, before realizing it was just an outage.
-Outage tracking website Down Detector showed problem reports about Slack spiking around 9:30 am ET, before tapering off slightly.
-About an hour after the outage was confirmed, some users began reporting that their service had resumed, especially on the mobile app. However, Slack said others were still unable to load the platform and it was continuing to investigate the issue as of 11:30 am ET.
-Shortly after noon ET, Slack said it was "seeing signs of improvement." And just before 2:30 pm ET, Slack said it had fully resolved the issue, but it didn't offer any explanation for the outage. The company encouraged users to reload the service or, if that doesn't work, to do a cache reset
-"Thanks for bearing with us and we apologize for the disruption to your work day!" it said.
+Updated 2015 GMT ( 0415 HKT ) February 22 , 2022
+Slack went down for many users Tuesday morning , throwing off companies that rely on the popular workplace communication platform just as workers returned from the extended holiday weekend .  
+ 
+ " We ' re investigating the issue where Slack is not loading for some users ,  " the company said on its status page around 9 : 30 am ET . Issues persisted for some users throughout the morning . The issue was fully resolved about five hours later , the company said . 
+Slack and similar services emerged as essential tools for office workers to stay connected to their colleagues during the pandemic . The company serves major companies including Netflix , Uber and Target , as well as government agencies such as the US Department of Veterans Affairs . Many news organizations , including CNN , also rely on the platform . Slack was acquired by Salesforce ( CRM ) last year .  
+ " Slack is down which means work is canceled ,  " one Twitter user joked Tuesday . Others joked that they worried they had been fired , before realizing it was just an outage . 
+Outage tracking website Down Detector showed problem reports about Slack spiking around 9 : 30 am ET , before tapering off slightly . 
+About an hour after the outage was confirmed , some users began reporting that their service had resumed , especially on the mobile app . However , Slack said others were still unable to load the platform and it was continuing to investigate the issue as of 11 : 30 am ET . 
+Shortly after noon ET , Slack said it was " seeing signs of improvement .  " And just before 2 : 30 pm ET , Slack said it had fully resolved the issue , but it didn ' t offer any explanation for the outage . The company encouraged users to reload the service or , if that doesn ' t work , to do a cache reset 
+ " Thanks for bearing with us and we apologize for the disruption to your work day !  " it said . 

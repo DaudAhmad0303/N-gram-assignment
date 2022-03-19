@@ -1,32 +1,32 @@
-UK firms warned of Russian cyberwar ‘spillover’ from Ukraine
-Meetings held on threat posed, particularly to critical infrastructure, and how it could be tackled
+UK firms warned of Russian cyberwar ‘ spillover ’ from Ukraine
+Meetings held on threat posed , particularly to critical infrastructure , and how it could be tackled
 
-Ukraine crisis: live updates
-An cyber-attacks illustration.
-Cyber-attacks illustration. Last week an attack tried to disrupt customer services at two Ukrainian banks and the defence ministry website. Photograph: Dado Ruvić/Reuters
+Ukraine crisis : live updates
+An cyber-attacks illustration . 
+Cyber-attacks illustration . Last week an attack tried to disrupt customer services at two Ukrainian banks and the defence ministry website . Photograph : Dado Ruvić / Reuters
 Dan Sabbagh Defence and security edior
-Wed 23 Feb 2022 15.20 GMT
+Wed 23 Feb 2022 15 . 20 GMT
 
-British officials are concerned about “spillover” from any heightened Russian cyber-activity in Ukraine, as demonstrated by last week’s attack on two banks by hackers linked to the GRU spy agency.
+British officials are concerned about “ spillover ” from any heightened Russian cyber-activity in Ukraine , as demonstrated by last week ’ s attack on two banks by hackers linked to the GRU spy agency . 
 
-Although there have been no Ukraine-related Russian attacks on the UK since the start of the crisis, cyber-specialists have been holding meetings with key companies to discuss the possible threat and how it could be tackled.
-
-“Organisations need to understand there is a heightened risk,” said one official, with a particular focus on monitoring whether an intense Russian cyber-attack on Ukrainian targets could have wider consequences.
+Although there have been no Ukraine-related Russian attacks on the UK since the start of the crisis , cyber-specialists have been holding meetings with key companies to discuss the possible threat and how it could be tackled .  
+ 
+ “ Organisations need to understand there is a heightened risk ,  ” said one official , with a particular focus on monitoring whether an intense Russian cyber-attack on Ukrainian targets could have wider consequences . 
 
 Advertisement
 
-Jeremy Fleming, the head of the spy agency GCHQ, held a roundtable last week to discuss the threat with organisations responsible for Britain’s “critical national infrastructure”, which includes the communications, energy, food, health and transport sectors.
+Jeremy Fleming , the head of the spy agency GCHQ , held a roundtable last week to discuss the threat with organisations responsible for Britain ’ s “ critical national infrastructure ”  , which includes the communications , energy , food , health and transport sectors . 
 
-Ukraine has been a target for regular Russian cyber-attacks since the start of the war in 2014 and last week was hit with a “sophisticated” attack that tried to disrupt customer services at two Ukrainian banks and the website of the defence ministry.
+Ukraine has been a target for regular Russian cyber-attacks since the start of the war in 2014 and last week was hit with a “ sophisticated ” attack that tried to disrupt customer services at two Ukrainian banks and the website of the defence ministry . 
 
-On Friday, the NCSC, Britain’s cybersecurity agency, said it believed Russia’s GRU military intelligence was behind the “denial of service” attack. But although relatively serious, officials believe it was “not necessarily a precursor” for a military offensive or enhanced cyber-action.
+On Friday , the NCSC , Britain ’ s cybersecurity agency , said it believed Russia ’ s GRU military intelligence was behind the “ denial of service ” attack . But although relatively serious , officials believe it was “ not necessarily a precursor ” for a military offensive or enhanced cyber-action . 
 
-A recent NCSC briefing, which is considered still valid, said: “While the NCSC is not aware of any current specific threats to UK organisations in relation to events in and around Ukraine, there has been an historical pattern of cyber-attacks on Ukraine with international consequences.”
+A recent NCSC briefing , which is considered still valid , said :  “ While the NCSC is not aware of any current specific threats to UK organisations in relation to events in and around Ukraine , there has been an historical pattern of cyber-attacks on Ukraine with international consequences .  ” 
 
-In 2017, Russian state actors launched the NotPetya malware against Ukrainian companies, but it spread indiscriminately around the world, affecting a string of western companies and even some Russian corporations. Western spy agencies have previously said that attack was also conducted by GRU operatives.
+In 2017 , Russian state actors launched the NotPetya malware against Ukrainian companies , but it spread indiscriminately around the world , affecting a string of western companies and even some Russian corporations . Western spy agencies have previously said that attack was also conducted by GRU operatives . 
 
-Ukraine’s long experience in dealing with cyber-attacks – two of which, in 2015 and 2016, briefly disrupted some power supplies – means that western officials believe Kyiv is relatively experienced at picking up the pieces after a damaging attack.
+Ukraine ’ s long experience in dealing with cyber-attacks – two of which , in 2015 and 2016 , briefly disrupted some power supplies – means that western officials believe Kyiv is relatively experienced at picking up the pieces after a damaging attack . 
 
-Nevertheless, the UK and the US have been helping the country’s cybersecurity agencies, as the crisis has intensified. On Tuesday, six EU countries said they, too, would offer further assistance.
+Nevertheless , the UK and the US have been helping the country ’ s cybersecurity agencies , as the crisis has intensified . On Tuesday , six EU countries said they , too , would offer further assistance . 
 
-A western official said: “We share our understanding of the threats and we have and continue to make them aware of threats.”
+A western official said :  “ We share our understanding of the threats and we have and continue to make them aware of threats .  ” 
