@@ -418,7 +418,7 @@ Count		Words
 9142		learning
 192		analytics
 12730		5
-1111		Machine
+1112		Machine
 1621		takes
 654		looks
 738		underlying
@@ -2435,7 +2435,8 @@ Count		Words
 
 244		Cognitive
 1		biasCognitive
-1		illusionInterpretabilityMachine
+89		illusion
+5		Interpretability
 1		learningRule
 7		induction
 
@@ -26201,7 +26202,6 @@ Count		Words
 5		candidate
 6		experience-based
 2		r-valued
-88		illusion
 29		disappearing
 15		bouncing
 3		judicially
@@ -31904,7 +31904,6 @@ Count		Words
 2		axiomatisations
 1		Pople
 5		Levesque
-4		Interpretability
 10		justification
 
 30		equate
