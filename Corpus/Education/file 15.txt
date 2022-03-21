@@ -730,7 +730,7 @@ technologies are the most obvious examples of this change at the moment ; but so
 greater diversity of students and changes within schools and society which also influence the student
 body . Unless academics see themselves as generic learners , they cannot move forward . Sometimes their
 voice is one of caution ( Seidensticker , 2006 )  , but this caution has to be based on strong evidence . 
-For the purposes of this chapter , I have been trying and will continue to try to avoid the term
+For the purposes of this chapter , I have been trying and will continue to try to avoid the term 
  ‘ academic / teacher / lecturer ’ in favour of ‘ lead learner ’  . The terminology may not be so flattering , but it
 does describe the position more clearly . The fact that it does not seem so high powered is perhaps an
 indication of the implied assumption that learning is passive whereas teaching / research / programme and
@@ -757,7 +757,7 @@ experience as the sole key to learning skills . This information comes from indi
 PGCE students during profiling sessions at the start of their course . They also rate the hands-on teaching as
 being the most important element of the placement and have difficulty recognising how improving their
 observation of practitioners can enhance their own practice ( Mitchell and Honore , 2006 )  . Coursework , 
-however practical , is seen – at this stage – as having little relevance to their need for a technical course in
+however practical , is seen – at this stage – as having little relevance to their need for a technical course in 
  ‘ how to ’  . The knowledge element is seen as minimal . The links between the course and its practical
 application and the value of theory–practice interaction need repeatedly to be made explicit and sold to the
 consumer . L2L within placements has a developing literature and has uses far beyond HE . 
@@ -882,7 +882,7 @@ opportunity to look in more depth at the advances in neuroscience in relation to
 Oxford Centre for Staff and Learning Development ( OCSLD ) provides a very useful briefing paper
 from Lee Dunn ( 2002 ) on traditional theories of learning in their Learning and Teaching series . 
 The next step is to look at each of Claxton ’ s four R ’ s of learning – Resilience , Resourcefulness , 
-Reflectiveness and Reciprocity . All of these are behavioural and sit closely with the need to
+Reflectiveness and Reciprocity . All of these are behavioural and sit closely with the need to 
  ‘ market ’ behavioural change to enhance learning . Under ‘ resilience ,  ’ for example , Claxton looks
 at how this involves being ‘ ready , willing and able to lock on to learning ’  . Students can then
 discuss how they manage distractions ; if and how they can absorb themselves in a learning
@@ -1112,7 +1112,7 @@ Ghaye and Ghaye ’ s ( 1998 , pp15–19 ) ten principles of reflective practice
 engages participants in : 
 ● reflective conversations that have the potential to disturb their professional identity ; 
 ● interrogation of experiences ; 
-● returning to look at taken-for-granted values , professional values and understandings –
+● returning to look at taken-for-granted values , professional values and understandings – 
  ‘ a reflective turn ’  ; 
 ● describing , explaining and justifying practices ; 
 ● viewing professional situations ‘ problematically ’  ; 
@@ -1503,7 +1503,7 @@ Online summative assessments require careful structuring to suit the programme a
 as appropriate , for a particular module . A well-structured VLE usually records the date and time of
 submission , providing students with an email receipt and the tutor a notification . Opportunity for
 tutors to provide electronic feedback reduces delay in returning of scripts to students off-site , and
-utilising a PC tablet computer that enables handwritten electronic comments offers a more
+utilising a PC tablet computer that enables handwritten electronic comments offers a more 
  ‘ personalised ’ style of written feedback comments in preference to typed format . Overall , we believe
 that the virtual learning environment has much to offer in strengthening the students ’ capacities to
 reflect on their development through formative and summative assessment processes . 
@@ -1727,7 +1727,7 @@ sensitively and assertively in a team is a challenge not to be understated , and
 insufficient preparation and support this can be the cause of much distress to all concerned in the
 process . Incidents of ‘ social loafing ’  ( Ringelmann , 1913 ) are frequently reported ( and examples are
 provided later in the chapter ) where some students do not pull their weight and the task burden falls
-to others in the group to complete the work . Frustrations can be expressed on both sides , by the
+to others in the group to complete the work . Frustrations can be expressed on both sides , by the 
  ‘ workers ’ who feel let down and put upon , and by the ‘ shirkers ’ who can feel unable to express their
 views or challenge the dominant group members . Considerations of moving towards a PBL approach
 should seriously consider these potential problems before the outset . 
@@ -1901,7 +1901,7 @@ were overcome or mediated by the end of the experience . This experience was not
 however , as there were varying degrees of positive / negative views . 
 Students ’ comments on group work and handling conflict include the following . 
 I think that our inability to keep to our scheduled timetable was partly due to motivational issues . To a certain
-extent we have been ‘ thrown in at the deep end ’ with PBL , and so we struggled to come to terms with the
+extent we have been ‘ thrown in at the deep end ’ with PBL , and so we struggled to come to terms with the 
  ‘ vagueness ’ of the questioning and seminar set-up . Our uncertainty meant that we weren ’ t as involved as we
 should have been , which led to us being unmotivated . In contrast there was a dramatic change in our progress
 in the second assignment . This time we constantly read and re-read the question ; which not only concentrated
@@ -2634,7 +2634,7 @@ This chapter explores students ’ perceptions of themselves as learners in high
 makes reference to a study of a group of first-year students in music , looking at their perceptions of
 themselves as learners in order to better understand their attitudes and approaches to study . The
 research studied student responses to a constructivist questionnaire , a version of the Ideal *  *  * Inventory 
-( Norton et al .  )  ( 1995 )  , applied at the beginning and end of the first year . 
+( Norton et al .  )  ( 1995 )  , applied at the beginning and end of the first year .  
  ‘ Who do they think they are ?  ’ Is this a question you ’ ve found yourself asking about your students after
 a teaching session or when marking assignments ? Perhaps you have asked this question out of sheer
 frustration or you were simply perplexed by the unexpected nature of your students ’ response to a
@@ -2871,7 +2871,7 @@ respondent : for example , the perceived range of difference between good and no
 Some more or less randomly selected examples of student-generated parameters for the really good / not
 very good learner are shown in Table 6 . 1 and have been roughly categorised into three areas – general
 attributes , meta-learning type responses and the more day-to-day aspects of being a student . 
-Table 6 . 1 General attributes
+Table 6 . 1 General attributes 
  ‘ Really good learner ’  ‘ Not very good learner ’ 
 enjoys wasting time
 enthusiastic lethargic
@@ -3844,7 +3844,7 @@ knows a particular fact , or has performed a particular action ) as nodes on a d
 the network has a probability indicating the likelihood of the student knowing that piece of knowledge . 
 These networks reason probabilistically about a student ’ s knowledge state based on his interactions with
 the tutor . 
-Given this brief overview of the difficulties in representing student models , it would be pertinent to ask , 
+Given this brief overview of the difficulties in representing student models , it would be pertinent to ask ,  
  ‘ Why bother ?  ’ Indeed , it has been suggested that this is too difficult to be worth the trouble . However , 
 it can be argued that there is always a model implicit within any system that interacts with a student . In
 essence this is the rationale for the approach to reflective practice as advocated in this book , where the
@@ -4310,7 +4310,7 @@ will be encouraged to look at their own assessment practices with a fresh eye by
 done in a practical and pragmatic sense . In so doing , my aim is to encourage a reflective approach to
 assessment and feedback practice , based on an identification of personally held professional values
 together with a basic understanding of how university students learn . 
-The chapter is structured in two main sections :  ‘ Assessment and its effect on student learning ’ and
+The chapter is structured in two main sections :  ‘ Assessment and its effect on student learning ’ and 
  ‘ Assessment criteria and feedback ’  . In each section , I begin by posing some questions to you as the
 reader , followed by a brief theoretical overview , and then illustrate my own experience and reflections
 10554_C09 . QXD 29 / 6 / 07 2 : 39 pm Page 92
@@ -4409,7 +4409,7 @@ consistent and just the system is , it will not help learning if students themse
 perceptions . There is quite a body of research to suggest that they do , such as our own research on
 Chapter 9 Using assessment to promote quality learning in higher education
 94
-10554_C09 . QXD 29 / 6 / 07 2 : 39 pm Page 94
+10554_C09 . QXD 29 / 6 / 07 2 : 39 pm Page 94 
  ‘ rules of the game ’ which are tactics that students adopt in their essay because they believe that it will
 get them higher marks ( Norton et al .  , 1996a , b )  . Since the main purposes of assessment are still
 conceptualised by most lecturers to certify and to grade students ( Samuelowicz and Bain , 2002 )  , it is
@@ -4477,7 +4477,7 @@ Discussion point
 2 . Do fellow lecturers in your subject all mark similarly ? 
 3 . Do lecturers share the same understandings of assessment criteria as : 
 a . their students ? 
-b . their fellow lecturers in the same subject ?  ( If , for example , I were to ask you to define
+b . their fellow lecturers in the same subject ?  ( If , for example , I were to ask you to define 
  ‘ critical evaluation ’  , would your answer be the same as that of your colleagues ?  ) 
 4 . Is your written feedback generally consistent with the assessment criteria ? 
 5 . Do your students understand your feedback ? 
@@ -4666,7 +4666,7 @@ Biggs , J .  ( 1994 ) Student learning research and theory – where do we curre
 www . city . londonmet . ac . uk / deliberations / ocsd-pubs / isltp-biggs . html ( accessed 14 January
 2007 )  . 
 Biggs , J .  ( 2003 ) Aligning teaching and assessing to course objectives , Teaching and learning in Higher
-Education : New trends and innovations , University of Aveiro , 13–17 April 2003 . Available at
+Education : New trends and innovations , University of Aveiro , 13–17 April 2003 . Available at 
  ’ at%20http%3A%2F%2Feven
 t . ua . pt%2Fiched%2Fmain%2Finvcom%2Fp182 . pdf ’  ( accessed 14 January 2007 )  . 
 Boud , D .  ( 1990 ) Assessment and the promotion of academic values . Studies in Higher Education , 15 ( 1 )  , 
@@ -5086,7 +5086,7 @@ direction . This was because a set time was fixed between the teacher and studen
 formative , quality feedback . As one teacher observed , This is quality time with the student where real
 discussion and learning can take place . During this time I would expect students to reflect on their teaching and the
 children ’ s learning ; I would expect comments to be prefaced with such phrases as : I think that … But I feel that …
-a genuine dialogue should follow . It is extremely interesting that this teacher uses such vocabulary as
+a genuine dialogue should follow . It is extremely interesting that this teacher uses such vocabulary as 
  ‘ reflective ’  , as this is exactly the language used by Schön ( 1983 ) in his seminal work on the role of the
 reflective practitioner . We would add that it is not simply the student who needs to reflect ; so too does
 the teacher , and tutor , if what follows is to be an open , supportive , and respectful conversation . In this
@@ -5800,7 +5800,7 @@ businesses of tomorrow and , furthermore , to be stewards of their communities .
 goals , we would argue , is to integrate service-learning with social enterprise . 
 From enterprise to social enterprise
 Before exploring how social enterprise can be integrated with SL , we need a view on what social
-enterprise ( SE ) is . The words ‘ enterprise ’  ,  ‘ enterprising ’  ,  ‘ entrepreneur ’  ,  ‘ entrepreneurship ’ and
+enterprise ( SE ) is . The words ‘ enterprise ’  ,  ‘ enterprising ’  ,  ‘ entrepreneur ’  ,  ‘ entrepreneurship ’ and 
  ‘ entrepreneurial learning ’ are appearing more and more in the directives , targets and missions of the
 agencies who are expected to act on the ECM agenda . This has been influenced by work from the
 Organisation for Economic Co-Operation and Development ( OECD ) and the Council Resolution by
@@ -5880,8 +5880,8 @@ identify resources where people only see problems . They view the villagers as t
 They begin with the assumption of competence and unleash resources in the communities they ’ re serving .  
 ( Bornstein , 2004 , p21 ) 
 10554_C12 . QXD 29 / 6 / 07 2 : 43 pm Page 125
-Harvard Business School ( HBS ) may offer some evidence to support such a notion , being at the
- ‘ community change ’ end of Burley and Huzyka ’ s ( 2000 ) spectrum of enterprise understanding . The
+Harvard Business School ( HBS ) may offer some evidence to support such a notion , being at the 
+ ‘ community change ’ end of Burley and Huzyka ’ s ( 2000 ) spectrum of enterprise understanding . The 
  ‘ social enterprise initiative ’ at the centre of their mission views SE as a medium through which they : 
 generate and share knowledge that helps individuals and organisations create social value in the non-profit , private
 and public sectors . 
@@ -5911,7 +5911,7 @@ enterprise is the Schools Intergenerational Nurturing and Learning Project ( SIG
 comes from Liverpool Hope University . Students from across a wide range of disciplines worked
 alongside Every Child Matters partners in primary and secondary schools generating musical
 performances to celebrate core value messages from citizenship assemblies delivered by the
-Liverpool Football Club Truth for Youth initiative . Recordings of the music under such titles as
+Liverpool Football Club Truth for Youth initiative . Recordings of the music under such titles as 
  ‘ Show racism the red card ’ and ‘ Kick drugs into touch ’ are sold to parents within an enterprise . 
 Profits from the sale of CDs are given to local charities . University students from the first author ’ s
 specialty , physical education , use the experience of working alongside partners to inform their
@@ -5971,7 +5971,7 @@ and establishing ways of working with them is time well spent . In the UK , the 
 Rotary ( www . rotary . org ) are two excellent examples of community-focused service . Working with local
 school networks can provide a wide range of ideas and ongoing projects into which you may see routes to
 engage your students . Again , schools have mission statements and ECM responsibilities where some
-synergy can be identified . You may find value in spending some time researching what the government
+synergy can be identified . You may find value in spending some time researching what the government 
  ‘ Excellence in Cities ’  ( EiC ) programme identified as pressure points to the schools in your area 
 ( www . standards . dfes . gov . uk / sie / eic )  . Launched in September 1999 to raise standards and promote
 inclusion , research into its real effects varies widely ; but it can help inform your understanding of an area
@@ -6203,7 +6203,7 @@ Institutional issues
 How an institution markets itself , the location of marketing strategies and the accessibility of promotional
 materials are of crucial importance in the first instance in demonstrating an institutional commitment to
 inclusion . This may be the first aspect that Higher Education Institutions ( HEIs ) wish to review . 
-All staff involved in recruitment days need to be aware of the answers to these questions , not just a few
+All staff involved in recruitment days need to be aware of the answers to these questions , not just a few 
  ‘ specialists ’  , as this reflects the awareness and importance attached to such issues . If someone does not
 know the answers or has to find out , it may suggest to the potential student that this is a low-priority area . 
 Discussion point
@@ -6815,7 +6815,7 @@ situations in which the practices are carried out .
 Carr and Kemmis ( 1986 , p162 ) 
 It is the UK tradition of linking research to bring about the improvement of education-orientated practice
 that is focused on here . Carr and Kemmis ’ s book was written at a time when teachers were seen as
-autonomous professionals but with the move to accountability , quality assurance and objective
+autonomous professionals but with the move to accountability , quality assurance and objective 
  ‘ measurement ’  , action research has become to many simply another research methodology to be used in
 teacher training . This , in our view , is to adopt an uncritical stance to action research , in the same way as
 the concept of the reflective practitioner has sometimes been uncritically accepted . Action research is a

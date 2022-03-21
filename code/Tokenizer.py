@@ -63,7 +63,46 @@ def processing(path):
       with open(path, 'w') as file:
         file.write(filedata)
       pass
+
+def wordcount():
+    
+    return
+def tokenize(file_path):
+    f = open(file_path, 'r')
+    for x in f:
+        lst = x.split('.')
+    return lst
+    
+def Ngram(n = 1, sentences = []):
+    n_grams = list()
+    print(f'len of sentences {len(sentences)}')
+    if n == 1:    
+        for i in range(len(sentences)):
+            temp = str(sentences[i])
+            n_grams += temp.strip().split()
+    elif n >= 2:
+        for i in range(len(sentences)):
+            temp = str(sentences[i])
+            words = temp.strip().split()
+            if len(words) > n:
+                for i in range(len(words)-n):
+                    n_gram = ' '.join(words[i:n+i])
+                    n_grams.append(n_gram)
+    return n_grams
+
+def SentenceProb():
+    
+    return
+def SmoothSentenceProb():
+    
+    return
+def Perplexity():
+    
+    
+    return
+
 tokens = dict()
+sentences = list()
 
 path = r"D:\\Daud Ahmad\\6th Semester\\NLP\\Assignment 2\\Corpus\\"
 # Change the directory
@@ -80,26 +119,34 @@ for folder in all_paths:
         if file.endswith(".txt"):
             file_path = folder + '\\' + file
             # Performing text pre-processing like URL Removal and space adding etc.
-            processing(file_path)
-            # print(file_path)
-            f = open(file_path, 'r')
-            # print(f.read())
-            for x in f:
-                lst = x.split(' ')
-                for t in lst:
-                    if t not in tokens:
-                        tokens[t] = 1
-                    else:
-                        tokens[t] += 1
-            f.close()
-path = r"D:\\Daud Ahmad\\6th Semester\\NLP\\Assignment 2\\code\\Result.txt"
-f = open(path, 'w')
-f.write('Count\t\tWords\n')
-for x, y in tokens.items():
-    f.write(str(y))
-    f.write('\t\t')
-    f.write(x)
-    f.write('\n')
+            # processing(file_path)
+            # getting all sentences
+            sentences += tokenize(file_path)                      # Commented to redue overload
+            
+            # Commented to redue overload
+            # f = open(file_path, 'r')
+            # for x in f:
+            #     lst = x.split(' ')
+            #     for t in lst:
+            #         if t not in tokens:
+            #             tokens[t] = 1
+            #         else:
+            #             tokens[t] += 1
+            # f.close()
+# path = r"D:\\Daud Ahmad\\6th Semester\\NLP\\Assignment 2\\code\\Result.txt"
+# f = open(path, 'w')
+# f.write('Count\t\tWords\n')
+# for x, y in tokens.items():
+#     f.write(str(y))
+#     f.write('\t\t')
+#     f.write(x)
+#     f.write('\n')
 # f.close()
-print(f'Total types in the provided directory are {len(tokens)} and total tokens are {sum(tokens.values())}')
+# print(f'Total types in the provided directory are {len(tokens)} and total tokens are {sum(tokens.values())}')
 print(f'Result has been written to file "Result.txt"')
+# Finding the N-gram of sentences
+print(sentences[:5])
+# n_value = int(input(f'Input value for calculating N-grams: '))
+# val = Ngram(n_value, sentences)
+# print(val[-50:])
+

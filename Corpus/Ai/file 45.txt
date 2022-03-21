@@ -162,7 +162,7 @@ by adapting the Afrikaans terms ‘ inligting ’ and ‘ informasie ’ to ‘ 
 and ‘ information ’  , respectively , Oberholzer and Gruner seek to expose what they
 1 Introduction to This Volume 5
 see as the underlying equivocation by applying ‘ enlightation ’ to Floridi ’ s more
-restrictive sense of ‘ information ’ so as to preserve the traditional sense and use of
+restrictive sense of ‘ information ’ so as to preserve the traditional sense and use of 
  ‘ information ’  . 
 While their distinction between enlightation and information may not settle the
 Floridi / Fetzer debate , Oberholzer and Gruner remind us that the intersection of computing and philosophy imposes a crucial computational obligato on philosophical
@@ -1001,7 +1001,7 @@ Dimensions of Artificial Intelligence , Philosophical Studies Series 134 ,
 it ‘ implements ’ or ‘ realizes ’ a particular abstract formalism . However , specifying
 the criteria under which the implementation relation properly obtains has proved
 surprisingly subtle and controversial , and there are a number of opposing views on
-the constraints that must be satisfied in order for a physical system to count as a
+the constraints that must be satisfied in order for a physical system to count as a 
  ‘ genuine ’ implementation . 
 2 . 2 A Simple Mapping Account
 A very straightforward and elegant account articulated by Putnam ( 1988 ) and others
@@ -1447,7 +1447,7 @@ oQ3o ∧ oS1o ∧ o S1o ∧ oS1o
 ∧ ∀y y	 = o ∧ y	 = o ∧ y	 = o
 → oS0y
 
-M has no instructions for q3 and hence will halt if it enters this state . So the
+M has no instructions for q3 and hence will halt if it enters this state . So the 
  ‘ canonical ’ Halting Sentence H for this machine is
 ∃t∃x ( tQ3x ∧ tS0x ) ∨ ∃t∃x ( tQ3x ∧ tS1x ) 
 and it ’ s provable ( by mathematical induction ) that   H , since   T8 and T8 
@@ -1524,7 +1524,7 @@ not actually given − but precisely how many inputs not actually given ? One , 
 twenty trillion ? For any implementation , there will be a finite upper bound on the
 size of input string it can process , and beyond that size there will be infinitely many
 potential inputs for which it will not be able to perform the salient computation . 
-This indicates that there is no clear or principled cut off point demarking
+This indicates that there is no clear or principled cut off point demarking 
  ‘ genuine ’ implementations from ‘ false ’ ones in terms of counterfactuals . As another , 
 more common place , illustration of the ad hoc nature of the appeal to counterfactuals , consider a standard pocket calculator that can intake numbers up to , say , 6
 digits in decimal notion . Is this a ‘ false ’ realization of the corresponding algorithm
@@ -1541,13 +1541,13 @@ that any predetermined finite set of counterfactuals can be accommodated on this
 40 P . Schweizer
 approach . From this I would conclude that the underlying and more general constraint of concern to those who would delimit the range of physical implementation
 is neither causal nor counterfactual . Instead , the point to emphasize is that in ↑MR * 
-exercises of this sort , the mapping is entirely ex post facto . The abstract procedural
+exercises of this sort , the mapping is entirely ex post facto . The abstract procedural 
  ‘ trajectory ’ is already known and used as the basis for interpreting various state
 transitions in the open system and hence characterizing it as an implementation . 
 Hence using this ex post facto tactic , even finite sets of counterfactuals can
 be included . And as emphasized above , our actual computational artefacts are
 themselves only capable of handling finite sets of counterfactuals . 
-For a physical device to successfully ‘ perform a computation ’ is distinct from
+For a physical device to successfully ‘ perform a computation ’ is distinct from 
  ‘ fully implementing a computational formalism ’  . Performing a computation is an
 occurrent series of events , an actual sequence of physical state transitions yielding
 an output value in accord with the normative requirements of the mapping . And this
@@ -1569,7 +1569,7 @@ engineered so that it can be interpreted as evolving in accordance with a chosen
 governed formal system .  ‘ Obedience ’ to natural law is an essentially descriptive
 matter and there is no sense in which mistakes or error can be involved – such laws
 cannot be broken , and the time evolution of material systems is wholly determined 
-( in the classical case at least ) by the regularities in question . On the other hand , 
+( in the classical case at least ) by the regularities in question . On the other hand ,  
  ‘ obedience ’ to formal rules is an essentially normative matter , and there is a vital
 sense in which error and malfunction can occur . 
 This normativity has nothing to do with ethical or religious considerations , 
@@ -1630,7 +1630,7 @@ characterize error and malfunction . But this does not successfully address Krip
 philosophical critique , since the purpose and normativity are still entirely in the eye
 of the human beholder . 
 In the case of biological systems , including brains , the mechanistic account shifts
-the burden of the intentional homunculus onto the ‘ purposiveness ’ of biological
+the burden of the intentional homunculus onto the ‘ purposiveness ’ of biological 
  ‘ design ’  . According to this type of neo-Darwinian strategy , something has a
 particular biological function if this function was selected in the course of the
 organism ’ s evolutionary history . In the present discussion there is not sufficient
@@ -1645,7 +1645,7 @@ mutated trait which just happens to constitute an advantage over ones competitor
 will mechanically cause the possessor to propagate more numerously . The actual
 mechanisms are all straightforwardly causal , and there is no real need to invoke
 anthropomorphic heuristics appealing to purpose or design . The operational effect
-of possessing a randomly generated favorable trait will appear as if the trait were
+of possessing a randomly generated favorable trait will appear as if the trait were 
  ‘ selected ’  , but of course there is no ‘ invisible hand ’ at work . It may be an arch
 conservative stand in contemporary intellectual culture , but I would still concur with
 Hume that it ’ s a basic conceptual fallacy to try and derive an ‘ ought ’ from an ‘ is ’  . 
@@ -1837,7 +1837,7 @@ geringen Teil akzeptabel , und umgekehrt .
 Abstract ‘ Information ’ is a fundamental notion in the field of artificial intelligence
 including various sub-disciplines such as cybernetics , artificial life , robotics , etc . 
 Practically the notion is often taken for granted and used naively in an unclarified
-and philosophically unreflected manner , whilst philosophical attempts at clarifying
+and philosophically unreflected manner , whilst philosophical attempts at clarifying 
  ‘ information ’ have not yet found much consensus within the science-philosophical
 community . One particularly notorious example of this lack of consensus is the
 recent Fetzer-Floridi dispute about what is ‘ information ’ —a dispute which has
@@ -1963,7 +1963,7 @@ we live in an information-less world if we would have to concede that absolute
 truth is not for us to be possessed in this world ? Hence : what is the very notion
 of ‘ truth ’ which is tacitly presupposed underneath a philosophem such as the TSSI ? 
 Moreover : would we not fallaciously attempt to ‘ explain ’ one mystery , namely : what
-is ‘ information ’  , by means of an even more mysterious mystery , namely : what is
+is ‘ information ’  , by means of an even more mysterious mystery , namely : what is 
  ‘ truth ’  ? Such is indeed the core of Fetzer ’ s argument against the TSSI . We see in all
 modern philosophy of science that what is regarded as empirically true is historically
 variable—which has in combination with the TSSI the practically odd consequence
@@ -1984,7 +1984,7 @@ at least as paradoxical as any it would resolve ( Fetzer 2004 , p . 226 )  .
 3At this point the reader might remember some classical works by Plato according to whom
 knowledge must necessarily be true or otherwise it would not be ‘ knowledge ’  : false knowledge , for
 Plato , would be a meaningless contradiction in terms . Modern epistemologies , by contrast—such
-as , for example , Popper ’ s—have loosened the hitherto tight connection between the concepts of
+as , for example , Popper ’ s—have loosened the hitherto tight connection between the concepts of 
  ‘ knowledge ’ and ‘ truth ’  . 
 3 The Notion of ‘ Information ’  : Enlightening or Forming ? 53
 In addition to Fetzer , and from our specific perspective as computer scientists , 
@@ -2022,11 +2022,11 @@ declarative objective semantic domain ( DOS )  . In particular : if some stateme
 whether or not anyone knows that it was true . Regardless of any particular agent , 
 DOS information ’ s status as information is independent of epistemic access ( Sequoiah
 2007 , p . 13 )  . 
-The intellectual proximity of such assertions to the philosophical position of
+The intellectual proximity of such assertions to the philosophical position of 
  ‘ Platonism ’  ( with its characteristic notion of time-less ideas ) is evident . Floridi
 himself listed in Floridi ( 2005 , sect . 4 )  , 
 nine bad reasons to think that false information is a type of semantic information
-in order to defend his position that information has to be true to count as
+in order to defend his position that information has to be true to count as 
  ‘ information ’  . Alas the crucial term ‘ semantic information ’ was not given a precise
 lexical definition , such that it remains somewhat difficult to grasp what was actually
 being contested and defended in those disputes . Anyway , as propositional sentences
@@ -2045,7 +2045,7 @@ meaningful and truthful data ( Floridi 2005 , sect . 7 )  ,
 which , by the way , tacitly conflates the notion of ‘ data ’ with the notion of ‘ logical
 proposition ’ by attributing ‘ truth ’ to mere data ( which are typically truth-less entities
 like mathematical numbers )  . Comparing this viewpoint to the way in which five
-kinds of ‘ information ’ were distinguished by Zemanek ( 1970 , sect . 3 )  , namely
+kinds of ‘ information ’ were distinguished by Zemanek ( 1970 , sect . 3 )  , namely 
  ‘ numerical ’  ,  ‘ physical ’  ,  ‘ formatted ’  ,  ‘ natural text ’  , and ‘ formal text ’  , we can see
 that Floridi had limited himself to a declarative form of the latter two . 
 Strictly speaking , Floridi in his role as a TSSI-DOS-philosopher could not
@@ -2067,7 +2067,7 @@ not ‘ inform ’ his pupils when he is teaching Newton ’ s classical law of 
 them ? 
 In continuation of the same discourse , Scarantino and Piccinini ( 2010 ) published
 their paper on the topic of information without truth , in which they critiqued
-Floridi ’ s veridicality thesis ; Scarantino and Piccinini ( 2010 ) distinguished between
+Floridi ’ s veridicality thesis ; Scarantino and Piccinini ( 2010 ) distinguished between 
  ‘ natural information ’ —i . e .  : physical signs which can be regarded as symptoms of
 some event or system state—and ‘ non-natural information ’ —i . e .  : intentional signs
 which are meant to carry purposeful messages usually by virtue of convention—
@@ -2203,12 +2203,12 @@ and it is mostly something which triggers effects when it is somehow ‘ underst
 in its specific situation . 
 At this point we ought to ask ourselves : should we simply ‘ give up ’ and
 accept such incommensurable coexistence of concepts ? Or should we still strive
-to synthesize existing theories of information—a . k . a . information-philosophical
+to synthesize existing theories of information—a . k . a . information-philosophical 
  ‘ reductionism ’  ( Floridi 2016 , p . 2 ) —and still attempt to redefine our most fundamental terms as appropriately as possible , such as to eliminate equivocity as best as
 we can for the sake of scientific unity ? For comparison the reader might remember—
 for example—the semantic history of the fundamental terms ’ force ’ and ‘ energy ’  , on
 which the discipline of physics is based : if our discipline of informatics ( including
-its various sub-disciplines ) ought to be based on a few fundamental concepts like
+its various sub-disciplines ) ought to be based on a few fundamental concepts like 
  ‘ information ’ —such as physics on ‘ force ’ and ‘ energy ’ —then the internal unity
 and theoretical coherence of our scientific discipline will stand or fall with a
 common ( communal ) understanding of the term ‘ information ’ in a similar manner
@@ -2285,7 +2285,7 @@ artificial tongue , as well as haptic feedback from surface sensors are the phen
 by which the artificial brain of our robot will be stimulated—i . e .  :  ‘ informed ’  . 
 Indeed , a subtle echo of the ancient Aristotelian notion of causa formalis can still
 be recognised in this life-oriented notion of ‘ information ’  . In context of the given
-examples we can see clearly that a life- ‘ informing ’ stimulus does not already have
+examples we can see clearly that a life- ‘ informing ’ stimulus does not already have 
  ‘ semantic ’ qualities per-se : such a stimulus can either be present or absent , however
 it can neither be true nor false . What can indeed be true or false are sentences ( logical
 judgments ) about the perceived or imagined phenomena ; however it would be an
@@ -2298,7 +2298,7 @@ becoming at the linguistic meta-level . Consequently it is well possible to beco
 or to be wrongly informed—such as in the sad example of an autopilot crashing
 an aircraft against a cloud-covered mountain because of a defective altitude meter
 amongst the machine ’ s set of instruments . In other words : in the AI-robotic context , 
-by which our chapter was motivated , truth is not constitutive for the essential
+by which our chapter was motivated , truth is not constitutive for the essential 
  ‘ information-ness ’ of information , whereas the possible ‘ falsity ’ of information is
 a secondary matter at yet another higher meta-level of interpretation and linguistic
 representation of information . As Gottlob Frege ’ s classical theory of semiotics had
@@ -2350,7 +2350,7 @@ Informatics . Paper 1 in Proceedings ACIS ’ 2016 : 27th Australasian Conferenc
 Systems , Wollongong , Dec 2016 . 
 Gruner , S .  , and M . Bartelmann . 2015 . The notion of ‘ Aether ’  : Hegel versus contemporary physics . 
 Cosmos and History 11 ( 1 )  : 41–68 . 
-Kline , R . 2006 . Cybernetics , management science , and technology policy : The emergence of
+Kline , R . 2006 . Cybernetics , management science , and technology policy : The emergence of 
  ‘ information technology ’ as a keyword 1948–1985 . Technology and Culture 47 ( 3 )  : 513–535 . 
 Salmon , N . 2003 . Reference and Information Content : Names and Descriptions . In Handbook of
 Philosophical Logic , vol . 10 , ed . D . Gabbay and F . Guenther , 39–85 . Dordrecht : Springer . 
@@ -2504,7 +2504,7 @@ the generalized continuum hypothesis , and thus proves the independence thereof
 relative to the axioms of ZF . 4
 Gödel ( 1946 / 1990 : 1–2 ) proposes that the value of Orey sentences such as the
 GCH might yet be decidable , if one avails of stronger theories to which new
-axioms of infinity – i . e .  , large cardinal axioms – are adjoined . 5 He writes that : 
+axioms of infinity – i . e .  , large cardinal axioms – are adjoined . 5 He writes that :  
  ‘ In set theory , e . g .  , the successive extensions can be represented by stronger and
 stronger axioms of infinity . It is certainly impossible to give a combinatorial and
 decidable characterization of what an axiom of infinity is ; but there might exist , 
@@ -2719,7 +2719,7 @@ and values as tensor products – i . e .  , an application of a multiplicative 
 for variables and their values treated as vectors ( 53–54 , 105–106 )  . In order to
 account for recursively formed , complex representations , which he refers to as
 structured propositions , Marcus argues instead that the syntax and semantics of such
-representations can be modeled via an ordered set of registers , which he refers to as
+representations can be modeled via an ordered set of registers , which he refers to as 
  ‘ treelets ’  ( 108 )  . 
 8See Lando ( 2015 )  , McKinsey ( 1944 ) and Rasiowa ( 1963 )  , for further details . 
 9Note that , in cases of Boolean-valued epistemic topological algebras , models of corresponding
@@ -2865,7 +2865,7 @@ conditions on intendedness must be co-extensive , to which I will return in Sect
 A second reason for which -logic ’ s mathematical entanglement might not
 be pernicious , such that the consequence relation specified in the -logic might
 be genuinely logical , may again be appreciated by its comparison with secondorder logic . Shapiro ( 1998 ) defines the model-theoretic characterization of logical
-consequence as follows : 
+consequence as follows :  
  ‘  ( 10 )  is a logical consequence of [ a model ]  if  holds in all possibilities
 under every interpretation of the nonlogical terminology which holds in  ’  ( 148 )  . 
 A condition on the foregoing is referred to as the ‘ isomorphism property ’  , 
@@ -2874,13 +2874,13 @@ items in a formula  , then M satisfies  if and only if M ’ satisfies  ’  
 Shapiro argues , then , that the consequence relation specified using second-order
 resources is logical , because of its modal and epistemic profiles . The epistemic
 tractability of second-order validity consists in ‘ typical soundness theorems , where
-one shows that a given deductive system is ‘ truth-preserving ’  ( 154 )  . He writes that : 
+one shows that a given deductive system is ‘ truth-preserving ’  ( 154 )  . He writes that :  
  ‘  [ I ] f we know that a model is a good mathematical model of logical consequence 
 ( 10 )  , then we know that we won ’ t go wrong using a sound deductive system . Also , 
 we can know that an argument is a logical consequence .  .  . via a set-theoretic proof
 in the metatheory ’  ( 154–155 )  . 
 The modal profile of second-order validity provides a second means of accounting for the property ’ s epistemic tractability . Shapiro argues , e . g .  , that :  ‘ If the
-isomorphism property holds , then in evaluating sentences and arguments , the only
+isomorphism property holds , then in evaluating sentences and arguments , the only 
  ‘ possibility ’ we need to ‘ vary ’ is the size of the universe . If enough sizes are
 16For any first-order model M , M has a submodel M whose domain is at most denumerably
 infinite , s . t . for all assignments s on , and formulas φ ( x ) in , M 
@@ -2911,7 +2911,7 @@ Putnam ( op . cit .  : 473–474 ) argues that defining models of first-order th
 sufficient for both understanding and specifying an intended interpretation of the
 latter . Wright ( 1985 : 124–125 ) argues , by contrast , that understanding-conditions
 for mathematical concepts cannot be exhausted by the axioms for the theories
-thereof , even on the intended interpretations of the theories . He suggests , e . g .  , that : 
+thereof , even on the intended interpretations of the theories . He suggests , e . g .  , that :  
  ‘  [ I ] f there really were uncountable sets , their existence would surely have to flow
 from the concept of set , as intuitively satisfactorily explained . Here , there is , as it
 seems to me , no assumption that the content of the ZF-axioms cannot exceed what is
@@ -3291,7 +3291,7 @@ we give to the following version of the paradox :
 ( E-AIP ) Assume that B is honest . Then , B ’ s purchase of X is either blind ( being
 ex ante or ex synchro )  , or unnecessary ( being ex post )  . 
 It is worth observing that E-AIP easily generalises . The action of buying the
-information X , indeed , can be seen as one particular case of the general case of
+information X , indeed , can be seen as one particular case of the general case of 
  ‘ performing an action A to get X ’  : is the action A worth its effort ? E-AIP tells us
 that this effort is blind before knowing X , while it is unnecessary after knowing X . 
 5 . 3 AIP and Classical Logic
@@ -5757,7 +5757,7 @@ thing as a naked datum , without the possibility of perceiving it and arranging 
 structure of other data , that makes sense for a meaning creation project . Sometimes
 this organization is explicitly performed and implied in a theoretic frame , which
 is consciously explained by the scientist who is performing the experiment or is
-analyzing its output . Other times , as it often happens in Big Data experiments , the
+analyzing its output . Other times , as it often happens in Big Data experiments , the 
  ‘ theory ’ is buried under a bigger stratum of data , so that it is a bit more difficult to
 extrapolate it , in order to evaluate its plausibility and its heuristic strength . 
 8 Politics and Epistemology of Big Data : A Critical Assessment 153
@@ -11656,7 +11656,7 @@ American adventure , intending to hitchhike from Massachusetts to San Francisco 
 HitchBOT had a bucket list , created with the help of “ friends ” on its website , and
 could be followed in Twitter . 
 On August 1 , 2015 , while waiting for its next ride in Philadelphia ’ s Old City , 
-hitchBOT was destroyed . According to Smith ,  “ As researchers , we wanted to know , 
+hitchBOT was destroyed . According to Smith ,  “ As researchers , we wanted to know ,  
  ‘ can robots trust humans ?  ’ and knew there would always be the possibility that
 hitchBOT would be damaged or stolen ”  ( VanderMaas 2015 )  . HitchBOT fans were
 outraged . According to the press release that followed , they offered condolences to
@@ -13927,7 +13927,7 @@ proxies . LinkedIn profiles stand for individuals , the number of linked pages s
 importance ,  ‘ likes ’ are a proxy for pleasant , TripAdvisor becomes a guide to leisure ”  . 
 21 Safety and Security in the Digital Age . Trust , Algorithms , Standards , and Risks 373
 security into a process of risk-management , along the Hobbesian line of reasoning : 
-there is no place for all of this ( i . e .  ,  ‘ culture ’  ,  ‘ navigation ’  ,  ‘ building ’  ,  ‘ instruments ’  , 
+there is no place for all of this ( i . e .  ,  ‘ culture ’  ,  ‘ navigation ’  ,  ‘ building ’  ,  ‘ instruments ’  ,  
  ‘ knowledge ’ and so forth , which are then fatally put at risk )  , if there were no
 possibility for the political authority to grant security to all . And this is so in
 two essential respects . Security is hence understood as ( 1 ) a fundamental good 
@@ -14104,7 +14104,7 @@ a passport have some qualities by means of a relatively simple control mechanism
 The biometric passport involves the incorporation of an additional standard that
 may end up making , in certain contexts , the ordinary passport obsolete ( as if the
 beholder of an ordinary passport should still justify its failure to comply with a given
-supplementary standard , which characterizes the assessment of the new individual
+supplementary standard , which characterizes the assessment of the new individual 
  ‘ identity ’  [ Bauman and Lyon 2012 , 126 ] 7 )  . In this case , the standard built into the
 device ( e . g . the biometric passport ) has a twofold role ( as it happens for many
 standards , as properly remarked by Lawrence Busch 2011 , 18–20 )  : it explicitly

@@ -16,7 +16,7 @@ easy access of a learning system . Similar issues arise in the personalization o
 systems for information retrieval , electronic mail , netnews , and the like . 
 In this paper , we address two specific aspects of this “ focusing ” task that have received 
 significant attention in the AI literature : the problem of focusing on the most relevant 
-* Corresponding author . Email : avrim @ cs . cmu . cdu . 
+* Corresponding author . Email : avrim @ cs . cmu . cdu .  
  ’ Also affiliated with the Intelligent Systems Laboratory , Dahnler-Benz Research and Technology Center , 
 1510 Page Mill Road , Palo Alto , CA 94304 , USA . Email : laagleyOisle . org . 
 0004-3702 / 97 / %17 . 00 @ 1997 Blsevier Science B . V . All rights reserved 

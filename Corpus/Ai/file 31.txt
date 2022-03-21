@@ -1430,32 +1430,32 @@ In Listing 3-2 we can see that there are a total of 8 , 632 cells in the data se
 by df . size statement . We have a total of 664 rows and 13 columns given by df . shape 
 statement . Listed by df . columns statement , we see various columns starting from 
 Gender , Age , Type of Diabetes , Diabetes Status , A1cTest , etc . Let us now look at the data 
-dictionary , which describes each of the columns and its values . 
- ‘ Patient ID ’  : This is a unique Patient ide which is represented by a decimal value . 
- ‘ Gender ’  : Male or Female . 
+dictionary , which describes each of the columns and its values .  
+ ‘ Patient ID ’  : This is a unique Patient ide which is represented by a decimal value .  
+ ‘ Gender ’  : Male or Female .  
  ‘ Age ’  : In years , this gives the total age of a patient at the time of commencing 
-treatment . 
- ‘ Type of diabetes ’  : Type 1 or Type 2 are the two types of diabetes that we are tracking . 
+treatment .  
+ ‘ Type of diabetes ’  : Type 1 or Type 2 are the two types of diabetes that we are tracking .  
  ‘ Diabetes status ’  : This is the predictor column that declares whether a person has 
-diabetes . 0 means no diabetes and 1 means patient has diabetes . 
+diabetes . 0 means no diabetes and 1 means patient has diabetes .  
  ‘ A1cTEST ’  : Test result is in percentage . NORMAL : normal range for the hemoglobin 
 A1c level is between 4 percent and 5 . 6 percent . PREDIABETIC : Hemoglobin A1c levels 
 between 5 . 7 percent and 6 . 4 percent mean you have a higher change of getting of 
-diabetes . DIABETIC : Levels of 6 . 5 percent or higher mean you have diabetes . 
+diabetes . DIABETIC : Levels of 6 . 5 percent or higher mean you have diabetes .  
  ‘ BPSystolic ’  : Normal blood pressure in adults is below 140 mmHg for systolic and 
-below 90 mmHg for diastolic . 
+below 90 mmHg for diastolic .  
  ‘ BPDiastolic ’  : Normal blood pressure in adults is below 140 mmHg for systolic and 
-below 90 mmHg for diastolic . 
+below 90 mmHg for diastolic .  
  ‘ HeartRateBPM ’  : A normal resting heart rate for adults ranges from 60 to 100 beats 
-per minute . 
+per minute .  
  ‘ BMI ’  : A BMI of less than 18 . 5 kg / m2 indicates you are underweight . You may need 
 to gain weight . If your BMI is 19 to 24 . 9 kg / m2 , you ’ re a healthy weight and should aim 
 to stay that way . A BMI of 25 to 29 kg / m2 is defined as overweight . It ’ s a good idea to lose 
 some weight for your health ’ s sake , or at least aim to prevent further weight gain . A BMI 
 of over 30 kg / m2 is defined as obese and means your health is at risk . Losing weight will 
-improve your health . 
+improve your health .  
  ‘ FrozenShoulder ’  : Yes / No is determined by doctor on physical examination of 
-patient . 
+patient .  
  ‘ CarpalTunnelSynd ’  : Yes / No after physical examination doctor determines the result . 
 Google [ 1 ] dictionary defines Carpal Tunnel Syndrome as : 
 Carpal tunnel syndrome
@@ -1465,7 +1465,7 @@ Chapter 3 How to Implement Machine Learning in Healthcare
 A painful condition of the hand and fingers caused by compression of a 
 major nerve where it passes over the carpal bones through a passage at the 
 front of the wrist . It may be caused by continual repetitive movements or by 
-fluid retention . 
+fluid retention .  
  ‘ DupuytrensCont ’  : Yes / No Doctor determines after physical examination and tests of the 
 result . 
 The affected fingers can ’ t be straightened completely , which can complicate 

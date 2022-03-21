@@ -702,7 +702,7 @@ one so-called ‘ palace revolution ’ in the last ten years , and the present 
 position is looking increasingly shaky . 
 In talking like this , you would be assuming quite a good knowledge of current affairs and
 economic terminology among your audience . Only someone well versed in world affairs
-would understand concepts such as ‘ monocultural economy ’  ,  ‘ Gross National Product ’  , 
+would understand concepts such as ‘ monocultural economy ’  ,  ‘ Gross National Product ’  ,  
  ‘ the informal sector ’ and ‘ palace revolution ’  . 
 If you were unsure of your colleagues ’ level of understanding of such terms , you would
 have to find other ways of explaining these ideas . However , it is unwise to talk down too
@@ -854,7 +854,7 @@ premise to read ‘ Continuity of production depends , amongst other things , on
 guaranteed supply of raw materials .  ’ In the first argument , the second premise (  ‘ The
 supplier is unable to guarantee supplies ’  ) nullifies one of the ‘ things ’ on which
 continuity depends , so the whole continuity is nullified . In the second argument , the
-second premise (  ‘ The new supplier can guarantee supplies ’  ) confirms one of the
+second premise (  ‘ The new supplier can guarantee supplies ’  ) confirms one of the 
  ‘ things ’ but not all of them . Unless the others are also confirmed , the continuity cannot
 be confirmed . 
 ● By induction . This involves reasoning from your experience , or from your own
@@ -1014,7 +1014,7 @@ tends to ‘ lead from the front ’  . She does not suffer fools gladly , but i
 I would expect her to ask a lot of her staff , but no more than she is prepared to do herself . 
 Hassan Ahmed has little experience of managing people , but he has a very sound
 knowledge of administrative practices , and is well informed about the latest
-developments in the field . He shows every sign of being able to develop the requisite
+developments in the field . He shows every sign of being able to develop the requisite 
  ‘ people management ’ skills and would probably become a very committed manager , 
 leading by example and by his knowledge of the subject . 
 Michael Hopwood has had a great deal of experience in managing a large department , and
@@ -1407,7 +1407,7 @@ forward to receiving your cheque within the next few days .
 – I apologise for the inconvenience you have been caused , but I hope the
 arrangements I have made will go some way towards alleviating the problem . 
 The complimentary close
-This is the ‘ signing off ’ part of the letter – the part that usually says ‘ Yours faithfully ’ or
+This is the ‘ signing off ’ part of the letter – the part that usually says ‘ Yours faithfully ’ or 
  ‘ Yours sincerely ’  . In fact these are the only two forms you need to know . However , you
 do need to know which to use under which circumstances . The rule is quite simple . If
 your salutation is ‘ Dear Sir or Madam ’  , then your complimentary close should be ‘ Yours
@@ -2144,7 +2144,7 @@ day . But are we quite sure that the sentences we use are real sentences ?
 A sentence is defined as ‘ a set of words complete in itself , containing a subject and a predicate ’  . There are two terms here that need a bit of explaining . The subject is the person or
 thing the sentence is about ; it must be a noun , a pronoun or a noun clause , but not a relative pronoun .  ( If you do not understand these parts of speech , see Chapter 7 .  ) So you
 cannot say ,  ‘ I have received your letter . Which points out an error in your account .  ’ The
-second part of the passage is not a sentence , because there is no subject . The word
+second part of the passage is not a sentence , because there is no subject . The word 
  ‘ which ’ is a relative pronoun , which introduces a description of the letter . The passage
 should read ,  ‘ I have received your letter , which points out an error in your account .  ’ 
 The predicate tells you something about the subject , and must contain a verb . The predicate can describe the subject or say what it did or was , or what was done to it . Here are
@@ -2154,7 +2154,7 @@ predicate is ‘ apologise for the delay ’  ( that tells us something about th
 am doing . 
 ● The cheque is in the post . Here the subject is ‘ The cheque ’ and the predicate is ‘ is in
 the post ’  ( it describes the cheque )  . 
-● The meeting adjourned . This is an instance where the predicate contains only a verb –
+● The meeting adjourned . This is an instance where the predicate contains only a verb – 
  ‘ adjourned ’ tells us what the meeting ( the subject ) did . 
 54
 A common grammatical mistake in business communication is to write ‘ non-sentences ’ –
@@ -2214,7 +2214,7 @@ Loose and periodic sentences
 There are two types of sentence construction : loose and periodic . 
 ● A loose sentence has the subject first , as in :  ‘ I will circulate a paper before the
 meeting .  ’ 
-● A periodic sentence puts subsidiary phrases or clauses before the subject , as in : 
+● A periodic sentence puts subsidiary phrases or clauses before the subject , as in :  
  ‘ Before the meeting , I will circulate a paper .  ’ 
 As you can see from these examples , loose sentences are more direct , and since one of
 the rules of business communication is to be direct , they are to be preferred . However , 
@@ -2227,7 +2227,7 @@ for something traditional or ultra-modern , you will find it here . We have furn
 every room in the house , from beds to armchairs , dining tables to desks , all from the top
 manufacturers , and all at very attractive prices . Indeed , for value for money , you will find
 our terms hard to beat . 
-Can you see how periodic sentences are used in this way ?  ‘ As you browse through it ’  , 
+Can you see how periodic sentences are used in this way ?  ‘ As you browse through it ’  ,  
  ‘ Whether you are looking for something traditional or ultra-modern ’  ,  ‘ Indeed , for value
 for money ’ are all used to keep people reading , to whet their appetite . 
 Periodic sentences are also useful to make a connection between two sentences , to refer
@@ -2335,7 +2335,7 @@ the verb ) which start adjectival phrases that have become separated from the no
 qualify . The following sentence is an example :  ‘ Our February statement has not yet been
 attended to , showing an outstanding balance of £3 , 560 .  ’ Here ,  ‘ showing an outstanding
 balance of £3 , 560 ’ is an adjectival phrase which is meant to qualify ‘ our February statement ’  . But because the two phrases are separated , it looks awkward – the audience is
-left wondering what ‘ showing an outstanding balance of £3 , 560 ’ refers to . The participle
+left wondering what ‘ showing an outstanding balance of £3 , 560 ’ refers to . The participle 
  ‘ showing ’ is therefore said to be hanging . The sentence should read :  ‘ Our February
 statement , showing an outstanding balance of £3 , 560 , has not yet been attended to .  ’ 
 Keeping your sentences in parallel means ensuring that you do not combine two different parts of speech in the same construction . It is wrong , for example , to say :  ‘ The
@@ -2398,7 +2398,7 @@ Following a study of productivity in the company , we have changed our methods o
 Department , with the result that productivity has been increased by over 50% . We would now like to introduce
 similar improvements in other departments . Of course the actual changes will be different from those introduced in the Production Department , because each department has its own operational practices . But the
 underlying principles should be the same . These principles include streamlining operations , training staff to perform more than one task and empowering employees to find better ways of doing things . As part of this
-process of empowerment , we would like all staff to consider ways in which they think the work of their departments could be made more efficient . We are aware that when many people hear words like ‘ efficiency ’  , 
+process of empowerment , we would like all staff to consider ways in which they think the work of their departments could be made more efficient . We are aware that when many people hear words like ‘ efficiency ’  ,  
  ‘ productivity ’ and ‘ streamlining ’ they immediately think of redundancy . We therefore want to reassure all staff
 from the outset that this exercise is not intended to lead to downsizing and redundancy , voluntary or compulsory . It is simply that if we can increase our productivity we can increase the amount of business we generate
 from the same number of employees , which has to be good for everyone , not least the employees themselves . 
@@ -2816,7 +2816,7 @@ help you . I ’ ll be waiting for your call .  ’ This writer goes too far in 
 tone is too gushing , too good to be true . First , if you are being sincere , the last thing you
 should do is say so . If you have to tell people that you are being sincere , then you have
 failed to get your sincerity across . Second , do you really believe that someone is sitting
-in their office , just waiting for your call ? And is there anything special about having your
+in their office , just waiting for your call ? And is there anything special about having your 
  ‘ very own copy ’ of a catalogue rather than just a ‘ copy ’  ? 
 72
 Now see how you can say the same thing simply , straightforwardly , and yet with sincerity :  ‘ Thank you for your letter . I am pleased to enclose our latest catalogue , for you to
@@ -2837,7 +2837,7 @@ should say what made the meeting good : was it productive , did it clarify the i
 lead to an agreement , or did you just get on well with the other people there ? 
 Euphemisms are a form of vagueness : at best they use more words than a direct statement and at worst , because of their lack of directness , they can be misunderstood . They
 also give the impression that you are trying to hide something . So do not say ,  ‘ Profits
-showed a negative trend ’ when you mean ‘ We made a loss ’  , or even when you mean
+showed a negative trend ’ when you mean ‘ We made a loss ’  , or even when you mean 
  ‘ Profits were down on last year .  ’ Not only does it sound as though you are trying to hide
 your poor performance behind the euphemism , but as we have seen , it could mean
 either of two things . 
@@ -2878,7 +2878,7 @@ your order .  ’ This could be said quite simply in half the words :  ‘ I hav
 reasons why we were unable to supply your order .  ’ The first version does not sound
 important , nor does it add weight to what the person is saying . It simply sounds
 pompous and long-winded . 
-Vague qualifiers are adjectives and adverbs that do not mean anything . These include
+Vague qualifiers are adjectives and adverbs that do not mean anything . These include 
  ‘ really ’  ,  ‘ good ’  ,  ‘ nice ’ and similar words which are usually used because the writer or
 speaker cannot be bothered to think of anything more precise or simply because they
 are handy fillers . Using such words as fillers in conjunction with more precise terms in
@@ -2886,7 +2886,7 @@ speech will usually be acceptable , because spoken English tends to be more info
 and they can give you time to gather your thoughts . However , even in speech they
 should not be used instead of precise terms . And they should not be used , even as
 fillers , in written documents . 
-An example of using these words as fillers is in the description of a meeting as being
+An example of using these words as fillers is in the description of a meeting as being 
  ‘ really productive ’  . Is this any different from a ‘ productive ’ meeting ? Is it as productive as
 a ‘ very productive ’ meeting ? It has no meaning , so it should not be used in a written document – although it might be acceptable when speaking , as ‘ productive ’ is precise
 A Guide to Good Business Communication
@@ -3086,11 +3086,11 @@ Good business style
 79
 A Guide to Good Business Communication
 80
-The second error is putting ‘ as ’ before certain words , as in ‘ as from ’  ,  ‘ as and when ’  , and
- ‘ as yet ’  . These expressions mean exactly the same without the ‘ as ’  .  ‘ As from ’ means
+The second error is putting ‘ as ’ before certain words , as in ‘ as from ’  ,  ‘ as and when ’  , and 
+ ‘ as yet ’  . These expressions mean exactly the same without the ‘ as ’  .  ‘ As from ’ means 
  ‘ from ’  ,  ‘ as and when ’ means ‘ when ’  , and ‘ as yet ’ means ‘ yet ’  .  ‘ As yet ’ does sometimes
 serve a purpose . It can be used at the beginning of a sentence to make the meaning
-clear . For example , in the sentence ‘ Yet you have failed to supply our order ’  ,  ‘ yet ’ means
+clear . For example , in the sentence ‘ Yet you have failed to supply our order ’  ,  ‘ yet ’ means 
  ‘ despite everything ’  . If you want to say ‘ until now ’  , then you must use ‘ as yet ’  :  ‘ As yet
 you have failed to supply our order .  ’ But this is the only time that ‘ as yet ’ should be used . 
 Unnecessary abstract nouns
@@ -3892,7 +3892,7 @@ writer apologises for ‘ the inconvenience you have been caused ’  , not ‘ 
 complainant has been caused any inconvenience . The very fact that he or she has had to
 write or telephone is in itself an inconvenience . 
 So if you have to apologise , do so unreservedly . Too often people in business try to hide
-behind bland , formal expressions when apologising , as if trying to avoid responsibility . 
+behind bland , formal expressions when apologising , as if trying to avoid responsibility .  
  ‘ We regret any inconvenience caused ’ is just such an expression . It seems to imply : 
 ● that the writer does not believe that you have really been inconvenienced
 ● that even if you have , it is not really anyone ’ s fault , and is a cause for regret rather than
@@ -4360,7 +4360,7 @@ sentence may be understandable in one context , but in another the same poor con
 ● We have a model with a 1 . 5 litre engine which has aluminium wheels . 
 ● We have a model with a 1 . 5 litre engine which is guaranteed against corrosion . 
 Both sentences are incorrect , because the qualifying clauses ‘ which has aluminium
-wheels ’ and ‘ which is guaranteed .  .  .  ’ are not close enough to the noun they qualify , 
+wheels ’ and ‘ which is guaranteed .  .  .  ’ are not close enough to the noun they qualify ,  
  ‘ model ’  . However , with the first one , the reader at least knows what is meant , simply
 because an engine does not have wheels . The second one , which contains the same
 error , could be read in two ways – either the model is guaranteed against corrosion or
@@ -4387,7 +4387,7 @@ meeting ’ is the object .
 Nouns
 Nouns are the words that actually name objects , places , people , ideas , etc . They are generally fairly easy to get right , but there are three main problems that can arise . 
 ● Inappropriate use of capital letters . Only proper nouns ( those that name specific
-people or places ) should begin with a capital letter . So you would say ‘ James Hunter ’  , 
+people or places ) should begin with a capital letter . So you would say ‘ James Hunter ’  ,  
  ‘ Birmingham ’  ,  ‘ Thailand ’  ,  ‘ Dorset County Council ’  ,  ‘ the Sales Director ’  , but you should
 not say ‘ the Balance Sheet ’  ,  ‘ the Product ’  ,  ‘ the Sales Figures ’  . Some people use capital
 letters for emphasis , but that is wrong – there are other ways of emphasising particular
@@ -4417,7 +4417,7 @@ Director
 Peters & Jones
 A Guide to Good Business Communication
 116
-such as ‘ board ’ or ‘ committee ’  , it is now acceptable to do so with company names like
+such as ‘ board ’ or ‘ committee ’  , it is now acceptable to do so with company names like 
  ‘ Jones & Peterson ’  . So you could use either of the sentences shown on page 115 . And
 just to confuse the issue , when you are talking about a board or a committee as
 individual people , you should use a plural verb . So you should say ,  ‘ The Committee
@@ -4447,10 +4447,10 @@ Pronouns
 There are seven kinds of pronoun : 
 ● personal pronouns , which relate to particular people or things , like ‘ I ’  ,  ‘ her ’  ,  ‘ it ’ 
 ● possessive pronouns , which indicate possession , like ‘ his ’  ,  ‘ her ’  ,  ‘ my ’  ,  ‘ our ’  ,  ‘ your ’ 
-● reflexive pronouns , which are used when the object of the verb is the same as the subject : 
+● reflexive pronouns , which are used when the object of the verb is the same as the subject :  
  ‘ himself ’  ,  ‘ myself ’  ,  ‘ themselves ’  , as in ‘ Peter gave himself a substantial pay rise .  ’ 
 ● demonstrative pronouns , which point something out , like ‘ this ’  ,  ‘ that ’  ,  ‘ those ’ 
-● relative pronouns , which introduce clauses that qualify a preceding noun or pronoun , like
+● relative pronouns , which introduce clauses that qualify a preceding noun or pronoun , like 
  ‘ which ’ and ‘ that ’ in the above passage
 ● interrogative pronouns , which ask questions , like ‘ who ?  ’  ,  ‘ what ?  ’  ,  ‘ which ?  ’ 
 ● indefinite pronouns , like ‘ anybody ’  ,  ‘ somebody ’ 
@@ -4462,14 +4462,14 @@ about his letter .  ’ Whose letter is it – John Smith ’ s or James Jones �
 ● Incorrect use of the relative pronoun . Because it takes the place of a noun , a pronoun
 can usually be the subject of a sentence . The only exception is the relative pronoun . 
 Because relative pronouns introduce clauses not sentences ( see under ‘ Phrases and
-Clauses ’ below )  , you cannot start a sentence with one . It is therefore wrong to say , 
+Clauses ’ below )  , you cannot start a sentence with one . It is therefore wrong to say ,  
  ‘ Thank you for your order . Which is being processed today .  ’  ‘ Which ’ should introduce
 a clause , which is part of a sentence , not the sentence itself . So the passage should
 read ,  ‘ Thank you for your order , which is being processed today .  ’ 
 ● Confusion over the use of subjective and objective pronouns . Some people have a
 problem with the different forms of the personal pronoun . There are two forms : 
 subjective and objective .  ‘ I ’  ,  ‘ he ’  ,  ‘ she ’  ,  ‘ they ’ are subjective forms . As their name
-suggests , they are used when they are the subject of a sentence .  ‘ Me ’  ,  ‘ him ’  ,  ‘ her ’  , 
+suggests , they are used when they are the subject of a sentence .  ‘ Me ’  ,  ‘ him ’  ,  ‘ her ’  ,  
  ‘ them ’ are objective forms , and are used when they are the object of a sentence . Most
 people can differentiate between them when using them on their own , but many get
 into difficulties when they use them in combination . For example , can you see what is
@@ -4479,7 +4479,7 @@ wrong with these sentences ?
 They both use the wrong form of the pronoun . In the first , the pronoun is part of the
 subject , so it should be in the subjective form . And in the second , the pronoun is part of
 the object , so it should be in the objective . The best way to ensure that you use the
-correct form is to use the pronoun on its own . So in the first sentence you would drop
+correct form is to use the pronoun on its own . So in the first sentence you would drop 
  ‘ Our Sales Manager ’  . What would you say if you were calling on the client on your
 own ? You would say ,  ‘ I will call .  .  .  ’ Similarly in the second sentence , if it were just you
 the Managing Director wanted to see , you would say ,  ‘ The Managing Director would
@@ -4522,7 +4522,7 @@ the three options , the sentence actually reads better as it is .
 and its subject must agree in number , so a singular subject must take a singular verb , 
 and a plural subject a plural verb . This may seem obvious , and few people would
 make the mistake of saying something like ‘ I were in a meeting ’ or ‘ Peter and Janet
-was asked to make a presentation .  ’ However , there are pitfalls . First , the adjectives
+was asked to make a presentation .  ’ However , there are pitfalls . First , the adjectives 
  ‘ each ’ and ‘ every ’ have the effect of making nouns singular . So although you would
 say ,  ‘ All directors are entitled to a share option ’ you would say ,  ‘ Every director is
 entitled to a share option .  ’ The same applies when the subject is two nouns :  ‘ All
@@ -4557,7 +4557,7 @@ badly , they will just make it harder to understand .
 Adjectives
 Adjectives qualify ( describe ) nouns :  ‘ a substantial profit ’  ,  ‘ the correct spelling ’  ,  ‘ an easy
 decision ’  . Some forms of verbs can also be used as adjectives , as in ‘ a written contract ’  , 
-or ‘ the driving force ’  . Adjectives can also compare things , as in ‘ the best way forward ’ or
+or ‘ the driving force ’  . Adjectives can also compare things , as in ‘ the best way forward ’ or 
  ‘ This company offers a better service than that one .  ’ The ‘ -er ’ form is called the comparative and the ‘ -est ’ form the superlative . 
 There are four problems to beware of when using adjectives . 
 ● Incorrect use of the superlative . The comparative form of an adjective is used to
@@ -4588,7 +4588,7 @@ writer must include the second article for clarity . This is an example of how a
 construction that is understandable in one context can be confusing in another . 
 ● Incorrect use of ‘ either ’  .  ‘ Either ’ as an adjective refers to one of only two things . You
 can therefore write :  ‘ This carpet comes in beige or green . Either colour would suit the
-decor you have in mind .  ’ But if there are more than two colours you should not use
+decor you have in mind .  ’ But if there are more than two colours you should not use 
  ‘ either ’  . Instead you should say :  ‘ This carpet comes in beige , green or gold . Any one of
 these colours would suit the decor you have in mind .  ’ 
 A Guide to Good Business Communication
@@ -4600,14 +4600,14 @@ then you must use ‘ fewer ’ because you are talking about the numbers involv
 would say ‘ fewer employees ’  ,  ‘ fewer problems ’  ,  ‘ fewer chances of success ’  . 
 Adverbs
 As their name implies , adverbs qualify verbs – they tell you how , when and where the
-action of the sentence took place . So in the sentence ‘ I went there yesterday ’  ,  ‘ there ’ and
+action of the sentence took place . So in the sentence ‘ I went there yesterday ’  ,  ‘ there ’ and 
  ‘ yesterday ’ are adverbs , telling the audience where and when you went . But they do not
 only qualify verbs . They can qualify other parts of speech as well : in ‘ very difficult ’  ,  ‘ very ’ 
-qualifies an adjective ; in ‘ just after ’  ‘ just ’ qualifies a preposition ; in ‘ superbly well ’  , 
+qualifies an adjective ; in ‘ just after ’  ‘ just ’ qualifies a preposition ; in ‘ superbly well ’  ,  
  ‘ superbly ’ qualifies another adverb . 
 Like adjectives , some adverbs can have comparative and superlative forms . When the
 adverb consists of one syllable , like ‘ soon ’  , it forms the comparative and superlative like
-an adjective :  ‘ sooner ’  ,  ‘ soonest ’  . When it is a long word , and particularly when it ends in
+an adjective :  ‘ sooner ’  ,  ‘ soonest ’  . When it is a long word , and particularly when it ends in 
  ‘ -ly ’  , the comparative and superlative are formed by using ‘ more ’ and ‘ most ’ before the
 adverb . So the comparative of ‘ clearly ’ is ‘ more clearly ’ and the superlative is ‘ most
 clearly ’  . Of course , not all adverbs have comparative and superlative forms ; you cannot , 
@@ -4624,7 +4624,7 @@ sentence does not sound clumsy .
 ● Using double adverbs . When you are using a double adverb , as in ‘ not only .  .  . but
 also ’  , you must keep the parts of the sentence which follow them ‘ in parallel ’  . This
 means that they must both have the same construction . So you should not say :  ‘ You
-have not only failed to supply our order , but also to give a reason for non-delivery ’  . 
+have not only failed to supply our order , but also to give a reason for non-delivery ’  .  
  ‘ Not only ’ is followed by the past participle ‘ failed ’  , while ‘ but also ’ is followed by the
 infinitive ‘ to give ’  . For the sentence to be in parallel , they should either both be
 followed by the past participle or both by the infinitive .  ( You do not have to worry too
@@ -4642,7 +4642,7 @@ parcel arrived .  ’ This is a fairly common construction , but it is wrong .  
 adverb expressing time , and ‘ than ’ is a conjunction expressing comparison . So the two
 do not go together . If you are using an adverb expressing time in this construction , then
 the conjunction should also express time :  ‘ I had hardly put the phone down when your
-parcel arrived .  ’ Although it is quite common to see ‘ hardly ’ and ‘ scarcely ’ used with
+parcel arrived .  ’ Although it is quite common to see ‘ hardly ’ and ‘ scarcely ’ used with 
  ‘ than ’  , it is incorrect and sounds clumsy , so you should always use ‘ when ’ with them . 
 Prepositions
 A preposition is a word that shows the relationship of one thing or person to another . So
@@ -4693,7 +4693,7 @@ impatient of ( authority , criticism , etc .  )
 interfere with ( a person ) 
 ● Incorrect use of ‘ among ’  .  ‘ Among ’ applies only when you are writing about three or
 more people or things . If there are only two , then you must use ‘ between ’  . So you
-might say ‘ You can divide the territory among the four of you ’  , but you should say
+might say ‘ You can divide the territory among the four of you ’  , but you should say 
  ‘ You can divide the territory between the two of you .  ’ 
 Conjunctions
 Conjunctions are ‘ connecting ’ words . They are used to join two or more words , phrases
@@ -4725,7 +4725,7 @@ cannot find your order ’  ,  ‘ I am afraid that I cannot find your order ’
 clause – it could form a sentence on its own and still make sense . That is why it is introduced by
 the co-ordinating conjunction ‘ but ’  . 
 Another problem some people have with these double conjunctions is that they use a
-plural verb with them , even when the nouns are singular . For example , they might say
+plural verb with them , even when the nouns are singular . For example , they might say 
  ‘ Neither invoice 23765 nor invoice 24534 have been paid .  ’ What this means is that
 invoice 23765 has not been paid , nor has invoice 24534 been paid . You are simply
 replacing two verbs with one , so it should remain a singular verb :  ‘ Neither invoice
@@ -4754,8 +4754,8 @@ like :  ‘ We had to make two people redundant this month and sales were up by 
 cent .  ’ It sounds as though the two events were connected . As we saw in Chapter 4 , 
 each sentence should contain a single idea or two related ideas . If the ideas are not
 related , they should be in separate sentences . 
-● Confusing ‘ as ’ and ‘ like ’  . When expressing a similarity , you can use the conjunction
- ‘ as ’ or the preposition ‘ like ’  , as in ‘ We should be dealing with complaints as they do ’ or
+● Confusing ‘ as ’ and ‘ like ’  . When expressing a similarity , you can use the conjunction 
+ ‘ as ’ or the preposition ‘ like ’  , as in ‘ We should be dealing with complaints as they do ’ or 
  ‘ We need a computer system like theirs .  ’ But the two words are not interchangeable . 
 Like all prepositions ,  ‘ like ’ can only be used with a noun or a pronoun . If the word is to
 introduce a clause , you should use the conjunction ‘ as ’  . So it is wrong to say :  ‘ Why
@@ -4778,7 +4778,7 @@ A Guide to Good Business Communication
 124
 However , if the passage really is a complete sentence , just with the subordinate clause
 before rather than after the main one , then there is no reason why you cannot start it
-with the subordinating conjunction . The above sentence could , therefore , be written : 
+with the subordinating conjunction . The above sentence could , therefore , be written :  
  ‘ Because , despite several warnings , you have not provided the level of service we
 require , I am afraid we will not be renewing our contract with you .  ’ This changes the
 emphasis slightly , from the fact that you will not be renewing the contract to the fact
@@ -4814,9 +4814,9 @@ cupboard .
 – We have had to ask you four times to deliver the new machine . 
 Now the adjectival and adverbial phrases are close to the words they qualify , and your
 meaning is clear . 
-● Leaving hanging participles . The following sentence contains an example of this error : 
- ‘ Arriving at the conference centre , the Manager had left .  ’ The adjectival phrase
- ‘ arriving at the conference centre ’ has nothing to qualify , and the present participle
+● Leaving hanging participles . The following sentence contains an example of this error :  
+ ‘ Arriving at the conference centre , the Manager had left .  ’ The adjectival phrase 
+ ‘ arriving at the conference centre ’ has nothing to qualify , and the present participle 
  ‘ arriving ’ which introduces it is therefore left hanging – hence the term ‘ hanging
 participle ’  . It looks as though it qualifies ‘ the Manager ’  , but that makes the sentence
 nonsensical . It needs to be rewritten so that the phrase has something to qualify . So
@@ -4827,7 +4827,7 @@ common to leave out the subject of the second clause if it is the same as the su
 the first . So you can say :  ‘ I hope this clarifies the situation and look forward to hearing
 from you ’ instead of ‘  .  .  . and I look forward .  .  .  ’ But some people make the mistake of
 leaving out the second subject when it is different from the first . They might say :  ‘ Your
-queries are being investigated and will be in touch shortly .  ’ This sounds as though
+queries are being investigated and will be in touch shortly .  ’ This sounds as though 
  ‘ your queries ’ will be in touch shortly , which is , of course , absurd . The reason for the
 confusion is that the subject of the second clause is not the same as the subject of the
 first . The person who will be in touch is the writer , so it should be :  ‘ Your queries are
@@ -5114,7 +5114,7 @@ saying . The part of the sentence after the dash – or between the dashes in th
 ● As we have seen , two dashes can be used to put something in parenthesis , when you
 want more emphasis and greater separation of the passage from the rest of the
 sentence than brackets provide . 
-● Two dashes can also be used to pull together or summarise several items , as in : 
+● Two dashes can also be used to pull together or summarise several items , as in :  
  ‘ Computers , filing cabinets , printers , bookshelves – in fact all office equipment –
 should be listed .  ’ 
 A Guide to Good Business Communication
@@ -5133,7 +5133,7 @@ The dash in the second version makes the second part of the sentence stand out
 more , and therefore makes it starker . 
 Apostrophes
 The apostrophe has three uses . 
-● It is used to show that a letter or letters have been left out of a word , as in ‘ don ’ t ’ for
+● It is used to show that a letter or letters have been left out of a word , as in ‘ don ’ t ’ for 
  ‘ do not ’ or ‘ let ’ s ’ for ‘ let us ’  . In most business correspondence you should not be using
 such contractions , however , so this use should not concern you . 
 ● It is often used when writing the plural of a letter , as in ‘ We must ensure that all the i ’ s
@@ -5145,14 +5145,14 @@ singular noun or a plural noun that does not end in ‘ s ’  , it comes before
 should write ‘ the customer ’ s account ’ but ‘ the customers ’ accounts ’  ,  ‘ ladies ’ clothing ’  , 
 but ‘ women ’ s clothing ’  . 
 There is a tendency sometimes to leave the apostrophe out when writing the
-possessive , particularly in posters or signs . So you will often see ‘ Ladies Wear ’ or
+possessive , particularly in posters or signs . So you will often see ‘ Ladies Wear ’ or 
  ‘ Mens Hairdresser ’  . Do not be tempted to follow suit . It looks careless or ignorant , and
 it can affect the clarity of your document . 
 Some people have trouble with possessives of names that end in ‘ s ’  . Should they , for
 example , write ‘ Mr Jones ’ s order ’ or ‘ Mr Jones ’ order ’  ? There is no hard and fast rule , 
 and either is acceptable . 
 Two words that constantly cause problems are ‘ its ’ and ‘ it ’ s ’ – when should you use the
-apostrophe and when not ? The answer is that it ’ s is short for ‘ it is ’  , and ‘ its ’ means
+apostrophe and when not ? The answer is that it ’ s is short for ‘ it is ’  , and ‘ its ’ means 
  ‘ belonging to it ’  . 
 Quotation Marks
 Often called inverted commas , as their name implies these marks indicate quotations . 
@@ -5213,7 +5213,7 @@ However , if the first word is an adverb ending in ‘ -ly ’  , then you shoul
 it . So you would write ‘ a well-designed product ’  , but ‘ a beautifully designed product ’  . 
 ● It also connects a letter to a noun to form a compound , as in ‘ T-junction ’ or ‘ U-turn ’  . 
 ● It is used to differentiate between words beginning with ‘ re- ’ that are spelt the same
-but have different meanings . So ‘ reform ’ means ‘ improve ’  , whereas ‘ re-form ’ means
+but have different meanings . So ‘ reform ’ means ‘ improve ’  , whereas ‘ re-form ’ means 
  ‘ form again ’  ,  ‘ recount ’ means ‘ tell ’  , but ‘ re-count ’ means ‘ count again ’  . 
 ● In a similar way , it can be used to differentiate between two possible meanings of the
 same passage . So you could have a ‘ grey flecked carpet ’  ( a ‘ grey carpet that is flecked ’ 
@@ -5278,16 +5278,16 @@ way , even in British English
 The final ‘ l ’ 
 As you can see from the above , British English forms the past tense of ‘ travel ’ by doubling the ‘ l ’  , whereas American English does not . The rule for forming both the ‘ -ed ’ and
 the ‘ -ing ’ forms of verbs ending in ‘ l ’  ( and nouns derived from them ) is that you double
-the ‘ l ’ if there is only one vowel before it , and not if there are two . So you would write
+the ‘ l ’ if there is only one vowel before it , and not if there are two . So you would write 
  ‘ traveller ’  ,  ‘ appalling ’  ,  ‘ controlled ’  , but ‘ dealer ’  ,  ‘ appealing ’  ,  ‘ pooled ’  . 
 Adverbs
-Adverbs formed from adjectives usually just add ‘ -ly ’ to the adjective , as in ‘ quickly ’  , 
+Adverbs formed from adjectives usually just add ‘ -ly ’ to the adjective , as in ‘ quickly ’  ,  
  ‘ recently ’ and ‘ slowly ’  . If the adjective ends in ‘ -ic ’  , however , the adverb is formed by
 adding ‘ -ally ’  . So you would write : 
 ● basically , not basicly
 ● telephonically , not telephonicly
 ● idiomatically , not idiomaticly
-There is just one exception to this rule :  ‘ public ’ becomes ‘ publicly ’  , not ‘ publically ’  . 
+There is just one exception to this rule :  ‘ public ’ becomes ‘ publicly ’  , not ‘ publically ’  .  
  ‘ C ’ and ‘ s ’ 
 There are some words that are spelt slightly differently , depending on whether they are
 used as verbs or nouns . Be sure that you know the difference . They are : 
@@ -5314,7 +5314,7 @@ practise ( verb )
 advise ( verb ) 
 If you have difficulty remembering which spelling to use for each form , think of ‘ advise ’  . 
 Here the pronunciation changes as well , so you can hear as soon as you use the two
-forms which is which . 
+forms which is which .  
  ‘ Dependant ’ and ‘ dependent ’ 
 Do not confuse these two .  ‘ Dependant ’ is a noun , and ‘ dependent ’ an adjective . So a
 dependant is someone who is dependent on someone else . 
@@ -5347,14 +5347,14 @@ Commonly Confused Words
 Confusion often arises between words that sound similar but are spelt slightly differently , 
 and between words that have slightly different shades of meaning . This section is not
 intended to provide a comprehensive list of these words , only to point out those that
-cause the most confusion . 
+cause the most confusion .  
  ‘ Anti- ’ and ‘ ante- ’ 
 There is often confusion between these prefixes .  ‘ Anti- ’ means ‘ against ’  , while ‘ ante- ‘ 
 means ‘ before ’  . So : 
 ● ‘ antisocial ’ means ‘ against society ’ 
 ● ‘ anticlimax ’ means ‘ against a climax ’  ( i . e . the opposite of a climax ) 
 ● ‘ antedate ’ means ‘ date before ’ something
-● ‘ antecedent ’ means ‘ going before ’ 
+● ‘ antecedent ’ means ‘ going before ’  
  ‘ For- ‘ and ‘ fore- ‘ 
 Similar confusion arises with these prefixes .  ‘ For- ’ means ‘ not ’ or ‘ against ’  , while ‘ fore- ‘ 
 means ‘ before ’  . So : 
@@ -5381,15 +5381,15 @@ Spelling and vocabulary
 A Guide to Good Business Communication
 140
 ● ‘ foretell ’ means ‘ tell before ’  ( i . e . tell before it happens ) 
-● ‘ foregoing ’ means ‘ going before ’ 
+● ‘ foregoing ’ means ‘ going before ’  
  ‘ Infer ’ and ‘ imply ’ 
 A common mistake is to use ‘ infer ’ when you mean ‘ imply ’  .  ‘ Imply ’ means to hint at
 something , as in :  ‘ He implied that his company would be receptive to an approach from
 us .  ’  ‘ Infer ’ means to gain an impression or draw a conclusion , as in :  ‘ I inferred from what
 he said that his company would be receptive to an approach from us .  ’ So you could say
-that you infer what someone else has implied . 
+that you infer what someone else has implied .  
  ‘ Affect ’ and ‘ effect ’ 
-These two words can be particularly confusing .  ‘ Affect ’ is a verb , as in ‘ The fall in productivity will affect on our profitability .  ’  ‘ Effect ’ is the noun derived from ‘ affect ’  , as in : 
+These two words can be particularly confusing .  ‘ Affect ’ is a verb , as in ‘ The fall in productivity will affect on our profitability .  ’  ‘ Effect ’ is the noun derived from ‘ affect ’  , as in :  
  ‘ The fall in productivity will have an effect on our productivity .  ’ 
 However , confusion arises because ‘ effect ’ can also be a verb , meaning ‘ bring about ’  . So
 if you were to say ,  ‘ The fall in productivity will effect our profitability ’ you would be
@@ -5728,7 +5728,7 @@ simpler .
 the policies on offer ’ is tautology . Conducting a thorough investigation involves
 looking at all the policies ( and leaving no stone unturned – see below )  . 
 ● ‘ Leaving no stone unturned ’ is a cliché . 
-● ‘ Downside ’ is jargon .  ‘ Disadvantage ’ is more direct ( and more correct , since
+● ‘ Downside ’ is jargon .  ‘ Disadvantage ’ is more direct ( and more correct , since 
  ‘ downside ’ has not yet found its way into most standard dictionaries )  . 
 ● ‘ In the event that ’ is ‘ commercialese ’  . It means simply ‘ if ’  . 
 ● ‘ Utilise ’ is another example of jargon used to make the letter sound impressive . What
@@ -6063,16 +6063,16 @@ Verb . A word that describes what is done by or what happens to the subject of a
 action endings , 34
 adjectives , 119–20
 adverbs , 119 , 120–1 , 137
-adverbs , double , 120
+adverbs , double , 120 
  ‘ affect ’ and ‘ effect ’  , use of , 140
 agendas , 94–5
-AIDA , 92
+AIDA , 92 
  ‘ alternative ’  , use of , 116
-ambiguity , 73–4
- ‘ among ’  , use of , 122
+ambiguity , 73–4 
+ ‘ among ’  , use of , 122 
  ‘ anti- ‘ and ‘ ante- ‘  , use of , 139
 apostrophes , 133
-articles , 119
+articles , 119 
  ‘ as ’ and ‘ like ’  , use of , 123
 audience , 13–15
 bar charts , 50–1
@@ -6111,20 +6111,20 @@ conjunctions , co-ordinating , 122 , 123
 conjunctions , subordinating , 122 , 123
 courtesy sentence , 35
 dashes , 132–3
-deduction , 20–1
+deduction , 20–1 
  ‘ dependent ’ and ‘ dependant ’  , use of , 138
 drafting , 25–7
-DVDs , in presentations , 110
+DVDs , in presentations , 110 
  ‘ each ’  , use of , 118
-editing , 27–8
+editing , 27–8 
  ‘ either ’  , use of , 119
 e-mails , 37
 emotion , 18 , 77 , 98
 emotional buying triggers , 92
 emphasis , 60 , 130 , 131–2
-euphemisms , 6 , 73 , 81
+euphemisms , 6 , 73 , 81 
  ‘ every ’  , use of , 118
-exclamation marks , 134
+exclamation marks , 134 
  ‘ fewer ’ and ‘ less ’  , use of , 120
 flipcharts , in presentations , 111
 flow charts , 52–3
@@ -6134,11 +6134,11 @@ freewriting , 22–3
 full stops , 127
 grammar , importance of , 114
 graphs , 47–50
-hanging participles , 58 , 59 , 125
+hanging participles , 58 , 59 , 125 
  ‘ hardly ’ and ‘ scarcely ’  , use of , 121
 headings , 33 , 40 , 65
 hyphens , 135
-induction , 21–2
+induction , 21–2 
  ‘ infer ’ and ‘ imply ’  , use of , 140
 infinitive , 117–18
 information , assembling , 19–22 , 108
@@ -6162,7 +6162,7 @@ meetings , chairing , 95–6
 meetings , efficient , 93
 meetings , speaking at , 96
 memos , 36–7
-minutes , 96–7
+minutes , 96–7 
  ‘ none ’  , use of , 117
 nouns , 54 , 115–16
 nouns , abstract , 80–2 , 115
@@ -6170,7 +6170,7 @@ nouns , collective , 115–16
 nouns , common , 115
 nouns , compound , 115–16
 nouns , proper , 115
-object , 115
+object , 115 
  ‘ only ’  , use of , 120
 outcome , 11–13
 outlines , 22–3
@@ -6274,50 +6274,50 @@ Index
 163
 Quick Solutions to Common Errors in English
 An A-Z guide to spelling , punctuation and grammar
-Angela Burt
- ‘ You will never doubt your written English again .  ’ – Evening Standard
+Angela Burt 
+ ‘ You will never doubt your written English again .  ’ – Evening Standard 
  ‘ A straightforward and accessible handbook for anyone who ever has
-a query about correct English – and that ’ s all of us .  ’ – Freelance News
+a query about correct English – and that ’ s all of us .  ’ – Freelance News 
  ‘ This is an excellent book ; good value and useful… buy it !  ’ – V . Tilbury , 
 Cranfield University
 ISBN 978-1-84528-361-2
 Writing a Report
 How to prepare , write and present effective reports
-John Bowden
+John Bowden 
  ‘ What is special about the text is that it is more than just how to ‘ write
 reports ’  ; it gives that extra really powerful information that can , and
 often does , make a difference . It is by far the most informative text
 covering report writing that I have seen… This book would be a
-valuable resource to any practising manager .  ‘ – Training Journal
+valuable resource to any practising manager .  ‘ – Training Journal 
  ‘ With the help of this sensible step-by-step guide , anybody can
 develop first-rate report writing skills .  ’ – Building Engineer
 ISBN 978-1-84528-293-6
 Model Everyday Letters
 How to write and set out formal letters and documents
-ANGELA BURT
+ANGELA BURT 
  ‘ …from writing a formal acceptance of a wedding invitation , putting
 together a job application letter and saying the right thing in an
 absence note for a child who has been away from school… There are
 correct and incorrect ways of this kind of everyday writing , and Angela
-Burt shows just how it should be done .  ’ – Writers ’ News
+Burt shows just how it should be done .  ’ – Writers ’ News 
  ‘ …so helpful in guiding you through the formalities and principles .  ’ –
 Writing Magazine
 ISBN 978-1-84528-316-2
 Improve Your Punctuation and Grammar
-MARION FIELD
+MARION FIELD 
  ‘ Invaluable guide…after reading this book , you will never again find
-yourself using a comma instead of a semi-colon .  ’ – Evening Standard
+yourself using a comma instead of a semi-colon .  ’ – Evening Standard 
  ‘ I can ’ t recommend this book highly enough . Every writer should have a
 copy .  ’ – Writers ’ Bulletin
 ISBN 978-1-84528-329-2
 Presenting With Power
-SHAY McCONNON
+SHAY McCONNON 
  ‘ His engaging style of presentation .  .  . captivates his audience whatever
 their background or current state of motivation .  ’ Director , Walkers
 Snack Foods
 ISBN 978-1-84528-160-1
 Getting Your Point Across
-PHILLIP KHAN-PANNI
+PHILLIP KHAN-PANNI 
  ‘ I ’ ve heard Phillip speak on this subject many times and every time I
 learn something new . Now this book gives me all those good ideas in a
 format that I can dip into over and over again .  ’ Paul Bridle – Executive

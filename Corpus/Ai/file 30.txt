@@ -4645,23 +4645,23 @@ components of an HTML page :
 • Element : Logical constructs that form the basic building blocks of an HTML page
 • Tags : A markup construct defined by angled braces (  < and >  )  . Some of the important 
 tags are : 
-• < html > <  / html >  : This pair of tags contains the whole of HTML document . 
+• < html >  <  / html >  : This pair of tags contains the whole of HTML document . 
 It marks the start and end of the HTML page . 
-• < body > <  / body >  : This pair of tags contains the main content of the HTML page 
+• < body >  <  / body >  : This pair of tags contains the main content of the HTML page 
 rendered by the browser . 
 There are many more standard set of tags defined in the HTML standard ; further information is 
 available at . 
 The following is a snippet to generate an HTML page that ’ s rendered by a web browser , as shown in the 
 screenshot in Figure 3-7 .  
-<  ! DOCTYPE html > 
-< html > 
-< head > 
-< title > Sample HTML Page <  / title > 
-<  / head > 
-< body > 
-< h1 > Sample WebPage <  / h1 > 
-< p > HTML has been rendered <  / p > 
-<  / body > 
+<  ! DOCTYPE html >  
+< html >  
+< head >  
+< title > Sample HTML Page <  / title >  
+<  / head >  
+< body >  
+< h1 > Sample WebPage <  / h1 >  
+< p > HTML has been rendered <  / p >  
+<  / body >  
 <  / html > 
 CHAPTER 3 ■ PROCESSING , WRANGLING , AND VISUALIZING DATA
 132
@@ -4725,12 +4725,12 @@ result = re . findall ( content_pattern , content )
 The output of the find operation is the required text from the blog post . Of course , it still contains 
 HTML tags interlaced between the actual text . We can perform further clean up to reach the required levels , 
 yet this is a good start . The following is snapshot of information extracted using regular expressions . 
-Out [ 59 ]  :  '  < p class =  " intro--paragraph "  > < em > By Mike Halsey <  / em > <  / p > < p > < br /  > <  / p > < p > It was a 
+Out [ 59 ]  :  '  < p class =  " intro--paragraph "  >  < em > By Mike Halsey <  / em >  <  / p >  < p >  < br /  >  <  / p >  < p > It was a 
 perfectly ordinary Friday when the Wannacry ransomware struck in May 2017 . The malware 
 spread around the world to more than 150 countries in just a matter of a few hours , 
 affecting the National Health Service in the UK , telecoms provider Telefonica in Spain , 
 and many other organisations and businesses in the USA , Canada , China , Japan , Russia , and 
-right across Europe , the Middle-East , and Asia .  <  / p > < p > The malware was reported to have been 
+right across Europe , the Middle-East , and Asia .  <  / p >  < p > The malware was reported to have been 
 stolen in an attack on the US National Security Agency ( NSA )  , though the NSA denied this , 
 and exploited vulnerabilities in the Microsoft Windows operating system . Microsoft had been 
 aware of the vulnerabilities since early in the year , and had patched them back in March . 
@@ -12198,7 +12198,7 @@ In [ 2 ]  : dataset = pd . read_csv ( r ' movie_reviews . csv '  )
  .  .  .  : norm_test_reviews = tn . normalize_corpus ( test_reviews ) 
 review sentiment
 0 One of the other reviewers has mentioned that .  .  . positive
-1 A wonderful little production .  < br /  > < br /  > The .  .  . positive
+1 A wonderful little production .  < br /  >  < br /  > The .  .  . positive
 2 I thought this was a wonderful way to spend ti .  .  . positive
 3 Basically there ' s a family where a little boy .  .  . negative
 4 Petter Mattei ' s " Love in the Time of Money " is .  .  . positive
@@ -12940,11 +12940,11 @@ Test document index : 2000
 Actual sentiment : positive
 Predicted sentiment :  [  ' positive '  ] 
 Review : I really liked the Movie " JOE .  " It has really become a cult classic among 
-certain age groups .  < br /  > < br /  > The Producer of this movie is a personal friend of mine . 
+certain age groups .  < br /  >  < br /  > The Producer of this movie is a personal friend of mine . 
 He is my Stepsons Father-In-Law . He lives in Manhattan ' s West side , and has a Bungalow . 
-in Southampton , Long Island . His son-in-law live next door to his Bungalow .  < br /  > < br 
+in Southampton , Long Island . His son-in-law live next door to his Bungalow .  < br /  >  < br 
 /  > Presently , he does not do any Producing , But dabbles in a business with HBO movies .  < br 
-/  > < br /  > As a person , Mr . Gil is a real gentleman and I wish he would have continued in the 
+/  >  < br /  > As a person , Mr . Gil is a real gentleman and I wish he would have continued in the 
 production business of move making . 
 Model Prediction Probabilities :  
 (  ' negative '  , 0 . 020629181561415355 )  
@@ -12970,10 +12970,10 @@ directing and cinematography are excellent , as is the music . But it ' s really
 has over the time started to bother me more and more . I find Emma Thompson ' s writing selfabsorbed and unfaithful to the original book ; she has reduced Marianne to a side-character , 
 a second fiddle to her much too old , much too severe Elinor - she in the movie is given 
 many sort of ' focus moments '  , and often they appear to be there just to show off Thompson 
-herself .  < br /  > < br /  > I do understand her cutting off several characters from the book , but 
+herself .  < br /  >  < br /  > I do understand her cutting off several characters from the book , but 
 leaving out the one scene where Willoughby in the book is redeemed ? For someone who red 
 and cherished the book long before the movie , those are the things always difficult to 
-digest .  < br /  > < br /  > As for the actors , I love Kate Winslet as Marianne . She is not given the 
+digest .  < br /  >  < br /  > As for the actors , I love Kate Winslet as Marianne . She is not given the 
 best script in the world to work with but she still pulls it up gracefully , without too much 
 sentimentality . Alan Rickman is great , a bit old perhaps , but he plays the role beautifully . 
 And Elizabeth Spriggs , she is absolutely fantastic as always . 

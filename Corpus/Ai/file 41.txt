@@ -1002,7 +1002,7 @@ compression method and reconstructs an approximation of the original image that
 could be accepted . 
 	
 x
-y
+y 
  
  
 = 
@@ -1014,7 +1014,7 @@ sin θ β · cos θ
 ·
 	
 x
-y
+y 
  
  
 + 
@@ -1740,7 +1740,7 @@ interface of the Gmail
 system
 54 3 Surveillance Data Secure Transmissions
 Fig . 3 . 3 An example of dynamic password based authentication
-Fig . 3 . 4 A graphical pattern
+Fig . 3 . 4 A graphical pattern 
  ‘ P ’ is used as the password
 of a smart phone
 • Dynamic Password . Namely one pad password , it is usually updated timely , synchronization between a token and servers are required . It provides another layer
@@ -2528,7 +2528,7 @@ i = 1
 ( Hq
 i · Hd
 i )  ( 4 . 8 ) 
-cos ( α )  =  < Q , D > 
+cos ( α )  =  < Q , D >  
 | Q | · | D |  = Q · D 
 | Q | · | D |  
 = 
@@ -5815,7 +5815,7 @@ Terms t f ( doc1 ) t f ( doc2 ) t f ( doc3 ) ······ d f idf
  “ Book ” 7 , 600 4 , 000 2 , 000 ······ 400 0 . 40 
  “ Surveillance ” 600 0 25 ······ 25 1 . 6
 Table 7 . 2 An example of t f − idf with the scores and ranks of terms
-Terms t f _idf ( doc1 ) t f _idf ( doc2 ) t f _idf ( doc3 ) ·········
+Terms t f _idf ( doc1 ) t f _idf ( doc2 ) t f _idf ( doc3 ) ········· 
  ‘ Algorithm ’ 299 . 97 239 . 98 359 . 96 ······ 
  “ The ” 0 . 00 0 . 00 0 . 00 ······ 
  “ Book ” 3 , 024 . 34 1 , 591 . 76 795 . 88 ······ 

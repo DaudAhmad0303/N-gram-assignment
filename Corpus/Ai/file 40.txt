@@ -121,7 +121,7 @@ investigation . None of this research should be pre-empted a priori by what our 
 says in a thought experiment and what that supposedly implies about the possibility of
 conscious machines . 
 Even Block would agree on this methodological point . He notes that , intuitively , 
-the human brain also does not seem to be the right kind of system to have what he calls
+the human brain also does not seem to be the right kind of system to have what he calls 
  ‘ qualia ’  , the subjective aspect of experience . So our intuition , on its own , cannot be
 relied on to judge which system does or does not have qualia . According to Block , we
 can overrule intuition if we have independent reason to believe that a system has qualia , 
@@ -223,7 +223,7 @@ change makes a difference to conscious behaviour in humans , then some propertie
 this tested level are constitutive of consciousness . Suppose that it is technically possible
 to substitute silicon chips for neurons in the human brain . And suppose that it is
 nomologically possible to do so while keeping constant the relevant processes at the
-psychological and computational levels . 2 This surgically altered person will become a
+psychological and computational levels . 2 This surgically altered person will become a 
  ‘ functional duplicate of a normal person with a normal brain ’  ( 123 )  . By design , the
 functional duplicate will behave exactly as conscious humans do – reporting pain , 
 showing signs of anger , apparently ‘ seeing sunsets and smelling roses ’  . Yet our current
@@ -489,7 +489,7 @@ This strategy presents us with three related challenges , on the explanatory , s
 establish that these kinds of states play significant explanatory roles in research on
 artificial consciousness . This is primarily an empirical challenge , depending on theorists of artificial consciousness to explore different explanatory structures that interest
 us . Second , we need to examine the subjective significance of these kinds of states . 
-Thus far , we have construed a conscious state ’ s phenomenal properties as capturing
+Thus far , we have construed a conscious state ’ s phenomenal properties as capturing 
  ‘ what it is like to be ’ in that state . But this construal does not help to discriminate what
 the multiple kinds mean in subjective terms . We may do so by investigating the
 Artificial Consciousness : From Impossibility to Multiplicity 15
@@ -1759,7 +1759,7 @@ response to an increasing regulation error serve to co-opt the behavioral system
 It is then up to the latter to select and execute the appropriate behaviors drawing on cognitive
 systems in the process . 
 In addition to physiological conditions , thoughts can also result in motivating feel‐
-ings , as Hume ( 1739 ) describes : 
+ings , as Hume ( 1739 ) describes :  
  ’ Tis obvious , that when we have the prospect of pain or pleasure from any object , we feel a
 consequent emotion of aversion or propensity , and are carry ’ d to avoid or embrace what will
 give us this uneasiness or satisfaction .  ’ Tis also obvious , that this emotion rests not here , but
@@ -1910,7 +1910,7 @@ physical states at some instant . The first has executed the computational algor
 is thought to be necessary for realizing some feeling , while the second has simply been
 placed in the same , resulting state . If the first computer has a phenomenal experience
 while the second does not , that difference could only be due to some non-physical
-influence because , by stipulation , the two computers are physically identical . Any
+influence because , by stipulation , the two computers are physically identical . Any 
  ‘ memories ’ of the computational sequence that exist in the first computer would also be
 duplicated in the second - unless those ‘ memories ’ were non-physical . 
 Therefore , a feeling depends only on that which exists at its space-time location , 
@@ -2345,7 +2345,7 @@ I propose to align these four steps with components of the formal model so
 that I represent Experiential Learning as generative recursion , shown in Fig . 10 . 
 66 R . Mogensen
 In this interpretation , the Kolb / Dewey Impulse is represented by intrinsic motivation M1 ; Observation is represented by extrinsic motivation M2 ; Knowledge
-is the dynamic concept space C ; and Judgement is the Creative Output . Dewey ’ s
+is the dynamic concept space C ; and Judgement is the Creative Output . Dewey ’ s 
  ‘ Purpose ’  , as a goal of the learning process , may be an artefact output that is considered ‘ complete ’ in some aesthetic or poietic10 sense . In the case of improvised
 music , the ‘ purpose ’ may be the completion of a performance ; the Judgements 
 ( or Creative Outputs ) of the generative recursion correspond to the playing of
@@ -2404,10 +2404,10 @@ transformed experience ? In a creative system for improvising music there is no
 imperative to find an ‘ optimal ’ solution , since the morphology of the search itself
 can constitute a musical ‘ solution ’  , a trace of a learning process , which counts as
 a valuable contribution to an aesthetic event . In this specification the generative
-search in the possibility space is a ‘ solution ’ to the improvisational performance
+search in the possibility space is a ‘ solution ’ to the improvisational performance 
  ‘ problem ’  . 
 13 One might question whether knowledge is ‘ created ’ and this becomes a questioning
-of the constructivist stance . Perhaps it is more accurate to say that knowledge is
+of the constructivist stance . Perhaps it is more accurate to say that knowledge is 
  ‘ attained ’ or ‘ arrived at ’ since knowledge potentially exists regardless of our access
 to it ? Resolving this question is beyond the present scope . 
 68 R . Mogensen
@@ -2957,7 +2957,7 @@ Intelligence .
 1 Introduction
 In this paper I would like to explore some intriguing conceptual terrain concerning
 implications for future forms of mentality that might arise through advances in AI theory
-and technology . The discussion will proceed by examining two related variations on an
+and technology . The discussion will proceed by examining two related variations on an 
  ‘ animat ’ theme . Animat devices are defined as robotic machines with both active biolog‐
 ical and artificial components ( Franklin 1995 )  . At first pass ,  ‘ components ’ are most
 graphically construed in concrete terms , as brute material parts or constituent physical
@@ -3067,7 +3067,7 @@ of the robot is to exhibit behavior that would count as appropriately intelligen
 general human case . 
 The robot is entirely artificial in terms of its physical organization and composition , 
 but it is nonetheless a genuine case of biomechanical hybridization , since its cognitive
-architecture is an instance of the human LOT37 *  . Thus its mechanical body and synthetic
+architecture is an instance of the human LOT37 *  . Thus its mechanical body and synthetic 
  ‘ central nervous system ’ are advanced technological artifacts , while the abstract cogni‐
 tive processing essential to its identity as a thinking agent is an organically engendered
 cognitive template . An artificial brain is running the software of the human mind , and
@@ -3098,7 +3098,7 @@ supervenience base for the corresponding phenomenal state or property . In the c
 human consciousness , salient aspects of the biological brain are thus hypothesized as
 responsible for various features of subjective experience , and this guides the empirical
 search for ‘ neural correlates ’ of consciousness and attendant psycho-physical mappings . 
-In comparison , a distinguishing feature of FCTM + is that it advocates a form of
+In comparison , a distinguishing feature of FCTM + is that it advocates a form of 
  ‘ non-reductionist ’ token-token physicalism motivated by the principle of Multiple Real‐
 izability . As noted above , abstract computational procedures can be implemented via
 any number of quite distinct types of physical configuration . For example , classical
@@ -3199,7 +3199,7 @@ integrated with more ancient perceptual and navigational architecture , will pen
 into the qualitatively manifested differences in the robot ’ s physical substrate . Thus if
 employ some version of Dennett ’ s ( 1992 , 2003 )  ‘ heterophenomenology ’  , it ’ s conceiv‐
 able that the robot could report on qualitative aspects of its conscious states that diverge
-from ours , and hence would cause it to fail a Total Turing Test designed as a strict
+from ours , and hence would cause it to fail a Total Turing Test designed as a strict 
  ‘ imitation game ’  . But in the context of the present thought experiment we will assume
 that the robot is indeed functionally isomorphic , and hence its verbal outputs reveal no
 qualitative differences , as in the case of qualitative variations between con-specifics not
@@ -3289,7 +3289,7 @@ states . Accordingly , the robot ’ s salient sonic emissions are interpreted a
 various propositions and expressing assorted cognitive contents . For example , suppose
 Robbie the Robot , our hypothetical Total Turing Test artifact , is ambling down a path
 and there ’ s a fallen log in the way . Robbie lifts his artificial leg unusually high and steps
-over the log . When asked ‘ Why did you lift your leg so high ?  ’ Robbie emits the rejoinder
+over the log . When asked ‘ Why did you lift your leg so high ?  ’ Robbie emits the rejoinder 
  ‘ I saw the fallen log and did not want to trip on it .  ’ Robbie is reporting the content of
 his relevant propositional attitude states in English , and if we are to interpret him as such
 then they depend in an essential manner on the public , externally determined semantics
@@ -4118,7 +4118,7 @@ actions with the actions of their human counterparts , they meet an important co
 for minimal joint actions . 
 Mindreading . In many situations agents are able to anticipate what another agent will
 do next . This is especially useful if they intend to act jointly with this agent . In humanities
-and natural sciences , one aspect of this social competence is discussed under the label
+and natural sciences , one aspect of this social competence is discussed under the label 
  ‘ mindreading ’ or ‘ Theory of Mind ’  ( Fodor 1992 )  . Again , many conceptions of this
 socio-cognitive ability are tailored to humans only . But Butterfill and Apperly ( 2013 ) 
 introduced the notion of minimal mindreading , which can account for a broader range
@@ -4927,7 +4927,7 @@ aThis is the ‘ can ’ of computability theory , which assumes unlimited time 
 and energy for computation . See e . g .  ( Boolos et al . 2003 ) for explanation . 
 As we shall see in a moment when considering a grade-school example , real
 learning so defined (  = RL ) 4 is intuitive , has been solidly in place for at least 2 . 5
-millennia , and undergirds everyday education every day . Of course , we must concede immediately that the first condition ,  ( c1 )  , employs a notorious word : viz .  , 
+millennia , and undergirds everyday education every day . Of course , we must concede immediately that the first condition ,  ( c1 )  , employs a notorious word : viz .  ,  
  ‘ understands .  ’ What is understanding ? Not an easy question , that ; this we must
 also concede . Instead of laboring to give an answer , which would inevitably call
 up the need for a sustained defense of the view that the concept of understanding , as applied to both humans and machines that are supposedly in possession of
@@ -4985,7 +4985,7 @@ enormous amount of additional space . And besides , as we now explain , calling 
 this argumentation is unnecessary . 6 Since at bottom , as noted ( see note 2 )  , the target of learning should be taken for generality and rigor to be a number-theoretic function , it ’ s natural to consider learning
 in the realm of the formal sciences . 7 Just as ( computer ) programs can be correct or incorrect , so too proofs can be correct
 or incorrect . For more on this , see e . g .  ( Arkoudas and Bringsjord 2007 )  . 8 If we regard Turing to have been speaking of modern AI in his famous ( Turing 1950 )  , 
-note then too that his orientation is test-based : he gave here of course the famous
+note then too that his orientation is test-based : he gave here of course the famous 
  ‘ Turing Test .  ’  . 9 In fact , this is why real learning for humans in mathematics is challenging ; see e . g .  
 ( Moore 1994 )  . 
 Do Machine-Learning Machines Learn ? 139
@@ -6591,7 +6591,7 @@ is needed here .
 Overall , there are many approaches in machine learning with the goal of
 understanding how a model behaves . However , only some of them create another
 model or an abstraction of the original model ( i . e .  , create an ‘ explanans ’  )  , 
-and only some of them take into account the user ’ s context ( i . e .  , consider the
+and only some of them take into account the user ’ s context ( i . e .  , consider the 
  ‘ explananti ’  )  . However , none of them does both things at the same time . This is
 what we explore in Sect . 3 , in a general way , and in Sect . 4 , with a series of more
 specific cases . 
@@ -9106,11 +9106,11 @@ can not ; but , the very nature of institutional facts allows us to have quite a
 about these facts without having access to the documents . 
 3 How to Teach Institutional Facts to AMAs ? 
 Interactively . The very dynamic and social nature of these facts requires AMAs to learn
-them via social interaction . But , with whom should they interact , before they become
+them via social interaction . But , with whom should they interact , before they become 
  ‘ mature ’ about the nature of the social facts ? In 2016 , Microsoft released a chatbot , 
 named Tay , for Twitter users which was programmed to begin with a set of conversa‐
 tional priors and then to learn from interacting with users . However , they had to shut
-the service down just after 16 hours as Tay had started producing very controversial and
+the service down just after 16 hours as Tay had started producing very controversial and 
  ‘ inappropriate ’ conversations upon what she has learnt . Crucially , she approved and
 adopted positions of racism , sexism , and Nazism . 
 Institutional Facts and AMAs in Society 249
@@ -9665,7 +9665,7 @@ deciding between the principles of justice , and in doing so favour his two prin
 utilitarianism ( Ibid .  : 175–183 )  . Importantly , the parties in Rawls ’ original position are
 not choosing between alternative distributions of primary goods using the maximin
 principle . I believe that Leben has misread Rawls here . He writes :  
-[ … ] the original position is a method limited to determining the distribution of what Rawls calls
+[ … ] the original position is a method limited to determining the distribution of what Rawls calls 
  ‘ primary goods ’  ( Leben 2017 : 109 )  . 
 In Leben ’ s original position , the parties must decide between alternatives in a partic‐
 ular AV collision using information about the distribution of survival probabilities asso‐
@@ -9762,8 +9762,8 @@ not know whether the citizens they represent are in a minority or a majority .  
 maximin concerns the worst-off citizens under different principles of justice , it must be
 necessary for the parties to be significantly more interested in the primary goods which
 can be guaranteed , as opposed to those which can be gained . Rawls argues that this
-condition is satisfied to some degree when the guaranteeable level for each citizen is
- ‘ quite satisfactory ’  ; and that it is fully satisfied only if the guaranteeable level is
+condition is satisfied to some degree when the guaranteeable level for each citizen is 
+ ‘ quite satisfactory ’  ; and that it is fully satisfied only if the guaranteeable level is 
  ‘ completely satisfactory ’  .  ( 3 ) As maximin examines only the worst-case scenario on
 each alternative , it must be the case that the worst outcomes on all other alternatives fall
 substantially below the guaranteeable level . 

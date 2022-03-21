@@ -42,7 +42,7 @@ be the basis of whole new products , industries and forms of ‘ life ’  ( Jon
 It is , he says , in the 1990s that the social sciences ‘ go complex ’ which he dates
 from the 1996 Gulbenkian Commission on the Restructuring of the Social Sciences , 
 chaired by Wallerstein and including non-linear scientist Prigogine , who together
-wanted to break down some of the divisions between the social and natural sciences . Complexity thought he dates from the 1990s and also the global spread of
+wanted to break down some of the divisions between the social and natural sciences . Complexity thought he dates from the 1990s and also the global spread of 
  ‘ complexity practices ’ and its popularizations , including applications to the social
 and cultural sciences . 
 The historiography of these successive turns does not attract Urry ’ s attention
@@ -66,7 +66,7 @@ vectorization in the social and cultural sciences , as much a series of flows an
 influences from the arts , indicated that epistemologically speaking scientific communities exhibited an increasing complexity in their influence and formation , and
 in the development of formalist methodologies and techniques adopted from developments in mathematics . 
 What is interesting to me here and is part of the kernel of investigating knowledge systems is that complexity as non-lineal , emergent , self-organizing and
-dynamic systems , with the advent of computers , with Claude Shannon ’ s 1948
+dynamic systems , with the advent of computers , with Claude Shannon ’ s 1948 
  ‘ Mathematical Theory of Communication ’  , with the development of cybernetics
 and the Macy group ( von Neumann , Shannon , Bateson , Mead etc .  ) after the war , 
 and with the development of the Internet as the preferred academic mode of
@@ -400,7 +400,7 @@ The translation or extrapolation of these findings into research theory and prac
 is then a possibility , particularly if optimal and adjustable parameters can be established
 in self-organising learning communities where longitudinal , observational , and
 experimental methods can be applied . Here Horn cites Ralph Stacey ’ s setting down
-of the three all-important control parameters that drive complex adaptive systems : 
+of the three all-important control parameters that drive complex adaptive systems :  
  ‘ the rate of information flow through the system , the richness of connectivity
 between agents in the system , and the level of diversity within and between the
 schemas of the agents ’  ( 1996 , p . 99 )  . Although a daunting prospect , there is a
@@ -493,7 +493,7 @@ least partly determined by chance encounters and changes in environments . Emerg
 however , though unpredictable , is , she reminds us , nonetheless also constrained : 
 by features which are both internal ( in terms of initial conditions and interaction
 histories ) and external ( in the sense that the system is partly made up of the
-interactions of larger systems , and also in the more conventional sense of physical , 
+interactions of larger systems , and also in the more conventional sense of physical ,  
  ‘ environmental ’ factors ) to the system under study . She concludes with the
 reminder that complexity theory does not provide , in her analysis , a way of talking
 about random or intuitive phenomena . While the causalities involved in the interactions
@@ -553,7 +553,7 @@ Principles of curriculum design—those starting with set goals and concluding w
 measured assessment . 
 Turning to the chapter ’ s second focus , Doll then provides a useful sketch of some
 of the main ideas and authors in chaos and complexity , with a view to disrupting
-Tyler ’ s rationale by developing a different sense of curriculum and teaching—
+Tyler ’ s rationale by developing a different sense of curriculum and teaching— 
  ‘ open , dynamic , relational , creative , and systems oriented ’  . For Doll , this implies
 at university level ‘ a caution in using too rigid a syllabus—instead using one which
 is rich in problematics .  .  .  . Students—individually or in groups— [ might , for example ,  ] 
@@ -601,7 +601,7 @@ questions about what to present in the curriculum and whether these
 things should be directly presented or should be represented .  .  . are no
 longer relevant as curricular questions . While content is important , the
 curriculum is less concerned with what content is presented and how , and
-more with the idea that content is engaged with and responded to . 
+more with the idea that content is engaged with and responded to .  
  ‘ With this conception of knowledge and the world ’  , they conclude ,  ‘ the curriculum
 becomes a tool for the emergence of new worlds , rather than a tool for stabilization
 and replication ’  . 
@@ -860,7 +860,7 @@ moves towards the edge of chaos , the more creative , open-ended , imaginative ,
 Educational Philosophy and the Challenge of Complexity Theory 19
 diverse , and rich are the behaviours , ideas and practices of individuals and systems , 
 and the greater is the connectivity , networking and information sharing ( content
-and rate of flow ) between participants ( Stacey et al .  , 2000 , p . 146 )  . 
+and rate of flow ) between participants ( Stacey et al .  , 2000 , p . 146 )  .  
  ‘ Complex adaptive systems ’  ( Waldrop , 1992 , pp . 294–9 ) scan and sense the
 external environment and then make internal adjustments and developments in
 order to meet the demands of the changing external environment . This is the ‘ law
@@ -895,7 +895,7 @@ and unpredictability ? Whose aims and values should prevail in a networked and
 connected school ? How can the school decide how to decide its aims and values ? 
 What and whose identity should the school pursue ? What does school positioning
 actually mean ? How can perpetual instability be sustained ? How can theoretical
-and value pluralism be addressed in schools and education ? What constitutes
+and value pluralism be addressed in schools and education ? What constitutes 
  ‘ progress ’ in complex educational systems and practices ? How do we identify and
 value order rather than control ? 
 With regard to curricula , questions arise such as : What does it mean to ‘ know ’ in
@@ -912,7 +912,7 @@ than a programmed sequence of learning ? How can and should assessment , which
 is overwhelmingly of an individual ’ s performance , catch interactivity , connectedness
 and collective knowledge ? What kind of feedback promotes emergence , selforganization and connectedness in education ? What should we do as a result of
 feedback ? What constitutes openness in education ? What are the necessary and
-sufficient conditions for the state of being complex , for emergence and selforganization ? What are the differences among ideas , ideology and theory in deciding
+sufficient conditions for the state of being complex , for emergence and selforganization ? What are the differences among ideas , ideology and theory in deciding 
  ‘ what works ’ in education if unpredictability , change and diversity reign ? On what
 criteria are some methods , curricula , pedagogies , assessments to be judged preferable
 to others if their outcomes are , in principle , uncertain ? Why try to measure
@@ -981,7 +981,7 @@ mind is regarded as a complex adaptive system . This argues against the ‘ empt
 vessel ’ theory of learning ; rather , knowledge is emergent and the mind is emergent
 and developing . Our minds are not static ; each new event is met and learned by a
 new mind—it is not the same mind as it was moments before . 
-The mind is also a shared , collective and distributed property . Kelly ’ s ( 1994 ) 
+The mind is also a shared , collective and distributed property . Kelly ’ s ( 1994 )  
  ‘ hive mind ’ is a collective consciousness wherein the whole transcends the sum of
 the parts and in which there is no single locus of control ; the swarm of bees is
 more than the activity of the single bee multiplied thousands of times . Knowledge
@@ -1224,7 +1224,7 @@ degrees . It is no accident , perhaps , that complexity theory should have come 
 fore at this moment in history , and in the west ; it would be difficult to imagine it
 coming earlier or elsewhere . As Mackenzie ( 2003 , p . 1 ) writes :  
 .  .  . the movement of complexity attests to a structure of feeling rooted in
-a long-standing European-American time-sense .  .  . which could be called
+a long-standing European-American time-sense .  .  . which could be called 
  ‘ possibilization ’  .  .  .  . Complexity metaphors are particularly temporally
 significant because they attest to a sense , a ‘ structure of feeling ’  , of
 openness and possibility concerning the future . What we are tracking is
@@ -1401,7 +1401,7 @@ to systems thinking ?  ( London , Routledge )  .
 Stengers , I .  ( 2004 ) The Challenge of Complexity : Unfolding the ethics of science . In memoriam
 Ilya Prigogine , Emergence : Complexity and Organization , 6 : 1–2 , pp . 92–99 . 
 Stewart , M .  ( 2001 ) The Co-Evolving Organization ( Rutland , UK , Decomplexity Associates Ltd .  )  .  
-< > Retrieved 27
+<  > Retrieved 27
 August , 2001 . 
 Waldrop , M . M .  ( 1992 ) Complexity : The emerging science at the edge of order and chaos ( Harmondsworth , 
 Penguin )  . 
@@ -1600,7 +1600,7 @@ taking account of an individual ’ s conscious intentionality as it is constrai
 enabled by the environment , which in turn is constituted inter alia by other conscious
 individuals , who thus are said to co-evolve . The focus thus shifts from a concern
 with decontextualised and universalised essence to a concern with contextualised
-and contingent complex wholes . Complexity theory echoes Foucault ’ s emphasis on
+and contingent complex wholes . Complexity theory echoes Foucault ’ s emphasis on 
  ‘ polymorphous correlations in place of simple or complex causality ’  ( cited in Harvey , 
 1990 , p . 9 )  . Admittedly , complexity theory does suggest that new properties and
 behaviours will emerge out of these ‘ polymorphous correlations ’  , but the point is
@@ -1918,7 +1918,7 @@ change under the impact of massive and sustained investment of resources . Some
 writers have pointed to the efficacy of crises in this regard : it is when a school , or
 an education system , or a society , faces a crisis that it is probably more amenable
 to change . A good example here is the case of the USA ’ s response to the Soviet
-Union ’ s launch of Sputnik : the former country perceived this as a crisis in the so-called
+Union ’ s launch of Sputnik : the former country perceived this as a crisis in the so-called 
  ‘ space race ’  , and resolved that a key strategy to gain the initiative in the race was
 massive investment in mathematics and science education . 
 Conclusion : The ‘ Conditions of Emergence ’ 
@@ -1937,7 +1937,7 @@ since ‘ internal diversity defines the range and contours of possible response
 one cannot specify in advance what sorts of variation will be necessary for appropriately intelligent action—hence the need to ensure and maintain diversity in the
 current system ’  ( ibid .  , p . 138 )  . 
 2 ) The extent of internal redundancy among the elements or agents that constitute the
-system , understood not in terms of their being unnecessary or contributing to
+system , understood not in terms of their being unnecessary or contributing to 
  ‘ inefficiency ’  , but as a complement to internal diversity and in terms of what is
 common among at least some of those constituents . By virtue of these shared
 characteristics , redundancy ‘ enables interactions among agents .  .  .  [ and ] makes it
@@ -1945,7 +1945,7 @@ possible for agents to compensate for others ’ failings ’  ( ibid .  , p . 1
 3 ) The extent of neighbour interactions among constituents : in education ,  ‘ the neighbours that must interact with one another are ideas , hunches , queries .  .  .  [ and ] 
 teachers must [ accordingly ] make provision for the representation and interaction
 of ideas ’  ( ibid .  , pp . 142 , 143 )  . 
-4 ) The extent to which control is distributed : the decentralisation of control refers to
+4 ) The extent to which control is distributed : the decentralisation of control refers to 
  ‘ emergent conceptual possibilities ,  .  .  .  [ to ] interpretive possibilities ’  ( ibid .  , p . 144 )  , 
 and not at all to a laissez faire classroom environment . Greater degrees of decentralised
 control are associated with enhanced neighbour interactions . 
@@ -1954,7 +1954,7 @@ control are associated with enhanced neighbour interactions .
 the system )  , which ‘ compel the collective to constantly adjust and adapt ’  ( ibid .  , 
 p . 147 )  . 
 6 ) The extent of coherence in the system , which allows ‘ a collective to maintain a focus
-of purpose / identity ( ibid .  , p . 147 )  . Davis and Sumara introduce the notion of
+of purpose / identity ( ibid .  , p . 147 )  . Davis and Sumara introduce the notion of 
  ‘ enabling constraints ’  ( ibid .  ) to refer to the structural conditions that help to create
 a balance between coherence and randomness . 
 7 )  ‘ Negative feedback loops (  .  .  . to keep systems in check )  ’  ( ibid .  , p . 151 )  . 
@@ -2708,7 +2708,7 @@ encompassing , encircling , embracing , comprehending , comprising . Originally
 denoting ‘ embracing or comprehending several elements ’  , its use in English tended
 to be akin to the sense of ‘ plaited together , interwoven ’  ( Simpson et al .  , 1989 / 
 2005 )  . Referring to things or ideas ‘ consisting of or comprehending various parts
-united or connected together ’ or ‘ formed by combination of different elements ’  , 
+united or connected together ’ or ‘ formed by combination of different elements ’  ,  
  ‘ complex ’ is often understood as a synonym either for composite and compound , 
 or complicated , involved and intricate ( ibid .  , para . 1 )  . More specifically , it often
 characterises personality , society , feelings or thoughts that the mind finds difficult
@@ -2726,7 +2726,7 @@ The terms ‘ complex ’ and ‘ complexity ’ are usually used as the opposit
 Their meanings pertain to the holistic , global or non-linear form of intelligibility
 needed to comprehend a phenomenon ; sometimes they stress a pathological , dense , 
 entangled dimension appearing as rebellious to the normal order of knowledge 
-( Ardoino , 2000 )  . Here is a probable source of the confusion between the words
+( Ardoino , 2000 )  . Here is a probable source of the confusion between the words 
  ‘ complex ’ and ‘ complicated ’  , which are frequently but sometimes erroneously
 interchanged in their usage . It is important to keep in mind this rich semantic and
 conceptual background associated with the use of the notion of complexity in order
@@ -2773,7 +2773,7 @@ factors which are interrelated into an organic whole ’  ( Weaver , 1948 , para
 These initial distinctions enable the location of the main stakes related to the
 development of an original but dispersed body of research during the 20th century . 
 From the 1940s until today , three generations of theories have emerged , suggesting
-a progressive shift from the study of ‘ organised complexity ’ to issues related to
+a progressive shift from the study of ‘ organised complexity ’ to issues related to 
  ‘ organising complexity ’  ( Le Moigne , 1996 )  , and thus reintroducing the fundamental
 uncertainties of the researcher as envisaged by Bachelard . 
 Three Generations of Complexity Theories 65
@@ -2789,7 +2789,7 @@ communication formulated in 1947 by Shannon ( see Shannon & Weaver , 1963 )  .
 Grounded in the practical issues raised by developments in the Bell telephone
 company and in his previous work on military encryption , Shannon developed a
 theory where an exchange of information ( defined as ‘ binary digit ’ or ‘ bit ’  ) may
-be observed and measured statistically . Through concepts such as ‘ noise ’ and
+be observed and measured statistically . Through concepts such as ‘ noise ’ and 
  ‘ redundancy ’  , the theory enabled the evaluation of the reliability of transfers of
 information by taking into consideration forms of disorder affecting channels of communication . Information theory contributed to explaining the phenomenon of
 organised complexity as the reduction of entropy ( disorder ) observed when a system 
@@ -2882,8 +2882,8 @@ In parallel with these developments , and intertwined with the institutionalisat
 operational research and the extension of cybernetics to management ( Beer , 1959 / 
 1970 )  , the study of problems of organised complexity took root in the emerging
 sciences of management decision-making . Incorporating the contribution of game
-theory as formulated by Von Neumann and Morgenstern , the work of Simon on
- ‘ decision-making processes ’ in administrative organisations ( Simon , 1947 ) and on
+theory as formulated by Von Neumann and Morgenstern , the work of Simon on 
+ ‘ decision-making processes ’ in administrative organisations ( Simon , 1947 ) and on 
  ‘ heuristic problem solving ’  ( Simon & Newell , 1958 ) contributed to the progressive
 emergence of an autonomous body of work designated as ‘ artificial intelligence ’  
 ( AI )  . Located at the interface between economic sciences , computer sciences , 
@@ -2990,7 +2990,7 @@ on autopoiesis .  ( An autopoietic system is organised as a unified whole , the 
 of which continue , through multiple interactions and transformations , to realise
 and produce relations that have themselves produced the network of processes in
 the first place . Autopoiesis affirms living systems as without essence [ see Semetsky , 
-2008 , in this volume ]  .  ) Providing new representations of ‘ adaptation ’  ,  ‘ evolution ’  , 
+2008 , in this volume ]  .  ) Providing new representations of ‘ adaptation ’  ,  ‘ evolution ’  ,  
  ‘ self ’  ,  ‘ autonomy ’ and ‘ emergence ’  , this research positioned the study of the evolution
 of life at the centre of the ensuing developments informing the understanding of
 complex phenomena . 
@@ -3009,7 +3009,7 @@ the common themes that arise in natural , artificial , and social systems
 [ t ] his unique scientific enterprise attempts to uncover the mechanisms
 that underlie the deep simplicity present in our complex world .  ( Santa Fe
 Institute , 2005 ) 
-Among the theories informing this trend were : the work of Holland ( 1992 ) on a
+Among the theories informing this trend were : the work of Holland ( 1992 ) on a 
  ‘ genetic algorithm ’  ( an attempt to model the phenomena of variation , combination
 and selection underlying most processes of evolution and adaptation )  ; the research
 of Kaufmann ( 1993 ) on ‘ Boolean networks ’  ( grounded in the study of properties
@@ -3046,7 +3046,7 @@ reflection created an epistemic loop that associated the emergence of ‘ organi
 knowledge ( sciences ) with the creation of ‘ organising ’ knowledge ( Le Moigne , 1996 )  . 
 His paradigm of ‘ self-eco-re-organization ’  ( auto-éco-ré-organisation ) criticised the
 epistemological and institutional compartmentalisation of the contemporary sciences
-and philosophies . Advocating the emergence of a kind of science that endorsed an
+and philosophies . Advocating the emergence of a kind of science that endorsed an 
  ‘ en-cyclo-paedic ’ process ( which builds in cycles rather than in a linear accumulation
 of knowledge )  , his approach related fragmented scientific fields of study with each
 other . Grounded in an open network of concepts and principles of thought , Morin
@@ -3123,7 +3123,7 @@ languages . These interpretations necessarily add a layer of uncertainty .
 Socio-Cultural Ambivalences
 Besides or because of their epistemological ambiguity , theories related to complexity
 are also ambivalent from a socio-cultural point of view . On one hand , complexity
-theories have substantial emancipatory potential . Concepts like ‘ control ’  ,  ‘ autonomy ’  , 
+theories have substantial emancipatory potential . Concepts like ‘ control ’  ,  ‘ autonomy ’  ,  
  ‘ organisation ’ or ‘ self ’ may enrich our representations of alienation and emancipation
 as complex processes . They might encourage reconsideration of the meaning of
 social and philosophical critique ( Alhadeff , 2003 , 2004 ; Alhadeff-Jones , 2007b ; 
@@ -3134,7 +3134,7 @@ have contributed to the promotion of non-dualistic , non-hierarchical and non-li
 representations , reframing ways of understanding contemporary issues . Trends
 initiated around this body of research also invite reconsideration of a plurality of 
 ( old and new ) disciplines by challenging their epistemological legitimacy ( Le
-Moigne , 2001b ; Morin , 1999 )  . From ‘ multireferentiality ’  ( Ardoino , 1993 ) to
+Moigne , 2001b ; Morin , 1999 )  . From ‘ multireferentiality ’  ( Ardoino , 1993 ) to 
  ‘ transdisciplinarity ’  ( Nicolescu , 1996 , 2005 ; Paul & Pineau , 2005 )  , complexity has
 contributed to a critique of traditional modes of organising knowledge . Transversal
 approaches have emerged , renegotiating ways of conjugating heterogeneous forms
@@ -3192,7 +3192,7 @@ Three Generations of Complexity Theories 75
 From the Concept of System to the Paradigm of Complexity , Journal of Social and Evolutionary
 Systems , 15 : 4 , pp . 371–385 ; Kofman , M .  ( 1996 ) Edgar Morin : From big brother to fraternity 
 ( London , Pluto Press )  . 
-2 . See , for example , the historical work of Musso ( 2003 ) grounding a critique of the concept of
+2 . See , for example , the historical work of Musso ( 2003 ) grounding a critique of the concept of 
  ‘ network ’  ; see also the sociological work of Boltanski and Chiapello ( 1999 ) illustrating and
 theorising how , since the late 1970s , the introduction in management of concepts associated
 with complexity affected and reinforced the discourse legitimising the mutation of capitalism , 
@@ -3595,7 +3595,7 @@ itself being an event in the dynamical time-series , culminates in such an inter
 the latter constituting the so-called autopoietic structural coupling that produces a
 series of ‘ interlocked .  .  . communicative interactions ’  ( Varela , 1979 , p . 48 )  . For
 Dewey , the human mind virtually comes in contact with the world—and therefore
-ensures the aforementioned structural coupling—because human attitudes , dispositions and habits are always relational in character and should never be taken as
+ensures the aforementioned structural coupling—because human attitudes , dispositions and habits are always relational in character and should never be taken as 
  ‘ separate existences . They are always of , from , toward , situations and things ’  ( 1929 / 
 1958 , p . 238 )  . The transformation of the whole situation is then equivalent to an
 increase in complexity because of the reorganisation of experience . And transformation
@@ -3626,7 +3626,7 @@ must be interpreted . For Dewey , when communication takes place , all events in
 nature are subject to reconsideration , revision and re-adaptation :  ‘ they are re-adapted
 to meet the requirements of conversation , whether it be public discourse or that
 preliminary discourse termed thinking ’  ( 1929 / 1958 , p . 166 )  , as internal communication . 
-The logic of relations ensures re-adaptation , and new meanings are created because
+The logic of relations ensures re-adaptation , and new meanings are created because 
  ‘ events turn into objects , things with meaning ’  ( Dewey , 1929 / 1958 , p . 166 ) as the
 outcome of complex relational dynamics . Dewey ’ s naturalistic logic , irreducible to
 the laws of mechanical certainty , is again in agreement with the theory of autopoiesis . 
@@ -3725,7 +3725,7 @@ behaviour , is described in non-linear mathematics as a phase transition , which
 enough , may be produced by a state ‘ of uneasy or unstable equilibrium ’  ( Dewey , 
 1929 / 1958 , p . 253 )  . The method of intelligent inquiry as ‘ dynamic understanding ’ 
 Re-reading Dewey through the Lens of Complexity Science 87 
-( Kellert , 1993 ) differs in principle from predictability and knowledge of facts . It is
+( Kellert , 1993 ) differs in principle from predictability and knowledge of facts . It is 
  ‘ the striving to make stability of meanings prevail over the instability of events ’  
 ( Dewey , 1929 / 1958 , p . 50 ) that remains a driving force behind the reorganisation
 of experience . Perception itself is capable of differentiating between , as Dewey says , 
@@ -3778,7 +3778,7 @@ the process of self-organisation . An open-ended process ‘ is determined but u
 pedagogy and relating the concept of self-organisation to a postmodern perspective
 on curriculum development . The organisation of the process is enabled by continuous , 
 recursive and self-referential interactions that defy an absolute dichotomy between
-such binary opposites of modern discourse as objective reality and subjective experience , facts and fantasy , profane and sacred , private and public , thereby overcoming
+such binary opposites of modern discourse as objective reality and subjective experience , facts and fantasy , profane and sacred , private and public , thereby overcoming 
  ‘ a process–product , objective–subjective split ’  ( Doll , 1993 , p . 13 )  . The blurring in
 a complex system of divisions between rigid customary opposites is another qualitative
 feature complementing its potential increase in complexity—that is , a system ’ s
@@ -3799,10 +3799,10 @@ an object . But we have to be careful here . Self-reference of a dynamical syste
 would be impossible unless the capacity of a system to maintain itself is complemented
 by the respective capacity of such a system also to modify itself . In other words , a
 system is capable of sustaining itself by virtue of , as recently noted by Horn and
-Wilburn ( 2005 ) with respect to new approaches in the philosophy of learning , its
+Wilburn ( 2005 ) with respect to new approaches in the philosophy of learning , its 
  ‘ both conservative and expansionary aspects ’  ( 2005 , p . 752 )  . 
 It is the self-reference of a system that , in a way , makes it self-transcending . Selftranscendence , defined by systems-theorist Erich Jantsch as ‘ the creative overcoming of
-the status quo ’  ( 1981 , p . 91 )  , is equivalent to the Deweyan process of growth when
+the status quo ’  ( 1981 , p . 91 )  , is equivalent to the Deweyan process of growth when 
  ‘ the old self is put off and the new self is .  .  . forming ’  ( Dewey , 1929 / 1958 , p . 245 )  . 
 Pragmatic inquiry is concerned with organising information into knowledge , and
 the dynamics of self-organisation necessarily combines in itself two complementary
@@ -3938,7 +3938,7 @@ friendship with the French Nietzschean , Gilles Deleuze . Foucault accredits Nie
 as the source of his interest in the question of truth and its relation to power . As
 he states in ‘ Truth and Power ’  ( Foucault , 1980 , p . 133 )  ,  ‘ The political question .  .  . is
 not , error , illusion , alienated consciousness or ideology , it is truth itself . Hence , 
-the importance of Nietzsche ’  . Nietzsche ’ s importance to Foucault can be seen as
+the importance of Nietzsche ’  . Nietzsche ’ s importance to Foucault can be seen as 
  ‘ correcting Marx ’  , especially in relation to the linkage between power–knowledge–truth , 
 and the functioning of knowledge as an instrument of power . As Alan Schrift 
 ( 1995 , p . 40 ) notes , Nietzsche ’ s influence drew attention away from ‘ substances , 
@@ -3970,7 +3970,7 @@ which had a central influence on both Heidegger and Foucault , Nietzsche ( 1968 
 p . 339 ) attacks the mechanical physicalistic world view : 
 Foucault as Complexity Theorist 93
 Physicists believe in a ‘ true world ’ in their own fashion : a firm systematization
-of atoms in necessary motion , the same for all beings—so for them the
+of atoms in necessary motion , the same for all beings—so for them the 
  ‘ apparent world ’ is reduced to the side of universal and universally necessary
 being which is accessible to every being in its own way . But they are in error . 
 The atom they posit is inferred according to the logic of perspectivism of
@@ -4033,13 +4033,13 @@ and Force ’  , and ‘ the World as Chaos ’  . Heidegger lists several core 
 central to Nietzsche ’ s world view : 
 1 . Force is the pervasive character of the world . Force , for Nietzsche , is the will to
 power ( ibid .  , Vol . II , p . 86 )  . 
-2 . Force is limited , because it is finite .  ‘ In itself ’ force is ‘ determinate ’ and
+2 . Force is limited , because it is finite .  ‘ In itself ’ force is ‘ determinate ’ and 
  ‘ inherently limited ’  ( ibid .  , Vol . II , p . 87 )  .  ‘ Because force , which is essentially finite , is
 the essence of the world , the totality of the world itself remains finite ’  ( ibid .  , 
 Vol . II , p . 88 )  . Hence there is a ‘ firm confinement within boundaries ’  ( ibid .  , 
 Vol . II , p . 88 )  . 
 3 .  ‘ The lack of diminuation and accretion in universal force signifies not a “ standstill ”  
-.  .  . but a perpetual “ Becoming ”  ’  . There is no equilibrium of force . Heidegger continues , 
+.  .  . but a perpetual “ Becoming ”  ’  . There is no equilibrium of force . Heidegger continues ,  
  ‘ We must grasp “ Becoming ” here quite generally in the sense of transformation or—
 still more cautiously—change .  ’  ( ibid .  , Vol . II , p . 88 )  . 
 4 .  ‘ Precisely because the world is perpetual Becoming , and because as a totality of
@@ -4049,7 +4049,7 @@ Vol . II , p . 87 )  .
 5 .  ‘ In contrast to the imaginary character of space , time is actual ’  ( ibid .  , Vol . II , p . 90 )  . 
 Furthermore ,  ‘ It is also—in contrast to the bounded character of space—
 unbounded , infinite ’  . He quotes Nietzsche from The Gay Science ( S . 341 )  , where he
-speaks of ‘ the eternal hourglass of existence ’  . For Heidegger ( 1991 , Vol . II , p . 90 )  , 
+speaks of ‘ the eternal hourglass of existence ’  . For Heidegger ( 1991 , Vol . II , p . 90 )  ,  
  ‘ Such actual , infinite time , Nietzsche grasps as eternity ’  . 
 6 . Heidegger ( 1991 , Vol . II , p . 91 ) cites Nietzsche from The Gay Science ( S . 109 )  :  ‘ The
 collective character of the world is .  .  . to all eternity—chaos ’ —and this is ‘ the
@@ -4108,14 +4108,14 @@ etc .  ;  ( 2 ) detecting the changes which effect the discursive formations the
 which effect simultaneously several discursive formations ( e . g . reversal of the hierarchy
 of importance , as happened , for instance , in the Classical period when the analysis
 of language lost the ‘ directing role ’ that it had in the first years of the nineteenth
-century to biology , which in turn led to the development of new concepts such as
+century to biology , which in turn led to the development of new concepts such as 
  ‘ organism ’  ,  ‘ function ’  ,  ‘ organisation ’  , etc .  , which in turn effected other sciences )  . 
 All of these types of changes , says Foucault , characterise changes to both individual
-discourses and effect modifications in the episteme itself : its ‘ redistributions ’  , i . e . 
+discourses and effect modifications in the episteme itself : its ‘ redistributions ’  , i . e .  
  ‘ the different transformations which it is possible to describe concerning .  .  . states
 of a discourse ’  . In opposition to totalising models Foucault sees his own analysis
 as more limited : to searching for the empirical historical grounds for discursive
-consistency or coherence ; to recognising in discourse its empirical worldly features—
+consistency or coherence ; to recognising in discourse its empirical worldly features— 
  ‘ the work of the author . And why not ? —His juvenilia or mature work , the patterns
 of a linguistic or rhetorical model ( an idea , a theme )  ’  ; and acknowledging that the
 transformatory operations are all carried out ‘ prior to discourse and outside of it ’  
@@ -4153,7 +4153,7 @@ given moment establish what consequently comes to count as being self evident ,
 universal and necessary ’  . In this sense , it constitutes a ‘ breach of self evidence ’  , i . e .  : 
 It means making visible a singularity at places where there is a temptation
 to invoke historical constants , an immediate anthropological trait , or an
-obviousness that imposes itself uniformly on all . To show that things
+obviousness that imposes itself uniformly on all . To show that things 
  ‘ weren ’ t as necessary as all that ; that it wasn ’ t a matter of course that mad
 people came to be regarded as mentally ill ; it wasn ’ t self-evident that the
 only things to be done to a criminal were to lock him up , it wasn ’ t selfevident that the causes of illness were to be sought through the individual
@@ -4164,7 +4164,7 @@ and practices rest . Its theoretical quest is endlessly open . It operates in Fo
 Alongside the concept of eventalisation are those of exteriority / interiority , which
 Foucault ( 1972 , pp . 120–122 , 125 , 140 ) discusses in The Archaeology of Knowledge , 
 as well as in his inaugural lecture at the College de France ( see Foucault , 1981 )  , 
-and also in his essay on Blanchot ( Foucault , 1990 )  . What Foucault means by
+and also in his essay on Blanchot ( Foucault , 1990 )  . What Foucault means by 
  ‘ exteriority ’ is that the being of discourse resides in the ‘ pure dispersion ’ of the
 socio-historical processes of reproduction and change ; in the ‘ particular events , 
 regularities , relationships , modifications and systematic transformations ’  , which
@@ -4173,7 +4173,7 @@ at its own level ’  ( 1972 , pp . 121–2 )  . As expressed in his essay on Bl
 p . 15 )  , it is ‘ the breakthrough to a language from which the subject is excluded .  .  .  : 
 the being of language only appears for itself with the disappearance of the subject ’  . 
 This places the emphasis on ‘ speech ’ rather than on the Cartesian Cogito . As he
-states ( 1990 , p . 13 )  : 
+states ( 1990 , p . 13 )  :  
  ‘ I speak ’ runs counter to ‘ I think ’  .  ‘ I think ’ led to the indubitable
 certainty of the ‘ I ’ and its existence ;  ‘ I speak ’  , on the other hand , 
 distances , disperses , effaces that existence and lets only its empty
@@ -4213,7 +4213,7 @@ constitutes what in a word we might call ‘ the thought from the outside ’  .
 As well as referring to consciousness , interiority thus refers also to any foundation
 or centre to the social formation which the events or parts echo or reflect . Hence , 
 again , this can also be seen as consistent with , and expressing , his opposition to
-the notion of a determined causality embodied in the Hegelian conception of an
+the notion of a determined causality embodied in the Hegelian conception of an 
  ‘ expressive totality ’ and , by derivation , also embodied in the notion of a primary
 causal necessity ( un causalisme primaire ) which he sees as central to Marxism . In
 this sense , the analytics of discourse must resist interiorisation ,  ‘ forsaking the
@@ -4291,7 +4291,7 @@ reality is not required . Rather than correspondence , we must speak of isomorph
 There is no assurance , pace Kant , either , of transcendentally valid and universally
 reliable cognitive schemata , for such a conception relies on a conception of a
 subject posited prior to history . What justified Kant ’ s cognitive schemata depends
-on various historically contingent conditions within what Heidegger would call the
+on various historically contingent conditions within what Heidegger would call the 
  ‘ horizon ’ within which they appear . This doesn ’ t mean there are no historical
 justifications ( survival )  , and nor does it mean there are no footholds of any sort . 
 But with Heidegger , Foucault ’ s thesis of the historicity of existence would deny
@@ -4339,7 +4339,7 @@ effectively unpredictable , in that the full range of possible combinations or e
 cannot be specified in advance . Complex systems , moreover , are contingent and
 dynamic—the structure of the system is continuously transformed through the
 interaction of the elements—and are not explainable by reference to any external
-principle , origin , or foundation . In this process , says Cilliers ( 1998 , pp . 107–108 )  , 
+principle , origin , or foundation . In this process , says Cilliers ( 1998 , pp . 107–108 )  ,  
  ‘ no complex system , whether biological or social , can be understood without
 considering its history .  .  .  . To be more precise , the history of a system .  .  . co-determines
 the structure of a system ’  . In this theory , while change is understood as the outcome
@@ -4482,7 +4482,7 @@ identities are constituted in experience , which is defined in terms of complex 
 and relations , as practices ( or , for Deleuze , haecceities ) whose complex modes of operation
 are individuating ( but not personalising or privatising )  . For Deleuze ( 1985 , 1987 , 
 ch . 1 )  , such patterns show parallels to nomadology or rhizomatic ( rather than
-arborescent ) development . For Foucault ( 1990 )  , it is ‘ outside thought ’  ; for Nietzsche , 
+arborescent ) development . For Foucault ( 1990 )  , it is ‘ outside thought ’  ; for Nietzsche ,  
  ‘ gay science ’  . In twentieth century Marxist thought , Althusser ’ s conception of structural
 causality , as outlined at the start of this chapter , partly fits such a model . 17 Similar
 models of organisation and development are also evident in Spinoza ’ s ‘ ethics ’  , as
@@ -4521,7 +4521,7 @@ Such an approach makes it possible to explain how individuals are on the one
 hand the outcome of social and historical processes and yet how , on the other , 
 novelty , uniqueness and creativity are possible . By interpreting Foucault in such a
 light , we can begin to make sense of his comments and general sense of incredulity
-in response to questions that were put to him on the general dimension of
+in response to questions that were put to him on the general dimension of 
  ‘ social construction / individuation ’  . As he says in The Archaeology of Knowledge 
 ( 1972 , p . 200 )  : 
 If I suspended all reference to the speaking subject , it was not to discover
@@ -4626,7 +4626,7 @@ stones from church spires to test to see whether the earth was rotating on its a
 108 Mark Olssen
 3 . See , for instance , Foucault ’ s essay ‘ Truth and Juridical Forms ’  , originally published in May
 1973 , where he summarises Spinoza in relation to Nietzsche ( Foucault , 2001 , pp . 11–12 )  ; 
-again , Foucault refers to Spinoza in the debate with Chomsky ( Foucault , 1997 , p . 136 )  ; in
+again , Foucault refers to Spinoza in the debate with Chomsky ( Foucault , 1997 , p . 136 )  ; in 
  ‘ Theatrum Philosopicum ’  ( Foucault , 1998 , pp . 359–60 and pp . 366–67 )  ; and in ‘ Afterword
 to The Temptation of St Anthony ’  ( 1998 , p . 105 )  , just to name a few . It is also noteworthy
 that Deleuze was influenced by Spinoza , as Deleuze had a strong influence on Foucault . See
@@ -4640,7 +4640,7 @@ opposition within conceptual elements ’  .
 Foucault . See ‘ Translator ’ s Foreword : The Anatomy of Power ’ in Antonio Negri ’ s The Savage
 Anomaly : The power of Spinoza ’ s metaphysics and politics ( 1991 )  . On the theme of complexity , 
 see Damasio ( 2003 )  . 
-5 . Foucault , like Nietzsche , wrote philosophically , and hence his use of terms like ‘ chance ’ and
+5 . Foucault , like Nietzsche , wrote philosophically , and hence his use of terms like ‘ chance ’ and 
  ‘ unpredictability ’ possibly lack technical translatability to the language of natural science . An
 account of the classical definition of concepts such as ‘ stability ’  ,  ‘ chance ’  , etc is given by
 Cilliers ( 1998 )  . One way to define ‘ chance ’ might be to see it as not incompatible with a
@@ -4907,7 +4907,7 @@ of education as a complex system . Our purpose is to begin to define possible
 agendas for further research toward such a framework . Towards this end , we will
 try to illustrate the plausibility of defining such a framework , and raise the question
 114 Jay L . Lemke & Nora H . Sabelli
-of the relation between such frameworks and the crucial aggregation of data across
+of the relation between such frameworks and the crucial aggregation of data across 
  ‘ systemic experiments ’  ( Sabelli , in preparation ; Confrey et al .  , 2002 )  . Even within
 what we might eventually agree on as a common framework and terminology for
 describing such a complex system , there will continue to be room for many existing
@@ -5380,7 +5380,7 @@ advance the study of education . And even though we may have helped to metaphori
 the concepts of the complexity sciences to the study of education , our presentation
 fell short of providing empirically derived examples that could link the new sciences
 with our own field of study . We were not , however , alone in this regard . Nor were
-we alone in our impatient sense to move on beyond the metaphorical stage of
+we alone in our impatient sense to move on beyond the metaphorical stage of 
  ‘ thinking loosely ’  . The goal of ‘ stricter thinking ’ would come to preoccupy most of
 us there who believed that we were onto something either new or profoundly
 forgotten , and there was a worrisome sense that the longer we had to wait for
@@ -5449,7 +5449,7 @@ types has been maintained by control measures that work to block the capacity of
 systems to operate autonomously . We may look to any number of social systems to
 see the not so invisible hands of control parameters that are institutionalized for
 the primary purpose of assuring externally imposed order that would otherwise be
-maintained by internally occurring I-actions of system agents . In many cases , these
+maintained by internally occurring I-actions of system agents . In many cases , these 
  ‘ enforced mechanisms ’  ( Maturana & Varela , 1998 , p . 199 ) create unhealthy systems
 that regularly exhibit the pathologies of impaired systems . 
 In their discussion of how biological systems and social systems differ , Maturana
@@ -5516,7 +5516,7 @@ Historically , these efforts have most often ignored or rejected the possibility
 social systems have the capacity to self-organize , adapt , and undergo transitions
 that lead to sustained , or even higher , levels of effectiveness and efficiency . Essentially , 
 social institutions have been treated as closed ( self-contained ) systems , rather than
-the permeable , dissipative open systems that they would be if allowed . The label of
+the permeable , dissipative open systems that they would be if allowed . The label of 
  ‘ self-contained classroom ’ is no misnomer , for that is the implicit conception in the
 historical management of them as closed systems in need of endless energy injections
 and control measures . Thus , we have become the inheritors of institutionalized
@@ -5972,7 +5972,7 @@ statements require supporting analysis and that there is the possibility of some
 them being true , or at least more likely to be true than others . What would be the
 purpose of rational analysis if not that it somehow brings us towards a ‘ truer ’ 
 perspective on the state of affairs under consideration ? Truth in this context
-becomes a kind of regulative principle . We do not need the expectation of a
+becomes a kind of regulative principle . We do not need the expectation of a 
  ‘ monolithic concept ’ of truth ( Bridges , 1999 , p . 597 )  , a notion of absolute and
 potentially attainable certainty , to hold onto the assumption that an understanding
 of truth has a part to play in our arguments . We do need , however , a theory of
@@ -6006,7 +6006,7 @@ coherent sets of descriptions and explanations , becomes more a matter of helpin
 us to survive . If correspondence is undermined in this way , we may be left asking
 what is left of our concept of truth . 
 The Primacy of Correspondence
-David Bridges ( 1999 ) describes five theories of truth : correspondence , coherence , 
+David Bridges ( 1999 ) describes five theories of truth : correspondence , coherence ,  
  ‘ what works ’  , consensus , and warranted belief . 
 The coherence theory of truth suggests that statements about the world are true
 because they cohere with other statements , that my knowledge of the world hangs
@@ -6047,7 +6047,7 @@ in fact correspond to what is externally the case . Alternatively , it may be th
 is consensus in belief about the truth of x because such a belief has evolved to suit
 socially shared needs and interests . Thus , as with coherence , consensus can offer
 an explanation , but not a theory of truth . Rather , it rests either on an idea of
-correspondence that is identified through consensus , or on a pragmatic notion of
+correspondence that is identified through consensus , or on a pragmatic notion of 
  ‘ what works ’ given the social circumstances of our understandings ( Pring , 2000b , p . 74 )  . 
 The fifth theory of truth is what Bridges refers to as warranted belief : that a
 statement can be shown to be true if it ‘ satisfies the relevant tests for the truth of
@@ -6061,7 +6061,7 @@ in relation to the power of the social group that controls the legitimation proc
 in other words , on their ‘ performativity ’ or pragmatic value in supporting the power
 relationships represented by knowledge . 
 Against Lyotard , one might argue that the processes of legitimation , the methodological disciplines , rather than being based in ideological or political interests , 
-actually reveal correspondence between statements and their objects . In Popper ’ s
+actually reveal correspondence between statements and their objects . In Popper ’ s 
  ‘ evolutionary epistemology ’ of science , hypotheses are generated to explain human
 experience of the world . Subsequent formally organized experience is used to challenge
 those hypotheses , to test them for their survival value , and those found wanting are
@@ -6092,7 +6092,7 @@ choose to ascribe truth to a proposition , this can only be on a local , provisi
 temporary basis . This position is similar to that taken up by Guba and Lincoln in their
 Fourth Generation Evaluation ( 1989 )  , who argue that there is no universal reality , at least
 not in social research , that stands as a criterion for truth , which statements approximate
-in terms of correspondence , or by which we can understand truth as a regulative principle . Instead , we construct our sets of descriptions and explanations on the basis of
+in terms of correspondence , or by which we can understand truth as a regulative principle . Instead , we construct our sets of descriptions and explanations on the basis of 
  ‘ human meanings ’  ( ibid .  , 1989 , p . 266 )  , by which they presumably mean what human
 beings take to be the case within a given context of human interests and actions . 
 Bridges wants to avoid the ‘ monolithic ’ concept of truth that is targeted in the
@@ -6214,7 +6214,7 @@ unpredictable , and open systems , such as clouds . Everything , however , at ev
 point on the continuum , even clouds , might be understood in terms of ‘ clockishness ’  , 
 the amenability to deconstruction down to the molecular level , where they can be
 explained in terms of a myriad either determinate or indeterminate interactions
-between elements . On the other hand everything might also contain a degree of
+between elements . On the other hand everything might also contain a degree of 
  ‘ cloudishness ’  . Even the most ‘ clockish ’ phenomena at the molecular level contain
 a degree of indeterminacy , an unpredictability that , in clocks themselves , for example , 
 arises from metal fatigue , corrosion , or the environmental conditions within which
@@ -6357,7 +6357,7 @@ singular homogeneous reality . Meaning and representation are distributed across
 language . In the process of describing objects or events , hypothetical or otherwise , 
 in different ways , we are representing them differently . These representations
 form part of an interconnecting network and these interconnections lend weight to
-particular representations and their relationship with others . They may be seen as
+particular representations and their relationship with others . They may be seen as 
  ‘ openly textured ’ —in other words , they change depending upon the context in
 which they are reproduced . Not only can many representations be present in a
 network that is focused on singular situations , events , and objects , but also singular
@@ -6475,7 +6475,7 @@ Tooley , J .  & Darby , D .  ( 1998 ) Educational Research : A critique ( London
 Wilcox , B .  & Gray , J .  ( 1996 ) Inspecting Schools ( Buckingham , Open University Press )  . 
 Wrigley , T .  ( 2004 )  ‘ School Effectiveness ’ —the problem of reductionism , British Educational
 Research Journal , 30 : 2 , pp . 227–244 . 
-Blackwell Publishing Ltd Oxford , UK EPATducational Philosophy and Theory 0013-1857© 2008 Philosophy of Education Society of Australasia XXX 11
+Blackwell Publishing Ltd Oxford , UK EPATducational Philosophy and Theory 0013-1857© 2008 Philosophy of Education Society of Australasia XXX 11 
  ‘ Knowledge Must Be Contextual ’ Tamsin Haggis ‘ Knowledge Must Be Contextual ’  : 
 Some possible implications of complexity 
 and dynamic systems theories for 
@@ -6509,11 +6509,11 @@ resulting in a tendency for theorising to ‘ remain bifurcated ’  ( Flyvbjerg
 p . 138 )  , and for social scientists to ‘ tend to generate macrolevel or microlevel explanations ’ 
 whilst ‘ ignoring the critical connections ’  ( ibid .  )  . 
 Complexity Theory and the Philosophy of Education . Mark Mason
-© 2008 the Authors . ISBN : 978-1-405-18042-9
+© 2008 the Authors . ISBN : 978-1-405-18042-9 
  ‘ Knowledge Must Be Contextual ’ 151
 As a binary category , quantitative / qualitative is intrinsically problematic , referring to
 a wide range of different methods that can be allied to many different intentions
-and philosophical orientations .  ‘ Qualitative ’ can refer , amongst other things , to
+and philosophical orientations .  ‘ Qualitative ’ can refer , amongst other things , to 
  ‘ small n ’ studies in psychology ( where a case study is in effect a smaller unit of
 focus for a largely numerical approach )  , as well as to various types of ‘ ethnographic
 study ’ in sociology or anthropology ( where the case study attempts to elucidate a
@@ -6528,7 +6528,7 @@ Bates , 2001 ; Hammersley , 1989 )  ; or ‘ constant comparative analysis ’  
 Corbin , 1998 )  , to name but a few different approaches . In addition , qualitative
 analysis may be underpinned by realist , interpretive or postmodern assumptions
 and / or intentions , which all produce different kinds of results in relation to bodies
-of data ( Yanow , 2003 )  . 
+of data ( Yanow , 2003 )  .  
  ‘ Critical Connections ’  ? 
 The different , and possibly contradictory , philosophies / ontologies which can underpin
 different approaches to research have been discussed by many ( e . g . Hammersley , 
@@ -6598,8 +6598,8 @@ of generalisation and prediction based upon this approach are often limited when
 attempts are made to use it in relation to human and social phenomena ( Gomm & 
 Hammersley , 2001 ; Byrne , 2005a )  . One way in which attention has been drawn to
 these limitations is the recent criticism of educational research ( Tooley & Darby , 
-1998 ; Hargreaves , 1996 )  . Whether or not such limitations are the ‘ problems ’ or
- ‘ Knowledge Must Be Contextual ’ 153
+1998 ; Hargreaves , 1996 )  . Whether or not such limitations are the ‘ problems ’ or 
+ ‘ Knowledge Must Be Contextual ’ 153 
  ‘ failings ’ that this critique suggests is a matter of debate , but the existence of the
 debate itself points to some problematic areas in relation to epistemology . 
 Limitations in applying this approach to social phenomena are also suggested by
@@ -6607,7 +6607,7 @@ the theoretical shift in fields such as anthropology and sociology towards an in
 in difference , particularity , and local , contextual concerns . This shift accommodates a
 sensitivity to areas which conventional approaches are forced to downplay , such as
 time , process and connectivity . It has been suggested that approaches based on the
-prevailing ontology are not able to deal well with ‘ the fleeting ’  ,  ‘ the distributed ’  , 
+prevailing ontology are not able to deal well with ‘ the fleeting ’  ,  ‘ the distributed ’  ,  
  ‘ the multiple ’ and ‘ the complex ’  ( Law & Urry , 2003 , p . 10 )  . Such concerns have
 impacted on the development of educational theory to some extent , but these effects
 do not usually extend to an examination or questioning of the ontological and
@@ -6619,7 +6619,7 @@ theory , on the other hand , offers a way of thinking about these issues from a 
 up a different way of thinking about individuals , classes , groups , cultures and societies . 
 Problems Conceptualising and Researching Difference , 
 Specificity and Context
-The theoretical shift in the social sciences towards an interest in understanding
+The theoretical shift in the social sciences towards an interest in understanding 
  ‘ things in context ’ implies the need to investigate difference and particularity . This
 is arguably of particular relevance to educational research , as it attempts to create
 knowledge that can be used in relation to practices in specific contexts . But practices , 
@@ -6647,7 +6647,7 @@ to some degree speculative . They are not always convincing to those who fund
 educational research , and do not really overcome the problem of how such subtle
 forms of connection may be understood to relate to the kinds of patterns described
 by other , more quantitative ( e . g . survey-based ) forms of investigation . 
-A different approach to these problems is suggested by forms of analysis such as
+A different approach to these problems is suggested by forms of analysis such as 
  ‘ thick description ’  ( Geertz , 1973 ) and ‘ analytic induction ’  ( Smelser & Bates , 2001 ; 
 Roberts , 2002 )  , both of which take the individual case as their starting point , 
 rather than trying to stand back from a range of different cases and decide what
@@ -6655,7 +6655,7 @@ they have in common . These approaches , however , although different from each
 other , both still reflect aspects of the approach discussed above , in that the aim is
 to gradually identify a principle which will be able to explain , and hopefully to
 predict , aspects of future , different occurrences of similar cases . Though these
-approaches are ‘ bottom up ’  ( starting with concrete , individual cases )  , rather than
+approaches are ‘ bottom up ’  ( starting with concrete , individual cases )  , rather than 
  ‘ top down ’  ( looking across a range of individuals or elements within the case )  , the idea
 that a given phenomenon can be characterised in this way is based on the assumption
 that the only way to understand a phenomenon is to try to define central / underpinning
@@ -6686,11 +6686,11 @@ crucial , either in making what is being examined functional , in realist / expl
 or meaningful , in more interpretative terms . This is arguably partly the cause of some
 of the problems that can be experienced when attempts are made to ‘ apply ’ a general
 principle created in this way to a particular case , in the sense that the specifics of
-the situation can appear to refute , confound , or at least complicate such application . 
+the situation can appear to refute , confound , or at least complicate such application .  
  ‘ Knowledge Must Be Contextual ’ 155
 Part of the problem here seems to be the way that context is conceptualised in
 relation to the boundaries of the case , and the relationship of this conceptualisation
-to the contexts of the individual sub-units within the case . If the intention is to
+to the contexts of the individual sub-units within the case . If the intention is to 
  ‘ interpret meanings in context ’  , then comparative analysis of different interview
 narratives from a particular context appears to make this possible . The meanings
 that are represented by the interview transcripts , however , in one sense do not so
@@ -6760,7 +6760,7 @@ literature . Emerging from a surprising range of different disciplines , its ide
 fields as diverse as archaeology , biology , economics , psychology and law . Richardson
 and Cilliers ( 2001 )  , in an overview of the many uses of complexity theory , define
 what they call three themes , or communities , in the literature :  ‘ hard , reductionist
-complexity science ’  ( which aims to understand the principles of complex systems )  , 
+complexity science ’  ( which aims to understand the principles of complex systems )  ,  
  ‘ soft complexity science ’  ( which uses complexity as a metaphorical tool to understand
 organisations ) and ‘ complexity thinking ’  ( which considers the epistemological
 implications of assuming ‘ the ubiquity of complexity ’  ( 2001 )  . More recently , Byrne 
@@ -6775,7 +6775,7 @@ different starting point for theory , and also for the conceptualisation of meth
 Of course not everything that is complicated manifests features of ‘ complexity ’  . 
 Cilliers ( 1998 ) distinguishes between ‘ complicated ’  ( having many parts , but each
 part can be explained—e . g . a mechanical engine ) and ‘ complex ’  ( having many
-parts , but not all of which can be named , and not all processes involved can be
+parts , but not all of which can be named , and not all processes involved can be 
  ‘ Knowledge Must Be Contextual ’ 157
 tracked or described )  . With regard to the complex , Johnson , following Weaver 
 ( 1948 in Johnson , 2001 )  , suggests that there are three types of scientific inquiry . 
@@ -6860,7 +6860,7 @@ its own boundaries ( Fogel et al .  , 1997 )  .
 A Complexity-Based Ontology
 Even the simplified overview of complexity outlined above begins to gives an idea
 of how an ontology based on these ideas might produce some very different ways
-of approaching the conceptualisation and analysis of data in social research ( see
+of approaching the conceptualisation and analysis of data in social research ( see 
  ‘ Knowledge Must Be Contextual ’ 159
 Byrne , 1997 )  . First , the interactions are multiple , and multiply connected , and it is
 the multiplicity of the interactions through time that produces effects . Causality in
@@ -6949,7 +6949,7 @@ applicable knowledge at its very heart—it asserts that knowledge must be
 contextual .  ( Byrne , 2005a ) 
 A complexity ontology provides a way of thinking about institutions , cultures , groups
 and individuals as systems of interactions which are , in some important ways , 
-always unique . This uniquely presenting system of interactions , however , is partially
+always unique . This uniquely presenting system of interactions , however , is partially 
  ‘ Knowledge Must Be Contextual ’ 161
 constituted by the interactions of other , larger systems ; systems of governance , for
 example , of culture , language , policy , or of funding . Other individuals , groups or
@@ -6978,7 +6978,7 @@ An individual narrative ( the darkest oval ) consists of the interactions that m
 identity , self and purpose ( agency )  , personality , consciousness ( including bodily awareness and emotions )  , 
 memory ( history )  , body , genetic makeup , etc . The paler grey area within which this is embedded represents
 one of the contexts ( systems ) within which the person operates . The interactions of this larger system
-maintain its own ( dynamic ) boundaries , but some of these interactions are also constitutive of the smaller
+maintain its own ( dynamic ) boundaries , but some of these interactions are also constitutive of the smaller 
  ‘ person ’ system . Similarly , the interactions of the still larger ( palest ) system partly constitute the other two
 systems . Figure 2 applies this to an example of an individual person ’ s narrative . 
 162 Tamsin Haggis
@@ -7009,11 +7009,11 @@ such as his leadership of a local band , or his participation in pub conversatio
 effects of his actions and practices in relation to his partner and children . Similarly , the interactions which
 involve Will , his family and his local community are partly constituted by , and partly constitute , the interactions of larger systems of interaction such as ‘ Scottish working class culture ’  , or ‘ British society in 2007 ’  . 
 This perspective is a tool for analysis , rather than any kind of description of ‘ what is ’ —it could be used
-in relation to narratives alone , or to a combination of narrative , observation notes , documentary evidence , etc . 
+in relation to narratives alone , or to a combination of narrative , observation notes , documentary evidence , etc .  
  ‘ Knowledge Must Be Contextual ’ 163
 a class , a school )  , then interviews with individuals are potentially quite limited . The
 researcher , attempting to ‘ draw together .  .  . a diverse and unrelated range of
-phenomena ’  ( Hammersley & Atkinson , 1995 , p . 211 ) is positioned , conceptually , 
+phenomena ’  ( Hammersley & Atkinson , 1995 , p . 211 ) is positioned , conceptually ,  
  ‘ outside ’ the smaller sub-units within the case ( in the sense that he / she creates a
 category or theme that relates to narratives generated by these sub-units , rather
 than looking at multiple elements of the case )  , trying to understand something that
@@ -7056,7 +7056,7 @@ as being ‘ outside ’ the smaller sub-units within the case , and attempts to
 164 Tamsin Haggis
 transcendent analytical category that will hopefully indicate some kind of connection
 which could link to underpinning causal processes . If , however , the researcher were
-to shift to a position that tried to see the relevant dynamic system as if from
+to shift to a position that tried to see the relevant dynamic system as if from 
  ‘ inside ’  , this would imply a need to conceptualise each person as a dynamically
 interacting system of multiple elements with a history through time ( Figure 2 )  . 
 As dynamic systems , each with unique starting points and histories , and yet each
@@ -7081,7 +7081,7 @@ Thinking of individuals as dynamic systems , however , requires a reconceptualis
 of ‘ the individual ’ that moves beyond the terms of cultural assumptions relating to
 ideas of an essential self or core personality . The details of this are beyond the
 scope of this chapter . 6 
-In brief , self becomes replaced by a ‘ sense of self ’  , with this
+In brief , self becomes replaced by a ‘ sense of self ’  , with this 
  ‘ sense of self ’ being seen as a continually emerging property of the interactions of
 the system ( there is no central , generative core )  , which functions to maintain the
 individual ’ s sense of their own coherence . In the context of dynamic systems , a
@@ -7096,7 +7096,7 @@ individual , rather than by creating a transcendent category that deliberately i
 these histories and multiplicities . 
 Conclusion
 This chapter has attempted to use complexity thinking to draw attention to conceptual
-limitations of the epistemologies that underpin a large amount of qualitative
+limitations of the epistemologies that underpin a large amount of qualitative 
  ‘ Knowledge Must Be Contextual ’ 165
 research . The purpose of this is not to try to build an argument that attacks or tries
 to undermine these epistemologies . The discussion represents an attempt to highlight
@@ -7126,7 +7126,7 @@ attention . Complexity therefore suggests a shift from the habitual preoccupatio
 with causes to a focus on effects ( Byrne , 2005b )  . 
 The combination of multi-factor causality , occurring through time , in the absence
 of a central , generative force , results in the quite radical notion of emergence , 
-and a reframing of the notion of structure . From a complexity perspective , things
+and a reframing of the notion of structure . From a complexity perspective , things 
  ‘ emerge ’ at certain points in the history of a set of multiple interactions through
 time , simply as a result of the interactions , rather than as the result of ‘ deep ’  , 
 generative causal structures . This is partly what makes emergence , to some extent
@@ -7135,7 +7135,7 @@ at least partly determined by chance encounters and changes in environments .
 Emergence , however , though unpredictable , is nonetheless also constrained : by
 features that are both internal ( in terms of initial conditions and interaction
 histories ) and external ( in the sense that the system is partly made up of the
-interactions of larger systems , and also in the more conventional sense of physical , 
+interactions of larger systems , and also in the more conventional sense of physical ,  
  ‘ environmental ’ factors ) to the system which is the focus of study . Though complexity theory may be seen by some as providing a way of talking about random , 
 intuitive , even ‘ spiritual ’ phenomena , this is not what has been argued here . The
 causalities involved in the interactions may be untrackable , but what emerges from
@@ -7149,7 +7149,7 @@ he states that ‘ the proper relationship ’ between quantitative and qualitat
 division of labour in which qualitative researchers seek to answer “ how ” and “ what ” 
 questions and then pass on their findings , so that causes and outputs of the phenomena
 identified (  “ why ” questions ) can be studied by their quantitative colleagues ’  ( 2001 , p . 259 )  . 
-2 . This refers to the influential body of work in higher education that describes ‘ deep ’ and
+2 . This refers to the influential body of work in higher education that describes ‘ deep ’ and 
  ‘ surface ’ approaches to learning . 
 3 .  ‘  [ T ] he issue of realism and instrumentalism .  .  . is typically understood as the question of
 whether various terms in statements making up scientific theories refer to real objects or
@@ -7191,7 +7191,7 @@ Furlong , J .  ( 2004 ) BERA at 30 . Have we come of age ?  , British Educationa
 pp . 343–358 . 
 Fogel , A .  , Lyra , M .  & Valsiner , J .  ( 1997 ) Dynamics and Indeterminism in Developmental and Social
 Processes ( Hillsdale , NJ , Lawrence Erlbaum )  . 
-Geertz , C .  ( 1973 ) On Thick Description , in : The Interpretation of Culture ( New York , Basic Books )  . 
+Geertz , C .  ( 1973 ) On Thick Description , in : The Interpretation of Culture ( New York , Basic Books )  .  
  ‘ Knowledge Must Be Contextual ’ 167
 Giere , R .  ( 2000 ) Theories , in : W . H . Newton-Smith ( ed .  )  , A Companion to the Philosophy of
 Science ( Oxford , Blackwell )  . 
@@ -7660,7 +7660,7 @@ rather than descriptive . Where complexity construes the nature of organic uniti
 such as individuals , classes , schools or educational systems as self-organising , 
 dynamic and emergent , these characteristics are sometimes interpreted as characteristics
 towards which we might aspire . Whereas complexity offers explanation of ‘ how
-things in fact do stand ’  ( that is , as self-organising , dynamic and emergent )  , complexity ’ s
+things in fact do stand ’  ( that is , as self-organising , dynamic and emergent )  , complexity ’ s 
  ‘ is ’ is moved into an ‘ ought ’  , an injunction to change ‘ how things are ’  ( that is , to make
 them self-organising , dynamic and emergent )  . Semetsky , in her paper ‘ Not by
 Breadth Alone : Imagining a self-organised classroom ’  ,  ( 2005 ) demonstrates this
@@ -7670,7 +7670,7 @@ classroom functions , it is demonstrating its manner of self-organisation , whet
 not the classroom is one in which ‘ transversal communications flow freely ’  ( Semetsky , 
 2005 , p . 30 )  . 
 Interestingly , further in the paper Semetsky utilises complexity ’ s ‘ is ’ to reinterpret
-ideas about students ’ learning . Here there is no ‘ is and ought ’ confusion . She states , 
+ideas about students ’ learning . Here there is no ‘ is and ought ’ confusion . She states ,  
  ‘ Moreover , by virtue of the complex , interactive and self-organising character of
 the students ’ learning process , I suggest the inherent incapacity for students to
 experience failure at any point within the process . Even when folded in conflicting
@@ -7819,7 +7819,7 @@ of ‘ textbookizing ’ knowledge was a major part of Ramus ’ educational ref
 and part of the legacy he and his followers ( of which there were thousands in the
 late 16th and early 17th centuries ) have left us . 5 
 David Hamilton ( 2003 ) makes this
-point quite explicitly when he states that Ramus ’ instructional methods have
+point quite explicitly when he states that Ramus ’ instructional methods have 
  ‘ served as paradigms in the subsequent history of modern schooling ’  ( 2003 , 
 Complexity Theory and the Philosophy of Education . Mark Mason
 © 2008 the Authors . ISBN : 978-1-405-18042-9
@@ -7921,7 +7921,7 @@ not as relations ( as both A . N . Whitehead and Gregory Bateson argue ) remains
 us still , and dominates our sense of educational ‘ basics ’  . 15
 The second assumption , that of cause / effect , shows how in one particular instance
 chaos theory operates from a different set of presuppositions than do traditional
-pedagogical theories . Jacob Bronowski points out that since the 18th century a oneto-one relation of cause to effect––small cause , small effect ; large cause , large effect—
+pedagogical theories . Jacob Bronowski points out that since the 18th century a oneto-one relation of cause to effect––small cause , small effect ; large cause , large effect— 
  ‘ has been elevated to the rank of the central concept of science ’  , arising as ‘ its
 guiding principle .  .  . hence becoming our natural way of looking at all problems ’  
 ( 1978 , p . 398 , emphasis added )  . Such a mechanistic view ( machine metaphor ) 
@@ -8031,11 +8031,11 @@ He comments that once we see the dots connected , then we know ‘ not only the
 elements but also the relations between them ’  ( p . 54 )  . He then goes on to define
 a system ‘ as a set of elements standing in interrelations ’  ( p . 55 , emphasis added )  . 
 The systems encapsulating these interrelations need to be , for Bertalanffy , open
-systems . While in nature both open and closed systems have external relations , are
+systems . While in nature both open and closed systems have external relations , are 
  ‘ fed ’ in one way or another by outside forces , closed systems function toward a preset goal , such as in the workings of a thermostat . Open systems , in differentiation , 
 function to keep just the right amount of imbalance , so that the systems might
 maintain a creative dynamism . The human body , democratic social systems , and
-the cosmos itself are all illustrations of open systems . Whereas closed systems
+the cosmos itself are all illustrations of open systems . Whereas closed systems 
  ‘ exchange energy but no matter ’  , open systems ‘ exchange both energy and matter ’  
 ( Prigogine , 1961 , p . 3 ) and thus can transform matter into energy , as in an atomic
 explosion . 26 In simple terms , ones important for education , closed systems transfer
@@ -8117,7 +8117,7 @@ formation . I believe that the origin of life was not an enormously
 improbable event , but law-like and governed by new principles of selforganization in complex webs of catalysts .  ( p . xvi , emphasis in original ) 
 Using Kauffman ’ s ideas as a generative framework ( not as a model ) for our own
 educational thoughts I believe it is possible for ‘ meaning ’ and ‘ understanding ’ ––at
-a deeper , less superficial level than textbooks provide––to come forward in a
+a deeper , less superficial level than textbooks provide––to come forward in a 
  ‘ modestly complex mixture ’  , or webs of catalysts . That is , if we modify just a bit
 A . N . Whitehead ’ s ( 1929 / 1967 ) dictum of ‘ throwing ideas into every combination
 conceivable ’  ( p . 2 ) we might be able to design curricula or instructional strategies
@@ -8161,7 +8161,7 @@ are complex––open and far-from-equilibrium––they may , indeed it is almo
 they will , creatively develop new systems . Order will now emerge ‘ for free ’  . Kauffman ’ s
 theory is deep in two ways––one way is that it applies to multiple situations , those
 near equilibrium , far-from-equilibrium ( which are near the edge of chaos )  , and
-even to those in the chaotic realm just on the edge of chaos . For most cellular life
+even to those in the chaotic realm just on the edge of chaos . For most cellular life 
  ‘ equilibrium corresponds to death ’  ( p . 21 )  ; thus there is neither robustness nor
 richness to life in an equilibrium situation . I would say the same occurs in teaching
 where teaching is no more than telling––a situation A . N . Whitehead ( 1929 / 1967 ) 
@@ -8187,12 +8187,12 @@ importance do not depend on all the details ’  ( 1995 , p . 18 )  . In the ver
 focusing on such details leads one to ‘ miss the forest for the trees ’  , a criticism
 which can certainly be leveled at the United States ’ 2000 educational movement
 of ‘ No Child Left Behind ’  . 
-Taking an approach of ‘ Unrepentant Holism ’  ( p . 69 )  , Kauffman sets out to explain
+Taking an approach of ‘ Unrepentant Holism ’  ( p . 69 )  , Kauffman sets out to explain 
  ‘ an order whose origin and character .  .  .  ( are ) independent of the details ’  ( p . 18 )  : in
 other words , this order is ubiquitous throughout the universe , where ‘ development arises
 almost without regard to how networks of interacting genes [ or elements ] are strung
 together ’  ( p . 18 )  . In common parlance , there are many pathways to development , 
-biological and intellectual ; there is no ‘ one and only way ’  . Certainly , for an order which
+biological and intellectual ; there is no ‘ one and only way ’  . Certainly , for an order which 
  ‘ springs forth ’  , which arises spontaneously from interactions , there is no pre-set way . 
 Whatever ‘ method ’ our universe is using for its ordering , it must have flexibility . 34
 Kauffman ’ s basic assumption––a metaphysical , sacred , 35 and controversial one––is that
@@ -8215,7 +8215,7 @@ bulb C and / or bulb D , etc . The number of bulbs was labeled N and the connect
 each bulb , anywhere from one to twenty , labeled K . Since the connections were
 random many bulbs , when electrified , became schizophrenic , receiving an order to
 turn on from one connection and off from another . As electric current was fed into
-the circuit board , the light bulbs lit––sometimes this lighting produced a stable or
+the circuit board , the light bulbs lit––sometimes this lighting produced a stable or 
  ‘ frozen ’ state ; sometimes the lighting went on and on and on blinking , blinking , 
 blinking with no pattern emerging . To create what he wanted––order arising from
 random connections (  ‘ order for free ’  ) Kauffman found he needed a large circuit
@@ -8223,7 +8223,7 @@ board with many bulbs ( he finally settled on a board of 100 , 000 bulbs )  . Th
 connections , though , needed to be sparse––only 1 or 2 connections per bulb . With
 a higher number of connections , order did not emerge . When many bulbs , though , 
 were connected ‘ sparsely ’  , the randomness of the blinking bulbs would eventually
-develop ( cycle ) into patterns of interesting and varied orders . Kauffman calls this
+develop ( cycle ) into patterns of interesting and varied orders . Kauffman calls this 
  ‘ order for free ’  ( ch . 4 )  . To quote Kauffman : 
 192 William E . Doll
 Sparsely connected networks exhibit internal order ; densely connected
@@ -8232,7 +8232,7 @@ freeze into mindlessly dull behavior .  ( p . 85 )
 Using the above as a heuristic , I interpret the single connection in terms of direct
 instruction from teacher to student as producing ‘ mindlessly dull behavior ’  . 38 From
 too much richness in curriculum , a chaotic frame emerges . What one needs , from
-Kauffman ’ s point of view and mine , are networks ( or curricular structures ) that
+Kauffman ’ s point of view and mine , are networks ( or curricular structures ) that 
  ‘ achieve both stability and flexibility ’  ( pp . 86 and passim )  . This notion of a structure
 or system that aims for stability and flexibility is one that has guided my curriculum
 designs and instructional strategies for the past decade . Obviously this ‘ and-ness ’ 
@@ -8389,7 +8389,7 @@ complexity theory and teaching for ‘ that yet-to-be-seen ’  . I will , thoug
 personal experience based on over a half-century of teaching––the study of
 complexity has opened my eyes to that which I did not see before ( to a new and
 livelier sense of method , one based on seeing more and seeing from multiple
-perspectives )  . I now regularly ask myself when I enter a classroom ( at any level )  , 
+perspectives )  . I now regularly ask myself when I enter a classroom ( at any level )  ,  
  ‘ What can I learn today from this experience ?  ’ And I ask of those I am privileged
 to teach ,  ‘ Can you see another way to do / read / interpret what we have just done ?  ’ 
 Combined with my personal metaphysical views , also developed while I have been
@@ -8494,11 +8494,11 @@ subjugation to the written word––see Donna Trueit , 2005 .
 It is interesting to note that American pragmatism ’ s ‘ scientific method ’  , with its
 emphasis not only on an idea ’ s practical results but also on the origins of an idea in an
 individual ’ s day-to-day experience , including an accumulation of pre- and sub-conscious
-registers , sidesteps Ramus ’ knowledge / person dichotomy .  ( See Trueit , in preparation , 
+registers , sidesteps Ramus ’ knowledge / person dichotomy .  ( See Trueit , in preparation ,  
  ‘ Beyond Simple Order ’  .  ) 
 15 . David Jardine , Patricia Clifford , and Sharon Friesen ( 2003 ) have done a fine job in
 calling into question just what is basic to teaching a curricular discipline . They assert
-that what is basic to teaching and learning is not merely the clear presentation nor
+that what is basic to teaching and learning is not merely the clear presentation nor 
  ‘ understanding ’ of a subject ’ s ‘ facts ’ ––its ‘ bits and pieces ’ ––but is rather an attitude and
 an activity . The attitude is one of opening oneself , as teacher or learner , to experiencing
 the situation at hand ; the activity is immersing oneself in the situation fully enough for
@@ -8570,7 +8570,7 @@ of the day ( linear )  . It would require non-linear mathematics to so prove , a
 proof would be that the universe was not ‘ simply ’ stable , but was stable only in a
 dynamic , non-predictable sense : Prediction devient impossible . There are too many works
 on the history of the ‘ three-body problem ’ for me to mention here . One I found most
-useful was Ian Stewart ’ s Does God Play Dice ?  ( 1990 )  . Here he not only talks of the
+useful was Ian Stewart ’ s Does God Play Dice ?  ( 1990 )  . Here he not only talks of the 
  ‘ three-body problem ’  , but also of how , in working on it ( early 20th century )  , Poincaré
 brought forth the ‘ whole towering edifice ’ of topology ( p . 64 ff .  )  . 
 23 . David Holton and ( Lord ) Robert May in their 1993 article point out that back in 1903
@@ -8640,7 +8640,7 @@ adapt by genetic changes ,  [ ever ] seeking to improve their fitness ’  . But
 organisms adapt ,  ‘ so do our competitors :  [ and ] to remain fit , we must adapt to their
 adaptations . In coevolving systems , each partner clambers up its fitness landscape
 toward fitness peaks ’  ( 1995 , p . 27 )  . Those organisms / systems which seem most able to
-adapt and survive ( reproduce and have influence ) are the ones near ( but not on ) the
+adapt and survive ( reproduce and have influence ) are the ones near ( but not on ) the 
  ‘ edge of chaos ’  . Such far-from-equilibrium systems are the ones Prigogine also studied
 and called ‘ dissipative structures ’  ( p . 53 )  . 
 33 . Kauffman sees chaos and complexity as different , with ‘ chaos as a subset of complexity ’  
@@ -8784,7 +8784,7 @@ DEBORAH OSBERG ,  * GERT BIESTA *  *  & PAUL CILLIERS *  *  *  * School of Educa
 *  *  * Department of Philosophy , University of Stellenbosch , South Africa
 from the perspective of the present . The epistemology of emergence therefore calls for a switch in focus for curricular thinkin Keywords : complexity , emergence , epistemology , representation , schooling Abstract In modern , Western societies the purpose of schooling is to ensure that school-goers acquire knowledge of pre-existing practice ‘ incalculable ’  . With this understanding knowledge reaches us not as something we receive but as a response , which brings forth Since the object of knowledge is assumed to exist separately from the knowledge itself , this epistemology can also be considere suggest that ‘ knowledge ’ and ‘ reality ’ should not be understood as separate systems which somehow have to be brought into align s , events , entities and so on . The knowledge that is learned is then tested to see if the learner has acquired a correct or ade d ‘ spatial .  ’ In this paper we show how ideas from complexity have challenged the ‘ spatial epistemology ’ of representation and w new worlds because it necessarily ment with each other , but that they are part of the same emerging complex system which is never fully ‘ present ’ in any ( discret g , away from questions about presentation and representation and towards questions about engagement and response . adds something ( which was not present anywhere before it appeared ) to what came before . This understanding of knowledge suggest quate understanding of it . For this reason , it can be argued that schooling is organised around a representational epistemology e explore possibilities for an alternative ‘ temporal ’ understanding of knowledge in its relationship to reality . In addition to e ) moment in time . This not only introduces the notion of time into our understanding of the relationship between knowledge and s that the acquisition of curricular content should not be considered an end in itself . Rather , curricular content should be us : one which holds that knowledge is an accurate representation of something that is separate from knowledge itself . complexity , our alternative takes its inspiration from Deweyan ‘ transactional realism ’ and deconstruction . We reality , but also points to the importance of acknowledging the role of the ‘ unrepresentable ’ or ed to bring forth that which is incalculable
 Introduction
-In modern , Western societies schooling is almost invariably organised as an epistemological practice . Educational institutions present knowledge about the world
+In modern , Western societies schooling is almost invariably organised as an epistemological practice . Educational institutions present knowledge about the world 
  ‘ outside ’ and for that very reason they rely upon a representational epistemology . 
 This is an epistemology which holds that our knowledge ‘ stands for ’ or represents
 a world that is separate from our knowledge itself . Since the object of knowledge
@@ -8792,7 +8792,7 @@ is assumed to exist in a separate space from the knowledge itself , this epistem
 can also be considered ‘ spatial .  ’ In this chapter we show how ‘ complexity theory ’ 1
 has challenged the spatial epistemology of representation and we explore possibilities for an alternative understanding of knowledge in its relationship to reality . 
 Our alternative takes its inspiration from complexity , Deweyan ‘ transactional
-realism ’ and deconstruction . With complexity we suggest that ‘ knowledge ’ and
+realism ’ and deconstruction . With complexity we suggest that ‘ knowledge ’ and 
  ‘ the world ’ should not be understood as separate systems which somehow have to
 be brought into alignment with each other , but that they are part of the same
 evolving complex system . This not only introduces the notion of time into our
@@ -8854,7 +8854,7 @@ use truth as a criterion to judge between alternative likenesses / representatio
 correspondence with reality , that we end up with an epistemology that can be
 called representational . 
 206 Deborah Osberg , Gert Biesta & Paul Cilliers
-In contrast to this representational epistemology—which could also be called a
+In contrast to this representational epistemology—which could also be called a 
  ‘ spatial epistemology ’ since it depends on a correspondence between knowledge
 and reality—we propose that complexity suggests a temporal epistemology which
 implies that the quest for knowledge is not in order that we may develop more
@@ -8889,7 +8889,7 @@ participation in real life ( this first happened for the elites and only by the 
 the nineteenth and the beginning of the twentieth century for the masses )  . 
 Mollenhauer ’ s claim is that it was only when a separate educational world was
 constructed , that the question of representation became a central educational question . 
-After all , once we take children out of ‘ real life ’  , but still want to prepare them for
+After all , once we take children out of ‘ real life ’  , but still want to prepare them for 
  ‘ real life ,  ’ we need in some way to represent ‘ real life ’ within the confines of the
 world of the child . Since we obviously cannot get the whole world into the school , 
 we have to select which forms of life to represent in the school . We must select
@@ -8910,7 +8910,7 @@ from progressive , participatory and ‘ situated ’ learning theories is that 
 in which young people can learn meaningfully is if they can participate in ‘ real
 world ’ practices ( see , e . g . Lave & Wenger , 1991 )  . Representational curricula , it is
 argued , are disconnected from the things they wish to represent and therefore
-devoid of any real , significant meaning . The solution is therefore to do away with the
+devoid of any real , significant meaning . The solution is therefore to do away with the 
  ‘ re ’ and make educational institutions into places where the world itself is presented . 
 However , against this ‘ presentationalist ’ or ‘ participatory ’ position it has been
 argued , firstly from a conservative viewpoint , that a ‘ decent ’ education is not
@@ -8956,9 +8956,9 @@ nutshell , the argument is that since we cannot understand something complex in
 all its complexity ( as humans we have limited means and limited time )  , models , by
 definition , have to reduce complexity . It is exactly in this reduction that we generate
 understanding . A model must necessarily be simpler than the thing modelled . 
-Complex systems , however , are by definition ‘ incompressible ’  : they cannot be
+Complex systems , however , are by definition ‘ incompressible ’  : they cannot be 
  ‘ reduced ’ without losing something ( Cilliers , 1998 , pp . 7–10 )  . This , in fact , is the
-criterion that can be used to distinguish complex systems from those that are merely
+criterion that can be used to distinguish complex systems from those that are merely 
  ‘ complicated ’  ( a distinction that , although useful , is not unproblematic : see Cilliers , 
 2000b )  . Complex systems cannot be reduced , because of the non-linear nature of
 their interconnections . The information they contain is not in the individual
@@ -9032,8 +9032,8 @@ the case . We need boundaries around our regularities before we can model or
 theorise them , before we can find their rules of operation , because rules make sense
 only in terms of boundaries . The point is that the setting of the boundary creates
 the condition of possibility for a rule or a law to exist . When a boundary is not
-naturally given , as is the case with natural complex systems , the rules that we
- ‘ discover ’ also cannot be understood as naturally given . Rules and ‘ laws ’ are not
+naturally given , as is the case with natural complex systems , the rules that we 
+ ‘ discover ’ also cannot be understood as naturally given . Rules and ‘ laws ’ are not 
  ‘ real ’ features of the systems we theorise about . Theories that attempt to reduce
 complexity to a system of rules or laws , like our models which do precisely this , 
 therefore cannot be understood as pictures of reality . 
@@ -9062,7 +9062,7 @@ regularity , but it is a completely different set of rules and initial condition
 creates this effect . In other words , regularities exist , we can detect them and even
 find rules that reliably describe their behaviour , but the rules we find are pragmatic , 
 they are not real things , they are not pure reflections of reality . There is no isomorphic
-relationship between the rule in the model and the rule in the real system ( if such
+relationship between the rule in the model and the rule in the real system ( if such 
  ‘ real ’ rules even exist )  . While our models may imitate or simulate the behaviour of
 an observed regularity ( at least for a while )  , and in this way appear to correspond
 to reality , we must acknowledge that this correspondence is not representational 
@@ -9208,12 +9208,12 @@ drawn into and subsumed by relation , albeit [ that ] it transits all relationa
 or final closure of relationality , and thus the misfire that continuously
 precipitates new life and new meaning . There is no relational purchase to
 be had on the intractable . It resists relation .  ( Dillon , 2000 , p . 5 ) 
-However , in contrast to Dillon , we believe that complexity is not oblivious to the
+However , in contrast to Dillon , we believe that complexity is not oblivious to the 
  ‘ radically non-relational ’  . Quite the contrary :  ‘ relationality to the radically nonrelational ’ could be considered key to the logic of complex systems . 3 
 This is evident
 in Prigogine ( 1997 )  , who insists that although new order ( emergence ) results when
 a complex system explores and finds new ways of working with the initial conditions , 
-and that these initial conditions are provided by the lower hierarchical level—and are
+and that these initial conditions are provided by the lower hierarchical level—and are 
  ‘ causal ’ in this regard—the elements making up the lower level do not provide everything
 necessary for order of a particular kind to emerge at the higher level . In his words : 
 The system ‘ chooses ’ one of the possible branches available when far
@@ -9249,7 +9249,7 @@ shown how complexity theory challenges the idea and possibility of representatio
 partly through the idea of incompressibility and partly by showing the problem of
 attempting to represent open systems ( reality ) by closed systems ( representations , 
 models , theories )  . The upshot of this is not that we should no longer attempt to
-develop knowledge , models , or theories—but that we shouldn ’ t think of them as
+develop knowledge , models , or theories—but that we shouldn ’ t think of them as 
  ‘ copies ’ of the world ‘ out there ’  . Rather , we should understand knowledge , models
 and theories as tools that we use in engaging with ‘ the world ’  . This suggests an
 epistemology in which time has a central role to play—a temporal rather than a spatial
@@ -9262,7 +9262,7 @@ be presented , that can never become ‘ present ’  . Here , as we suggested ,
 came close to key insights developed by Derrida under the label of ‘ deconstruction ’  . 
 Along these lines we have tried to show that complexity theory not only problematises
 conventional—i . e . representational—ways of thinking about knowledge in relation
-to reality . We have also tried to show that it is possible to develop an alternative
+to reality . We have also tried to show that it is possible to develop an alternative 
  ‘ epistemology ’ using key ideas from complexity . In this process we found it helpful
 to refer to the work of Dewey , whose temporal theory of knowledge and whose
 transactional ontology show a surprising affinity with ideas emerging from complexity theory and deconstruction . Rather , therefore , than thinking of knowledge
@@ -9275,7 +9275,7 @@ which we may no longer even want to call an epistemology—would imply for the
 practice of schooling . What would schooling actually look like if we dropped the
 idea that its overall aim is to ensure the acquisition of knowledge of an already
 existing reality that is fully present ? How might such a practice of schooling actually
-be ‘ performed ’  ? Such questions , according to Ulmer ( 1985 )  , open a search for a
+be ‘ performed ’  ? Such questions , according to Ulmer ( 1985 )  , open a search for a 
  ‘ non-magisterial ’ style of teaching . When we consider the purpose of schooling in
 terms of an emergentist understanding of knowledge and reality , we must begin to
 imagine schooling as a practice which makes possible a dynamic , self-renewing and
@@ -9322,7 +9322,7 @@ This means the drop can be kept afloat in a magnetic field , and indeed driven b
 by varying the field , and one can use a magnetometer to tell exactly where the drop is and
 how fast it is moving . Whatever ‘ electrons ’ are , they have real effects . It is from these effects
 that we infer their existence . 
-3 . The difference of opinion here is largely a result of different understandings of the notion of
+3 . The difference of opinion here is largely a result of different understandings of the notion of 
  ‘ emergence ,  ’ which can be understood in a ‘ weak ’ or deterministic sense as explicated , e . g . by
 Holland ( 1998 ) or in a ‘ strong ,  ’ non-deterministic , or Prigoginian sense ( see Chalmers , 2006 , 
 Osberg & Biesta , 2007 )  . 
@@ -9398,7 +9398,7 @@ Joyce , and Virginia Woolf , Lodge describes the tendency of authors to centre t
 narrative in the consciousness of characters and to use that manifestation as a way
 to create and develop those characters . A reader of the novel , then , experiences the
 specific subjective experience , the qualia , of that character in the fictional world . 
-Donald ( 2001 ) argues that literary novels are a prime opportunity to engage in
+Donald ( 2001 ) argues that literary novels are a prime opportunity to engage in 
  ‘ mind-reading practices ’  : that is , we learn to understand our sense of mind , our
 consciousness , by observing that others also have minds and that those minds are
 also aware of other minds . Therefore , in order to develop our self-awareness , we
@@ -9549,7 +9549,7 @@ apprehended by the perceiving individual . As Thompson ( 2001 ) explains ,  ‘ 
 meaning or sense of my perceptual experience refers to the perceptions of possible
 others ’  ( p . 15 )  . In this way , otherness is an intrinsic part of consciousness even
 though we may experience it as a unified and self-contained phenomenon . Consciousness does not emerge from the independent and isolated workings of individual
-brains , but rather is an elaborate process that evolves as the conscious self and the
+brains , but rather is an elaborate process that evolves as the conscious self and the 
  ‘ other ’ interweave and unfold in a complex choreography of co-determination . 
 One key stage in the development of human consciousness is what cognitive
 psychologists call the Theory of Mind—associated with which is the realisation that

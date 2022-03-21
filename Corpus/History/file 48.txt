@@ -81,7 +81,7 @@ Bronze Age ( Brindley and Lanting 1990 ; Buckley 1990 ; Bradley 2007 ; Ó Néill
 usually comprise a mound of fire-cracked stone , classically crescentic in shape and located 
 adjacent to a source of fresh water , most commonly streams , but also springs and occasionally 
 lakes . Often , the ‘ arms ’ of the crescent enclose a trough or pit . Such troughs or pits may be lined 
-with a variety of material , including wattle , stone , clay or planks ; sometimes a moss lining or
+with a variety of material , including wattle , stone , clay or planks ; sometimes a moss lining or 
  ‘ corking ’ is also recovered ( Ó Néill 2009 )  . Burnt mounds are frequently present in large 
 concentrations over relatively small areas , for example the recent review of the archaeology of 
 Clare Island , Co . Mayo lists over 40 examples ( Gosling et al . 2007 )  . Despite this abundance , the 
@@ -311,7 +311,7 @@ RESULTS
 The Irish Burnt Mound Database
 As part of this project a database was constructed of Irish sites reported as ‘ burnt mounds ’ or
 fulachtaí fiadh ( Fig . 1 )  . The database was compiled from the Irish Excavations Database 
-(  ) as it was at the end of 2015 , using the search terms ‘ burnt mounds ’  , 
+(  ) as it was at the end of 2015 , using the search terms ‘ burnt mounds ’  ,  
  ‘ fulachtaí fiadh ’ and ‘ burnt spread ’ in the site type field . This returned 465 , 775 and 200 hits 
 respectively . In each case Townland , excavation licence number , grid reference , publications ( s ) 
 arising , excavator , excavation . ie reference number were recorded along with the abstracted 

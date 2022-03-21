@@ -2043,7 +2043,7 @@ one more step to examine to understand how the attacker was able to make that th
 withdrawRewardFor is called ( when the attacker had legitimate funds to withdraw )  , the first statement would 
 correctly evaluate as false , causing the following code to run : 
 function payOut ( address _recipient , uint _amount ) returns ( bool )  { 
-if ( msg . sender !  = owner | | msg . value > 0 | |  ( payOwnerOnly &  & _recipient !  = owner )  ) 
+if ( msg . sender !  = owner |  | msg . value > 0 |  |  ( payOwnerOnly &  & _recipient !  = owner )  ) 
 throw ; 
 if ( _recipient . call . value ( _amount )  (  )  )  {  /  /  [ Added for explanation ] this is the coup de 
 grace 

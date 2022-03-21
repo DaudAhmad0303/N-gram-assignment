@@ -59,7 +59,7 @@ facet of public health research and practice has been to factor in as thoroughly
 as possible factors such as social , economic , cultural , psychological and political considerations since they characterise the diverse aspects of health risk in
 different ways and to different degrees of importance according to context [ 6 ]  . 
 The question of whether public health should confine itself to individual
-risk factors for disease or rather be increasingly concerned with the more
+risk factors for disease or rather be increasingly concerned with the more 
  ‘ upstream ’ sources of health ( or ill health ) such as employment , housing , 
 transport , food and nutrition and global trade concerns is central to public debates and in many ways defined by the political and economic stance of those
 on either side of the debate . Beaglehole and Bonita [ 7 ] argue that ‘ the central
@@ -416,12 +416,12 @@ position ?
 concerns ? 
 Communicate public health risks effectively and to all stakeholders
 A key element of public health advocacy is communication : in order to improve
-disease risk understanding across the board , one must address the many
+disease risk understanding across the board , one must address the many 
  ‘ publics ’ in the real world [ 58 ]  . Risk communication should keep in mind the
 12 Public Health Nursing
 particular positions of interested parties and be communicated without being
 prescriptive but by explaining the risks according to the priorities of each type
-of stakeholder . An important but often ignored fact is that there is no single
+of stakeholder . An important but often ignored fact is that there is no single 
  ‘ public ’  , particularly when it comes to communicating the health risks faced
 by individuals and communities at large : there are many different publics , not
 only in terms of sex , age and geography , but also in terms of individual risk
@@ -543,7 +543,7 @@ evidence-based policy by working with other sectors , stakeholders and national
 Non-governmental organisations are key players particularly in monitoring the activities of organisations and institutions involved in public health
 activities and research . They can also help to ensure governments provide
 support for healthy lifestyles , and the food industry to provide more healthy
-products and services [ 76 ]  . These organisations tend to still be traditionally
+products and services [ 76 ]  . These organisations tend to still be traditionally 
  ‘ low-influence ’ stakeholder groups , along with other civil society organisations , 
 teachers and parents ; they will need to develop their skills to ensure that they
 can contribute constructive and participatory responses to risk communication processes . If all stakeholders are to participate constructively , decisionmaking processes in public health need to better accommodate and formalise
@@ -969,7 +969,7 @@ Most countries have a legal definition of the title ‘ nurse ’ and some also 
 a legal definition of ‘ nursing ’  . In the UK there is no legal definition of ‘ nursing ’  , 
 Public Health Nursing 27
 but ‘ registered nursing care ’ has been defined by the Health and Social Care
-Act 2001 [ 2 ] in such a way that it can be distinguished from ‘ social care ’ or
+Act 2001 [ 2 ] in such a way that it can be distinguished from ‘ social care ’ or 
  ‘ personal care ’ for the purpose of defining responsibility for its provision and
 eligibility for funding . This legislative definition , however , does not relate in
 any way to professional definitions or to specifications of the nurse ’ s scope of
@@ -1776,7 +1776,7 @@ health visitors . Clearly , it was believed that there was a direct correlation 
 and poverty ; in addition , improved health care was dependent upon a collaborative approach including a general awareness raising , an ability to control
 and treat infection and improve social conditions . The idea of improved family
 welfare was central to this provision of care [ 7 ]  . 
-Sanitary women : the way ahead
+Sanitary women : the way ahead 
  ‘ Sanitary women ’ proved beneficial and it was soon realised that the role had
 great possibility . Nevertheless , it was not until the turn of the century that the
 potential of health visiting was realised and London was the first borough to
@@ -2041,7 +2041,7 @@ The lay perspective of health : a health visiting view
 Health interpretation is variable as it means different things to different people . Firstly , it is worthwhile considering what health means to you . 
 Activity 3 . 3
 How would you define health ? Consider this from a personal and professional perspective . Take time to reflect upon this . 
-Most of us would concede that being healthy refers to the fact that we are
+Most of us would concede that being healthy refers to the fact that we are 
  ‘ fit and well ’ and have no medically defined illness . Arguably , the term ‘ health ’ 
 could be considered as abstract , and is a concept that requires further scrutiny . 
 Blaxter [ 45 ] suggests that the way in which we experience the world reflects
@@ -2495,7 +2495,7 @@ close the health divide . Meeting the needs of the local community ( in local se
 This paper embraces the ideology of Our Healthier Nation [ 103 ]  , Wanless [ 96 ] 
 and Choosing Health [ 50 ]  , building on current services and promoting health
 and well-being locally , suggesting health promotion should be integrated and
-responsive in nature and certainly an integral part of health visiting practice . 
+responsive in nature and certainly an integral part of health visiting practice .  
  ‘ Our health , our care , our say ’  [ 51 ] explores the potential of : 
  Health promotion and education ( prevention ) 
  Improved access to health and social care
@@ -4379,10 +4379,10 @@ in risk-taking behaviours , which are detrimental to health [ 43 ] and are often
 more vulnerable who still need access to high quality , accurate information . 
 Children and young people who are looked after by local authorities are ten
 times more likely to be excluded from school [ 44 ]  , which has a significant
-impact on their health , employment opportunities and economic well-being . 
+impact on their health , employment opportunities and economic well-being .  
  ‘ Hard-to-reach ’ groups
 The use of technology such as websites and text messaging are vital methods
-of communicating with today ’ s young people particularly those deemed to be
+of communicating with today ’ s young people particularly those deemed to be 
  ‘ hard to reach ’  . However , this term in itself is debatable as it is professionals who believe such groups are considered ‘ hard to reach ’  . But should this
 be turned on its head and may be it is the professionals and services who
 are actually ‘ hard to access ’ by some client groups such as young people not
@@ -5619,7 +5619,7 @@ to have less input for the day-to-day care ( as this is often carried out by sup
 staff who is with the child all day in school )  . The generic school nurse is more
 involved in drawing up plans of care that support the child , parents and school , 
 bringing together agencies to ensure the needs of the child are met . School
-nurses not only have a role to play in the assessment procedure but also with
+nurses not only have a role to play in the assessment procedure but also with 
  ‘ inclusiveness ’ comes the need to acquire knowledge and understanding of
 a wide range of conditions . In order to facilitate effective integration , school
 nurses should understand the effect these conditions may have on a child ’ s
@@ -5775,7 +5775,7 @@ School Nursing and School Health Practice 141
 given every opportunity to develop knowledge , skills and attitudes to enable
 them to make informed health choices . 
 Case Study 6 . 6 School nurse ’ s experience of PSHE
-programme
+programme 
  ‘ Before undertaking the PSHE programme I just went into school and
 delivered information on health . Completing the course has enabled
 me to consider the importance of planning sessions in conjunction with
@@ -6189,7 +6189,7 @@ organisations , contributing to government consultations , presenting at confer
 School Nursing and School Health Practice 147
 Case Study 6 . 8 How school nurses have contributed
 to the development of the immunisation policy for a
-Midlands Primary Care Trust
+Midlands Primary Care Trust 
  ‘ As part of our Specialist Community Public Health Nurse ( SCPHN ) degree we were given the opportunity to work in partnership with the PCT ’ s
 Immunisation Officer . We contributed comprehensively towards the development of the new immunisation policy for use by staff working within
 the Primary Care Trust . 
@@ -6684,7 +6684,7 @@ In 2006 , there were 4 . 5m businesses in the UK of which only 0 . 1% employed
 more than 250 people [ 14 ]  . This means that there are few ‘ in-house ’ OH services and a great need for SMEs to have access to some form of OH advice
 and support to care for the health of people at work . So , whilst the employer
 is always responsible for the OH and safety of his staff , in many organisations
-OH really begins with the person responsible for the ‘ human ’ resources or
+OH really begins with the person responsible for the ‘ human ’ resources or 
  ‘ personnel ’ within the organisation . Where there is a human resources department ( HR ) then they are usually responsible for employing the OH service and
 personnel and in turn the OH service personnel are answerable to HR . This is
 often controversial as there are schools of thought amongst OH professionals
@@ -6928,7 +6928,7 @@ Act is that it covers all employees ( except domestic servants ) for the first
 time ever and in Section 2 , it places responsibility for the health , safety and
 welfare of employees , as far as is reasonably practicable , squarely on the
 shoulders of the employer . It also requires employers to provide safe systems
-of working , as well as adequate training and supervision [ 25 ]  . The phrase
+of working , as well as adequate training and supervision [ 25 ]  . The phrase 
  ‘ as far as reasonably practicable ’ has been defined in law [ 26 ]  . Anyone in
 breach of the Act is subject to punishment through criminal prosecution and
 many prosecutions have taken place over the intervening years ; examples
@@ -7219,7 +7219,7 @@ employers and employees alike have been available and the report [ 37 ] from
 the government on the first 12 months is encouraging and positive . The initiative seems to be working . 
 Healthy eating
 The government statistics ( www . foresight . gov . uk ) on obesity show that there
-is wide spread obesity and this needs to be tackled . The government project
+is wide spread obesity and this needs to be tackled . The government project 
  ‘ Foresight ’ aims to ‘ to produce a long-term vision of how they can deliver a
 sustainable response to obesity in the UK over the next 40 years ’  . This is at a
 national level , but at a local employment level much can be done at work to
@@ -9404,7 +9404,7 @@ employer , even if it is through the OH service . It is best to find out the cos
 telephone if necessary before requesting . There is a saving to the company
 money in the long run if the correct approach is taken and the employee
 returned to work . 
-Principles of rehabilitation and case management
+Principles of rehabilitation and case management 
  ‘ Rehabilitation is not about forcing people back to work . Work , in fact , is often
 a crucial step in helping people return to health . And businesses have much
 to gain in terms of reduced sickness absence , and improved staff engagement
@@ -10177,7 +10177,7 @@ use in my work . I was also alerted to the feminine label attached to the
 .  
 .  
 . 
-Education and Continuing Professional Development 211
+Education and Continuing Professional Development 211 
  ‘ pinkness ’ of breast cancer . Would this alienate some sufferers ? Not all
 women may want to be associated with the ‘ Barbie doll ’ image and indeed
 breast cancer does not just affect the female gender . 

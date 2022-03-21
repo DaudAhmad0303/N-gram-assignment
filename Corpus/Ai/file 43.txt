@@ -7467,7 +7467,7 @@ Peter Asaro—a professor and philosopher of science , technology , and media at
 The New School in New York and another proponent of a ban on autonomous
 weapons—suggests it might be impossible . Asaro distinguishes “ public
 conscience ” from public opinion .  “  ‘ Conscience ’ has an explicitly moral
-inflection that ‘ opinion ’ lacks ,  ” he writes . It is a “ disservice to reduce the
+inflection that ‘ opinion ’ lacks ,  ” he writes . It is a “ disservice to reduce the 
  ‘ dictates of public conscience ’ to mere public opinion .  ” Instead , we should
 discern the public conscience “ through public discussion , as well as academic
 scholarship , artistic and cultural expressions , individual reflection , collective
@@ -7503,7 +7503,7 @@ IHL . From his perspective , ad hoc weapons bans are not just unnecessary , they
 are harmful . In a series of essays , Dunlap has argued that if we were really
 concerned about protecting civilians , we would abandon efforts to “ demonize
 specific technologies ” and instead “ emphasize effects rather than weapons .  ” 
-One of Dunlap ’ s concerns is that weapons bans based on a “ technological
+One of Dunlap ’ s concerns is that weapons bans based on a “ technological 
  ‘ snapshot in time ’  ” do not leave open the possibility for technology
 improvements that may lead to the development of more humane weapons later . 
 Dunlap cited modern-day CS gas ( a form of tear gas ) as an example of a weapon

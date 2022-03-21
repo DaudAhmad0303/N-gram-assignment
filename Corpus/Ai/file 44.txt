@@ -1118,7 +1118,7 @@ may be infinite )  .
 A useful class of functions for Proposition 4 . 3 counts the frequency of occurrence of 
 histories as sub-sequences . We define a function fh '  ( h ) for each h ' ∈ H . A history h ∈ H will have 
 max (  | h | - | h '  |  + 1 , 0 ) sub-sequences of length | h '  |  , and fh '  ( h ) is the proportion of these that equal h '  . If 
-| h | < | h '  |  , define fh '  ( h )  = 0 . If | h | ≥ | h '  |  , define :  
+| h |  <  | h '  |  , define fh '  ( h )  = 0 . If | h | ≥ | h '  |  , define :  
 ( 4 . 30 ) fh '  ( h )  =  ( ∑0≤i≤ | h | - | h '  | if ( ∃h1 . ∃h2 . h = h1h ' h2 . ∧ | h1 |  = i ) then 1 else 0 )  /  (  | h | - | h '  |  + 1 )  .  
 Before applying the functions fh '  ( h )  , we need to digress into the theory of Markov chains 
 ( Levin , Peres , and Wilmer 2008 ; Russell and Norvig 2010 )  . A finite stochastic loop program q is 

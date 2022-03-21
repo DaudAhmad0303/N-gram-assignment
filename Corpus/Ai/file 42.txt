@@ -117,7 +117,7 @@ the European Union ( Directorate-General for Internal Policies 2016 )  . Such go
 and economics , which naturally have ethical implications . 
 There is work by professional bodies such as the IEEE ’ s Standards Association
 Global Initiative for Ethical Considerations in the Design of Autonomous Systems , 
-which has a large number of strands of investigation motivated by their byline , 
+which has a large number of strands of investigation motivated by their byline ,  
  ‘ Values By Design .  ’ This is an ongoing project to produce both industry standards
 and discussion documents on various topics ( 
 indconn / ec / autonomous_systems . html )  . There ’ s work by research funding councils
@@ -311,9 +311,9 @@ We lament with Rodney King ,  ‘ Why can ’ t we all just get along ?  ’ And
 ourselves often think we personally could have done better . We have some idea of
 what St Augustine meant when he prayed ,  “ Grant me chastity and continence , but
 not yet .  ”  ( Augustine 2014 ) 
-Many philosophers have considered that we need morality because things are
+Many philosophers have considered that we need morality because things are 
  ‘ inherently such that things are liable to go very badly ’  ( Warnock 1971 )  , and that
-we can ’ t sort this out if left entirely to our own individual whim . Morality is a
+we can ’ t sort this out if left entirely to our own individual whim . Morality is a 
  ‘ device for counteracting limited sympathies ’  ( Mackie 1977 )  . But even among
 those thinkers broadly in this tradition of ‘ double deficit ’ where both we and the
 world are broken , there are significant disagreements . For instance , not all agree on
@@ -713,7 +713,7 @@ us do the right thing ( Zimbardo 2008 )  .
 The second is comprehensibility to others . Ethics demands a shared system
 of justification . In the Republic , Plato infamously argued that those in the top
 rung of society , the Philosopher Kings , dubbed the ‘ gold ’  , had a grasp of
-moral truths but that the lower orders , or those dubbed the ‘ silver ’ and
+moral truths but that the lower orders , or those dubbed the ‘ silver ’ and 
  ‘ bronze ’ in society , were incapable of full access such knowledge . 
 And a related aspect is accountability to others . A corollary of Plato ’ s
 views on knowledge and government is that , in governing those under them , 
@@ -1014,7 +1014,7 @@ The European Parliament ’ s report on European Civil Law on Robotics
 ( European Civil Law Rules in Robotics 2016 ) discusses the question of
 how precisely robots are defined . Legislation needs clear definitions . And
 robots come in a variety of forms . Robots may not involve AI as such . 
-One issue is whether we treat robots which don ’ t have autonomy differently from those that do . The report points out that medical robots fall into the
+One issue is whether we treat robots which don ’ t have autonomy differently from those that do . The report points out that medical robots fall into the 
  ‘ master / slave ’ category of robots , since they remain under the control of the
 surgeon or surgical team .  ‘ Nevertheless , the European Union absolutely must
 consider surgical robots , particularly as regards robot safety and surgeon
@@ -1124,7 +1124,7 @@ clear if the practice of using young boys in appalling conditions has been
 completely eradicated ( Peachey 2010 )  . So , has the rush to praise the use of
 tech to solve a moral issue been premature ? 
 There are moral pluses and minuses of the allure of technology . Note that
-one reporter describes how the robots were adopted because they were ‘ cool ’  : 
+one reporter describes how the robots were adopted because they were ‘ cool ’  :  
  ‘ the message is clear : pimp my camel ’  ( Schmundt 2005 )  . If we take this
 analysis at face value , it means that the very coolness and allure of technology
 served a good moral purpose , of helping to stop the use of boy jockeys where
@@ -1212,7 +1212,7 @@ it will be , therefore , artificial intelligence which leads us forward to the f
 which has formed the impetus behind our evolution , other evolutionary scientists
 beg to differ : our sociability , pair-bonding , and religion , are also prime candidates
 to explain our extraordinary success ( Barrett et al . 2002 ; Zauzmer 2017 )  . And with
-regard to developments in AI , some sensible humility about the impacts of human
+regard to developments in AI , some sensible humility about the impacts of human 
  ‘ intelligence ’ on civilisation , and a measured appraisal of our abilities to control AI , 
 is precisely what ’ s at issue . Yet the phrase seduces us into a world view that
 breathes the promise of human control over what we do . Such tunnelling of thinking
@@ -1256,7 +1256,7 @@ Virtually everyone is against eugenics . But many practices in modern
 medicine may be described as liberal eugenics , where the state does not
 mandate the practice , but actions by individuals under the banner of individual reproductive choice occur which change what kind of children are born . 
 Some hail this ; others note the strong arm of the state may be replaced by
-other pressures implicit in much modern medicine . Either way , the label
+other pressures implicit in much modern medicine . Either way , the label 
  ‘ liberal eugenics ’ is useful for catalysing debate ( Agar 2004 )  . 
 Are there equivalents of medicalisation and iatrogenesis happening in
 relation to AI ? Artificialintelligenciation is a bit of a mouthful which I freely
@@ -1701,7 +1701,7 @@ and experimentation on the dying was prohibited .
 This historically very early and impressive code of medical ethics ,  ‘ Guidelines
 for New Therapy and Human Experimentation ’  , was issued by the Reich Minister
 of the Interior in Germany in 1931 . It was not many years before doctors who were
-fully aware of such a code were involved in some of the worst atrocities of medical
+fully aware of such a code were involved in some of the worst atrocities of medical 
  ‘ experimentation ’ that human beings have ever done to other human beings 
 ( Vollmann and Winau 1996 )  . 
 4 . 4 The Context of Codes of Ethics
@@ -1859,7 +1859,7 @@ Internal Policies 2016 )  . It illustrates how reference to myth , legend , scie
 fiction and popular culture are routinely referred to in policy and ethics
 discussions regarding AI in general and robotics in particular . But note how
 the rhetorical reference to such stories can help shape the thinking that then
-goes to frame how the surrounding policy is read and understood . Here , 
+goes to frame how the surrounding policy is read and understood . Here ,  
  ‘ Western ’ responses to robots are contrasted with those of the ‘ Far East ’  : 
 1 Western fear of the robot
 The common cultural heritage which feeds the Western collective conscience could mean that the idea of the “ smart robot ” prompts a negative
@@ -1887,7 +1887,7 @@ immediate creation of a legislative instrument governing robotics and artificia
 8 ] is therefore rooted in a similar scientific context .  ( p 10 ) 
 Here , the West is seen as having a negative attitude of fear towards
 robotics , and the document itself then expresses a fear of its own , that this
-may ‘ hamper the development of the robotics industry ’  . But note how Western attitudes are presented as emanating from tales and myths , framed only as
+may ‘ hamper the development of the robotics industry ’  . But note how Western attitudes are presented as emanating from tales and myths , framed only as 
  ‘ ancient tales ’ and ‘ romantic works ’  . However , the positively presented Far
 Eastern attitudes are presented with a more solid underlying metaphysics or
 ideology—in Japan , that of Shintoism . This contrast then automatically 
@@ -1922,14 +1922,14 @@ Western collective conscience ’  .
 4 . 5 Can Codes of Ethics Make the Situation Worse ? Yes
 We ’ ve seen that codes of ethics need a strong institutional backing to function
 effectively . But codes of ethics can actually make matters worse . 
-Separation of ethics from ‘ life ’  : The very idea of parcelling ethics into a formal
+Separation of ethics from ‘ life ’  : The very idea of parcelling ethics into a formal 
  ‘ code ’ can be dangerous , if it leads to the attitude that ethics itself is just some
 separate part of life and of activities . Such a risk exists if the code is presented as a
 set of instructions to user .  ‘ Perceptions that a code presents the voice of an external
 authority frequently go along with a defensive and punitive institutional ethos that
 suggests to code users that it is necessary to lie low and keep out of trouble in order
 to avoid threats of criticism , negative judgement and punishment ’  ( Bowden and
-Surma 2003 ) p 26 . 
+Surma 2003 ) p 26 .  
  ‘ Can ’ t someone else do it ?  ’ Homer Simpson once ran for Sanitation Commissioner of Springfield under this banner ( Trash of the Titans 1998 )  . It didn ’ t go so
 4 . 5 Can Codes of Ethics Make the Situation Worse ? Yes 53
 well . The existence of a code of ethics would be problematic if it encouraged the
@@ -1949,7 +1949,7 @@ working on different aspects , to contemplate these problems .
 And codes and regulations may encourage ‘ work to rule ’ —to work up to the
 regulation , up to the code , and no further ; to the letter of the code , not the spirit . 
 This may be especially problematic in some areas , such as those pertaining to
-safety . Well known examples of operating to the letter , not the spirit , include
+safety . Well known examples of operating to the letter , not the spirit , include 
  ‘ shopping around ’ for a tame ethics review board , or operating in countries where
 the standards are not so tight ( Gulhati 2005 )  . 
 So , a code of conduct might produce a ‘ tickbox ’ culture of ethical complacency
@@ -2034,7 +2034,7 @@ Keep calm , dear : There is also a danger that a code of ethics might actually b
 serving the purpose of calming public anxiety , without actually managing to make
 an iota of difference to the substance of warranted public concerns . Ethical regulation of new technology might serve to placate concerned groups and individuals
 and the very existence of regulation around a new technology or practice might
-make the unpalatable seem more palatable ( Bryson 2012 ; Dingwall 2008 )  . 
+make the unpalatable seem more palatable ( Bryson 2012 ; Dingwall 2008 )  .  
  ‘ Administrative Evil ’ 
 Work such as the book Unmasking Administrative Evil , which looks closely
 at the root sources of many technological catastrophes and institutional
@@ -2366,7 +2366,7 @@ of work . Technological changes are likely to have global impact in at least som
 cases , and the implications of this for how we think about universal values such as
 human rights , for relativism , and for cultural diversity are briefly considered . 
 Lastly , as one solution to the complex task of developing ethical guidance for AI , 
-a proposal is to ensure diverse participation in discussions ; what is meant by
+a proposal is to ensure diverse participation in discussions ; what is meant by 
  ‘ diversity ’ in this context , and why it is essential especially for AI , is discussed
 with reference to some recent research findings . 
 6 . 1 Social , Cultural and Technological Change and Ethics
@@ -3473,7 +3473,7 @@ for Kant and for his followers , the demands of rationality , and hence the dema
 morality , are not ‘ external ’ to us . 
 Some tricky concepts that are likely to crop up : Note that there are many
 concepts where values are deeply implied , but which may not at first sight seem
-purely value terms themselves ( Williams 1985 )  . For example , consider the word
+purely value terms themselves ( Williams 1985 )  . For example , consider the word 
  ‘ parent ’ which we discussed earlier . We also looked at the notion of ‘ bias ’ which
 seems at first sight always wrong , but which on inspection , things are not so clear . 
 The notion of trust is often used in relation to AI , especially in robotics , but again , 
@@ -3555,7 +3555,7 @@ relation to concrete particulars should also be easier .
 Diversity in participation is needed in drawing up , revising , critiquing and
 implementing codes of ethics . The potentially transformative nature of AI
 heightens the need for diverse , constructive and creative input . We need diversity
-of opinion , thinking style , status , interests , experience , and of position in hierarchies ; however , beware of falling into the trap of having ‘ tick box ’ quotas for
+of opinion , thinking style , status , interests , experience , and of position in hierarchies ; however , beware of falling into the trap of having ‘ tick box ’ quotas for 
  ‘ diversity ’  . Consideration might be given to ensuring that diverse personality types
 are represented , to gain a full range of thinking styles . In addition , subject matter
 experts from outside the realm of AI , such as lawyers , economists , social scientists , 
@@ -3643,7 +3643,7 @@ the ‘ good for man ’ on the ‘ function ’ of mankind , which is our uniqu
 102 8 Some Suggestions for How to Proceed
 But not only is such an account far more controversial in the twenty-first
 century . One feature of AI is the way in which raises questions about
-humanity ’ s ‘ uniqueness ’ or otherwise , and raises questions about what our
+humanity ’ s ‘ uniqueness ’ or otherwise , and raises questions about what our 
  ‘ true nature ’ really is . By presenting us with such destabilising thoughts , by
 potentially bringing wide ranging changes to society and to how we interact
 with the world , AI produces precisely the polar opposite of the relatively

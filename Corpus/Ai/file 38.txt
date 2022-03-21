@@ -833,7 +833,7 @@ Bold and unconventional explorations to use robots in-sync with live human actor
 dancers on stage are few but commendable and may be the definition of a newer realm of
 acting and stage performance . Francesca Talenti ’ s play ‘ The Uncanny Valley ’  [ 1 ] which has
 22  From AI to Robotics : Mobile , Social and Sentient Robots
-FIGURE 1 . 15 Maria , the first ever robot in cinema was in Fritz Lang ’ s 1927 silent movie , 
+FIGURE 1 . 15 Maria , the first ever robot in cinema was in Fritz Lang ’ s 1927 silent movie ,  
  ‘ Metropolis ’  . Made in Weimar Germany , the movie was a science fiction tale set in a dystopian
 future . Shown here is a commemorative statue of the robot at the Filmpark , outside the Babelsberg
 studio where the movie was made . Image courtesy commons . wikimedia . org . 
@@ -858,7 +858,7 @@ Though popular , the laws have been found to conflict with one another and are l
 applications , Academic opinion and research into robot ethics has been more inclined towards a
 developmental approach than a codification of laws . More on the shortcomings of Asimov ’ s law is
 in Chapter 8 . 
-a robo-thespian robot , Oriza Hirata used a Wakamaru robot and Blanca Li ’ s dance drama
+a robo-thespian robot , Oriza Hirata used a Wakamaru robot and Blanca Li ’ s dance drama 
  ‘ ROBOT ’ had seven Nao robots dance on stage synchronously with eight human dancers . 
 Other than the movie and entertainment industry , mobile robotics is the heart and soul
 of space research . It is being extensively used in the military and medical surgery and it also
@@ -1038,7 +1038,7 @@ probably such as the ones designed by Philon and in Japanese Karakuri puppets . 
 definition is based on the ability of the robot to engage in real-world tasks , without external
 control , it is tempting to consider that the robot is truly ‘ thinking ’ as it is processing data
 from sensors to a processing unit to actuation much like the human brain ; however this is
-merely executing a code piece and not ‘ thinking ’ per se . Chapter 9 will try to focus on the
+merely executing a code piece and not ‘ thinking ’ per se . Chapter 9 will try to focus on the 
  ‘ thinking ’ faculty and sentient action in robots . Particular goals for the robot may either be
 specific , such as line following , light tracking or picking up empty coke cans , or a number
 of chores which converge towards a predetermined profile such as a military robot , a nurse
@@ -1271,13 +1271,13 @@ happens due to perception-action pairings . Situated cognition involves a contin
 process , where perceptual information continues to flow through the sensors which
 leads to motor action which in turn changes the environment in task-relevant ways . 
 Walking , tightening a screw , switching on a light bulb are some examples of situated
-cognition . Wilson points out that large portions of human cognition takes place
+cognition . Wilson points out that large portions of human cognition takes place 
  ‘ off-line ’  , without any task relevant input and output , thus without any appreciable
 participation of the environment , and by definition is not situated . Creative thought
 processes such as writing a letter or scripting musical notes are examples . 
 2 . Cognition is time-pressured . Embodied cognition is often accompanied with the
 terms ‘ real time ’ and ‘ run time ’  . Since , embodied cognition is situated , it requires
-real-time response from the environment . The time pressure , if not met , leads to
+real-time response from the environment . The time pressure , if not met , leads to 
  ‘ representational bottleneck ’ and instead of a continuously evolving response the
 system fails to build a full symbolic model . Behaviour-based approach is a remedy
 to such bottlenecks , and proceeds by generating situation-appropriate action on the
@@ -1333,7 +1333,7 @@ of the above four criterion doesn ’ t yet exist .
 niche with the world . AI agents typically lack in universality and the versatality seen
 in human intelligence , and are often designed for a particular niche . The execution
 of a behaviour is done in the real world by the capabilities afforded by the agent
-world interactions . For example , a line follower will not heed any command such as , 
+world interactions . For example , a line follower will not heed any command such as ,  
  ‘ move forward ’  , until its sensors can perceive the black / white line it is supposed to
 follow . Similarly , flocking algorithms in multi robot systems are designed considering
 a sufficiently large flock , and are found to be ineffective with low number of robots . A
@@ -1473,7 +1473,7 @@ FIGURE 2 . 5 ‘ UMWELT ’ — Unique Phenomenal World . Here the ‘ UMWELT �
 shown as a soap bubble is more or less determined by its echolocation . The phenomenology is
 unique to the creature , and helps it to perceive its world . The bat is also a topic of interesting
 discussion in artificial consciousness , as will be seen in chapter 9 . 
-reduced speeds — like a slow-motion camera — thus their ability to hunt down their
+reduced speeds — like a slow-motion camera — thus their ability to hunt down their 
  ‘ slow moving ’ prey . 
 3 . Bee : It has been observed that bees have a preference for alighting on objects which
 have broken shapes such as stars and crosses , and are seen to avoid compact forms
@@ -1601,7 +1601,7 @@ self-constitution is the agent ’ s identity , which is conserved during coupli
 ( continous arrows )  . The coupling relations change with adaptivity ( dotted arrows )  . Adapted from
 Froese and Di Paolo [ 113 ]  . 
 The experience of vision occurs when the agent has mastered or experienced , over a
-good number of times , these known laws of how the brain codes visual attributes , to develop
+good number of times , these known laws of how the brain codes visual attributes , to develop 
  ‘ sensorimotor contingencies ’ and enable explorative sensing in other words , enactive inquiry
 of the world . As we have seen , vision is strongly tied to action and it is arguably the most
 important sensing capability of enactive agency . 
@@ -1883,7 +1883,7 @@ harassed in previous weeks . Employing such methods to correlate to human condit
 led to attempts to find treatments for sepsis , burns and trauma . Thus tailoring the clinical
 trials also effectively bringing down the cost of such trials . A further goal of this research is
 the prospect to extend such trials to the domain of mental disorders such as schizophrenia
-and anxiety disorder . WR-3 is a continuation of efforts from Waseda University from the
+and anxiety disorder . WR-3 is a continuation of efforts from Waseda University from the 
  ‘ Mental Model Robot ’ group , on rat-robot interactions over the last 17 years . 
 A similar project is the iRat , which is an acronym for Intelligent Rat ANIMAT
 Technology [ 28 ]  , as shown in Figure 2 . 17 , was developed at the University of Queensland as
@@ -2251,7 +2251,7 @@ evolution where increasing intelligence and adaptability lead to superior life f
 illustrated these attributes of evolution with what he called the ‘ Tower of Generate-and-Test ’ 
 in his book , Darwin ’ s Dangerous Idea . In this tower , lower down are unintelligent lifeforms
 and intelligence and adaptability increase with each successive level , which are however
-are smaller and a subset of the level below it . Each level can be identified with a
+are smaller and a subset of the level below it . Each level can be identified with a 
  ‘ Generate-and-Test mechanism . 
 Darwinian creatures have only natural selection as their ‘ Generate-and-Test ’ 
 mechanism ; mutation and selection are the only way that these creatures can adapt as
@@ -2434,7 +2434,7 @@ meaning of objects and action can be gradually ascertained , or completely negle
 if it doesn ’ t matter to the robot . For example for a robot with low-level behaviour it
 will hardly mean much if an obstacle is a book , brick or a box . All it needs to do is
 avoid the obstacle . Therefore , in embodied cognition the symbol grounding problem
-is more of a technical problem than a problem of cognition , and Vogt [ 340 ] calls it the
+is more of a technical problem than a problem of cognition , and Vogt [ 340 ] calls it the 
  ‘ physical symbol grounding problem ’  . 
 3 . As a philosophical limitation of human cognition : The need for meaning is higher-level
 76  From AI to Robotics : Mobile , Social and Sentient Robots
@@ -2591,7 +2591,7 @@ motivated by the hypothesis that the world can be represented by means of a larg
 number of symbols designating the objects and actions in the world and by a set of
 9Representation free approaches faced severe opposition in the AI community . There is ample literature
 dating back to the mid 1980s where such work is labeled with an oxymoron ,  ‘ reactive planning ’  . James
-Firby ’ s PhD thesis is often said to be a watershed as it changed the phrasing from ‘ reactive planning ’ to
+Firby ’ s PhD thesis is often said to be a watershed as it changed the phrasing from ‘ reactive planning ’ to 
  ‘ reactive execution ’  . 
 80  From AI to Robotics : Mobile , Social and Sentient Robots
 FIGURE 2 . 33 A conversation turns bizarre . With too many representations in a real-world
@@ -2711,7 +2711,7 @@ agent , but Toda has no mention of the word autonomy or autonomous in the paper 
 may save the latter by selling its fungus storage in exchange for the latter ’ s uranium . 
 What should be the price ?  ”  . This would call for extending Toda ’ s model into game
 theoretic discussions , however the problem remains to be answered . 
-3 . Lacan has used ‘ INNENWELT ’  , or the inner world in contrast to Uexkull ’ s
+3 . Lacan has used ‘ INNENWELT ’  , or the inner world in contrast to Uexkull ’ s 
  ‘ UMWELT ’ to mean the mental experience of the self . 
 84  From AI to Robotics : Mobile , Social and Sentient Robots
 4 . At his popular webcomic xkcd , Randall Munroe briefly discussed the applications and
@@ -2747,7 +2747,7 @@ environment .
 to a situation rather than using critical thinking . 
 11 . Pavlovian conditioning was a major theme in Aldous Huxley ’ s dystopian novel ,  ‘ Brave
 New World ’  . 
-12 . The enactive virtues of vision are further discussed in Merleau-Ponty ’ s splendid essay , 
+12 . The enactive virtues of vision are further discussed in Merleau-Ponty ’ s splendid essay ,  
  ‘ Eye and Mind ’  [ 227 ]  , which explores the concept from both physiological and also
 philosophical points of view . 
 EXERCISES
@@ -3029,7 +3029,7 @@ century , we have come to recognise motion as a strict mathematical model . Howe
 of being entities adhering to engine power for drive & control , axiomatically scripting the
 mass times acceleration , these ‘ creatures ’ born out of the artificial , are triggered , motivated
 and propelled by external stimuli which seem to influence their emotions . 
-If ‘ love ’ made them approach a light bulb with eagerness and a desire for proximity , then
+If ‘ love ’ made them approach a light bulb with eagerness and a desire for proximity , then 
  ‘ anger ’ made them emphatically rush towards the same light bulb in an attempt to crush
 it . When in pairs , a set of two similar vehicles concerted to a dance , very similar to the one
 by Walter ’ s Turtles . 
@@ -3039,7 +3039,7 @@ permission .
 The idea of a world with such vehicles , interacting , willfully cooperating and developing
 social niches is a romantic extension of the Braitenberg model . Such a world is illustrated
 in sketches by renowned artist and animator , Emmy prize winner , Maciek Albrecht . 
-Braitenberg ’ s classic [ 44 ]  , included a 10-page portfolio by Albrecht ; 
+Braitenberg ’ s classic [ 44 ]  , included a 10-page portfolio by Albrecht ;  
  ‘ This portfolio of vehicles , some placidly at rest , most madly careening over
 the landscape of the artist Maciek Albrecht ’ s imagination , illustrates only a few
 of the many marvelous “ creatures ” inspired by Valentino Braitenberg ’ s text ’ 
@@ -3346,8 +3346,8 @@ paradigm , instead of layers of control it uses a schema-based vectorial approac
 FIGURE 3 . 19 SR diagram for a trash-collecting robot designed using subsumption
 architecture . Simple operations such as wandering are put at the lowest end , with more involved
 behaviours such as pickup and homing are higher up . The higher levels suppress the lower levels . 
-The robot can identify the trash item ( s ) on seeing them at a detectable distance . The robot
- ‘ wanders ’ as long as the trash is not seen ; once the trash is seen by the robot ’ s sensors then
+The robot can identify the trash item ( s ) on seeing them at a detectable distance . The robot 
+ ‘ wanders ’ as long as the trash is not seen ; once the trash is seen by the robot ’ s sensors then 
  ‘ avoiding ’ obstacles and reaching the trash suppresses ‘ wandering ’  , at the site of the trash ‘ pick
 up ’ suppresses ‘ avoiding ’ and once the trash has been ‘ picked up ’ then ‘ homing ’ back to a
 dumping yard suppresses ‘ pick up ’  . A trash collecting and foraging robot can be made from the
@@ -3417,7 +3417,7 @@ can be interpreted as a corollary to the energy level for Beer ’ s cockroach s
 heuristic which determines the arousal and satiation level for food . Each behaviour also
 has some minimal requirements known as activation levels that have to be met in order to
 be active . These levels also decay over time . From all the active behaviours , the one with
-the highest activation level is chosen for actual execution . Maes was motivated by Minsky ’ s
+the highest activation level is chosen for actual execution . Maes was motivated by Minsky ’ s 
  ‘ society of mind ’  , arbitrary agents interacting locally to lead to an effective working of a
 society . However , Maes ’ work also bears similarity to that of Tinberg and Baerends , and
 extends from biology to AI . 
@@ -3641,7 +3641,7 @@ representations and maintains that recreating insect-like behaviour in robots is
 elicit higher levels of intelligence . Kirsh associates representations with perception , learning and
 control , thus making it imperative in development of human like intelligence . Brooks replied to
 this criticism by suggesting that the behaviour-based paradigm needs to incorporate cognitive
-approaches to develop humanoid robots with human-like faculties , Brooks named this discipline
+approaches to develop humanoid robots with human-like faculties , Brooks named this discipline 
  ‘ cognobotics ’  . 
 3 . 5 . 2 Extending reactive approach to higher functions
 Brooks ’ hypothesis of ‘ reason and representation free ’ AI works very well for situationally
@@ -3657,7 +3657,7 @@ as wandering , avoiding obstacles and wall following will never be sufficient to
 higher levels of intelligence , as shown in Figure 3 . 27 . Kirsh agrees that 97% of human
 behaviour is nonrepresentational , however in the remaining 3% , human beings engage in
 cerebral activities , the typical non-trivial aspects of human intelligence which lack in reflexes
-and animal intelligence . Kirsh argues that there is a limit to which a creature can go without
+and animal intelligence . Kirsh argues that there is a limit to which a creature can go without 
  ‘ concepts ’ 4 and for higher level intelligence there is a need to have conceptual representations
 in action , perception , learning and control [ 112 ]  . 
 Kirsh ’ s criticism however doesn ’ t suggest any other method to achieve artificial
@@ -3674,7 +3674,7 @@ FIGURE 3 . 28 Two modes of cognition . Higher life forms as human beings at leas
 modes of cognition , reactive and deliberative which work in tandem . 
 to develop human-like intelligence by simulating and understanding complete animal like
 systems at a simple level . The shortcoming is most glaring in more sophisticated behaviours , 
-and since cognition is not limited to reflexes in higher beings . Neuroscience also suggests two
+and since cognition is not limited to reflexes in higher beings . Neuroscience also suggests two 
  ‘ modes ’ of human behaviours as shown in Figure 3 . 28 . Similar ideas have been suggested
 by Steve Pinker for two levels of consciousness in higher life forms such as human beings
 which will be discussed in Chapter 9 . 
@@ -3688,7 +3688,7 @@ Philosophical concerns nearly always dovetail with agent-based robotics , and th
 be seen in later chapters inquiring into ethical robots , artificial consciousness and super
 intelligence . 
 In the early 1960s , agent-based robotics was conceived more as an extension of
-the computer and therefore intelligence was approached as the Cartesian model of the
+the computer and therefore intelligence was approached as the Cartesian model of the 
  ‘ thinking thing ’  , and information processing was central to this model . The robot had
 to sense the local environment , make maps and find out the most suitable paths to the
 goal point , and then move these paths . This process of sense-plan-act was cyclically
@@ -3738,7 +3738,7 @@ making of his robot Cog , and coined it as a ‘ second shift ’  [ 55 ] in beh
 a leaning towards cognitive robotics . He believed that bodily form and morphology of the
 human like robot , development of artificial motivation — which will naturally prioritise
 events , coherent action of various smaller subsystems and adaptation to motor control 
-& world dynamics will play important roles in the ‘ second shift ’  . Development of such
+& world dynamics will play important roles in the ‘ second shift ’  . Development of such 
  ‘ cognobots ’ will have to be channeled through an integrated approach where the cognitive
 development , sensor engineering and integration and morphological design work in parallel
 and the various subteams are aware of the workings of each other . It is imperative that
@@ -3861,7 +3861,7 @@ NOTES
 developed by Khatib as a navigation algorithm . It is interesting to note that though
 there has been many newer paradigms as ND , DWA , Bubble band etc for autonomous
 navigation , but none of them have found their way to being a robot control architecture . 
-2 . Much like the ‘ earwings ’ papers , Lammens and co-researchers published a paper titled , 
+2 . Much like the ‘ earwings ’ papers , Lammens and co-researchers published a paper titled ,  
  ‘ Of Elephants and Men ’  , which was critical about Brook ’ s paper ,  ‘ Elephants do not
 play chess ’ and also introduced the GLAIR architecture . 
 3 . With tongue in cheek humour Horswill expresses deliberative approach with the
@@ -3881,7 +3881,7 @@ analysis is futile .
 5 . The term global is often associated with deliberative paradigms , while local with reactive
 paradigms . However , Murphy illustrates that such a strict distinction is not possible
 in hybrid systems
-6 . The critics of Dreyfus made a pun regarding his interpretations of Heidegger as
+6 . The critics of Dreyfus made a pun regarding his interpretations of Heidegger as 
  ‘ Dreydegger ’  . As Woessner puts it ;  “ Dreydegger is a philsophical Frankenstein . 
 Consisting of pieces borrowed from the philosophy of the mind , existentialism , 
 pragmatism , and both the analytic , and continental traditions , it somehow manages
@@ -4106,7 +4106,7 @@ etc . two variations named as Bug-1 and Bug-2 , as shown in Figure 4 . 3 . Bug-1
  135
 as an exhaustive search algorithm while Bug-2 is an opportunistic variant designed with a
 greedy algorithm . 
-All Bug algorithms and their later derivatives essentially incorporate two behaviours ; 
+All Bug algorithms and their later derivatives essentially incorporate two behaviours ;  
  ‘ motion to goal ’ and ‘ boundary following ’  . Over the years modification of these two
 algorithms has added novelty , some popular ones are , Tangent Bug , Polar Bug , Optim
 Bug , Pot Bug , I Bug etc or they have been used along with another path planner as a
@@ -4588,7 +4588,7 @@ points ( subgoal point ) on the map . The loop taken by the robot ( Flag point-1
 for surveillance is nearly the same for all its pursuits and machine learning techniques ( as ANN , 
 Fuzzy logic ) helps to keep the robot to its path for each loop and helps to avoid changes due to the
 diminishing onboard power , uneven terrain , weather conditions , environmental factors as storms , 
-wear & tear , lack of regular maintenance etc . The robot was designed for simple behaviours as , 
+wear & tear , lack of regular maintenance etc . The robot was designed for simple behaviours as ,  
  ‘ motion to ( sub ) goal ’  ,  ‘ obstacle avoidance ’ and ‘ take photograph ’  , long term surveillance is a new
 and superior behaviour developed by machine learning techniques . 
 by using machine learning techniques , and over time it develops surveillance as a superior
@@ -4675,7 +4675,7 @@ the blind .
 3 . A ? is not recommended for sensor based navigation , as it depends on heuristic
 evaluation of a given node of a grid , and may lead to discontinuities as the robot
 traverses from one node to another . 
-4 . Braitenberg vehicle-5 is motivated from the Turing Machine and is said to have a
+4 . Braitenberg vehicle-5 is motivated from the Turing Machine and is said to have a 
  ‘ brain ’  , this is achieved with threshold devices plugged between sensors and motors . 
 Some threshold units will fire only when the signal is above threshold , while others
 will only stop firing when threshold is exceeded , in effect establishing two states of
@@ -5950,7 +5950,7 @@ i = 1 e
 jθi
 
 
-
+ 
  
  
  
@@ -6817,7 +6817,7 @@ the infant to ape their action of first hiding and then showing face with a call
 of ‘ peek-a-boo ’  . For the game , the researcher takes the role of the caring adult and
 encourages KASPAR with calls of ‘ peek-a-boo ’ to hide its face . KASPAR of course
 perceives this as an increase in sound intensity and a simultaneous detection of a face
-by its cameras . It was seen that nearly 67% of the time , encouragement with a call of
+by its cameras . It was seen that nearly 67% of the time , encouragement with a call of 
  ‘ peek-a-boo ’ met with the robot repeating the action of hiding its face and without
 an encouragement the robot did not repeat the action . The interaction history of the
 experiment was stored in KASPAR ’ s memory and with time and more interaction
@@ -6892,7 +6892,7 @@ plays and dance drama [ 311 ]  . Francesca Talenti ’ s ,  ‘ The Uncanny Vall
 a robothespian robot as an actor and had the stage name Dummy . It was made to
 perform through a puppetier while the human actors trained to sync their performance
 228  From AI to Robotics : Mobile , Social and Sentient Robots
-and dialogues , Oriza Hirata at University of Osaka used a Wakamaru robot in his play
+and dialogues , Oriza Hirata at University of Osaka used a Wakamaru robot in his play 
  ‘ Hataraku Watashi ’  ( I , Worker )  [ 317 ] but the most eloquent use of robot performers is
 probably by choreographer Blanca Li [ 203 , 204 ] in her dance drama ,  ‘ ROBOT ’  . 
 In collaboration with musical artist Maywa Denki and Aldebaran robots , the dance
@@ -7175,7 +7175,7 @@ society .
 NOTES
 1 . The ELIZA effect : the tendency to unconsciously assume computer behaviours are
 analogous to human behaviours
-2 . Robots aiding and assisting human beings in domestic environments were coined as
+2 . Robots aiding and assisting human beings in domestic environments were coined as 
  ‘ co-inhabitant robots ’ by Goldberg
 3 . As a shortcoming , Inkha ’ s speech did not correspond to its lip movement
 4 . Stiquito started as a low-cost experimental project and has been used in classrooms to
@@ -7251,7 +7251,7 @@ where the onus of ethics is more with the programmer than the robot or the user 
 Programmer ( s ) → Robot → User ( 8 . 1 ) 
 However , embodied AI can take a life of its own thus the workings of the robot and that
 of the user can blur out [ 235 ]  , leading to an overlap of ethical values . In the simplest scenario
-ethics can be programmed-in as conditional loops . For example Roomba demonstrates an
+ethics can be programmed-in as conditional loops . For example Roomba demonstrates an 
  ‘ ethics of self preservation ’ as it avoids its own destruction by not falling off edges and the
 PR2 adheres to ‘ ethics of subservience ’ by playing billiards with the human master when
 commanded . Such values are no more than illusory , implemented with lines of codes lacking
@@ -7336,7 +7336,7 @@ a precise set of rules , rather it is an inbuilt grammar which contains principl
 a number of belief systems ; social beliefs , collective opinion , geographical influences , cultural
 beliefs , religion , position in society etc . Though these vary with region , race and country , the
 following are some common features that are more or less acceptable universally [ 119 , 138 ]  :  
-( a ) Reciprocity — both in aggressive intent , viz .  ‘ an eye for an eye ’ and benevolence , viz . 
+( a ) Reciprocity — both in aggressive intent , viz .  ‘ an eye for an eye ’ and benevolence , viz .  
  ‘ the good comes back to you ’  .  
 ( b ) A general acceptance of moral code apparently without any edicts or laws . A person
 lacking such is often ostracised as rude , anarchist , lunatic or unsocial .  
@@ -7561,7 +7561,7 @@ concept of moral agency in a robot . Adapted from Wallach and Allen [ 343 ]  .
 FIGURE 8 . 7 NS-4 , Robocop and Cylons , The NS-4 bust used in the movie I , Robot , Robocop
 and Cylon Centurian . Robots which are high on ethical sensitivity and also on autonomy are still
 a lore of science fiction . All three images are in public domain , courtesy wikipedia . org . 
-move around . Some of the fictional robots , as shown in Figure 8 . 7 , the NS-4 from the movie
+move around . Some of the fictional robots , as shown in Figure 8 . 7 , the NS-4 from the movie 
  ‘ I , Robot ’ and Nexus-6 from ‘ Blade Runner ’  , will be the best examples for robots in the
 domain of functional morality . NS-4 could take conscious decisions based on information
 acquired and also adhere to the broad altruism of doing good for the human race while
@@ -8550,7 +8550,7 @@ and it is expected that robots obey commands rather than make up their own mind 
 controlling smart slaves . AI researchers contend that military robots should be designed on
 the principle of ‘ divine command ethics ’  , where the command seemingly comes from God
 — a superior entity , whose judgement is not to be questioned . However , there is opposition
-to such an approach , as it requires an artificial agent to follow communications from an
+to such an approach , as it requires an artificial agent to follow communications from an 
  ‘ oracle like , know it all ’ system which suppresses a natural sense of moral values . If such
 a system is put in place , our robots will function to forgo an ethical binding , and blindly
 follow command from this God-like oracle . Thus ethics will work to minimise ethical values
@@ -8559,7 +8559,7 @@ War and aggression in the coming years are supposed to be very different from wh
 have ever seen . It is projected that war will be conducted with seasoned human commanders
 in charge of a ‘ kill switch ’ to prevent an AI take over . Unlike previous wars spread over weeks , 
 months and years , AI agents will wage the combat faster than what meets our senses . Singer
-predicts that such warfare may be most effective for robots and robot systems operating as
+predicts that such warfare may be most effective for robots and robot systems operating as 
  ‘ packs ’ or rather as a swarm — a natural system evolving to an optimum for the cause of
 war . The threat to such a route to war is that robots and computer code are not loyal to
 a military unit , government or country and may possess more intelligence than the human
@@ -8796,7 +8796,7 @@ our interactions with the world . This growth which starts early in the life of 
 continues for most of his / her lifetime . It is generally agreed that at the age of eighteen one
 attains decision-making ability , and thus the privilege of full moral agency . Therefore , as
 a direct correlation , consciousness cannot happen at one go or with a programming script , 
-and it is only shows up as a gradual process of awareness , and ‘ learn by observation ’ and
+and it is only shows up as a gradual process of awareness , and ‘ learn by observation ’ and 
  ‘ learn by doing ’ paradigms are important tools for development of the conscious robot . 
 Consciousness and self awareness are not really independent of each other and in tandem
 signify the ability to look inward to associate known facts , information , previous experience
@@ -8951,20 +8951,20 @@ shortcoming has led critics to question qualia and render it more as an illusion
 which is very personal and is gauged by an experiential quotient of the agent and
 which is often buoyed by social interactions and therefore lacks in generality which is
 anywhere between an idiosyncrasy and an individual opinion . For example the ‘ redness ’ 
-of an apple is subjective and what is perceived by one person , will be different from the
+of an apple is subjective and what is perceived by one person , will be different from the 
  ‘ redness ’ of the same apple perceived by another person . Qualia is further apparent , 
 since human cogintion works via abductive reasoning and bodily computations — both
 of which have not yet been replicated in the artificial domain . 
 Minsky ’ s ‘ Society of Mind ’  , attributed conscious behaviour not to one single aspect or
 state , but to the working of a number of AI agencies in tandem . A society of agents and
-intelligence was due to the vast diversity of such agencies and not to a single principle or
+intelligence was due to the vast diversity of such agencies and not to a single principle or 
  ‘ magic elixir ’  . These ideas were a direct influence in the behaviour-based architectures for
 robots . Parallel processes working independently have also been suggested by Dennett in
 his theory of ‘ Multiple Drafts Model Of Consciousness ’  . He proposed that the mind and
 the brain are not separate from each other nor is there a unique setting in the brain where
 conscious experience occurs . Instead the brain consists of a number of nearly independent
 agencies interfacing experience to the memory , and the serial account of emergence in these
-parallel processes is consciousness . The memory is central to this approach , and the mind
+parallel processes is consciousness . The memory is central to this approach , and the mind 
  ‘ constructs ’ its own truths by selective rectification of memories to help consolidate desired
 facts , or alternatively has a prior bias as to what is observed . Therefore , conscious experience
 doesn ’ t happen instantaneously but is graduated over a timeline and is not dependent on one
@@ -9233,7 +9233,7 @@ Also , the designers of the AI entity must not be able to explain how it led to 
 bout of creativity . The test is named in honour of Lady Lovelace , widely considered to be
 the first programmer . Her opinion was that computers can never be as intelligent as humans
 because they merely do what we program them to do and they lack the ability to originate
-an idea that they weren ’ t designed to . Similar thinking guided Bringsjord and his team . An
+an idea that they weren ’ t designed to . Similar thinking guided Bringsjord and his team . An 
  ‘ upgrade ’ to version 2 . 0 of the Lovelace test was designed by Riedl [ 258 ] at Georgia Tech
 which adds a criterion to gauge the humanly quantum of creativity . Riedl proposes that the
 interrogator assign tasks with two components . The first is an inquiry into a creative aspect
@@ -9246,7 +9246,7 @@ In a broader perspective , the Turing test is an answer to the question , what c
 person ? With technology , the definition of personhood has been changing . Beings with :  ( 1 ) 
 with voice processing and speech synthesiser ,  ( 2 ) with NLP and power words typically in
 chatbots ,  ( 3 ) thoughts — as deduced in MRI scans and ( 4 ) experiences such as immersive
-gameplay and sophisticated VR such as the occulus rift , are also construed as nearly a
+gameplay and sophisticated VR such as the occulus rift , are also construed as nearly a 
  ‘ person ’  . Therefore , a strict biological concept is not enough . Therefore traits which are
 central to the concept of ‘ personhood ’ are [ 347 ]  : 
 1 . Sentience . The ability to experience sensations , conscious experiences such as pain
@@ -9439,7 +9439,7 @@ the final output is not actuated to the muscles but suppressed . Similarly , the
 external stimulus can be simulated with internal activation of sensory cortex very nearly as
 304  From AI to Robotics : Mobile , Social and Sentient Robots
 it would have been activated during normal perception of such an external stimulus . Along
-with action and perception , the anticipation mechanism underscores the construction of the
+with action and perception , the anticipation mechanism underscores the construction of the 
  ‘ inner world ’  . It is plausible that ‘ inner worlds ’  [ 149 ] may very well exist in very simple
 robots equipped with connectionist learning such as ANN and engaged in repetative low
 level tasks of navigation and path following . For such a robot , the first few navigational
@@ -10192,7 +10192,7 @@ mirroring8
 a learned and superior faculty once self awareness has been tuned to perfection . Continued
 interaction with the environment should aid to develop binding across various modalities
 and therefore phenomenal consciousness . 
-Most research has been guided by cross-modal association over neural networks , and the
+Most research has been guided by cross-modal association over neural networks , and the 
  ‘ mirror test ’ and the ‘ drumming mate ’ tests have become useful tools for benchmarking and
 moving the robot ’ s cognitive and social functions , as shown in Table 9 . 4 . It is interesting to
 note that the focus has been on designing experiments to test for self-awareness in robots , 
@@ -10852,7 +10852,7 @@ indistinguishable , where machines have attained humanly values and man has impo
 machines into his biology and metabolic processing for betterment , or the coming of
 technological singularity . 
 10 . 3 SUPERINTELLIGENCE , FUTURE TECHNOLOGY AND RAY KURZWEIL
-Technological singularity plays as a consequence to Ray Kurzweil ‘ s [ 193 ] model of
+Technological singularity plays as a consequence to Ray Kurzweil ‘ s [ 193 ] model of 
  ‘ accelerating returns ’  . Advanced societies progressing at a faster rate have been termed
 by Kurzweil as ,  ‘ accelerating returns ’  . It is believed the progress of the entire 20th century
 will be equivalent to the first 20 years in the 21st century , thus an apparent five times faster
@@ -11272,7 +11272,7 @@ or more machines join together to become one to effect a particular task and the
 separate again after the task has been accomplished . 
 The 5th epoch promises a merger of machine intelligence with biological intelligence . This
 will meld the biological ability of pattern-recognition with non-biological virtues of enriched
-speed , high memory capacity , accuracy , knowledge and skill-sharing . Kurzweil suggests a
+speed , high memory capacity , accuracy , knowledge and skill-sharing . Kurzweil suggests a 
  ‘ double exponential growth ’ after this stage , and results will be off the charts in speed , 
 capacity and price-performance . Medical science after this merger will be able to reengineer
 all of the organs , and truly develop super humans , with a superlative body and a vastly
@@ -11317,7 +11317,7 @@ Maes–Garreau Law ( Kelly , 2007 )
 Maes–Garreau Law Most favourable predictions about future technology will fall
 within the Maes-Garreau Point . 
 Where , the Maes–Garreau point is defined as a year less than the life expectancy of
-the person making the prediction . 
+the person making the prediction .  
  ‘ Maes–Garreau Law ’  [ 175 ] which is a play on the inherent bias in the person making the
 prediction . Kelly ’ s sarcasm points out that the person making the prediction draws at a
 date which is sufficiently late , yet within his / her lifetime — the Maes-Garreau Point . 
@@ -11344,7 +11344,7 @@ whether our extinction is recorded in binary code .
 The infinite prowess of synthetic intelligence could mean that AGI and its superior
 avatars will gradually acquire the ability to modify the physical processes of the universe5 
 . 
-Hence as the last piece to Kurzweil ’ s prophecy , following the 6th epoch a universe which
+Hence as the last piece to Kurzweil ’ s prophecy , following the 6th epoch a universe which 
  ‘ wakes up ’ as an intelligent entity may be able to rewrite the laws of physics and undo the
 thermodynamic prohibition of the second law and also the limitation on time and speed of
 light , and when such a universe speaks out loud ,  “ let there be light ” — there may truly be
@@ -11393,7 +11393,7 @@ in ‘ The Passengers ’ are two very memorable performances .
 circle , for ‘ human plus ’  . 
 4 . Embodiment — the need of a body for real-world interactions , is a necessity for
 robotics . However , with the crescendo of AI and new technology we may be at a
-juncture where superintelligent entities without a body may soon be a reality . The
+juncture where superintelligent entities without a body may soon be a reality . The 
  ‘ no body ’ hypothesis can be arrived at , in 2 ways :  ( 1 ) either super intelligence is
 an omnipotent entity across the planet which in effect controls the living and also
 the non-living , as a benevolent ruler of the teeming multitude , or ( 2 ) mind uploading

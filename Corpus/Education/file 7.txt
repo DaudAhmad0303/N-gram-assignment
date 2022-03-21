@@ -2602,7 +2602,7 @@ This rule looks for any phrase followed by a localizer such as中or外 .
 Source sentence : 1919年時 日本的貿易額中有34%的都是經由神戶港進行。
 Question : 1919年時，那裡中有34%的都是經由神戶港進行？
 Answer : 日本的貿易額
-5 . Noun questions ( NP = noun !  > LCP !  < NT !  < < PN ) 
+5 . Noun questions ( NP = noun !  > LCP !  < NT !  <  < PN ) 
 This general rule looks for all noun phrases and depends on the name entity 
 recognizer for the question type and suitable question stem . The recognition of 
 a pronoun is essential for questions with meaningful answers . 
@@ -2613,21 +2613,21 @@ Answer : 築港工程
 The keyword based question generation method makes use of keywords such as因為
 and所以to generate explanation type questions . We defined two keyword-based rules 
 as described below . 
-6 . Cause and effect questions ( ROOT [  < <  (  (  ( IP | PP = reason < < 由于 | 因为 )  )  
-.  .  ( IP | PP | VP )  )  |  < <  ( IP | PP = reason [  ( PU .  ( IP | PP | VP < < 所以 | 
-于事 | 如此 )  )  |  .  ( IP | PP | VP < < 所以 | 于事 | 如此 )  ]  )  ]  ) 
+6 . Cause and effect questions ( ROOT [  <  <  (  (  ( IP | PP = reason <  < 由于 | 因为 )  )  
+.  .  ( IP | PP | VP )  )  |  <  <  ( IP | PP = reason [  ( PU .  ( IP | PP | VP <  < 所以 | 
+于事 | 如此 )  )  |  .  ( IP | PP | VP <  < 所以 | 于事 | 如此 )  ]  )  ]  ) 
 This rule looks for sentences stating cause and effect and identifies the reason 
 part as the answer and generates a question asking what causes the result . The 
 answer should be the remaining part of the sentence . 
 Source sentence : 然而由於日本在江戶時代實施鎖國政策，兵庫津轉變為
 國內港口，但仍然擁有重要的地位。
 Question : 日本在江戶時代實施鎖國政策，導致甚麼？
-7 . Argumentative questions ( ROOT [  < <  (  ( IP | PP = front < < 虽然 | 尽管 | 
+7 . Argumentative questions ( ROOT [  <  <  (  ( IP | PP = front <  < 虽然 | 尽管 | 
 虽 | 虽说 | 即使 )  [  . IP = however |  .  ( PU . IP = however )  ]  )  |  
-< <  ( IP | PP = front [  .  ( PU .  ( IP | PP | VP = however < <  ( 但 | 但
+<  <  ( IP | PP = front [  .  ( PU .  ( IP | PP | VP = however <  <  ( 但 | 但
 是 | 可 是 | 不 过 | 可 惜 | 竟 然 | 居 然 | 然 而 | 而 | 却 | 然 | 只 | 只 是
 68 A . Kwok-Fai Lui , S . -C . Ng , and Y . -C . Fung 
-)  )  )  |  .  ( IP | PP | VP = however < <  ( 但 | 但是 | 可是 | 不过 | 可惜 | 竟然 | 
+)  )  )  |  .  ( IP | PP | VP = however <  <  ( 但 | 但是 | 可是 | 不过 | 可惜 | 竟然 | 
 居然 | 然而 | 而 | 却 | 然 | 只 | 只是 )  )  ]  )  ]  ) 
 This rule looks for sentences changing the narrative or argument flow . It identifies the phrase before and after the change , and generates a question that asks 
 the effect of the change . 

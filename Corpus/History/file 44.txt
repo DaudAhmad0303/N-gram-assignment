@@ -17,7 +17,7 @@ chapter I felt it necessary to cover some of the basics of chemistry in order to
 groundwork for what comes later . I have also orientated the book towards the practical
 aspects of dating by basing it around specific examples . Hopefully , this approach will
 appeal to students and others with a non-scientific background but , at the same time , will
-not appear to those who are fortunate in possessing a stronger scientific pedigree to be
+not appear to those who are fortunate in possessing a stronger scientific pedigree to be 
  ‘ dumbing down ’  . Above all , however , my aim is to encourage readers ( unlike Charles
 Lamb ) to think a little more about the past and to recognise the importance of being able
 to frame the momentous events of recent earth and human history within a reasonably
@@ -934,7 +934,7 @@ more of the lighter oxygen isotope , 16O , is drawn into the atmosphere than the
 been transported poleward by moisture-bearing winds and locked into the greatly expanded ice
 sheets . As a consequence , ocean water would have been relatively ‘ enriched ’ in the heavier
 isotope 18O . The reverse would obtain during interglacial stages for , with reduced land ice cover , 
-more 16O would have been returned to the oceans where water would have become relatively
+more 16O would have been returned to the oceans where water would have become relatively 
  ‘ depleted ’ in 18O . Accordingly , the δ
 18O trace provides a record of changing volumes of land ice , 
 and hence of glacial / interglacial climatic fluctuations . 
@@ -1414,7 +1414,7 @@ time . For example , comparisons between radiocarbon dates and dendrochronologic
 dates suggest that a radiocarbon date of 5000 years corresponds to a calendar age of 5800
 years . For older dates , the divergence between radiocarbon and calendar age is much
 larger . Comparisons between AMS 14C and uranium-series dates ( section 3 . 3 ) on fossil
-corals , for example , indicate that radiocarbon dates are around 3000 years younger than
+corals , for example , indicate that radiocarbon dates are around 3000 years younger than 
  ‘ true ’ ages at 15 000 14C years BP , and around 4000 years younger at 20 000 14C years BP 
 ( Stuiver et al .  , 1998 )  . It is for this reason that it is important to refer to radiocarbon dates
 in terms of ‘ 14C years BP ’  , to make it clear that it is ‘ radiocarbon time ’ and not ‘ actual
@@ -3586,7 +3586,7 @@ Holocene rock slope failures are a common feature of many parts of the Scottish 
 failure remain equally uncertain . In an attempt to determine the age of one of the most
 famous examples of slope failure in Scotland , The Storr on the Trotternish escarpment of
 the east coast of the Isle of Skye , Ballantyne et al .  ( 1998a ) obtained 36Cl ages on rock
-samples from two separate landslide blocks near the upstanding pinnacle known as the
+samples from two separate landslide blocks near the upstanding pinnacle known as the 
  ‘ Old Man of Storr ’  ( Figure 3 . 13 )  . Separate exposure ages of 6300 ± 700 and 6600 ± 800
 years gave an overall age estimate of 6500 ± 500 years for rock slope failure at the site . 
 This date is consistent with AMS radiocarbon dates on buried soil horizons on the summit
@@ -4002,7 +4002,7 @@ the seminal paper by Huntley et al .  ( 1985 )  , is also used .
 There are many kinds of electron trap . All can be emptied by exposure to sufficient
 heat , but only some are sensitive to light . TL dating was initially developed for quartz1 
 and
-feldspar grains but , in principle , other minerals may also be used . In the environment , the
+feldspar grains but , in principle , other minerals may also be used . In the environment , the 
  ‘ luminescence clock ’ can be reset by heating , for example the firing of pottery effectively
 zeroes the clock within the minerals of interest . In the case of sediments , the clock is
 zeroed by exposure to heat from a campfire or forest fire , or from exposure to sunlight , a
@@ -6016,7 +6016,7 @@ microfossils ( mainly diatoms )  , reflect increased productivity over the basin
 winter–spring upwelling season , while the darker laminae are dominated by terrestrial
 material and are an indicator of run-off from the northern South American continent
 during the late summer–autumn rainy season ( Hughen et al .  , 1996 )  . Radiocarbon dates
-from individual varves were obtained on species of planktonic foraminifers , and the
+from individual varves were obtained on species of planktonic foraminifers , and the 
  ‘ floating ’ varved sequence was anchored to the calendar timescale by ‘ wiggle-matching ’  
 ( section 2 . 6 . 5 ) the radiocarbon age versus calendar age variations to the tree-ring data 
 ( Hughen et al .  , 1998 )  . The calibration based on the Cariaco varve series ( Figure 5 . 13A ) 
@@ -7134,7 +7134,7 @@ already seen that hydration rate is influenced by a number of factors , includin
 of the obsidian , temperature and relative humidity . All three may be highly variable , and
 hence the correct modelling of hydration rate , which is fundamental even if only a relative
 time inference is to be drawn , is far from straightforward . The calibration of obsidian
-hydration rates to an absolute timescale is even more problematical . The so-called
+hydration rates to an absolute timescale is even more problematical . The so-called 
  ‘ empirical-rate dating ’  , which involves the correlation of the width of optically measured
 c06 . fm Page 173 Wednesday , March 23 , 2005 3 : 26 AM 
 
@@ -8102,7 +8102,7 @@ Couplets
 Figure 6 . 15 ( A ) Sea-level high stands in the Bahamas over the course of the last 500 000
 years and ( B ) comparison with the SPECMAP δ
 18O curve . Aminozones ( A–I ) and limestone
-red soil couplets ( I–VI ) are shown . Note how the high stands of sea level occur early in each
+red soil couplets ( I–VI ) are shown . Note how the high stands of sea level occur early in each 
  ‘ interglacial ’ as reflected in peaks in the SPECMAP curve ( after Hearty and Kaufman , 2000 )  . 
 Reproduced with permission of Elsevier
 c06 . fm Page 194 Wednesday , March 23 , 2005 3 : 26 AM 
@@ -8718,7 +8718,7 @@ Confirmed records of Neapolitan Yellow Tuff
 Volcanic centres of particular relevance to this study
 Other major volcanic centres in Europe
 500 km 0
-Saksunarvatn Ash : ca . 10 200 cal . year BP [ Iceland ] 
+Saksunarvatn Ash : ca . 10 200 cal . year BP [ Iceland ]  
  ‘ Högstorpsmossen ’ Tephra [ Iceland ] 
 I-THOL-1 [ Iceland ] 
 L3574 [ Iceland ] 
@@ -8779,7 +8779,7 @@ was a more complex cultural process than may hitherto have been considered .
 the mountains of western North America tephras , mainly in the form of ancient tuffs , 
 have long been recognised as important time markers in Late Pliocene and Early and Middle
 Pleistocene deposits . These include the Bishop Ash ( K–argon age 738 000 years )  , the
-Pearlette ‘ O ’ Ash ( 610000 years )  , the Pearlette ‘ S ’ Ash ( 1 . 27 million years ) and the Pearlette
+Pearlette ‘ O ’ Ash ( 610000 years )  , the Pearlette ‘ S ’ Ash ( 1 . 27 million years ) and the Pearlette 
  ‘ B ’ Ash ( 2 . 01 million years )  , and all are found throughout the High Plains , Rocky
 Mountains , Colorado Plateau and the Great Basin , where they are frequently inter-stratified
 with glacial deposits . They have provided a basis for correlating these glacial sediments , 
@@ -8920,7 +8920,7 @@ changes : major dipole changes , where the dynamo currents that generate the mai
 field become reversed ( polarity changes4 
 ) so that effectively the north pole becomes the
 south pole and vice versa , and secular variations , which operate largely ( although not
-entirely , because of the influence of non-dipole effects ) through a process known as
+entirely , because of the influence of non-dipole effects ) through a process known as 
  ‘ dipole wobble ’ whereby the axis of the dipole field ( magnetic north ) precesses5 
 around
 the earth ’ s axis of rotation ( true north : Figure 7 . 8 )  . Secular variations occur over centuries
@@ -9183,7 +9183,7 @@ material . These self-reversals will serve to complicate the true palaeomagnetic
 some sediments , a form of DRM may be acquired subsequent to deposition . This postdepositional remanent magnetisation ( PDRM ) may develop because although sediment
 will consolidate relatively quickly ( within days )  , in other situations consolidation is a
 much longer process and might span thousands of years . The consequence is that there may
-be a substantial lag of the magnetic record behind the date of deposition . Indeed , the
+be a substantial lag of the magnetic record behind the date of deposition . Indeed , the 
  ‘ smoothing-out ’ of directional changes that do not last very long could mean that shortlived polarity events could be missing altogether from a record . Also , in lake sediment
 sequences , bioturbation ( disturbance of the surface sediments by biological activity ) 
 might result in any immediately formed magnetisation being destroyed . 
@@ -9291,7 +9291,7 @@ Scandinavia and Greenland .
 debate over the timing of the first human migrations into Europe . While there are signs of
 early humans in Asia 1 . 7 million years ago , and in the Middle East 1 . 5 million years ago , 
 conclusive evidence for humans of comparable antiquity in Europe has , until relatively
-recently , proved to be frustratingly elusive . This has led some to advocate a relatively
+recently , proved to be frustratingly elusive . This has led some to advocate a relatively 
  ‘ short chronology ’ of human occupation , extending over no more than 500 000 years 
 ( Roebroecks and von Kolfschoten , 1994 )  . Others , by contrast , have argued for a more
 protracted period of human colonisation (  ‘ long chronology ’  ) extending , perhaps , to 1 million
@@ -9762,7 +9762,7 @@ properties . Removal of this material makes the optical scanning of slides for v
 more straightforward , especially if the glass is present in very low quantities ( Hall and Pilcher , 
 2002 )  . 
 3 . More recent work at a site in southern Sweden ( Davies et al .  , 2004 ) suggests an age of 13 900 cal . 
-years BP , for the Borrobol Tephra . It is therefore possible that there may be more than one
+years BP , for the Borrobol Tephra . It is therefore possible that there may be more than one 
  ‘ Borrobol Tephra ’  , albeit with similar geochemical characteristics . 
 4 . A polarity change is due to the reversal of the dynamo currents producing the main dipole field , 
 and the transition is thought to involve the falling to zero of these currents and the subsequent
@@ -9938,7 +9938,7 @@ peats , is frequently of considerable antiquity with ages in the range of ca . 2
 14C years BP ( Figure 8 . 1 )  . The potential for developing a continuous dendrochronological
 series from these sub-fossil kauri is considerable and this , in turn , could form the basis for
 a new high-precision radiocarbon calibration . In addition to these long dendrochronological
-series , the coming years are likely to see the development of an increasing number of
+series , the coming years are likely to see the development of an increasing number of 
  ‘ floating chronologies ’ associated , for example , with archaeological investigations , and
 both the anchoring of these tree-ring series in time and the integration of the records into
 regional master chronologies . 
@@ -10066,7 +10066,7 @@ humans . Molecular genetic and archaeological studies are now combining to eluci
 the origin and spread of modern humans worldwide , with studies of genetic molecular
 diversity providing a basis for reconstructing human lineages , for example the relationship ( or non-relationship ) between Neanderthals and Homo sapiens ( Krings et al .  , 1997 )  , 
 and periods of population expansion ( Jorde et al .  , 1998 )  . 
-Recent research has shown how the timing of genetic mutations can be determined by
+Recent research has shown how the timing of genetic mutations can be determined by 
  ‘ molecular clock analysis ’  ( Chou et al .  , 2002 )  . Work linking gene mutation with anatomical
 changes in human lineage , specifically accelerated encephalisation ( brain expansion ) 
 possibly associated with a reduction in size of jaw muscles , has enabled this key genetic

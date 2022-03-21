@@ -43,7 +43,7 @@ Responsibility in Business through Textile Recycling :
 Purewaste .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 224
 Giving a New Life for Waste : Recycled Jeans as Terry Towels : 
 Finlayson .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 228
-Arela Knitwear Care Service .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 232
+Arela Knitwear Care Service .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 232 
  ‘ Clothes as a Service ’ Will Disrupt the Fashion System : 
 Anniina Nurmi .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 236
 Heaven for Pre-owned Brands : Emmy . fi .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 240
@@ -3625,7 +3625,7 @@ cards with feedback from designers
 6 | Sustainable Design Cards : A Learning Tool .  .  .  | 
 134
 The deck of cards
-The final deck comprises 28 cards in A6 format . The cards provide information on various sustainable design approaches such as ‘ Customisation ’  , 
+The final deck comprises 28 cards in A6 format . The cards provide information on various sustainable design approaches such as ‘ Customisation ’  ,  
  ‘ Environmentally Friendly Materials ’  ,  ‘ Labelling ’  ,  ‘ Multi-Functionality ’ 
 and ‘ User-Understanding ’  . The complete list of cards can be found at 
 the end of the text . 
@@ -6341,7 +6341,7 @@ umbrella organization of producers , importers , agents , grossists in clothes ,
 accessories , rugs and ( home ) textiles . The hand towel saves 850 liters and 
 the bath towel over 2500 liters . With this information , it was calculated 
 that the towels produced for Finlayson in 2017 saved over 10 million 
-liters of water , which is the same as over four Olympic size pools . 
+liters of water , which is the same as over four Olympic size pools .  
  
 | Business Examples
 Giving New Life to Waste : Recycled Jeans .  .  .  | 231
@@ -6417,7 +6417,7 @@ clothing library located at our store in Lahti . Since then I have made
 several different clothing rental tests which have helped me learn that 
 through renting we can build a fashion system which will truly disrupt 
 the existing one . 
-Anniina Nurmi : 
+Anniina Nurmi :  
  ‘ Clothing as a Service ’ 
 Will Disrupt
 the Fashion System

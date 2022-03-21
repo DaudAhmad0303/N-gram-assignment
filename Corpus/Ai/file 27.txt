@@ -2322,7 +2322,7 @@ exists in “ book ” but not in “ bell .  ” At higher levels , activity ma
 word for book .  
  “ book ”  
  “ read ”  “ livre ”  
- “ bell ” 
+ “ bell ”  
  ‘ o ’  ‘ l ’ 
 bottleneck should be able to extract the best features that 
 preserve information maximally . The autoencoder is unsupervised ; those hidden units learn to find a good encoding 

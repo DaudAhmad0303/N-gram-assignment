@@ -53,8 +53,8 @@ made on the basis of a philosophical analysis of joint assumptions – so philos
 served as the ‘ best man ’  . 
 This collaboration was made possible , or we at least facilitated , by the by classical ‘ machine functionalism , going back to ( Putnam 1960 ) and nicely characterized
 by Churchland :  “ What unites them [ the cognitive creatures ] is that [  :  :  :  ] they are
-all computing the same , or some part of the same abstract < < sensory input , prior
-state >  ,  < motor output , subsequent state > > function .  ”  ( Churchland 2005 : 333 )  . If
+all computing the same , or some part of the same abstract <  < sensory input , prior
+state >  ,  < motor output , subsequent state >  > function .  ”  ( Churchland 2005 : 333 )  . If
 cognition is thus a computational process over symbolic representation ( this thesis is
 often called ‘ computationalism ’  ) then computation can be discovered by cognitive
 science and then implemented by AI in an artificial computational system . This
@@ -2503,7 +2503,7 @@ calls a pathei mathos , an agonizing but formative education in epistemic humili
 and in the inexorability of mortal limitation ( p . 357 )  . 
 And so , it is in this context of the radical finitization and procedural deflation
 of reason in the midst of a fading trace of Cartesian epistemological convictions
-that I would like , in this paper , to reposition the innovations of the protagonists of
+that I would like , in this paper , to reposition the innovations of the protagonists of 
  ’ 36 . For it is their insurgent skepticism towards Hilbert ’ s militant rejection of the
 ignoramibus , their efforts to rescale the ambitions of metamathematics and logic
 by revealing “ absolutely unsolvable combinatory problems ,  ” that stimulated the
@@ -3129,7 +3129,7 @@ us to formalize the idea of a physical system in which one part controls the
 dynamical evolution of another part . We capture this idea in the form of a simplified
 model of an organized physical system : a system of coordinated constraints that
 controls the evolution of underlying dynamical processes . On the basis of this
-simplified model , we are then able to formulate precise definitions for the notions of
+simplified model , we are then able to formulate precise definitions for the notions of 
  ‘ structural abstraction ’ and ‘ syntactic abstraction ’ of an organized physical system . 
 As it turns out , the specification of a syntactical abstraction depends on a choice
 that is not forced by the internal structure of the physical system , and reflects
@@ -3805,10 +3805,10 @@ NPs
 NP
 NPs
 NP
-John
+John 
  ’ s
 N
-book
+book 
  ’ s
 N
 cover
@@ -3854,7 +3854,7 @@ an S tree dominating another S tree , one with a special operation of adjunction
 rather than substitution . Because it is another tree , LTAG captures the right
 semantics of ( 2 )  . Generative grammar assumes two trees as well , but makes no such
 combinatory distinction . Therefore , it is susceptible to recursion by name vs . value
-arguments . Lobina and García-Albea ( 2009 ) suggest ‘ merge ’ is closure and only
+arguments . Lobina and García-Albea ( 2009 ) suggest ‘ merge ’ is closure and only 
  ‘ move ’ is recursive . The narrower claim here is that any natural recursion must be
 by value . 
 The structure in ( 4 ) is precisely what is called recursion by name in computer
@@ -4140,7 +4140,7 @@ adequate for natural languages are summed up in the mild context-sensitivity
 hypothesis of Joshi ( 1985 )  : constant growth of string length , i . e . incremental buildup , polynomial parsability , limited cross-serial dependencies , and proper inclusion
 of context-freeness . 
 106 C . Boz¸sahin
-Omdat Ik Henk Peter zag helpen zwemmen
+Omdat Ik Henk Peter zag helpen zwemmen 
  ‘ because I saw Henk help Peter swim .  .  .  ’ 
 Cross-serial dependencies are the most challenging automata-theoretic aspect to
 context-freeness . PDAs cannot handle the Dutch dependencies shown above . 
@@ -5792,7 +5792,7 @@ However , if we want tools to manipulate physical systems , such as molecules in
 the case of studies of origins of life , our tools must be more than theoretical models –
 they will be computations “ in materio ” as Stepney ( 2008 ) called them , explaining :  
  “ We are still learning how to use all those tools , both mathematical models of
-dynamical systems and executable computational models and currently developing
+dynamical systems and executable computational models and currently developing 
  ‘ computation in materio ’  ”  . That is the reason why physical / natural computing is so
 important . 
 10 . 6 Molecular Computation , Self-Organization
@@ -7288,7 +7288,7 @@ in Bringsjord ( 2008 )  , and by the points I–IV we have just made about Leibn
 work : Each such system will be a quintuple hF ; A ; SA ; SF ; Mi : 
 192 S . Bringsjord and N . S . Govindarajulu
 Logical System L
-F A formal language defined by an alphabet and a grammar that generates a space of well-formed formulae . We here use ‘ formula ’ and
+F A formal language defined by an alphabet and a grammar that generates a space of well-formed formulae . We here use ‘ formula ’ and 
  ‘ formulae ’ in an aggressively ecumenical way that takes account of the
 founding conceptions and dreams of Leibniz , so that formulas can for
 instance even be diagrammatic in nature . For example , in keeping with 
@@ -10074,7 +10074,7 @@ they would have died out , thus extant organisms must “ expect ” such viable
 This is an ambitious , sophisticated , and impressive modeling framework . Nevertheless , I contend that it suffers from significant problems at every level of its structure . 
 At the broadest level , this programme is a variant of sensory empiricism , based
 on sensory encodings as inputs . This is a dominant approach to perception , and has
-been for millennia . Helmholtz is a major figure in this tradition . There are three
+been for millennia . Helmholtz is a major figure in this tradition . There are three 
  ‘ obvious ’ issues involved in this construal of perception :  ( 1 ) What is the nature
 and origin of the inputs upon which the inferences are based ?  ( 2 ) What is the
 nature of the inference process ( es )  ? And ( 3 ) What is the nature and origin of the
@@ -10150,7 +10150,7 @@ similar abuses of language in this literature , such as “ error ”  ,  “ re
  “ expectation ”  ,  “ describe ”  , etc . none of which ( in this literature ) refer to anything like the
 phenomena that such words are generally taken to refer to . Nevertheless , they leave the suggestion , 
 without argument , that they do constitute models for the phenomena at issue ( McDermott 1981 )  . 
-266 M . H . Bickhard
+266 M . H . Bickhard 
  ‘ simply ’ expects to stay in viable zones of its states , and induces actions that keep it
 in those zones . 
 Friston and Stephan ( 2007 ) attempt to account for normativity in the model via : 
@@ -11600,7 +11600,7 @@ delegation of a full gamut of scientific duties to the machines of the future .
 18 . 2 Ad Hoc-Ness
 There is a hefty amount of confusion surrounding the notion of ad hoc-ness . Given
 the notion ’ s prevalence in everyday discourse , a dictionary entry makes for an apt
-starting point to our investigation . According to the Oxford English Dictionary , 
+starting point to our investigation . According to the Oxford English Dictionary ,  
  ‘ ad hoc ’ means “ formed , arranged , or done for a particular purpose only ”  . 1 This
 ordinary conception of ad hoc-ness is reflected in compound expressions like ‘ ad
 hoc committee ’  . But what does it mean for a hypothesis to be ad hoc ? By and large , 
@@ -11707,7 +11707,7 @@ empirical hypothesis from supernatural posits is exactly one such type of progre
 Second , suppose that a predecessor hypothesis H explains all and only O1 . Suppose
 moreover that two scientists , F and G , independently construct the same successor
 hypothesis H ’  , which explains all and only O1 and O2 . Suppose , finally , that O2
-4Here are the other two :  “ It is ad hoc2 if none of its novel predictions have been actually
+4Here are the other two :  “ It is ad hoc2 if none of its novel predictions have been actually 
  ‘ verified ’  :  :  :  [ a ] theory is said to be ad hoc3 if it is obtained from its predecessor through a
 modification of the auxiliary hypotheses which does not accord with the spirit of the heuristic of
 the programme ”  ( 1973 , p . 101 )  [ original emphasis ]  . Grünbaum ( 1976 , p . 341 ) notes the similarities
@@ -13689,7 +13689,7 @@ a broader context . This broader context can only be recognized in terms of feat
 taken to be relevant in a still broader context , and so on . 4
 A final point on the scope of the frame problem is that it besieges not only
 practical but also theoretical reason . Not only are we regularly called upon to come
-up with a swift answer to the question ‘ what should I do ?  ’ but also to that of
+up with a swift answer to the question ‘ what should I do ?  ’ but also to that of 
  ‘ what should I believe ?  ’ 5 The intercontext frame problem here is : what evidence
 is relevant in determining what to believe ? The intracontext frame problem is : given
 the evidence , what information in one ’ s stored database should one draw upon in
@@ -14114,7 +14114,7 @@ HeX and the Single Anthill : Playing Games with
 Aunt Hillary
 J . M . Bishop , S . J . Nasuto , T . Tanay , E . B . Roesch , and M . C . Spencer
 Abstract In a reflective and richly entertaining piece from 1979 , Doug Hofstadter
-playfully imagined a conversation between ‘ Achilles ’ and an anthill ( the eponymous
+playfully imagined a conversation between ‘ Achilles ’ and an anthill ( the eponymous 
  ‘ Aunt Hillary ’  )  , in which he famously explored many ideas and themes related
 to cognition and consciousness . For Hofstadter , the anthill is able to carry on a
 conversation because the ants that compose it play roughly the same role that
@@ -17791,7 +17791,7 @@ at the conceptual and the motoric level , regarding their fine-grainedness . On 
 hand , motoric representations seem to be very specific , for instance representations
 used in making a very delicate movement . On the other hand though , the same
 representations could be used in making various movements captured by different
-action concepts ( or verbs )  . Consider for instance the concept GRASP ( or the verb
+action concepts ( or verbs )  . Consider for instance the concept GRASP ( or the verb 
  ‘ to grasp ’  )  , which refers to grasping movements in general . Grasping movements
 can be very different in terms of their motoric activation patterns . At first sight there
 seems to be a mismatch at the level of fine-grainedness between representations of
@@ -18204,7 +18204,7 @@ the details of the material , organismic , and experiential implementation of bo
 skills and behaviors play an active causal role in structuring cognitive functions 
 ( for example , fine-tuning the sensorimotor capabilities of a system , cfr . Noe and
 O ’ Regan 2002 )  . 
-The first approach defines intelligent decisions as controlled by stored sets of
+The first approach defines intelligent decisions as controlled by stored sets of 
  ‘ rules of thumb ’ that reflect an internally localized representation of the behavior
 to be delivered by the system in specific circumstances . In opposition to this , the
 second approach says that the contents of these representations are memorized
@@ -19226,7 +19226,7 @@ and thus it is comparable to the sciences . Ontological investigation , on the o
 hand , is directed to the being in question , the domains of Beings or the notion of
 Being itself . 
 For Heidegger “ ontological inquiry is indeed more primordial , as over the
-ontical inquiring of the positive sciences ( 1962 p . 30 )  ”  . The sciences are always
+ontical inquiring of the positive sciences ( 1962 p . 30 )  ”  . The sciences are always 
  ‘ founded ’ on some ontological pre-understanding that defines the area of study .  
  “ Basic concepts determine the way in which we get an understanding beforehand of
 the area of object-matter underlying all the objects a science takes as its theme , and
@@ -19601,7 +19601,7 @@ Klir , G . J .  ( 1991 )  . Facets of systems science , volume 15 of IFSR intern
 science and engineering ( 2nd ed .  )  . New York : Kluwer Academic / Plenum Publishers . 
 Kuhn , T . S .  ( 2012 )  . The structure of scientific revolutions . Chicago : University of Chicago press . 
 Langton , C . G .  ( 1986 )  . Studying artificial life with cellular automata . Physica D , 22 , 120–149 . 
-Masís , J .  ( 2009 )  . Fenomenología Hermenéutica e Inteligenca Artificial : Otra Urbanización de la
+Masís , J .  ( 2009 )  . Fenomenología Hermenéutica e Inteligenca Artificial : Otra Urbanización de la 
  ‘ Provincia Heideggeriana . Proceedings of Primeras Jornadas Internacionales de Hermenéutica . Buenos Aires , Argentina . 
 McCorduck , P .  ( 1979 )  . Machines who think : A personal inquiry into the history and prospects of
 artificial intelligence . San Francisco : Wh freeman . 
@@ -21120,7 +21120,7 @@ cognitive performance of humans in virtually all domains of interest .  ”  ( B
 humans could create artificial general intelligent ability at a roughly human level , 
 then this creation could , in turn , create yet higher intelligence , which could , in
 turn , create yet higher intelligence , and so on :  :  : So we might generate a growth
-well beyond human ability and perhaps even an accelerating rate of growth : an
+well beyond human ability and perhaps even an accelerating rate of growth : an 
  ‘ intelligence explosion ’  . Two main questions about this development are when to
 expect it , if at all ( see Bostrom 2006 ; Dreyfus 2012 ; Kurzweil 2005 ) and what the
 impact of it would be , in particular which risks it might entail , possibly up to a level

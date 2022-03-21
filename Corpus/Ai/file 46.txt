@@ -1250,8 +1250,8 @@ elements of R have two values : 1 for good or right and 0 for wrong or bad .
 Because the power of reasoning associates to each pair of elements ( a , b )  , with
 a in A and b in B , a binary value equivalent to good , bad , right , or wrong using the
 set B of ethical theories , we represent this function as follows : 
-f að Þ !  ; b 1f g ‘ ‘ right ;  ’ ’ or ‘ ‘ good ’ ’ 
-0f g ‘ ‘ bad ;  ’ ’ or ‘ ‘ wrong ’ ’ 
+f að Þ !  ; b 1f g ‘  ‘ right ;  ’  ’ or ‘  ‘ good ’  ’ 
+0f g ‘  ‘ bad ;  ’  ’ or ‘  ‘ wrong ’  ’ 
 for all a 2 A and b 2 B
 What is the relationship between this function , f , and the human mind ? If you
 reflect on it , you will see that the human mind seems to employ a similar function in

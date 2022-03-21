@@ -530,72 +530,72 @@ In this book , we will use NumPy Version 1 . 6 . 2 and SciPy Version 0 . 11 . 0 
 Learning NumPy
 So let us import NumPy and play a bit with it . For that , we need to start
 the Python interactive shell .  
-> > > import numpy 
-> > > numpy . version . full_version
+>  >  > import numpy 
+>  >  > numpy . version . full_version
 1 . 6 . 2
 As we do not want to pollute our namespace , we certainly should not do
 the following :  
-> > > from numpy import * 
+>  >  > from numpy import * 
 The numpy . array array will potentially shadow the array package that is
 included in standard Python . Instead , we will use the following convenient
 shortcut :  
-> > > import numpy as np 
-> > > a = np . array (  [ 0 , 1 , 2 , 3 , 4 , 5 ]  )  
-> > > a
+>  >  > import numpy as np 
+>  >  > a = np . array (  [ 0 , 1 , 2 , 3 , 4 , 5 ]  )  
+>  >  > a
 array (  [ 0 , 1 , 2 , 3 , 4 , 5 ]  )  
-> > > a . ndim
+>  >  > a . ndim
 1 
-> > > a . shape 
+>  >  > a . shape 
 ( 6 ,  ) 
 We just created an array in a similar way to how we would create a list in
 Python . However , NumPy arrays have additional information about the
 shape . In this case , it is a one-dimensional array of five elements . No
 surprises so far . 
 We can now transform this array in to a 2D matrix .  
-> > > b = a . reshape (  ( 3 , 2 )  )  
-> > > b
+>  >  > b = a . reshape (  ( 3 , 2 )  )  
+>  >  > b
 array (  [  [ 0 , 1 ]  ,  
 [ 2 , 3 ]  ,  
 [ 4 , 5 ]  ]  )  
-> > > b . ndim
+>  >  > b . ndim
 2 
-> > > b . shape 
+>  >  > b . shape 
 ( 3 , 2 ) 
 The funny thing starts when we realize just how much the NumPy
 package is optimized . For example , it avoids copies wherever possible .  
-> > > b [ 1 ]  [ 0 ]  = 77 
-> > > b
+>  >  > b [ 1 ]  [ 0 ]  = 77 
+>  >  > b
 array (  [  [ 0 , 1 ]  ,  
 [ 77 , 3 ]  ,  
 [ 4 , 5 ]  ]  )  
-> > > a
+>  >  > a
 array (  [ 0 , 1 , 77 , 3 , 4 , 5 ]  ) 
 In this case , we have modified the value 2 to 77 in b , and we can
 immediately see the same change reflected in a as well . Keep that in
 mind whenever you need a true copy .  
-> > > c = a . reshape (  ( 3 , 2 )  )  . copy (  )  
-> > > c
+>  >  > c = a . reshape (  ( 3 , 2 )  )  . copy (  )  
+>  >  > c
 array (  [  [ 0 , 1 ]  ,  
 [ 77 , 3 ]  ,  
 [ 4 , 5 ]  ]  )  
-> > > c [ 0 ]  [ 0 ]  = -99 
-> > > a
+>  >  > c [ 0 ]  [ 0 ]  = -99 
+>  >  > a
 array (  [ 0 , 1 , 77 , 3 , 4 , 5 ]  )  
-> > > c
+>  >  > c
 array (  [  [ -99 , 1 ]  ,  
 [ 77 , 3 ]  ,  
 [ 4 , 5 ]  ]  ) 
 Here , c and a are totally independent copies . 
 Another big advantage of NumPy arrays is that the operations are
 propagated to the individual elements .  
-> > > a * 2
+>  >  > a * 2
 array (  [ 2 , 4 , 6 , 8 , 10 ]  )  
-> > > a *  * 2
+>  >  > a *  * 2
 array (  [ 1 , 4 , 9 , 16 , 25 ]  ) 
 Contrast that to ordinary Python lists :  
-> > >  [ 1 , 2 , 3 , 4 , 5 ]  * 2 
+>  >  >  [ 1 , 2 , 3 , 4 , 5 ]  * 2 
 [ 1 , 2 , 3 , 4 , 5 , 1 , 2 , 3 , 4 , 5 ]  
-> > >  [ 1 , 2 , 3 , 4 , 5 ]  *  * 2
+>  >  >  [ 1 , 2 , 3 , 4 , 5 ]  *  * 2
 Traceback ( most recent call last )  : 
 File "  < stdin >  "  , line 1 , in < module > 
 TypeError : unsupported operand type ( s ) for *  * or
@@ -609,23 +609,23 @@ Part of the power of NumPy comes from the versatile ways in which its
 arrays can be accessed . 
 In addition to normal list indexing , it allows us to use arrays themselves
 as indices .  
-> > > a [ np . array (  [ 2 , 3 , 4 ]  )  ] 
+>  >  > a [ np . array (  [ 2 , 3 , 4 ]  )  ] 
 array (  [ 77 , 3 , 4 ]  ) 
 In addition to the fact that conditions are now propagated to the individual
 elements , we gain a very convenient way to access our data .  
-> > > a > 4
+>  >  > a > 4
 array (  [ False , False , True , False , False , True ]  , 
 dtype = bool )  
-> > > a [ a > 4 ] 
+>  >  > a [ a > 4 ] 
 array (  [ 77 , 5 ]  ) 
 This can also be used to trim outliers .  
-> > > a [ a > 4 ]  = 4 
-> > > a
+>  >  > a [ a > 4 ]  = 4 
+>  >  > a
 array (  [ 0 , 1 , 4 , 3 , 4 , 4 ]  ) 
 As this is a frequent use case , there is a special clip function for it , 
 clipping the values at both ends of an interval with one function call as
 follows :  
-> > > a . clip ( 0 , 4 ) 
+>  >  > a . clip ( 0 , 4 ) 
 array (  [ 0 , 1 , 4 , 3 , 4 , 4 ]  ) 
 Handling non-existing values
 The power of NumPy ' s indexing capabilities comes in handy when
@@ -634,13 +634,13 @@ likely contain invalid values , which we will mark as not being a real
 number using numpy . NAN as follows : 
 c = np . array (  [ 1 , 2 , np . NAN , 3 , 4 ]  )  # let ' s pretend we
 have read this from a text file 
-> > > c
+>  >  > c
 array (  [ 1 .  , 2 .  , nan , 3 .  , 4 .  ]  )  
-> > > np . isnan ( c ) 
+>  >  > np . isnan ( c ) 
 array (  [ False , False , True , False , False ]  , dtype = bool )  
-> > > c [ ~np . isnan ( c )  ] 
+>  >  > c [ ~np . isnan ( c )  ] 
 array (  [ 1 .  , 2 .  , 3 .  , 4 .  ]  )  
-> > > np . mean ( c [ ~np . isnan ( c )  ]  ) 
+>  >  > np . mean ( c [ ~np . isnan ( c )  ]  ) 
 2 . 5
 Comparing runtime behaviors
 Let us compare the runtime behavior of NumPy with normal Python lists . 
@@ -680,14 +680,14 @@ or SciPy extension functions .
 However , the speed comes at a price . Using NumPy arrays , we no longer
 have the incredible flexibility of Python lists , which can hold basically
 anything . NumPy arrays always have only one datatype .  
-> > > a = np . array (  [ 1 , 2 , 3 ]  )  
-> > > a . dtype
+>  >  > a = np . array (  [ 1 , 2 , 3 ]  )  
+>  >  > a . dtype
 dtype (  ' int64 '  ) 
 If we try to use elements of different types , NumPy will do its best to
 coerce them to the most reasonable common datatype :  
-> > > np . array (  [ 1 ,  " stringy "  ]  ) 
+>  >  > np . array (  [ 1 ,  " stringy "  ]  ) 
 array (  [  ' 1 '  ,  ' stringy '  ]  , dtype =  '  | S8 '  )  
-> > > np . array (  [ 1 ,  " stringy "  , set (  [ 1 , 2 , 3 ]  )  ]  ) 
+>  >  > np . array (  [ 1 ,  " stringy "  , set (  [ 1 , 2 , 3 ]  )  ]  ) 
 array (  [ 1 , stringy , set (  [ 1 , 2 , 3 ]  )  ]  , dtype = object ) 
 Learning SciPy
 On top of the efficient data structures of NumPy , SciPy offers a
@@ -701,10 +701,10 @@ For convenience , the complete namespace of NumPy is also accessible
 via SciPy . So , from now on , we will use NumPy ' s machinery via the SciPy
 namespace . You can check this easily by comparing the function
 references of any base function ; for example :  
-> > > import scipy , numpy 
-> > > scipy . version . full_version
+>  >  > import scipy , numpy 
+>  >  > scipy . version . full_version
 0 . 11 . 0 
-> > > scipy . dot is numpy . dot
+>  >  > scipy . dot is numpy . dot
 True
 The diverse algorithms are grouped into the following toolboxes : 
 SciPy
@@ -761,7 +761,7 @@ delimiter =  "  \ t "  )
 We have to specify tab as the delimiter so that the columns are correctly
 determined . 
 A quick check shows that we have correctly read in the data .  
-> > > print ( data [  : 10 ]  )  
+>  >  > print ( data [  : 10 ]  )  
 [  [ 1 . 00000000e + 00 2 . 27200000e + 03 ]  
 [ 2 . 00000000e + 00 nan ]  
 [ 3 . 00000000e + 00 1 . 38600000e + 03 ]  
@@ -772,7 +772,7 @@ A quick check shows that we have correctly read in the data .
 [ 8 . 00000000e + 00 2 . 28300000e + 03 ]  
 [ 9 . 00000000e + 00 1 . 33500000e + 03 ]  
 [ 1 . 00000000e + 01 1 . 02500000e + 03 ]  ]  
-> > > print ( data . shape )  
+>  >  > print ( data . shape )  
 ( 743 , 2 ) 
 We have 743 data points with two dimensions . 
 Preprocessing and cleaning the data
@@ -790,7 +790,7 @@ more details on indexing , slicing , and iterating .
 One caveat is that we still have some values in y that contain invalid
 values , nan . The question is , what can we do with them ? Let us check
 how many hours contain invalid data .  
-> > > sp . sum ( sp . isnan ( y )  ) 
+>  >  > sp . sum ( sp . isnan ( y )  ) 
 8
 We are missing only 8 out of 743 entries , so we can afford to remove
 them . Remember that we can index a SciPy array with another array . 
@@ -852,16 +852,16 @@ The polyfit (  ) function returns the parameters of the fitted model
 function , fp1 ; and by setting full to True , we also get additional
 background information on the fitting process . Of it , only residuals are of
 interest , which is exactly the error of the approximation .  
-> > > print (  " Model parameters : %s " % fp1 ) 
+>  >  > print (  " Model parameters : %s " % fp1 ) 
 Model parameters :  [ 2 . 59619213 989 . 02487106 ]  
-> > > print ( res )  
+>  >  > print ( res )  
 [ 3 . 17389767e + 08 ] 
 This means that the best straight line fit is the following function : 
 f ( x )  = 2 . 59619213 * x + 989 . 02487106 . 
 We then use poly1d (  ) to create a model function from the model
 parameters .  
-> > > f1 = sp . poly1d ( fp1 )  
-> > > print ( error ( f1 , x , y )  ) 
+>  >  > f1 = sp . poly1d ( fp1 )  
+>  >  > print ( error ( f1 , x , y )  ) 
 317389767 . 34
 We have used full = True to retrieve more details on the fitting process . 
 Normally , we would not need it , in which case only the model parameters
@@ -891,12 +891,12 @@ baseline .
 Towards some advanced stuff
 Let us now fit a more complex model , a polynomial of degree 2 , to see
 whether it better " understands " our data :  
-> > > f2p = sp . polyfit ( x , y , 2 )  
-> > > print ( f2p ) 
+>  >  > f2p = sp . polyfit ( x , y , 2 )  
+>  >  > print ( f2p ) 
 array (  [ 1 . 05322215e-02 , -5 . 26545650e + 00 , 
 1 . 97476082e + 03 ]  )  
-> > > f2 = sp . poly1d ( f2p )  
-> > > print ( error ( f2 , x , y )  ) 
+>  >  > f2 = sp . poly1d ( f2p )  
+>  >  > print ( error ( f2 , x , y )  ) 
 179983507 . 878
 The following chart shows the model we trained before ( straight line of
 one degree ) with our newly trained , more complex model with two
@@ -1014,15 +1014,15 @@ This can be done by subtracting 100 , 000 from the polynomial , which
 results in another polynomial , and finding the root of it . SciPy ' s optimize
 module has the fsolve function to achieve this when providing an initial
 starting position . Let fbt2 be the winning polynomial of degree 2 :  
-> > > print ( fbt2 ) 
+>  >  > print ( fbt2 ) 
 2
 0 . 08844 x - 97 . 31 x + 2 . 853e + 04 
-> > > print ( fbt2-100000 ) 
+>  >  > print ( fbt2-100000 ) 
 2
 0 . 08844 x - 97 . 31 x - 7 . 147e + 04 
-> > > from scipy . optimize import fsolve 
-> > > reached_max = fsolve ( fbt2-100000 , 800 )  /  ( 7 * 24 )  
-> > > print (  " 100 , 000 hits / hour expected at week %f " %
+>  >  > from scipy . optimize import fsolve 
+>  >  > reached_max = fsolve ( fbt2-100000 , 800 )  /  ( 7 * 24 )  
+>  >  > print (  " 100 , 000 hits / hour expected at week %f " %
 reached_max [ 0 ]  ) 
 100 , 000 hits / hour expected at week 9 . 827613
 Our model tells us that given the current user behavior and traction of our
@@ -1660,9 +1660,9 @@ We do not have to write a custom code for counting words and
 representing those counts as a vector . Scikit ' s CountVectorizer does the
 job very efficiently . It also has a very convenient interface . Scikit ' s
 functions and classes are imported via the sklearn package as follows :  
-> > > from sklearn . feature_extraction . text import
+>  >  > from sklearn . feature_extraction . text import
 CountVectorizer 
-> > > vectorizer = CountVectorizer ( min_df = 1 ) 
+>  >  > vectorizer = CountVectorizer ( min_df = 1 ) 
 The parameter min_df determines how CountVectorizer treats words that
 are not used frequently ( minimum document frequency )  . If it is set to an
 integer , all words occurring less than that value will be dropped . If it is a
@@ -1670,7 +1670,7 @@ fraction , all words that occur less than that fraction of the overall dataset
 will be dropped . The parameter max_df works in a similar manner . If we
 print the instance , we see what other parameters Scikit provides together
 with their default values :  
-> > > print ( vectorizer ) 
+>  >  > print ( vectorizer ) 
 CountVectorizer ( analyzer = word , binary = False , 
 charset = utf-8 , charset_error = strict , dtype =  < type 
  ' long '  >  , input = content , lowercase = True , max_df = 1 . 0 , 
@@ -1682,14 +1682,14 @@ We see that , as expected , the counting is done at word level
 ( analyzer = word ) and the words are determined by the regular expression
 pattern token_pattern . It would , for example , tokenize " cross-validated " 
 into " cross " and " validated "  . Let us ignore the other parameters for now .  
-> > > content =  [  " How to format my hard disk "  ,  " Hard
+>  >  > content =  [  " How to format my hard disk "  ,  " Hard
 disk format problems "  ]  
-> > > X = vectorizer . fit_transform ( content )  
-> > > vectorizer . get_feature_names (  )  [ u ' disk '  , u ' format '  , 
+>  >  > X = vectorizer . fit_transform ( content )  
+>  >  > vectorizer . get_feature_names (  )  [ u ' disk '  , u ' format '  , 
 u ' hard '  , u ' how '  , u ' my '  , u ' problems '  , u ' to '  ] 
 The vectorizer has detected seven words for which we can fetch the
 counts individually :  
-> > > print ( X . toarray (  )  . transpose (  )  ) 
+>  >  > print ( X . toarray (  )  . transpose (  )  ) 
 array (  [  [ 1 , 1 ]  ,  
 [ 1 , 1 ]  ,  
 [ 1 , 1 ]  ,  
@@ -1721,21 +1721,21 @@ In this post dataset , we want to find the most similar post for the short
 post " imaging databases "  . 
 Assuming that the posts are located in the folder DIR , we can feed
 CountVectorizer with it as follows :  
-> > > posts =  [ open ( os . path . join ( DIR , f )  )  . read (  ) for f
+>  >  > posts =  [ open ( os . path . join ( DIR , f )  )  . read (  ) for f
 in os . listdir ( DIR )  ]  
-> > > from sklearn . feature_extraction . text import
+>  >  > from sklearn . feature_extraction . text import
 CountVectorizer 
-> > > vectorizer = CountVectorizer ( min_df = 1 ) 
+>  >  > vectorizer = CountVectorizer ( min_df = 1 ) 
 We have to notify the vectorizer about the full dataset so that it knows
 upfront what words are to be expected , as shown in the following code :  
-> > > X_train = vectorizer . fit_transform ( posts )  
-> > > num_samples , num_features = X_train . shape 
-> > > print (  "  # samples : %d ,  # features : %d " % 
+>  >  > X_train = vectorizer . fit_transform ( posts )  
+>  >  > num_samples , num_features = X_train . shape 
+>  >  > print (  "  # samples : %d ,  # features : %d " % 
 ( num_samples , num_features )  )  # samples : 5 ,  # features : 
 25
 Unsurprisingly , we have five posts with a total of 25 different words . The
 following words that have been tokenized will be counted :  
-> > > print ( vectorizer . get_feature_names (  )  )  [ u ' about '  , 
+>  >  > print ( vectorizer . get_feature_names (  )  )  [ u ' about '  , 
 u ' actually '  , u ' capabilities '  , u ' contains '  , u ' data '  , 
 u ' databases '  , u ' images '  , u ' imaging '  , u ' interesting '  , 
 u ' is '  , u ' it '  , u ' learning '  , u ' machine '  , u ' most '  , 
@@ -1743,36 +1743,36 @@ u ' much '  , u ' not '  , u ' permanently '  , u ' post '  , u ' provide '  ,
 u ' safe '  , u ' storage '  , u ' store '  , u ' stuff '  , u ' this '  , 
 u ' toy '  ] 
 Now we can vectorize our new post as follows :  
-> > > new_post =  " imaging databases "  
-> > > new_post_vec = vectorizer . transform (  [ new_post ]  ) 
+>  >  > new_post =  " imaging databases "  
+>  >  > new_post_vec = vectorizer . transform (  [ new_post ]  ) 
 Note that the count vectors returned by the transform method are sparse . 
 That is , each vector does not store one count value for each word , as
 most of those counts would be zero ( post does not contain the word )  . 
 Instead , it uses the more memory efficient implementation coo_matrix ( for 
  " COOrdinate "  )  . Our new post , for instance , actually contains only two
 elements :  
-> > > print ( new_post_vec )  
+>  >  > print ( new_post_vec )  
 ( 0 , 7 ) 1 
 ( 0 , 5 ) 1
 Via its member toarray (  )  , we can again access full ndarray as follows :  
-> > > print ( new_post_vec . toarray (  )  )  [  [ 0 0 0 0 0 1 0 1 0 0
+>  >  > print ( new_post_vec . toarray (  )  )  [  [ 0 0 0 0 0 1 0 1 0 0
 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ]  ] 
 We need to use the full array if we want to use it as a vector for similarity
 calculations . For the similarity measurement ( the naive one )  , we calculate
 the Euclidean distance between the count vectors of the new post and all
 the old posts as follows :  
-> > > import scipy as sp 
-> > > def dist_raw ( v1 , v2 )  :  
-> > > delta = v1-v2 
-> > > return sp . linalg . norm ( delta . toarray (  )  ) 
+>  >  > import scipy as sp 
+>  >  > def dist_raw ( v1 , v2 )  :  
+>  >  > delta = v1-v2 
+>  >  > return sp . linalg . norm ( delta . toarray (  )  ) 
 The norm (  ) function calculates the Euclidean norm ( shortest distance )  . 
 With dist_raw , we just need to iterate over all the posts and remember
 the nearest one :  
-> > > import sys 
-> > > best_doc = None 
-> > > best_dist = sys . maxint 
-> > > best_i = None 
-> > > for i in range ( 0 , num_samples )  :  
+>  >  > import sys 
+>  >  > best_doc = None 
+>  >  > best_dist = sys . maxint 
+>  >  > best_i = None 
+>  >  > for i in range ( 0 , num_samples )  :  
 .  .  . post = posts [ i ]  
 .  .  . if post =  = new_post :  
 .  .  . continue 
@@ -1783,7 +1783,7 @@ post )
 .  .  . if d < best_dist :  
 .  .  . best_dist = d 
 .  .  . best_i = i 
-> > > print (  " Best post is %i with dist = % . 2f " % ( best_i , 
+>  >  > print (  " Best post is %i with dist = % . 2f " % ( best_i , 
 best_dist )  )  
 =  =  = Post 0 with dist = 4 . 00 : This is a toy post about
 machine learning . Actually , it contains not much
@@ -1807,16 +1807,16 @@ Looking at posts 3 and 4 , however , the picture is not so clear any more .
 Post 4 is the same as Post 3 , duplicated three times . So , it should also
 be of the same similarity to the new post as Post 3 . 
 Printing the corresponding feature vectors explains the reason :  
-> > > print ( X_train . getrow ( 3 )  . toarray (  )  )  
+>  >  > print ( X_train . getrow ( 3 )  . toarray (  )  )  
 [  [ 0 0 0 0 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 ]  ]  
-> > > print ( X_train . getrow ( 4 )  . toarray (  )  )  
+>  >  > print ( X_train . getrow ( 4 )  . toarray (  )  )  
 [  [ 0 0 0 0 3 3 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 3 0 0 0 ]  ] 
 Obviously , using only the counts of the raw words is too simple . We will
 have to normalize them to get vectors of unit length . 
 Normalizing the word count vectors
 We will have to extend dist_raw to calculate the vector distance , not on
 the raw vectors but on the normalized ones instead :  
-> > > def dist_norm ( v1 , v2 )  :  
+>  >  > def dist_norm ( v1 , v2 )  :  
 .  .  . v1_normalized = v1 / sp . linalg . norm ( v1 . toarray (  )  )  
 .  .  . v2_normalized = v2 / sp . linalg . norm ( v2 . toarray (  )  )  
 .  .  . delta = v1_normalized - v2_normalized 
@@ -1851,13 +1851,13 @@ would be to remove all words that are so frequent that they do not help to
 distinguish between different texts . These words are called stop words . 
 As this is such a common step in text processing , there is a simple
 parameter in CountVectorizer to achieve this , as follows :  
-> > > vectorizer = CountVectorizer ( min_df = 1 , 
+>  >  > vectorizer = CountVectorizer ( min_df = 1 , 
 stop_words =  ' english '  ) 
 If you have a clear picture of what kind of stop words you would want to
 remove , you can also pass a list of them . Setting stop_words to " english " 
 will use a set of 318 English stop words . To find out which ones they are , 
 you can use get_stop_words (  )  :  
-> > > sorted ( vectorizer . get_stop_words (  )  )  [ 0 : 20 ]  
+>  >  > sorted ( vectorizer . get_stop_words (  )  )  [ 0 : 20 ]  
 [  ' a '  ,  ' about '  ,  ' above '  ,  ' across '  ,  ' after '  ,  
  ' afterwards '  ,  ' again '  ,  ' against '  ,  ' all '  ,  ' almost '  ,  
  ' alone '  ,  ' along '  ,  ' already '  ,  ' also '  ,  ' although '  ,  
@@ -1900,7 +1900,7 @@ How to install NLTK on your operating system is described in detail at
 packages NLTK and PyYAML . 
 To check whether your installation was successful , open a Python
 interpreter and type the following :  
-> > > import nltk
+>  >  > import nltk
 Tip
 You will find a very nice tutorial for NLTK in the book Python Text
 Processing with NLTK 2 . 0 Cookbook . To play a little bit with a
@@ -1908,26 +1908,26 @@ stemmer , you can visit the accompanied web page http :  /  / textprocessing . 
 NLTK comes with different stemmers . This is necessary , because every
 language has a different set of rules for stemming . For English , we can
 take SnowballStemmer .  
-> > > import nltk . stem > > > s = 
+>  >  > import nltk . stem >  >  > s = 
 nltk . stem . SnowballStemmer (  ' english '  )  
-> > > s . stem (  " graphics "  ) 
+>  >  > s . stem (  " graphics "  ) 
 u ' graphic '  
-> > > s . stem (  " imaging "  ) 
+>  >  > s . stem (  " imaging "  ) 
 u ' imag '  
-> > > s . stem (  " image "  ) 
+>  >  > s . stem (  " image "  ) 
 u ' imag '  
-> > > s . stem (  " imagination "  ) u ' imagin '  
-> > > s . stem (  " imagine "  ) 
+>  >  > s . stem (  " imagination "  ) u ' imagin '  
+>  >  > s . stem (  " imagine "  ) 
 u ' imagin ' 
 Note
 Note that stemming does not necessarily have to result into valid
 English words . 
 It also works with verbs as follows :  
-> > > s . stem (  " buys "  ) 
+>  >  > s . stem (  " buys "  ) 
 u ' buy '  
-> > > s . stem (  " buying "  ) 
+>  >  > s . stem (  " buying "  ) 
 u ' buy '  
-> > > s . stem (  " bought "  ) 
+>  >  > s . stem (  " bought "  ) 
 u ' bought ' 
 Extending the vectorizer with NLTK ' s stemmer
 We need to stem the posts before we feed them into CountVectorizer . 
@@ -1937,16 +1937,16 @@ can be set in the constructor as parameters . We do not want to place the
 stemmer into any of them , because we would then have to do the
 tokenization and normalization by ourselves . Instead , we overwrite the
 method build_analyzer as follows :  
-> > > import nltk . stem 
-> > > english_stemmer = 
+>  >  > import nltk . stem 
+>  >  > english_stemmer = 
 nltk . stem . SnowballStemmer (  ' english '  )  
-> > > class StemmedCountVectorizer ( CountVectorizer )  :  
+>  >  > class StemmedCountVectorizer ( CountVectorizer )  :  
 .  .  . def build_analyzer ( self )  :  
 .  .  . analyzer = super ( StemmedCountVectorizer , 
 self )  . build_analyzer (  )  
 .  .  . return lambda doc :  
 ( english_stemmer . stem ( w ) for w in analyzer ( doc )  )  
-> > > vectorizer = StemmedCountVectorizer ( min_df = 1 , 
+>  >  > vectorizer = StemmedCountVectorizer ( min_df = 1 , 
 stop_words =  ' english '  ) 
 This will perform the following steps for each post : 
 1 . Lower casing the raw post in the preprocessing step ( done in the
@@ -1999,8 +1999,8 @@ often in that particular post and very rarely anywhere else .
 This is exactly what term frequency – inverse document frequency 
 ( TF-IDF ) does ; TF stands for the counting part , while IDF factors in the
 discounting . A naive implementation would look like the following :  
-> > > import scipy as sp 
-> > > def tfidf ( term , doc , docset )  :  
+>  >  > import scipy as sp 
+>  >  > def tfidf ( term , doc , docset )  :  
 .  .  . tf = float ( doc . count ( term )  )  / sum ( doc . count ( w ) 
 for w in docset )  
 .  .  . idf = math . log ( float ( len ( docset )  )  /  ( len (  [ doc
@@ -2009,18 +2009,18 @@ for doc in docsetif term in doc ]  )  )  )
 For the following document set , docset , consisting of three documents
 that are already tokenized , we can see how the terms are treated
 differently , although all appear equally often per document :  
-> > > a , abb , abc =  [  " a "  ]  ,  [  " a "  ,  " b "  ,  " b "  ]  ,  [  " a "  ,  " b "  ,  
+>  >  > a , abb , abc =  [  " a "  ]  ,  [  " a "  ,  " b "  ,  " b "  ]  ,  [  " a "  ,  " b "  ,  
  " c "  ]  
-> > > D =  [ a , abb , abc ]  
-> > > print ( tfidf (  " a "  , a , D )  ) 
+>  >  > D =  [ a , abb , abc ]  
+>  >  > print ( tfidf (  " a "  , a , D )  ) 
 0 . 0 
-> > > print ( tfidf (  " b "  , abb , D )  ) 
+>  >  > print ( tfidf (  " b "  , abb , D )  ) 
 0 . 270310072072 
-> > > print ( tfidf (  " a "  , abc , D )  ) 
+>  >  > print ( tfidf (  " a "  , abc , D )  ) 
 0 . 0 
-> > > print ( tfidf (  " b "  , abc , D )  ) 
+>  >  > print ( tfidf (  " b "  , abc , D )  ) 
 0 . 135155036036 
-> > > print ( tfidf (  " c "  , abc , D )  ) 
+>  >  > print ( tfidf (  " c "  , abc , D )  ) 
 0 . 366204096223
 We see that a carries no meaning for any document since it is contained
 everywhere . b is more important for the document abb than for abc as it
@@ -2029,16 +2029,16 @@ In reality , there are more corner cases to handle than the above example
 does . Thanks to Scikit , we don ' t have to think of them , as they are
 already nicely packaged in TfidfVectorizer , which is inherited from
 CountVectorizer . Sure enough , we don ' t want to miss our stemmer :  
-> > > from sklearn . feature_extraction . text import
+>  >  > from sklearn . feature_extraction . text import
 TfidfVectorizer 
-> > > class StemmedTfidfVectorizer ( TfidfVectorizer )  :  
+>  >  > class StemmedTfidfVectorizer ( TfidfVectorizer )  :  
 .  .  . def build_analyzer ( self )  :  
 .  .  . analyzer = super ( TfidfVectorizer , 
 self )  . build_analyzer (  )  
 .  .  . return lambda doc :  ( 
 english_stemmer . stem ( w ) for w in
 analyzer ( doc )  )  
-> > > vectorizer = StemmedTfidfVectorizer ( min_df = 1 , 
+>  >  > vectorizer = StemmedTfidfVectorizer ( min_df = 1 , 
 stop_words =  ' english '  , 
 charset_error =  ' ignore '  ) 
 The resulting document vectors will not contain counts any more . 
@@ -2168,10 +2168,10 @@ datasets and compare them .
 Either you set the environment variable MLCOMP_DATASETS_HOME or you
 specify the path directly with the mlcomp_root parameter when loading the
 dataset as follows :  
-> > > import sklearn . datasets 
-> > > MLCOMP_DIR = r " D :  \ data "  
-> > > data = sklearn . datasets . load_mlcomp (  " 20news18828 "  , mlcomp_root = MLCOMP_DIR )  
-> > > print ( data . filenames ) 
+>  >  > import sklearn . datasets 
+>  >  > MLCOMP_DIR = r " D :  \ data "  
+>  >  > data = sklearn . datasets . load_mlcomp (  " 20news18828 "  , mlcomp_root = MLCOMP_DIR )  
+>  >  > print ( data . filenames ) 
 array (  [  ' D :  \  \ data \  \ 379 \  \ raw \  \ comp . graphics \  \ 1190-
 38614 '  ,  
  ' D :  \  \ data \  \ 379 \  \ raw \  \ comp . graphics \  \ 1383-
@@ -2183,9 +2183,9 @@ array (  [  ' D :  \  \ data \  \ 379 \  \ raw \  \ comp . graphics \  \ 1190-
  ' D :  \  \ data \  \ 379 \  \ raw \  \ sci . crypt \  \ 10799-15660 '  ,  
  ' D :  \  \ data \  \ 379 \  \ raw \  \ comp . os . mswindows . misc \  \ 2732-10871 '  ]  , 
 dtype =  '  | S68 '  )  
-> > > print ( len ( data . filenames )  ) 
+>  >  > print ( len ( data . filenames )  ) 
 18828 
-> > > data . target_names 
+>  >  > data . target_names 
 [  ' alt . atheism '  ,  ' comp . graphics '  ,  ' comp . os . mswindows . misc '  ,  ' comp . sys . ibm . pc . hardware '  ,  
  ' comp . sys . mac . hardware '  ,  ' comp . windows . x '  ,  
  ' misc . forsale '  ,  ' rec . autos '  ,  ' rec . motorcycles '  ,  
@@ -2195,35 +2195,35 @@ dtype =  '  | S68 '  )
  ' talk . politics . mideast '  ,  ' talk . politics . misc '  ,  
  ' talk . religion . misc '  ] 
 We can choose among training and test sets as follows :  
-> > > train_data = sklearn . datasets . load_mlcomp (  " 20news18828 "  ,  " train "  , mlcomp_root = MLCOMP_DIR )  
-> > > print ( len ( train_data . filenames )  ) 
+>  >  > train_data = sklearn . datasets . load_mlcomp (  " 20news18828 "  ,  " train "  , mlcomp_root = MLCOMP_DIR )  
+>  >  > print ( len ( train_data . filenames )  ) 
 13180 
-> > > test_data = sklearn . datasets . load_mlcomp (  " 20news18828 "  ,  " test "  , mlcomp_root = MLCOMP_DIR )  
-> > > print ( len ( test_data . filenames )  ) 
+>  >  > test_data = sklearn . datasets . load_mlcomp (  " 20news18828 "  ,  " test "  , mlcomp_root = MLCOMP_DIR )  
+>  >  > print ( len ( test_data . filenames )  ) 
 5648
 For simplicity ' s sake , we will restrict ourselves to only some newsgroups
 so that the overall experimentation cycle is shorter . We can achieve this
 with the categories parameter as follows :  
-> > > groups =  [  ' comp . graphics '  ,  ' comp . os . mswindows . misc '  ,  ' comp . sys . ibm . pc . hardware '  ,  
+>  >  > groups =  [  ' comp . graphics '  ,  ' comp . os . mswindows . misc '  ,  ' comp . sys . ibm . pc . hardware '  ,  
  ' comp . sys . ma c . hardware '  ,  ' comp . windows . x '  ,  
  ' sci . space '  ]  
-> > > train_data = sklearn . datasets . load_mlcomp (  " 20news18828 "  ,  " train "  , mlcomp_root = MLCOMP_DIR , 
+>  >  > train_data = sklearn . datasets . load_mlcomp (  " 20news18828 "  ,  " train "  , mlcomp_root = MLCOMP_DIR , 
 categories = groups )  
-> > > print ( len ( train_data . filenames )  ) 
+>  >  > print ( len ( train_data . filenames )  ) 
 3414
 Clustering posts
 You must have already noticed one thing – real data is noisy . The
 newsgroup dataset is no exception . It even contains invalid characters
 that will result in UnicodeDecodeError . 
 We have to tell the vectorizer to ignore them :  
-> > > vectorizer = StemmedTfidfVectorizer ( min_df = 10 , 
+>  >  > vectorizer = StemmedTfidfVectorizer ( min_df = 10 , 
 max_df = 0 . 5 ,  
 .  .  . stop_words =  ' english '  , 
 charset_error =  ' ignore '  )  
-> > > vectorized = 
+>  >  > vectorized = 
 vectorizer . fit_transform ( dataset . data )  
-> > > num_samples , num_features = vectorized . shape 
-> > > print (  "  # samples : %d ,  # features : %d " % 
+>  >  > num_samples , num_features = vectorized . shape 
+>  >  > print (  "  # samples : %d ,  # features : %d " % 
 ( num_samples , num_features )  )  
 # samples : 3414 ,  # features : 4331
 We now have a pool of 3 , 414 posts and extracted for each of them a
@@ -2231,18 +2231,18 @@ feature vector of 4 , 331 dimensions . That is what KMeans takes as input .
 We will fix the cluster size to 50 for this chapter and hope you are curious
 enough to try out different values as an exercise , as shown in the
 following code :  
-> > > num_clusters = 50 
-> > > from sklearn . cluster import KMeans 
-> > > km = KMeans ( n_clusters = num_clusters , 
+>  >  > num_clusters = 50 
+>  >  > from sklearn . cluster import KMeans 
+>  >  > km = KMeans ( n_clusters = num_clusters , 
 init =  ' random '  , n_init = 1 , 
 verbose = 1 )  
-> > > km . fit ( vectorized ) 
+>  >  > km . fit ( vectorized ) 
 That ' s it . After fitting , we can get the clustering information out of the
 members of km . For every vectorized post that has been fit , there is a
 corresponding integer label in km . labels_ :  
-> > > km . labels_
+>  >  > km . labels_
 array (  [ 33 , 22 , 17 ,  .  .  .  , 14 , 11 , 39 ]  )  
-> > > km . labels_ . shape 
+>  >  > km . labels_ . shape 
 ( 3414 ,  ) 
 The cluster centers can be accessed via km . cluster_centers_ . 
 In the next section we will see how we can assign a cluster to a newly
@@ -2256,33 +2256,33 @@ I tried to format it , but now it doesn ' t boot any more .
 Any ideas ? Thanks . 
 As we have learned previously , we will first have to vectorize this post
 before we predict its label as follows :  
-> > > new_post_vec = vectorizer . transform (  [ new_post ]  )  
-> > > new_post_label = km . predict ( new_post_vec )  [ 0 ] 
+>  >  > new_post_vec = vectorizer . transform (  [ new_post ]  )  
+>  >  > new_post_label = km . predict ( new_post_vec )  [ 0 ] 
 Now that we have the clustering , we do not need to compare
 new_post_vec to all post vectors . Instead , we can focus only on the posts
 of the same cluster . Let us fetch their indices in the original dataset :  
-> > > similar_indices =  
+>  >  > similar_indices =  
 ( km . labels_ =  = new_post_label )  . nonzero (  )  [ 0 ] 
 The comparison in the bracket results in a Boolean array , and nonzero
 converts that array into a smaller array containing the indices of the True
 elements . 
 Using similar_indices , we then simply have to build a list of posts
 together with their similarity scores as follows :  
-> > > similar =  [  ]  
-> > > for i in similar_indices :  
+>  >  > similar =  [  ]  
+>  >  > for i in similar_indices :  
 .  .  . dist = sp . linalg . norm (  ( new_post_vec -
 vectorized [ i ]  )  . toarray (  )  )  
 .  .  . similar . append (  ( dist , dataset . data [ i ]  )  )  
-> > > similar = sorted ( similar )  
-> > > print ( len ( similar )  ) 
+>  >  > similar = sorted ( similar )  
+>  >  > print ( len ( similar )  ) 
 44
 We found 44 posts in the cluster of our post . To give the user a quick idea
 of what kind of similar posts are available , we can now present the most
 similar post ( show_at_1 )  , the least similar one ( show_at_3 )  , and an inbetween post ( show_at_2 )  , all of which are from the same cluster as
 follows :  
-> > > show_at_1 = similar [ 0 ]  
-> > > show_at_2 = similar [ len ( similar )  / 2 ]  
-> > > show_at_3 = similar [ -1 ] 
+>  >  > show_at_1 = similar [ 0 ]  
+>  >  > show_at_2 = similar [ len ( similar )  / 2 ]  
+>  >  > show_at_3 = similar [ -1 ] 
 The following table shows the posts together with their similarity values : 
 Position Similarity Excerpt from post
 1 1 . 018 BOOT PROBLEM with IDE controller
@@ -2336,10 +2336,10 @@ We should not expect a perfect clustering , in the sense that posts from
 the same newsgroup ( for example , comp . graphics ) are also clustered
 together . An example will give us a quick impression of the noise that we
 have to expect :  
-> > > post_group = zip ( dataset . data , dataset . target )  
-> > > z =  ( len ( post [ 0 ]  )  , post [ 0 ]  , 
+>  >  > post_group = zip ( dataset . data , dataset . target )  
+>  >  > z =  ( len ( post [ 0 ]  )  , post [ 0 ]  , 
 dataset . target_names [ post [ 1 ]  ]  ) for post in post_group 
-> > > print ( sorted ( z )  [ 5 : 7 ]  )  
+>  >  > print ( sorted ( z )  [ 5 : 7 ]  )  
 [  ( 107 ,  ' From :  " kwansik kim "  
 < kkim @ cs . indiana . edu >  \ nSubject : Where is FAQ ?  
 \ n \ nWhere can I find it ?  \ n \ nThanks , Kwansik \ n \ n '  ,  
@@ -2350,19 +2350,19 @@ lioness @ maple . circa . ufl . edu \ nSubject : What is 3dO ?
 For both of these posts , there is no real indication that they belong to
 comp . graphics , considering only the wording that is left after the
 preprocessing step :  
-> > > analyzer = vectorizer . build_analyzer (  )  
-> > > list ( analyzer ( z [ 5 ]  [ 1 ]  )  )  
+>  >  > analyzer = vectorizer . build_analyzer (  )  
+>  >  > list ( analyzer ( z [ 5 ]  [ 1 ]  )  )  
 [ u ' kwansik '  , u ' kim '  , u ' kkim '  , u ' cs '  , u ' indiana '  , 
 u ' edu '  , u ' subject '  , u ' faq '  , u ' thank '  , u ' kwansik '  ]  
-> > > list ( analyzer ( z [ 6 ]  [ 1 ]  )  )  
+>  >  > list ( analyzer ( z [ 6 ]  [ 1 ]  )  )  
 [ u ' lioness '  , u ' mapl '  , u ' circa '  , u ' ufl '  , u ' edu '  , 
 u ' subject '  , u ' 3do '  , u ' 3do '  , u ' thank '  , u ' bh '  ] 
 This is only after tokenization , lower casing , and stop word removal . If we
 also subtract those words that will be later filtered out via min_df and
 max_df , which will be done later in fit_transform , it gets even worse :  
-> > > list ( set ( analyzer ( z [ 5 ]  [ 1 ]  )  )  . intersection ( 
+>  >  > list ( set ( analyzer ( z [ 5 ]  [ 1 ]  )  )  . intersection ( 
 vectorizer . get_feature_names (  )  )  )  
-[ u ' cs '  , u ' faq '  , u ' thank '  ]  > > > list ( set ( analyzer ( z [ 6 ]  
+[ u ' cs '  , u ' faq '  , u ' thank '  ]  >  >  > list ( set ( analyzer ( z [ 6 ]  
 [ 1 ]  )  )  . intersection ( 
 vectorizer . get_feature_names (  )  )  )  
 [ u ' bh '  , u ' thank '  ] 
@@ -2370,7 +2370,7 @@ Furthermore , most of the words occur frequently in other posts as well ,
 as we can check with the IDF scores . Remember that the higher the TFIDF , the more discriminative a term is for a given post . And as IDF is a
 multiplicative factor here , a low value of it signals that it is not of great
 value in general :  
-> > > for term in [  ' cs '  ,  ' faq '  ,  ' thank '  ,  ' bh '  ,  ' thank '  ]  :  
+>  >  > for term in [  ' cs '  ,  ' faq '  ,  ' thank '  ,  ' bh '  ,  ' thank '  ]  :  
 .  .  . print (  ' IDF ( %s )  = % . 2f ' % ( term , 
 vectorizer . _tfidf . idf_ [ vectorizer . vocabulary_ [ term ]  ]  ) 
 IDF ( cs )  = 3 . 23
@@ -2475,19 +2475,19 @@ easy_install gensim
 We are going to use an Associated Press ( AP ) dataset of news reports . 
 This is a standard dataset , which was used in some of the initial work on
 topic models :  
-> > > from gensim import corpora , models , similarities 
-> > > corpus = corpora . BleiCorpus (  '  . dataap / ap . dat '  ,  
+>  >  > from gensim import corpora , models , similarities 
+>  >  > corpus = corpora . BleiCorpus (  '  . dataap / ap . dat '  ,  
  ' dataap / vocab . txt '  ) 
 Corpus is just the preloaded list of words :  
-> > > model = models . ldamodel . LdaModel ( 
+>  >  > model = models . ldamodel . LdaModel ( 
 corpus , 
 num_topics = 100 , 
 id2word = corpus . id2word ) 
 This one-step process will build a topic model . We can explore the topics
 in many ways . We can see the list of topics a document refers to by using
 the model [ doc ] syntax :  
-> > > topics =  [ model [ c ] for c in corpus ]  
-> > > print topics [ 0 ]  
+>  >  > topics =  [ model [ c ] for c in corpus ]  
+>  >  > print topics [ 0 ]  
 [  ( 3 , 0 . 023607255776894751 )  ,  
 ( 13 , 0 . 11679936618551275 )  ,  
 ( 19 , 0 . 075935855202707139 )  ,  
@@ -2517,7 +2517,7 @@ values for alpha will result in more topics per document . Alpha needs to
 be positive , but is typically very small ; usually smaller than one . By
 default , gensim will set alpha equal to 1 . 0 / len ( corpus )  , but you can set it
 yourself as follows :  
-> > > model = models . ldamodel . LdaModel ( 
+>  >  > model = models . ldamodel . LdaModel ( 
 corpus , 
 num_topics = 100 , 
 id2word = corpus . id2word , 
@@ -2612,33 +2612,33 @@ weights than vectors of the size of the vocabulary ( which will contain
 thousands of terms )  . 
 Using gensim , we saw before how to compute the topics corresponding to
 all documents in the corpus :  
-> > > topics =  [ model [ c ] for c in corpus ]  
-> > > print topics [ 0 ]  
+>  >  > topics =  [ model [ c ] for c in corpus ]  
+>  >  > print topics [ 0 ]  
 [  ( 3 , 0 . 023607255776894751 )  ,  
 ( 13 , 0 . 11679936618551275 )  ,  
 ( 19 , 0 . 075935855202707139 )  ,  
 ( 92 , 0 . 10781541687001292 )  ] 
 We will store all these topic counts in NumPy arrays and compute all
 pairwise distances :  
-> > > dense = np . zeros (  ( len ( topics )  , 100 )  , float )  
-> > > for ti , t in enumerate ( topics )  : 
+>  >  > dense = np . zeros (  ( len ( topics )  , 100 )  , float )  
+>  >  > for ti , t in enumerate ( topics )  : 
 … for tj , v in t : 
 … dense [ ti , tj ]  = v
 Now , dense is a matrix of topics . We can use the pdist function in SciPy
 to compute all pairwise distances . That is , with a single function call , we
 compute all the values of sum (  ( dense [ ti ] – dense [ tj ]  )  *  * 2 )  :  
-> > > from scipy . spatial import distance 
-> > > pairwise = 
+>  >  > from scipy . spatial import distance 
+>  >  > pairwise = 
 distance . squareform ( distance . pdist ( dense )  ) 
 Now we employ one last little trick ; we set the diagonal elements of the
 distance matrix to a high value ( it just needs to be larger than the other
 values in the matrix )  :  
-> > > largest = pairwise . max (  )  
-> > > for ti in range ( len ( topics )  )  : 
+>  >  > largest = pairwise . max (  )  
+>  >  > for ti in range ( len ( topics )  )  : 
 pairwise [ ti , ti ]  = largest + 1
 And we are done ! For each document , we can look up the closest
 element easily :  
-> > > def closest_to ( doc_id )  : 
+>  >  > def closest_to ( doc_id )  : 
 return pairwise [ doc_id ]  . argmin (  ) 
 Note
 The previous code would not work if we had not set the diagonal
@@ -2704,19 +2704,19 @@ Run the previous command on the command line , not on the Python
 shell . After a few hours , the indexing will be finished . Finally , we can build
 the final topic model . This step looks exactly like what we did for the
 small AP dataset . We first import a few packages :  
-> > > import logging , gensim 
-> > > logging . basicConfig ( 
+>  >  > import logging , gensim 
+>  >  > logging . basicConfig ( 
 format =  ' % ( asctime ) s : % ( levelname ) s : % 
 ( message ) s '  , 
 level = logging . INFO ) 
 Now , we load the data that has been preprocessed :  
-> > > id2word = 
+>  >  > id2word = 
 gensim . corpora . Dictionary . load_from_text (  ' wiki_en_outp
 ut_wordids . txt '  )  
-> > > mm = 
+>  >  > mm = 
 gensim . corpora . MmCorpus (  ' wiki_en_output_tfidf . mm '  ) 
 Finally , we build the LDA model as before :  
-> > > model = gensim . models . ldamodel . LdaModel ( 
+>  >  > model = gensim . models . ldamodel . LdaModel ( 
 corpus = mm , 
 id2word = id2word , 
 num_topics = 100 , 
@@ -2727,22 +2727,22 @@ This will again take a couple of hours ( you will see the progress on your
 console , which can give you an indication of how long you still have to
 wait )  . Once it is done , you can save it to a file so you don ' t have to redo it
 all the time :  
-> > > model . save (  ' wiki_lda . pkl '  ) 
+>  >  > model . save (  ' wiki_lda . pkl '  ) 
 If you exit your session and come back later , you can load the model
 again with :  
-> > > model = 
+>  >  > model = 
 gensim . models . ldamodel . LdaModel . load (  ' wiki_lda . pkl '  ) 
 Let us explore some topics :  
-> > > topics =  [  ]  
-> > > for doc in mm : 
+>  >  > topics =  [  ]  
+>  >  > for doc in mm : 
 topics . append ( model [ doc ]  ) 
 We can see that this is still a sparse model even if we have many more
 documents than before ( over 4 million as we are writing this )  :  
-> > > import numpy as np 
-> > > lens = np . array (  [ len ( t ) for t in topics ]  )  
-> > > print np . mean ( lens ) 
+>  >  > import numpy as np 
+>  >  > lens = np . array (  [ len ( t ) for t in topics ]  )  
+>  >  > print np . mean ( lens ) 
 6 . 55842326445 
-> > > print np . mean ( lens <  = 10 ) 
+>  >  > print np . mean ( lens <  = 10 ) 
 0 . 932382190219
 So , the average document mentions 6 . 5 topics and 93 percent of them
 mention 10 or fewer . 
@@ -2756,11 +2756,11 @@ fraction of ones . In this case , it is the fraction of elements of lens ,
 which are less than or equal to 10 . 
 We can also ask what the most talked about topic in Wikipedia is . We
 first collect some statistics on topic usage :  
-> > > counts = np . zeros ( 100 )  
-> > > for doc_top in topics : 
+>  >  > counts = np . zeros ( 100 )  
+>  >  > for doc_top in topics : 
 … for ti , _ in doc_top : 
 … counts [ ti ]  +  = 1 
-> > > words = model . show_topic ( counts . argmax (  )  , 64 ) 
+>  >  > words = model . show_topic ( counts . argmax (  )  , 64 ) 
 Using the same tool as before to build up visualization , we can see that
 the most talked about topic is fiction and stories , both as books and
 movies . For variety , we chose a different color scheme . A full 25 percent
@@ -2774,7 +2774,7 @@ may vary . Particularly , the least relevant topic is subject to change ,
 while a topic similar to the previous topic is likely to be still high on the
 list ( even if not as the most important )  . 
 Alternatively , we can look at the least talked about topic :  
-> > > words = model . show_topic ( counts . argmin (  )  , 64 ) 
+>  >  > words = model . show_topic ( counts . argmin (  )  , 64 ) 
 The least talked about are the former French colonies in Central Africa . 
 Just 1 . 5 percent of documents touch upon it , and it represents 0 . 08
 percent of the words . Probably if we had performed this exercise using
@@ -2827,7 +2827,7 @@ called the hierarchical Dirichlet process ( HDP )  , and it is available in
 gensim . Using it is trivial . Taking the previous code for LDA , we just need
 to replace the call to gensim . models . ldamodel . LdaModel with a call to the
 HdpModel constructor as follows :  
-> > > hdp = gensim . models . hdpmodel . HdpModel ( mm , id2word ) 
+>  >  > hdp = gensim . models . hdpmodel . HdpModel ( mm , id2word ) 
 That ' s it ( except it takes a bit longer to compute—there are no free
 lunches )  . Now , we can use this model as much as we used the LDA
 model , except that we did not need to specify the number of topics . 
@@ -2939,8 +2939,8 @@ votes . xml 2 , 200 Information on votes
 As the files are more or less self-contained , we can delete all of them
 except posts . xml ; it contains all the questions and answers as individual
 row tags within the root tag posts . Refer to the following code :  
-<  ? xml version =  " 1 . 0 " encoding =  " utf-8 "  ?  > 
-< posts > 
+<  ? xml version =  " 1 . 0 " encoding =  " utf-8 "  ?  >  
+< posts >  
 < row Id =  " 4572748 " PostTypeId =  " 2 " ParentId =  " 4568987 " 
 CreationDate =  " 2011-01-01T00 : 01 : 03 . 387 " Score =  " 4 " 
 ViewCount =  "  " Body =  "  & lt ; p & gt ; IANAL , but & lt ; a
@@ -3069,9 +3069,9 @@ We should settle somewhere between these extremes . If we take all
 answers that are scored higher than zero as positive and all answers with
 0 or less points as negative , we end up with quite reasonable labels as
 follows :  
-> > > all_answers =  [ q for q , v in meta . iteritems (  ) if
+>  >  > all_answers =  [ q for q , v in meta . iteritems (  ) if
 v [  ' ParentId '  ]  !  = -1 ]  
-> > > Y = np . asarray (  [ meta [ aid ]  [  ' Score '  ]  > 0 for aid in
+>  >  > Y = np . asarray (  [ meta [ aid ]  [  ' Score '  ]  > 0 for aid in
 all_answers ]  ) 
 Creating our first classifier
 Let us start with the simple and beautiful nearest neighbor method from
@@ -3084,22 +3084,22 @@ Starting with the k-nearest neighbor
 This time , we won ' t implement it ourselves , but rather take it from the
 sklearn toolkit . There , the classifier resides in sklearn . neighbors . Let us
 start with a simple 2-nearest neighbor classifier :  
-> > > from sklearn import neighbors 
-> > > knn = 
+>  >  > from sklearn import neighbors 
+>  >  > knn = 
 neighbors . KNeighborsClassifier ( n_neighbors = 2 )  
-> > > print ( knn ) 
+>  >  > print ( knn ) 
 KNeighborsClassifier ( algorithm = auto , leaf_size = 30 , 
 n_neighbors = 2 , p = 2 , warn_on_equidistant = True , 
 weights = uniform ) 
 It provides the same interface as all the other estimators in sklearn . We
 train it using fit (  )  , after which we can predict the classes of new data
 instances using predict (  )  :  
-> > > knn . fit (  [  [ 1 ]  ,  [ 2 ]  ,  [ 3 ]  ,  [ 4 ]  ,  [ 5 ]  ,  [ 6 ]  ]  ,  [ 0 , 0 , 0 , 1 , 1 , 1 ]  )  
-> > > knn . predict ( 1 . 5 ) 
+>  >  > knn . fit (  [  [ 1 ]  ,  [ 2 ]  ,  [ 3 ]  ,  [ 4 ]  ,  [ 5 ]  ,  [ 6 ]  ]  ,  [ 0 , 0 , 0 , 1 , 1 , 1 ]  )  
+>  >  > knn . predict ( 1 . 5 ) 
 array (  [ 0 ]  )  
-> > > knn . predict ( 37 ) 
+>  >  > knn . predict ( 37 ) 
 array (  [ 1 ]  )  
-> > > knn . predict ( 3 ) 
+>  >  > knn . predict ( 3 ) 
 NeighborsWarning : kneighbors : neighbor k + 1 and
 neighbor k have the same distance : results will be
 dependent on data order . 
@@ -3108,8 +3108,8 @@ array (  [ 0 ]  )
 To get the class probabilities , we can use predict_proba (  )  . In this case , 
 where we have two classes , 0 and 1 , it will return an array of two
 elements as in the following code :  
-> > > knn . predict_proba ( 1 . 5 ) array (  [  [ 1 .  , 0 .  ]  ]  )  > > > 
-knn . predict_proba ( 37 ) array (  [  [ 0 .  , 1 .  ]  ]  )  > > > 
+>  >  > knn . predict_proba ( 1 . 5 ) array (  [  [ 1 .  , 0 .  ]  ]  )  >  >  > 
+knn . predict_proba ( 37 ) array (  [  [ 0 .  , 1 .  ]  ]  )  >  >  > 
 knn . predict_proba ( 3 . 5 ) 
 array (  [  [ 0 . 5 , 0 . 5 ]  ]  ) 
 Engineering the features
@@ -3408,21 +3408,21 @@ detected by Scikit-learn .
 After fitting the data to the class labels , the formula will give the
 probability for every new data point , x , that belongs to class 1 . Refer to
 the following code :  
-> > > from sklearn . linear_model import
+>  >  > from sklearn . linear_model import
 LogisticRegression 
-> > > clf = LogisticRegression (  )  
-> > > print ( clf ) 
+>  >  > clf = LogisticRegression (  )  
+>  >  > print ( clf ) 
 LogisticRegression ( C = 1 . 0 , class_weight = None , 
 dual = False , fit_intercept = True , intercept_scaling = 1 , 
 penalty = l2 , tol = 0 . 0001 )  
-> > > clf . fit ( X , y )  
-> > > print ( np . exp ( clf . intercept_ )  , 
+>  >  > clf . fit ( X , y )  
+>  >  > print ( np . exp ( clf . intercept_ )  , 
 np . exp ( clf . coef_ . ravel (  )  )  )  
 [ 0 . 09437188 ]  [ 1 . 80094112 ]  
-> > > def lr_model ( clf , X )  : 
+>  >  > def lr_model ( clf , X )  : 
 return 1 /  ( 1 + np . exp ( - ( clf . intercept_ + 
 clf . coef_ * X )  )  )  
-> > > print (  " P ( x = -1 )  = % . 2f \ tP ( x = 7 )  = % . 2f " % ( lr_model ( clf , 
+>  >  > print (  " P ( x = -1 )  = % . 2f \ tP ( x = 7 )  = % . 2f " % ( lr_model ( clf , 
 -1 )  , lr_model ( clf , 7 )  )  ) 
 P ( x = -1 )  = 0 . 05 P ( x = 7 )  = 0 . 85
 You might have noticed that Scikit-learn exposes the first coefficient
@@ -3502,8 +3502,8 @@ varying that threshold between 0 and 1 . With these counts , we can then
 plot precision over recall . 
 The handy function precision_recall_curve (  ) from the metrics module
 does all the calculations for us as shown in the following code :  
-> > > from sklearn . metrics import precision_recall_curve 
-> > > precision , recall , thresholds = 
+>  >  > from sklearn . metrics import precision_recall_curve 
+>  >  > precision , recall , thresholds = 
 precision_recall_curve ( y_test , clf . predict ( X_test ) 
 Predicting one class with acceptable performance does not always mean
 that the classifier will predict the other classes acceptably . This can be
@@ -3522,9 +3522,9 @@ values , and stays at an unacceptably low 60 percent .
 Predicting good answers , however , shows that we can get above 80
 percent precision at a recall of almost 40 percent . Let us find out what
 threshold we need for that with the following code :  
-> > > thresholds = np . hstack (  (  [ 0 ]  , thresholds [ medium ]  )  )  
-> > > idx80 = precisions >  = 0 . 8 
-> > > print (  " P = % . 2f R = % . 2f thresh = % . 2f " % \  
+>  >  > thresholds = np . hstack (  (  [ 0 ]  , thresholds [ medium ]  )  )  
+>  >  > idx80 = precisions >  = 0 . 8 
+>  >  > print (  " P = % . 2f R = % . 2f thresh = % . 2f " % \  
 ( precision [ idx80 ]  [ 0 ]  , recall [ idx80 ]  [ 0 ]  , 
 threshold [ idx80 ]  [ 0 ]  )  ) 
 P = 0 . 81 R = 0 . 37 thresh = 0 . 63
@@ -3536,14 +3536,14 @@ reasonably sure of .
 To apply this threshold in the prediction process , we have to use
 predict_proba (  )  , which returns per class probabilities , instead of
 predict (  )  , which returns the class itself :  
-> > > thresh80 = threshold [ idx80 ]  [ 0 ]  
-> > > probs_for_good = 
+>  >  > thresh80 = threshold [ idx80 ]  [ 0 ]  
+>  >  > probs_for_good = 
 clf . predict_proba ( answer_features )  [  :  , 1 ]  
-> > > answer_class = probs_for_good > thresh80
+>  >  > answer_class = probs_for_good > thresh80
 We can confirm that we are in the desired precision / recall range using
 classification_report :  
-> > > from sklearn . metrics import classification_report 
-> > > print ( classification_report ( y_test , 
+>  >  > from sklearn . metrics import classification_report 
+>  >  > print ( classification_report ( y_test , 
 clf . predict_proba [  :  , 1 ]  > 0 . 63 , target_names =  [  ' not
 accepted '  ,  ' accepted '  ]  )  ) 
 precision recall f1-score support
@@ -3578,9 +3578,9 @@ Let ' s assume we want to integrate this classifier into our site . What we
 definitely do not want is to train the classifier each time we start the
 classification service . Instead , we can simply serialize the classifier after
 training and then deserialize it on that site :  
-> > > import pickle 
-> > > pickle . dump ( clf , open (  " logreg . dat "  ,  " w "  )  )  
-> > > clf = pickle . load ( open (  " logreg . dat "  ,  " r "  )  ) 
+>  >  > import pickle 
+>  >  > pickle . dump ( clf , open (  " logreg . dat "  ,  " w "  )  )  
+>  >  > clf = pickle . load ( open (  " logreg . dat "  ,  " r "  )  ) 
 Congratulations , the classifier is now ready to be used as if it had just
 been trained . 
 Summary
@@ -3638,9 +3638,9 @@ corresponding Twitter data . As the script is playing nicely with Twitter ' s
 servers , it will take quite some time to download all the data for more
 than 5000 tweets . So it is a good idea to start it now . 
 The data comes with four sentiment labels :  
-> > > X , Y = load_sanders_data (  )  
-> > > classes = np . unique ( Y )  
-> > > for c in classes : 
+>  >  > X , Y = load_sanders_data (  )  
+>  >  > classes = np . unique ( Y )  
+>  >  > for c in classes : 
 print (  "  # %s : %i " % ( c , sum ( Y =  = c )  )  )  
 # irrelevant : 543 
 # negative : 535 
@@ -3806,27 +3806,27 @@ smaller than the ones we have dealt with in the toy example . In reality ,
 we also have more than two features , which we multiply with each other . 
 This will quickly lead to the point where the accuracy provided by NumPy
 does not suffice anymore :  
-> > > import numpy as np 
-> > > np . set_printoptions ( precision = 20 )  # tell numpy to
+>  >  > import numpy as np 
+>  >  > np . set_printoptions ( precision = 20 )  # tell numpy to
 print out more digits ( default is 8 )  
-> > > np . array (  [ 2 . 48E-324 ]  ) 
+>  >  > np . array (  [ 2 . 48E-324 ]  ) 
 array (  [ 4 . 94065645841246544177e-324 ]  )  
-> > > np . array (  [ 2 . 47E-324 ]  ) 
+>  >  > np . array (  [ 2 . 47E-324 ]  ) 
 array (  [ 0 .  ]  ) 
 So , how probable is it that we will ever hit a number like 2 . 47E-324 ? To
 answer this , we just have to imagine a likelihood for the conditional
 probabilities of 0 . 0001 and then multiply 65 of them together ( meaning
 that we have 65 low probable feature values ) and you ' ve been hit by the
 arithmetic underflow :  
-> > > x = 0 . 00001 
-> > > x *  * 64 # still fine
+>  >  > x = 0 . 00001 
+>  >  > x *  * 64 # still fine
 1e-320 
-> > > x *  * 65 # ouch
+>  >  > x *  * 65 # ouch
 0 . 0
 A float in Python is typically implemented using double in C . To find out
 whether it is the case for your platform , you can check it as follows :  
-> > > import sys 
-> > > sys . float_info
+>  >  > import sys 
+>  >  > sys . float_info
 sys . float_info ( max = 1 . 7976931348623157e + 308 , 
 max_exp = 1024 , max_10_exp = 308 , min = 2 . 2250738585072014e308 , min_exp = -1021 , min_10_exp = -307 , dig = 15 , 
 mant_dig = 53 , epsilon = 2 . 220446049250313e-16 , radix = 2 , 
@@ -3879,11 +3879,11 @@ any sentiment , but are neutral or irrelevant , containing , for instance , raw
 information ( New book : Building Machine Learning .  .  . http :  /  / link )  . 
 This leads to four classes . To avoid complicating the task too much , let us
 for now only focus on the positive and negative tweets :  
-> > > pos_neg_idx = np . logical_or ( Y =  =  " positive "  , 
+>  >  > pos_neg_idx = np . logical_or ( Y =  =  " positive "  , 
 Y =  =  " negative "  )  
-> > > X = X [ pos_neg_idx ]  
-> > > Y = Y [ pos_neg_idx ]  
-> > > Y = Y =  =  " positive " 
+>  >  > X = X [ pos_neg_idx ]  
+>  >  > Y = Y [ pos_neg_idx ]  
+>  >  > Y = Y =  =  " positive " 
 Now , we have in X the raw tweet texts and in Y the binary classification ; 
 we assign 0 for negative and 1 for positive tweets . 
 As we have learned in the chapters before , we can construct
@@ -3938,13 +3938,13 @@ pr_scores . append ( auc ( recall , precision )  )
 summary =  ( np . mean ( scores )  , np . std ( scores )  , 
 np . mean ( pr_scores )  , np . std ( pr_scores )  ) 
 print " % . 3f \ t% . 3f \ t% . 3f \ t% . 3f " %summary 
-> > > X , Y = load_sanders_data (  )  
-> > > pos_neg_idx = np . logical_or ( Y =  =  " positive "  , 
+>  >  > X , Y = load_sanders_data (  )  
+>  >  > pos_neg_idx = np . logical_or ( Y =  =  " positive "  , 
 Y =  =  " negative "  )  
-> > > X = X [ pos_neg_idx ]  
-> > > Y = Y [ pos_neg_idx ]  
-> > > Y = Y =  =  " positive "  
-> > > train_model ( create_ngram_model ) 
+>  >  > X = X [ pos_neg_idx ]  
+>  >  > Y = Y [ pos_neg_idx ]  
+>  >  > Y = Y =  =  " positive "  
+>  >  > train_model ( create_ngram_model ) 
 0 . 805 0 . 024 0 . 878 0 . 016
 With our first try of using Naive Bayes on vectorized TF-IDF trigram
 features , we get an accuracy of 80 . 5 percent and a P / R AUC of 87 . 8
@@ -3977,10 +3977,10 @@ of a tweet can be positive , which is to be distinguished from the class of
 the training data . If , for example , we want to find out how good we can
 separate the tweets having sentiment from neutral ones , we could do this
 as follows :  
-> > > Y = tweak_labels ( Y ,  [  " positive "  ,  " negative "  ]  ) 
+>  >  > Y = tweak_labels ( Y ,  [  " positive "  ,  " negative "  ]  ) 
 In Y we now have a 1 ( positive class ) for all tweets that are either positive
 or negative and a 0 ( negative class ) for neutral and irrelevant ones .  
-> > > train_model ( create_ngram_model , X , Y , plot = True ) 
+>  >  > train_model ( create_ngram_model , X , Y , plot = True ) 
 0 . 767 0 . 014 0 . 670 0 . 022
 As expected , the P / R AUC drops considerably , being only 67 percent
 now . The accuracy is still high , but that is only due to the fact that we
@@ -4253,12 +4253,12 @@ Penn Treebank Project (  )  . It takes as
 input a list of word tokens and outputs a list of tuples , each element of
 which contains the part of the original sentence and its part of speech
 tag :  
-> > > import nltk 
-> > > nltk . pos_tag ( nltk . word_tokenize (  " This is a good
+>  >  > import nltk 
+>  >  > nltk . pos_tag ( nltk . word_tokenize (  " This is a good
 book .  "  )  )  
 [  (  ' This '  ,  ' DT '  )  ,  (  ' is '  ,  ' VBZ '  )  ,  (  ' a '  ,  ' DT '  )  ,  (  ' good '  ,  
  ' JJ '  )  ,  (  ' book '  ,  ' NN '  )  ,  (  '  .  '  ,  '  .  '  )  ]  
-> > > nltk . pos_tag ( nltk . word_tokenize (  " Could you please
+>  >  > nltk . pos_tag ( nltk . word_tokenize (  " Could you please
 book the flight ?  "  )  )  
 [  (  ' Could '  ,  ' MD '  )  ,  (  ' you '  ,  ' PRP '  )  ,  (  ' please '  ,  ' VB '  )  ,  
 (  ' book '  ,  ' NN '  )  ,  (  ' the '  ,  ' DT '  )  ,  (  ' flight '  ,  ' NN '  )  ,  (  '  ?  '  ,  
@@ -5673,7 +5673,7 @@ check out sox :  . It claims to be the Swiss
 Army Knife of sound processing , and we agree with this bold claim . 
 One advantage of having all our music files in the WAV format is that it is
 directly readable by the SciPy toolkit :  
-> > > sample_rate , X = 
+>  >  > sample_rate , X = 
 scipy . io . wavfile . read ( wave_filename ) 
 Here , X contains the samples and sample_rate is the rate at which they
 were taken . Let us use this information to peek into some music files to
@@ -5687,13 +5687,13 @@ the specified time intervals on the x axis ; that is , the darker the color , th
 stronger the frequency is in the particular time window of the song . 
 Matplotlib provides the convenient function specgram (  ) that performs
 most of the under-the-hood calculation and plotting for us :  
-> > > import scipy 
-> > > from matplotlib . pyplot import specgram 
-> > > sample_rate , X = 
+>  >  > import scipy 
+>  >  > from matplotlib . pyplot import specgram 
+>  >  > sample_rate , X = 
 scipy . io . wavfile . read ( wave_filename )  
-> > > print sample_rate , X . shape
+>  >  > print sample_rate , X . shape
 22050 ,  ( 661794 ,  )  
-> > > specgram ( X , Fs = sample_rate , xextent =  ( 0 , 30 )  ) 
+>  >  > specgram ( X , Fs = sample_rate , xextent =  ( 0 , 30 )  ) 
 The wave file we just read was sampled at a sample rate of 22 , 050 Hz
 and contains 661 , 794 samples . 
 If we now plot the spectrogram for these first 30 seconds of diverse wave
@@ -5802,9 +5802,9 @@ With multiclass problems , we should also not limit our interest to how well
 we manage to correctly classify the genres . In addition , we should also
 look at which genres we actually confuse with each other . This can be
 done with the so-called confusion matrix :  
-> > > from sklearn . metrics import confusion_matrix 
-> > > cm = confusion_matrix ( y_test , y_pred )  
-> > > print ( cm )  
+>  >  > from sklearn . metrics import confusion_matrix 
+>  >  > cm = confusion_matrix ( y_test , y_pred )  
+>  >  > print ( cm )  
 [  [ 26 1 2 0 0 2 ]  
 [ 4 7 5 0 5 3 ]  
 [ 1 2 14 2 8 3 ]  
@@ -5966,10 +5966,10 @@ exactly what we need and published an implementation of it as the
 Talkbox SciKit . We can install it from 
 . Afterwards , we can call the
 mfcc (  ) function , which calculates the MFC coefficients as follows :  
-> > > from scikits . talkbox . features import mfcc 
-> > > sample_rate , X = scipy . io . wavfile . read ( fn )  
-> > > ceps , mspec , spec = mfcc ( X )  
-> > > print ( ceps . shape )  
+>  >  > from scikits . talkbox . features import mfcc 
+>  >  > sample_rate , X = scipy . io . wavfile . read ( fn )  
+>  >  > ceps , mspec , spec = mfcc ( X )  
+>  >  > print ( ceps . shape )  
 ( 4135 , 13 ) 
 The data we would want to feed into our classifier is stored in ceps , which
 contains 13 coefficients ( the default value for the nceps parameter of the
@@ -6694,11 +6694,11 @@ Given two equal-sized data series , it returns a tuple of the correlation
 coefficient values and the p-value , which is the probability that these data
 series are being generated by an uncorrelated system . In other words , 
 the higher the p-value , the less we should trust the correlation coefficient :  
-> > from import scipy . stats import pearsonr 
-> > pearsonr (  [ 1 , 2 , 3 ]  ,  [ 1 , 2 , 3 . 1 ]  )  
-> >  ( 0 . 99962228516121843 , 0 . 017498096813278487 )  
-> > pearsonr (  [ 1 , 2 , 3 ]  ,  [ 1 , 20 , 6 ]  )  
-> >  ( 0 . 25383654128340477 , 0 . 83661493668227405 ) 
+>  > from import scipy . stats import pearsonr 
+>  > pearsonr (  [ 1 , 2 , 3 ]  ,  [ 1 , 2 , 3 . 1 ]  )  
+>  >  ( 0 . 99962228516121843 , 0 . 017498096813278487 )  
+>  > pearsonr (  [ 1 , 2 , 3 ]  ,  [ 1 , 20 , 6 ]  )  
+>  >  ( 0 . 25383654128340477 , 0 . 83661493668227405 ) 
 In the first case , we have a clear indication that both series are
 correlated . In the second one , we still clearly have a non-zero value . 
 However , the p-value basically tells us that whatever the correlation
@@ -6822,20 +6822,20 @@ In the following example , we create an artificial classification problem of
 100 samples using the convenient make_classification (  ) function of
 datasets . It lets us specify the creation of 10 features , out of which only
 three are really valuable to solve the classification problem :  
-> > > from sklearn . feature_selection import RFE 
-> > > from sklearn . linear_model import
+>  >  > from sklearn . feature_selection import RFE 
+>  >  > from sklearn . linear_model import
 LogisticRegression 
-> > > from sklearn . datasets import make_classification 
-> > > X , y = make_classification ( n_samples = 100 , 
+>  >  > from sklearn . datasets import make_classification 
+>  >  > X , y = make_classification ( n_samples = 100 , 
 n_features = 10 , n_informative = 3 , random_state = 0 )  
-> > > clf = LogisticRegression (  )  
-> > > clf . fit ( X , y )  
-> > > selector = RFE ( clf , n_features_to_select = 3 )  
-> > > selector = selector . fit ( X , y )  
-> > > print ( selector . support_ )  
+>  >  > clf = LogisticRegression (  )  
+>  >  > clf . fit ( X , y )  
+>  >  > selector = RFE ( clf , n_features_to_select = 3 )  
+>  >  > selector = selector . fit ( X , y )  
+>  >  > print ( selector . support_ )  
 [ False True False True False False False False True
 False ]  
-> > > print ( selector . ranking_ )  
+>  >  > print ( selector . ranking_ )  
 [ 4 1 3 1 8 5 7 6 1 2 ] 
 The problem in real-world scenarios is , of course , how can we know the
 right value for n_features_to_select ? Truth is , we can ' t . But most of the
@@ -6957,30 +6957,30 @@ pick the 20 eigenvectors having the highest eigenvalues .
 Applying PCA
 Let us consider the following artificial dataset , which is visualized in the
 left plot as follows :  
-> > > x1 = np . arange ( 0 , 10 ,  . 2 )  
-> > > x2 = x1 + np . random . normal ( loc = 0 , scale = 1 , 
+>  >  > x1 = np . arange ( 0 , 10 ,  . 2 )  
+>  >  > x2 = x1 + np . random . normal ( loc = 0 , scale = 1 , 
 size = len ( x1 )  )  
-> > > X = np . c_ [  ( x1 , x2 )  ]  
-> > > good =  ( x1 > 5 )  |  ( x2 > 5 )  # some arbitrary classes 
-> > > bad = ~good # to make the example look good
+>  >  > X = np . c_ [  ( x1 , x2 )  ]  
+>  >  > good =  ( x1 > 5 )  |  ( x2 > 5 )  # some arbitrary classes 
+>  >  > bad = ~good # to make the example look good
 Scikit-learn provides the PCA class in its decomposition package . In this
 example , we can clearly see that one dimension should be enough to
 describe the data . We can specify that using the n_components parameter :  
-> > > from sklearn import linear_model , decomposition , 
+>  >  > from sklearn import linear_model , decomposition , 
 datasets 
-> > > pca = decomposition . PCA ( n_components = 1 ) 
+>  >  > pca = decomposition . PCA ( n_components = 1 ) 
 Here we can also use PCA ' s fit (  ) and transform (  ) methods ( or its
 fit_transform (  ) combination ) to analyze the data and project it into the
 transformed feature space :  
-> > > Xtrans = pca . fit_transform ( X ) 
+>  >  > Xtrans = pca . fit_transform ( X ) 
 Xtrans contains only one dimension , as we have specified . You can see
 the result in the right graph . The outcome is even linearly separable in
 this case . We would not even need a complex classifier to distinguish
 between both classes . 
 To get an understanding of the reconstruction error , we can have a look
 at the variance of the data that we have retained in the transformation :  
-> > > print ( pca . explained_variance_ratio_ )  
-> > >  [ 0 . 96393127 ] 
+>  >  > print ( pca . explained_variance_ratio_ )  
+>  >  >  [ 0 . 96393127 ] 
 This means that after going from two dimensions to one dimension , we
 are still left with 96 percent of the variance . 
 Of course , it is not always that simple . Often , we don ' t know what number
@@ -7008,9 +7008,9 @@ the PCA approach .
 Another interesting weakness of PCA that we will cover here is when it is
 being applied to special classification problems . 
 Let us replace the following :  
-> > > good =  ( x1 > 5 )  |  ( x2 > 5 ) 
+>  >  > good =  ( x1 > 5 )  |  ( x2 > 5 ) 
 with 
-> > > good = x1 > x2
+>  >  > good = x1 > x2
 to simulate such a special case and we quickly see the problem . 
 Here , the classes are not distributed according to the axis with the
 highest variance but the one with the second highest variance . Clearly , 
@@ -7021,9 +7021,9 @@ method that tries to maximize the distance of points belonging to different
 classes while minimizing the distance of points of the same class . We
 won ' t give any more details regarding how the underlying theory works in
 particular , just a quick tutorial on how to use it :  
-> > > from sklearn import lda 
-> > > lda_inst = lda . LDA ( n_components = 1 )  
-> > > Xtrans = lda_inst . fit_transform ( X , good ) 
+>  >  > from sklearn import lda 
+>  >  > lda_inst = lda . LDA ( n_components = 1 )  
+>  >  > Xtrans = lda_inst . fit_transform ( X , good ) 
 That ' s all . Note that in contrast to the previous PCA example , we provide
 the class labels to the fit_transform (  ) method . Thus , whereas PCA is an
 unsupervised feature extraction method , LDA is a supervised one . The
@@ -7054,17 +7054,17 @@ Let us have a look at the following simple data consisting of three data
 points in a five-dimensional space . Two of the data points are close by
 and one is very distinct , and we want to visualize that in three and two
 dimensions as follows :  
-> > > X = np . c_ [ np . ones ( 5 )  , 2 np . ones ( 5 )  , 10
+>  >  > X = np . c_ [ np . ones ( 5 )  , 2 np . ones ( 5 )  , 10
 np . ones ( 5 )  ]  . T 
-> > > print ( X )  
+>  >  > print ( X )  
 [  [ 1 . 1 . 1 . 1 . 1 .  ]  
 [ 2 . 2 . 2 . 2 . 2 .  ]  
 [ 10 . 10 . 10 . 10 . 10 .  ]  ] 
 Using the class MDS in Scikit-learn ' s manifold package , we first specify
 that we want to transform X into a three-dimensional space as follows :  
-> > > from sklearn import manifold 
-> > > mds = manifold . MDS ( n_components = 3 )  
-> > > Xtrans = mds . fit_transform ( X ) 
+>  >  > from sklearn import manifold 
+>  >  > mds = manifold . MDS ( n_components = 3 )  
+>  >  > Xtrans = mds . fit_transform ( X ) 
 To visualize it in two dimensions , we would have to say so using
 n_components . 
 The results can be seen in the following two graphs . The triangle and
@@ -7219,7 +7219,7 @@ return a + b
 @ TaskGenerator
 def print_final_result ( oname , value )  : 
 with open ( oname ,  ' w '  ) as output : 
-print > > output ,  " Final result :  "  , value
+print >  > output ,  " Final result :  "  , value
 y = double ( 2 ) 
 z = double ( y ) 
 y2 = double ( 7 ) 
@@ -7351,7 +7351,7 @@ res = perform_cross_validation ( features , labels )
 @ TaskGenerator
 def write_result ( ofname , value )  : 
 with open ( ofname ,  ' w '  ) as out : 
-print > > out ,  " Result is :  "  , value
+print >  > out ,  " Result is :  "  , value
 write_result (  ' output . txt '  , res ) 
 One small inconvenience of using jug is that we must always write
 functions to output the results to files as shown in the preceding

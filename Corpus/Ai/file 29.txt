@@ -422,15 +422,15 @@ in a competitive struggle against the data itself . Thus , EDA can foster data
 analysts with insecurity that their work is never done . The PC can assist data 
 Problem ( Classical ) 
 Problem 
-=  =  > 
+=  =  >  
 <  =  =  > 
 Model
 Data 
-=  =  =  > 
+=  =  =  >  
 <  =  =  =  > 
 Data
 Analysis 
-=  =  =  > 
+=  =  =  >  
 <  =  =  =  > 
 Analysis
 Model 
@@ -6852,7 +6852,7 @@ other way around , as in the classical approach .
 In the classical approach , the problem is stated and formulated 
 in terms of an outcome variable Y . It is assumed that the true
 model explaining all the variation in Y is known . Specifically , 
-it is assumed that all the structures ( predictor variables , Xi
+it is assumed that all the structures ( predictor variables , Xi 
  ’ s ) 
 affecting Y and their forms are known and present in the model . 
 For example , if Age affects Y , but the log of Age reflects the 

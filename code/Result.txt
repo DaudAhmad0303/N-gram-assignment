@@ -2,38 +2,38 @@ Count		Words
 3022		How
 1316		artificial
 2148		intelligence
-121204		is
+121210		is
 120		transforming
-492120		the
-5471		world
-473454		
+492192		the
+5473		world
+474166		
 
 6		Darrell
 4217		M
 647776		.
 548		West
-298592		and
-943		John
+298623		and
+944		John
 3136		R
 215		Allen
 140		Tuesday
 606028		,
 434		April
-1376		24
+1377		24
 1013		2018
 281		Facebook
 67		Click
-249983		to
+250003		to
 1213		share
-58836		on
+58846		on
 169		Twitter
 55		LinkedIn
 27		Print
 707		print
 27		Email
-288		email
-38267		this
-199164		a
+289		email
+38269		this
+199193		a
 451		friend
 967		More
 8259		For
@@ -41,7 +41,7 @@ Count		Words
 34		inquiries
 639		contact
 78985		:
-237976		
+246441		
 26		Jessica
 119		Harris
 1		jbharris
@@ -58,45 +58,45 @@ Count		Words
 116175		)
 30		wide-ranging
 945		tool
-102277		that
+102281		that
 469		enables
 10758		people
 40		rethink
 11865		how
-26395		we
+26396		we
 202		integrate
 8165		information
 388		analyze
 11637		data
-13363		use
+13364		use
 753		resulting
 454		insights
 1297		improve
 2448		decision
 1		making—and
 2319		already
-52846		it
+52847		it
 3472		every
 396		walk
-310601		of
-4123		life
+310638		of
+4124		life
 23579		In
 1964		report
 954		discuss
 28128		'
-43537		s
+43546		s
 1802		application
-2350		across
+2351		across
 1385		variety
 258		sectors
 1403		address
 2900		issues
-170608		in
-13303		its
+170614		in
+13304		its
 4494		development
 1849		offer
 500		recommendations
-92447		for
+92453		for
 1177		getting
 10114		most
 11387		out
@@ -104,7 +104,7 @@ Count		Words
 3757		still
 168		protecting
 5640		important
-6465		human
+6466		human
 3847		values
 1671		Table
 10		Contents
@@ -122,17 +122,17 @@ Count		Words
 851		V
 72		Conclusion
 1633		Most
-63278		are
-33948		not
+63282		are
+33950		not
 7182		very
 538		familiar
-69343		with
+69346		with
 1909		concept
 6267		As
-36271		an
+36278		an
 537		illustration
-12800		when
-40675		1
+12801		when
+40676		1
 770		500
 466		senior
 9748		business
@@ -140,14 +140,14 @@ Count		Words
 1801		United
 1607		States
 1537		2017
-15044		were
+15046		were
 1370		asked
-18913		about
-10453		only
+18915		about
+10455		only
 1432		17
 2172		percent
 4665		said
-24969		they
+24971		they
 12929		[
 12608		]
 18755		A
@@ -155,11 +155,11 @@ Count		Words
 14408		them
 2119		sure
 13986		what
-29331		was
-65410		or
+29333		was
+65432		or
 13288		would
 866		affect
-25175		their
+25182		their
 3534		particular
 1964		companies
 5164		They
@@ -172,7 +172,7 @@ Count		Words
 21492		but
 1977		clear
 8890		could
-58780		be
+58787		be
 188		deployed
 5679		within
 6105		own
@@ -193,7 +193,7 @@ Count		Words
 35		Chair
 10		Governmental
 1		DarrWest
-61440		The
+61446		The
 18		Brookings
 24		Institution
 444		Despite
@@ -208,7 +208,7 @@ Count		Words
 8985		through
 596		comprehensive
 330		overview
-1074		explain
+1075		explain
 889		audience
 101		policymakers
 476		opinion
@@ -233,8 +233,8 @@ Count		Words
 167		transportation
 703		smart
 368		cities
-14134		such
-65993		as
+14137		such
+66023		as
 2329		access
 2928		problems
 158		algorithmic
@@ -252,7 +252,7 @@ Count		Words
 885		European
 327		Union
 1347		close
-41191		by
+41194		by
 3242		making
 31251		2
 4102		order
@@ -266,27 +266,27 @@ Count		Words
 44		Encourage
 1491		greater
 1267		researchers
-3888		without
+3889		without
 32		compromising
 1198		users
 75957		’
 2309		personal
 654		privacy
 366		invest
-23741		more
-1965		government
+23743		more
+1966		government
 549		funding
 5		unclassified
 6093		research
 651		promote
-9786		new
+9787		new
 3479		models
 1103		digital
 6716		education
 210		workforce
 13035		so
 1522		employees
-38028		have
+38030		have
 2010		skills
 2499		needed
 13		21st-century
@@ -294,11 +294,11 @@ Count		Words
 902		federal
 110		advisory
 319		committee
-9876		make
+9877		make
 2393		policy
 662		engage
 4013		state
-2779		local
+2780		local
 307		officials
 28		enact
 1958		effective
@@ -307,7 +307,7 @@ Count		Words
 634		broad
 1384		principles
 3486		rather
-13920		than
+13923		than
 2789		specific
 1543		algorithms
 5381		take
@@ -347,7 +347,7 @@ Count		Words
 662		consistent
 1604		traditional
 673		responses
-38045		from
+38048		from
 1725		humans
 3569		given
 1063		capacity
@@ -355,14 +355,14 @@ Count		Words
 376		judgment
 312		intention
 22895		”
-21061		3
+21064		3
 778		According
 1		Shubhendu
 3		Vijay
-14307		these
+14308		these
 1696		software
-6471		systems
-26692		which
+6472		systems
+26698		which
 401		normally
 1599		require
 4308		level
@@ -372,14 +372,14 @@ Count		Words
 1299		deal
 2828		come
 11243		up
-17233		4
+17237		4
 566		operate
 198		intentional
 833		intelligent
 191		adaptive
 666		manner
 12		Intentionality
-1537		designed
+1538		designed
 5451		often
 7242		using
 168		real-time
@@ -393,7 +393,7 @@ Count		Words
 293		remote
 463		inputs
 690		combine
-7933		different
+7934		different
 1184		sources
 2504		material
 84		instantly
@@ -413,11 +413,11 @@ Count		Words
 3220		analysis
 721		Intelligence
 303		undertaken
-245		conjunction
+246		conjunction
 2917		machine
 9142		learning
 192		analytics
-12729		5
+12730		5
 1111		Machine
 1621		takes
 654		looks
@@ -454,7 +454,7 @@ Count		Words
 8203		example
 11		semi-autonomous
 352		vehicles
-1514		tools
+1515		tools
 2018		let
 132		drivers
 5349		know
@@ -512,10 +512,10 @@ Count		Words
 1050		vision
 3352		here
 1748		today
-6442		being
+6443		being
 478		integrated
-15610		into
-18199		This
+15611		into
+18200		This
 1258		includes
 971		fields
 5470		There
@@ -552,10 +552,10 @@ Count		Words
 24		attends
 1465		event
 7245		students
-1217		write
+1218		write
 2446		computer
 1511		code
-30591		at
+30594		at
 1182		store
 78		Manhattan
 3		borough
@@ -598,7 +598,7 @@ Count		Words
 3188		role
 1396		economic
 367		presents
-2071		project
+2072		project
 1		PriceWaterhouseCoopers
 514		estimated
 941		technologies
@@ -632,8 +632,8 @@ Count		Words
 153		Latin
 409		rapid
 16		strides
-8102		because
-21102		has
+8103		because
+21103		has
 6255		set
 1531		goal
 272		investing
@@ -679,7 +679,7 @@ Count		Words
 64		Investments
 2196		financial
 14		tripled
-9463		between
+9467		between
 1029		2013
 940		2014
 1907		total
@@ -687,29 +687,29 @@ Count		Words
 822		sector
 51		Decisions
 259		loans
-4928		now
+4929		now
 5871		made
-2035		account
+2036		account
 813		finely
 5		parsed
 65		borrower
-7717		just
+7718		just
 1112		credit
 659		score
 679		background
 954		check
 9299		10
 1739		addition
-279		so-called
+281		so-called
 1		robo-advisers
 83		personalized
 955		investment
 69		portfolios
 3		obviating
-9065		need
+9066		need
 5		stockbrokers
 38		advisers
-4472		11
+4473		11
 4817		These
 200		emotion
 128		undertake
@@ -721,7 +721,7 @@ Count		Words
 7712		minutes
 214		prominent
 1471		taking
-4013		place
+4014		place
 1956		stock
 198		exchanges
 25		high-frequency
@@ -752,18 +752,18 @@ Count		Words
 290		instructions
 4089		12
 4		Powered
-13230		some
+13231		some
 829		places
 741		computing
 218		capacities
 191		storing
 642		emphasis
 433		zero
-18631		one
+18632		one
 599		quantum
 260		bits
 1588		multiple
-9177		each
+9178		each
 862		location
 2373		13
 211		dramatically
@@ -814,7 +814,7 @@ Count		Words
 615		video
 192		captured
 603		surveillance
-9934		then
+9936		then
 184		alert
 167		analysts
 67		abnormal
@@ -828,7 +828,7 @@ Count		Words
 17		Shanahan
 389		emerging
 1161		meet
-11597		our
+11598		our
 8		warfighters
 3449		needs
 16		agility
@@ -837,8 +837,8 @@ Count		Words
 6580		process
 138		warfare
 381		rapidly
-1698		term
-13872		been
+1699		term
+13873		been
 74		coined
 5		hyperwar
 1581		big
@@ -861,7 +861,7 @@ Count		Words
 2523		certain
 268		routine
 1506		special
-640		circumstances
+641		circumstances
 2773		key
 297		platforms
 468		reducing
@@ -872,7 +872,7 @@ Count		Words
 2312		side
 749		decide
 94		fastest
-1696		move
+1698		move
 1178		quickly
 284		execution
 42		prevail
@@ -884,7 +884,7 @@ Count		Words
 3301		support
 54		vastly
 248		superior
-3468		means
+3472		means
 5		waging
 866		war
 2943		So
@@ -903,7 +903,7 @@ Count		Words
 1963		While
 709		debate
 14		raging
-9961		over
+9962		over
 3288		whether
 1169		ever
 242		wage
@@ -975,7 +975,7 @@ Count		Words
 59		defending
 1835		critical
 6093		must
-3361		become
+3364		become
 4646		high
 309		priority
 834		Russia
@@ -1014,8 +1014,8 @@ Count		Words
 1438		19
 8		dual-use
 2371		nature
-9219		many
-2331		mean
+9220		many
+2332		mean
 889		focused
 283		modified
 3164		20
@@ -1027,7 +1027,7 @@ Count		Words
 3493		company
 336		applies
 1152		deep
-2258		medical
+2259		medical
 103		imaging
 38		detects
 11		lymph
@@ -1037,7 +1037,7 @@ Count		Words
 5		Tomography
 98		CT
 928		images
-1485		21
+1486		21
 263		developers
 48		labeling
 466		identifying
@@ -1045,7 +1045,7 @@ Count		Words
 15		growths
 323		problematic
 121		Humans
-12676		do
+12677		do
 29		radiologists
 533		charge
 195		$100
@@ -1055,7 +1055,7 @@ Count		Words
 634		carefully
 1626		read
 2250		four
-4800		000
+4801		000
 2671		cost
 71		$250
 12		prohibitively
@@ -1085,7 +1085,7 @@ Count		Words
 3568		risk
 22		cancerous
 1130		Since
-3909		few
+3910		few
 2689		likely
 2734		test
 1633		positive
@@ -1104,7 +1104,7 @@ Count		Words
 879		predict
 686		advance
 1063		challenges
-570		ahead
+571		ahead
 64		allocate
 2281		patient
 144		sensing
@@ -1147,7 +1147,7 @@ Count		Words
 5278		value
 7		arrests
 646		significantly
-1414		23
+1415		23
 11		Judicial
 679		experts
 1015		claim
@@ -1164,7 +1164,7 @@ Count		Words
 341		writes
 7		Empirically
 275		grounded
-1648		play
+1649		play
 293		strengths
 535		automated
 755		reasoning
@@ -1214,7 +1214,7 @@ Count		Words
 110		biometric
 355		vast
 332		quantities
-2040		develop
+2041		develop
 2555		types
 683		combined
 30		Sharp
@@ -1233,7 +1233,7 @@ Count		Words
 47		criminals
 1		law-breakers
 53		terrorists
-1176		27
+1177		27
 1136		Put
 337		differently
 760		leading
@@ -1252,8 +1252,8 @@ Count		Words
 340		June
 433		Those
 290		investments
-3549		include
-6437		both
+3551		include
+6438		both
 1188		core
 477		vital
 120		Autonomous
@@ -1263,7 +1263,7 @@ Count		Words
 225		drone
 794		delivery
 1		systems—use
-553		technological
+554		technological
 3492		features
 379		guidance
 11		braking
@@ -1319,10 +1319,10 @@ Count		Words
 2690		30
 841		31
 1		Ride-sharing
-8704		see
+8705		see
 440		advantages
 3352		terms
-1481		customer
+1482		customer
 2651		service
 605		labor
 4		ride-sharing
@@ -1398,7 +1398,7 @@ Count		Words
 417		emergency
 86		recommends
 2		dispatcher
-1801		appropriate
+1803		appropriate
 2313		response
 1		call—whether
 371		treated
@@ -1409,12 +1409,12 @@ Count		Words
 3037		type
 1538		call
 2678		similar
-697		calls
+700		calls
 541		34
 554		80
 260		requests
 52		prioritize
-4559		best
+4560		best
 598		handle
 46		emergencies
 176		volumes
@@ -1433,16 +1433,16 @@ Count		Words
 1345		environmental
 1537		planning
 750		resource
-4480		management
+4481		management
 1517		energy
 204		utilization
 321		prevention
 2638		among
-3113		things
+3115		things
 432		index
 146		magazine
 188		Fast
-375		Company
+376		Company
 119		ranked
 48		locales
 39		Seattle
@@ -1460,11 +1460,11 @@ Count		Words
 248		Hall
 4563		To
 261		Go
-2463		makes
+2464		makes
 21		underserved
 1216		communities
 839		receive
-17241		also
+17242		also
 45		inductive
 190		loops
 24		acoustic
@@ -1510,7 +1510,7 @@ Count		Words
 488		efficiency
 2276		At
 6038		same
-2197		though
+2198		though
 443		developments
 512		raise
 18139		?
@@ -1520,9 +1520,9 @@ Count		Words
 729		introduced
 481		programming
 115		transparent
-1299		cause
+1300		cause
 455		harm
-532		37
+533		37
 2024		having
 1		data-friendly
 216		ecosystem
@@ -1560,7 +1560,7 @@ Count		Words
 332		promoting
 858		gain
 49		proprietary
-3134		always
+3135		always
 98		owns
 158		belongs
 84		sphere
@@ -1570,14 +1570,14 @@ Count		Words
 33		drag
 992		academic
 4013		following
-2230		section
+2231		section
 278		outline
 7		Biases
 618		instances
 256		enabled
 42		discriminatory
 2240		practices
-1234		40
+1235		40
 13		Airbnb
 88		accused
 25		homeowners
@@ -1607,7 +1607,7 @@ Count		Words
 2		Buolamwini
 31		Algorithmic
 139		Justice
-23386		your
+23387		your
 892		contains
 470		mostly
 92		Caucasian
@@ -1657,8 +1657,8 @@ Count		Words
 356		concerning
 741		criteria
 2460		Some
-3833		better
-2816		understanding
+3834		better
+2817		understanding
 3368		function
 607		44
 4154		schools
@@ -1695,7 +1695,7 @@ Count		Words
 1		redlining
 359		mortgage
 2267		individuals
-10805		like
+10808		like
 376		screen
 2		rosters
 1819		lot
@@ -1797,7 +1797,7 @@ Count		Words
 7		RECOMMENDATIONS
 1267		balance
 222		propose
-1091		creating
+1092		creating
 270		engaging
 65		regulating
 612		objectives
@@ -1818,7 +1818,7 @@ Count		Words
 340		structured
 547		impossible
 2885		general
-1654		although
+1655		although
 55		safeguards
 55		misuse
 951		Cambridge
@@ -1887,10 +1887,10 @@ Count		Words
 77		efficacy
 649		effectiveness
 887		regarding
-3730		individual
+3732		individual
 6		public-private
 227		partnerships
-2451		performance
+2452		performance
 361		locations
 128		bus
 1031		lines
@@ -1921,7 +1921,7 @@ Count		Words
 51		aided
 563		54
 1513		private
-1166		achieve
+1167		achieve
 120		Increase
 27		Greg
 6		Brockman
@@ -1970,7 +1970,7 @@ Count		Words
 3		pre-K
 2608		higher
 342		continuing
-526		57
+527		57
 1324		larger
 162		pipeline
 475		personnel
@@ -1986,7 +1986,7 @@ Count		Words
 172		societal
 3851		think
 757		prepare
-211		IBM
+212		IBM
 398		Teacher
 18		Advisor
 99		utilizing
@@ -2053,7 +2053,7 @@ Count		Words
 60		timeline
 186		180
 41		Waiting
-9658		two
+9659		two
 685		certainly
 2769		result
 150		missed
@@ -2071,7 +2071,7 @@ Count		Words
 85		fairness
 331		validity
 69		municipal
-715		agencies
+716		agencies
 919		60
 104		employs
 7		bail
@@ -2087,7 +2087,7 @@ Count		Words
 154		Medicaid
 202		fraud
 753		happen
-228		61
+229		61
 10498		work
 652		sufficient
 814		concern
@@ -2112,7 +2112,7 @@ Count		Words
 204		criticism
 237		provisions
 2831		however
-725		former
+726		former
 5		Councilman
 321		James
 1		Vacca
@@ -2126,7 +2126,7 @@ Count		Words
 780		concerned
 332		publication
 167		vendors
-314		62
+315		62
 2		Regulate
 92		restrictive
 180		stance
@@ -2157,7 +2157,7 @@ Count		Words
 94		evaluates
 814		interests
 277		reliability
-390		65
+391		65
 1493		review
 202		affecting
 128		disadvantage
@@ -2190,11 +2190,11 @@ Count		Words
 708		widely
 411		adopted
 130		Andrew
-8		Burt
+9		Burt
 1		Immuta
 63		confronting
 2450		really
-5240		re
+5242		re
 1283		tasks
 1681		thing
 41		Maintaining
@@ -2223,7 +2223,7 @@ Count		Words
 829		beings
 263		Third
 1812		states
-2859		An
+2861		An
 2386		cannot
 235		retain
 75		confidential
@@ -2242,7 +2242,7 @@ Count		Words
 174		programmed
 706		consideration
 340		norms
-1797		effect
+1798		effect
 1295		importance
 265		norm
 356		resolution
@@ -2262,7 +2262,7 @@ Count		Words
 26		trolley
 1754		moral
 185		dilemma
-1518		ask
+1519		ask
 2557		question
 967		goes
 210		kill
@@ -2272,11 +2272,11 @@ Count		Words
 72		devised
 1		voting-based
 513		assess
-1061		alternative
+1062		alternative
 72		summarized
 1301		perspective
 801		allowed
-261		69
+262		69
 564		procedure
 2862		course
 60		tragedy
@@ -2317,7 +2317,7 @@ Count		Words
 326		Security
 995		bank
 207		receives
-3854		around
+3855		around
 1151		week
 919		center
 3		telephony
@@ -2326,7 +2326,7 @@ Count		Words
 1314		uses
 12		learning-based
 431		blocks
-389		120
+390		120
 815		month
 559		voice
 13		firewall
@@ -2358,7 +2358,7 @@ Count		Words
 767		soon
 32		foreseeable
 131		affairs
-2105		single
+2106		single
 207		influential
 2204		history
 856		Note
@@ -2388,7 +2388,7 @@ Count		Words
 724		commitment
 2983		quality
 172		independence
-32		Activities
+34		Activities
 623		supported
 42		donors
 814		member
@@ -2439,7 +2439,7 @@ Count		Words
 1		learningRule
 7		induction
 
-342		Introduction
+341		Introduction
 
 442		aims
 264		investigate
@@ -2447,7 +2447,7 @@ Count		Words
 22		inductively
 912		learned
 264		representative
-2444		various
+2445		various
 400		phenomena
 8		materialize
 2036		themselves
@@ -2468,7 +2468,7 @@ Count		Words
 13		explorative
 1537		works
 88		seminal
-2827		book
+2828		book
 1283		Social
 652		cognition
 3		Kunda
@@ -2494,7 +2494,7 @@ Count		Words
 296		uncertainty
 1480		directly
 512		relate
-2638		since
+2639		since
 938		measures
 111		expressing
 15		un
@@ -2519,7 +2519,7 @@ Count		Words
 871		interpretation
 59		anchor
 1519		discussion
-1027		note
+1028		note
 229		passing
 355		deeper
 32		human-machine
@@ -2604,7 +2604,7 @@ Count		Words
 65		comprehension
 11		Motivation
 
-4664		three
+4665		three
 78		paragraphs
 482		motivation
 2576		why
@@ -2642,7 +2642,7 @@ Count		Words
 114		rule-based
 81		renewed
 86		176
-209		110
+210		110
 56		173
 12		Embedding
 2		algorithms 
@@ -2661,7 +2661,7 @@ Count		Words
 20		explainability
 2		xAI
 163		106
-116		126
+117		126
 422		psychological
 324		applicable
 158		Miller
@@ -2695,7 +2695,7 @@ Count		Words
 
 1192		presented
 1695		Fig
-2672		1
+2671		1
 
 702		Download
 158		high-res
@@ -2717,10 +2717,10 @@ Count		Words
 199		expressions
 255		composed
 308		attribute
-1815		name
+1816		name
 60		veil
 1850		left
-2994		called
+2998		called
 70		antecedent
 54		literal
 555		predicted
@@ -2731,7 +2731,7 @@ Count		Words
 273		restricted
 12		conjunctive
 413		definitions
-987		formal
+988		formal
 1		Slowinski
 92		152
 25		negation
@@ -2797,7 +2797,7 @@ Count		Words
 107		retrieval
 75		science
 
-72		153
+73		153
 128		118
 173		130
 633		closely
@@ -2877,7 +2877,7 @@ Count		Words
 197		suited
 303		usual
 671		contexts
-903		define
+904		define
 648		memory
 321		descriptions
 1335		strategies
@@ -2899,7 +2899,7 @@ Count		Words
 72		induced
 350		implies
 1		Larrick
-216		92
+217		92
 1		psychophysically-based
 1		association-based
 1		strategy-based
@@ -2918,7 +2918,7 @@ Count		Words
 232		functioning
 410		workplace
 67		forcing
-1582		functions
+1583		functions
 54		clinicians
 955		starting
 109		analogous
@@ -2944,7 +2944,7 @@ Count		Words
 55		faulty
 29		by-products
 692		otherwise
-1338		third
+1339		third
 78		built-in
 18		information-processing
 2088		consider
@@ -2965,7 +2965,7 @@ Count		Words
 172		evolutionary
 3393		theory
 1253		Thus
-1765		mind
+1766		mind
 2052		shows
 6163		good
 19		maximization
@@ -2976,7 +2976,7 @@ Count		Words
 79		cues
 247		adapted
 29		Measures
-753		objective
+754		objective
 3		plausibility
 
 898		literature
@@ -2996,12 +2996,12 @@ Count		Words
 1		collected2
 864		reported
 410		illustrate
-1237		word
+1241		word
 143		plausible
 978		Oxford
 35		Dictionary
 1265		US
-1459		English
+1460		English
 20		seeming
 518		reasonable
 130		probable
@@ -3029,7 +3029,7 @@ Count		Words
 1		analyst3
 81		facets
 239		predicting
-441		movie
+442		movie
 306		rating
 628		release
 1495		date
@@ -3076,7 +3076,7 @@ Count		Words
 471		whereas
 1492		100
 145		entries
-724		largely
+725		largely
 173		ignored
 6		Opposing
 468		Sometimes
@@ -3101,7 +3101,7 @@ Count		Words
 14		Adapting
 351		interface
 1		users 
-117		119
+118		119
 110		138
 194		instrumental
 153		interpreting
@@ -3113,7 +3113,7 @@ Count		Words
 2		be—in
 1		way—directly
 453		presentation
-160		102
+161		102
 2		Spurious
 167		grounding
 1		representation 
@@ -3129,7 +3129,7 @@ Count		Words
 114		hypothetical
 306		recommendation
 872		dataset
-1638		3
+1635		3
 
 1		107KB
 30		Suggested
@@ -3184,7 +3184,7 @@ Count		Words
 563		element
 825		block
 251		relates
-1994		4
+1990		4
 
 1		530KB
 107		grouped
@@ -3380,7 +3380,7 @@ Count		Words
 1		strength	Words
 46		valence
 1		important	Review
-2319		words
+2320		words
 632		possibly
 423		replace
 20		alternatives
@@ -3416,7 +3416,7 @@ Count		Words
 9		heuristic
 
 95		inconsistent
-6496		–
+6500		–
 148		exceed
 85		constituents
 76		167
@@ -3429,7 +3429,7 @@ Count		Words
 66		feminist
 1170		movement
 2056		L
-1609		5
+1608		5
 
 1		54KB
 157		Multiple
@@ -3453,7 +3453,7 @@ Count		Words
 662		caused
 398		assumed
 5		experimenters
-1262		suggests
+1263		suggests
 199		Recent
 9		disjunctive
 53		fallacies
@@ -3499,14 +3499,14 @@ Count		Words
 211		filter
 5		purer
 1014		respect
-964		smaller
+965		smaller
 124		Application
 610		perception
 741		contain
 927		mental
 352		preferred
 32		justifications
-203		isolated
+204		isolated
 217		impression
 1427		6
 
@@ -3523,8 +3523,8 @@ Count		Words
 716		reduced
 156		monetary
 152		incentive
-935		Such
-410		drop
+936		Such
+411		drop
 22		58%
 25		33%
 2		Zizzo
@@ -3532,7 +3532,7 @@ Count		Words
 122		simplified
 449		neither
 194		incentives
-646		nor
+647		nor
 870		feedback
 18		ameliorate
 29		precondition
@@ -3551,7 +3551,7 @@ Count		Words
 1145		7
 
 2		41KB
-487		101
+488		101
 1583		original
 371		proposal
 101		formats
@@ -3609,7 +3609,7 @@ Count		Words
 230		importantly
 712		indicate
 1		sets4
-1276		meaning
+1277		meaning
 1795		half
 1		ambiguous—they
 579		Furthermore
@@ -3623,7 +3623,7 @@ Count		Words
 1034		via
 1384		communication
 2		ands
-1772		actually
+1773		actually
 59		incorrectly
 477		Similarly
 268		partly
@@ -3699,7 +3699,7 @@ Count		Words
 353		consequence
 5		countermeasure
 15		logarithm
-224		81
+225		81
 17		recasting
 156		improves
 111		probabilistic
@@ -3741,7 +3741,7 @@ Count		Words
 27		hierarchically
 284		ordered
 87		confronted
-693		attributes
+694		attributes
 18		granularity
 169		Due
 379		fewer
@@ -3749,7 +3749,7 @@ Count		Words
 71		weaker
 530		sections
 416		absence
-195		deciding
+196		deciding
 218		descriptive
 226		assign
 324		origin
@@ -3839,8 +3839,8 @@ Count		Words
 69		Assuming
 19		induces
 280		pair
-10455		had
-1161		•
+10456		had
+1160		•
 
 161		7%
 144		95%
@@ -3887,9 +3887,9 @@ Count		Words
 21		workflows
 266		interval
 43		supplementary
-235		94
+236		94
 1304		framework
-306		adopt
+307		adopt
 528		variation
 1		format-based
 12		hypothesize
@@ -4006,7 +4006,7 @@ Count		Words
 2		recollected
 9		recollection
 260		associations
-2283		necessary
+2284		necessary
 381		count
 92		145
 1336		complete
@@ -4043,7 +4043,7 @@ Count		Words
 23		reiteration
 288		repeated
 417		75
-186		125
+187		125
 1		Hasher
 175		rose
 1		non-repeated
@@ -4090,7 +4090,7 @@ Count		Words
 363		clusters
 22		summarizing
 1		subrules
-150		122
+151		122
 348		expand
 420		cluster
 688		obtain
@@ -4103,7 +4103,7 @@ Count		Words
 115		spreading
 50		gossip
 19		veracity
-1054		relatively
+1056		relatively
 13		uninteresting
 46		benign
 575		findings
@@ -4113,7 +4113,7 @@ Count		Words
 116		centered
 2		debunking
 33		misinformation
-361		95
+362		95
 266		repeat
 602		arguments
 106		incremental
@@ -4124,7 +4124,7 @@ Count		Words
 8		falsified
 49		notify
 163		listing
-56		effect
+55		effect
 
 171		stimulus
 161		repeatedly
@@ -4206,8 +4206,8 @@ Count		Words
 12		426
 236		competing
 1806		easy
-3043		say
-977		pattern
+3045		say
+978		pattern
 426		difficulty
 586		recorded
 1628		particularly
@@ -4253,7 +4253,7 @@ Count		Words
 3		Pachur
 1		two-alternative
 105		infer
-272		76
+273		76
 98		estimating
 47		populated
 203		median
@@ -4305,7 +4305,7 @@ Count		Words
 156		tended
 82		researched
 239		acquisition
-164		115
+165		115
 123		113
 48		judging
 140		114
@@ -4365,7 +4365,7 @@ Count		Words
 169		confused
 1		Villejoubert
 4		Mandel
-81		171
+82		171
 260		membership
 10		corresponded
 1		IF-THEN
@@ -4631,7 +4631,7 @@ Count		Words
 563		potentially
 33		suppress
 8		Adherence
-1103		essential
+1104		essential
 89		violate
 14		Grice
 364		Thomas
@@ -4705,7 +4705,7 @@ Count		Words
 156		isolation
 1665		Here
 1		Poursabzi-Sangdeh
-128		134
+129		134
 114		simulate
 1779		regression
 304		coefficients
@@ -4817,7 +4817,7 @@ Count		Words
 527		stages
 9		semi-supervised
 162		convert
-46		288
+47		288
 18		toolbox
 636		topic
 26		inhibition
@@ -4912,9 +4912,9 @@ Count		Words
 190		Statistics
 35		Prague
 94		Economics
-236		partially
+237		partially
 1		H2020
-511		programme
+512		programme
 1788		No
 1		857446
 1		HeartBIT_4
@@ -4951,7 +4951,7 @@ Count		Words
 1		agentsBehavior
 1		expressiveness
 
-1291		developing
+1292		developing
 886		progress
 36		acknowledgment
 91		impacted
@@ -5095,7 +5095,7 @@ Count		Words
 109		Modeling
 91		power
 
-334		namely
+335		namely
 975		differences
 319		lie
 700		autonomy
@@ -5166,7 +5166,7 @@ Count		Words
 7		ecclesiastical
 332		faculty
 249		boss
-999		employee
+1000		employee
 69		encompass
 119		authorization
 12		Adopting
@@ -5189,7 +5189,7 @@ Count		Words
 484		paradigm
 143		deliberation
 10		expressiveness
-202		synthetic
+203		synthetic
 372		cultures
 196		relies
 71		indices
@@ -5587,7 +5587,7 @@ Count		Words
 33		initiates
 70		invoked
 278		simplest
-495		merely
+497		merely
 586		exists
 336		motivated
 233		officer
@@ -6115,7 +6115,7 @@ Count		Words
 95		facilitated
 28		refining
 892		procedures
-155		21
+154		21
 
 1230		character
 4		parameterize
@@ -6144,7 +6144,7 @@ Count		Words
 197		cycles
 256		satisfied
 52		rejecting
-156		23
+155		23
 
 96		assigning
 1324		leaves
@@ -6358,7 +6358,7 @@ Count		Words
 1		004a	0
 13		371
 
-10453		a
+10424		a
 
 3		BH
 11		FDR
@@ -6490,7 +6490,7 @@ Count		Words
 603		except
 1529		materials
 93		scored
-373		qualitative
+374		qualitative
 284		assessed
 817		received
 262		bound
@@ -6502,7 +6502,7 @@ Count		Words
 20		attributions
 54		strategies
 
-354		11
+353		11
 
 60		Distribution
 304		graph
@@ -6510,7 +6510,7 @@ Count		Words
 23		Participant
 19		inspecting
 30		agreeable
-1119		produced
+1120		produced
 5		asymmetries
 640		heavy
 1		near-100%
@@ -6588,7 +6588,7 @@ Count		Words
 3		twinning
 5		white-box
 25		Explanations
-181		Trust
+182		Trust
 32		undermined
 33		error-rates
 213		3%
@@ -6790,10 +6790,10 @@ Count		Words
 4		semi-factual
 14		sub-section
 1		fortori
-329		systems
+328		systems
 
 443		proper
-264		traditionally
+265		traditionally
 1		longest-standing
 519		decades
 1243		ago
@@ -6801,7 +6801,7 @@ Count		Words
 64		opaque
 3		training-set
 1		test-instances
-25		generalised
+26		generalised
 148		arguing
 1		hybrid-system
 38		pairing
@@ -6829,7 +6829,7 @@ Count		Words
 1		training-cases
 346		precise
 23		Crucially
-704		lose
+705		lose
 174		Ireland
 3		Nugent
 48		Cunningham
@@ -7081,7 +7081,7 @@ Count		Words
 5		Reasonableness
 1		error-types
 12		2A
-518		label
+520		label
 10		2B
 395		Within
 8		majority-voting
@@ -7234,7 +7234,7 @@ Count		Words
 1		Trivially
 1		causal-accuracy
 15		ill-defined
-8978		my
+8979		my
 187		subtle
 212		minor
 32		unforeseen
@@ -7293,7 +7293,7 @@ Count		Words
 1		Prolific
 1557		www
 29		prolific
-991		com
+992		com
 1		crowd-sourcing
 72		filters
 148		speakers
@@ -7450,7 +7450,7 @@ Count		Words
 1		Classification-Types
 118		Present
 5		Absent
-192		Standard
+194		Standard
 131		bars
 16		ratings
 
@@ -7561,7 +7561,7 @@ Count		Words
 1067		09
 1273		08
 264		interpretations
-14		Trust
+13		Trust
 
 41		304
 56		234
@@ -7781,7 +7781,7 @@ Count		Words
 692		dates
 22		mid-1990s
 6		Brewer
-64		portable
+65		portable
 191		libraries
 1		multiprocessors
 8		Fink
@@ -7838,7 +7838,7 @@ Count		Words
 76		low-level
 12		meta-level
 54		correlate
-352		famous
+353		famous
 1		clauses-to-variables
 1		uniform-random
 2		3-SAT
@@ -7908,7 +7908,7 @@ Count		Words
 1		m-dimensional
 64		ith
 4		-dimensional
-1178		y
+1179		y
 126		Various
 131		transformations
 315		log
@@ -7962,7 +7962,7 @@ Count		Words
 1		Two-phase
 88		iterative
 452		starts
-240		empty
+241		empty
 3		greedily
 94		stops
 342		l
@@ -8132,7 +8132,7 @@ Count		Words
 
 397		scheme
 21		encodes
-450		column
+451		column
 414		columns
 1		hamming
 1		GPs
@@ -8408,7 +8408,7 @@ Count		Words
 18		Minisat
 1		CryptoMinisat
 88		Race
-1273		2010
+1275		2010
 441		gold
 182		silver
 10		medals
@@ -8711,7 +8711,7 @@ Count		Words
 1		55	40
 1		72	5
 1		45	3
-80		69
+79		69
 
 1		SCIP-BIGMIX	4
 1		5E6	0
@@ -8730,7 +8730,7 @@ Count		Words
 1		62	43
 1		27	2
 2		76	4
-53		92
+52		92
 
 3		CPLEX-CORLAT	0
 5		46	0
@@ -8779,7 +8779,7 @@ Count		Words
 1		28	24
 1		95	4
 1		56	3
-101		65
+100		65
 
 2		CPLEX-CR	0
 15		43	0
@@ -9248,7 +9248,7 @@ Count		Words
 30		Same
 27		non-trivial
 1		non-tree-based
-93		capturing
+94		capturing
 182		3rd
 342		2nd
 313		evident
@@ -9448,13 +9448,13 @@ Count		Words
 106		Classification
 9		Wrapper
 21		Filter
-340		Introduction
+341		Introduction
 462		universal
 123		problem-solving
 1		expert-system
 348		designer
 340		forth
-712		Any
+713		Any
 30		discriminating
 8		Corresponding
 2		ronnyk
@@ -9547,7 +9547,7 @@ Count		Words
 4		Almuallim
 13		Dietterich
 1		5481
-130		Xi
+131		Xi
 1		Gennari
 3		multi-valued
 22		formalize
@@ -9683,7 +9683,7 @@ Count		Words
 8		miserably
 1		AOAAl
 1		BOABl
-535		named
+536		named
 147		matches
 14		Greedy
 100		fragmented
@@ -9821,7 +9821,7 @@ Count		Words
 310		chart
 20		Comparisons
 22		289
-410		u
+412		u
 8		Expand
 4		ah
 1132		o
@@ -10311,7 +10311,7 @@ Count		Words
 2		Kittler
 466		Cover
 1		Campenhout
-36		211
+37		211
 1		2-l
 63		beam
 11		bidirectional
@@ -10324,7 +10324,7 @@ Count		Words
 1		Atkeson
 29		multidimensional
 138		learning
-134		rough
+135		rough
 5		891
 3		reduct
 2		Pawlak
@@ -10473,10 +10473,10 @@ Count		Words
 52		quantum
 
 65		interplay
-25671		the
+25599		the
 
 463		readers
-4540		is
+4534		is
 
 1334		can
 
@@ -10485,7 +10485,7 @@ Count		Words
 
 275		well
 
-3027		are
+3023		are
 
 339		waiting
 502		fill
@@ -10512,7 +10512,7 @@ Count		Words
 101		genuinely
 419		1985
 77		elaborated
-16386		and
+16355		and
 
 50		Deutsch
 787		Turing
@@ -10523,7 +10523,7 @@ Count		Words
 50		encode
 137		tape
 6		simultaneously
-4557		that
+4553		that
 
 5		inefficiently
 143		striking
@@ -10546,7 +10546,7 @@ Count		Words
 1		2007CB807901
 51		Address
 139		correspondence
-13396		of
+13359		of
 
 31		E-mail
 1		mying
@@ -10566,19 +10566,19 @@ Count		Words
 52		killer
 4		unsorted
 525		square
-1856		it
+1855		it
 
 40		cryptography
 50		stimulated
 217		intensive
-694		been
+693		been
 
 194		exciting
 17		revolutionized
 3		reexamine
 24		Roughly
 542		engineering
-94		develop
+93		develop
 
 61		McCarthy
 5		speedup
@@ -10588,7 +10588,7 @@ Count		Words
 
 8		pursuing
 
-7017		in
+7011		in
 
 103		versa
 9		inherent
@@ -10599,7 +10599,7 @@ Count		Words
 4		remainder
 
 45		tutorial
-3361		with
+3358		with
 
 11		interplay
 
@@ -10610,7 +10610,7 @@ Count		Words
 19		illustrate
 
 5		Deutsch–Jozsa
-206		best
+205		best
 
 9		newcomer
 119		textbook
@@ -10715,7 +10715,7 @@ Count		Words
 
 2		Entanglement
 20		entangled
-97		An
+95		An
 
 21		entanglement
 116		Bell
@@ -10762,9 +10762,9 @@ Count		Words
 7		Ui
 19		U1
 2		Uk
-2276		on
+2266		on
 
-1741		by
+1738		by
 
 1		
 
@@ -10784,7 +10784,7 @@ Count		Words
 
 116		consider
 
-3056		be
+3049		be
 
 216		Suppose
 24		q1
@@ -10803,7 +10803,7 @@ Count		Words
 3		post-measurement
 1		ψs
 5		√p
-2660		s
+2651		s
 
 5		Bell
 
@@ -10811,19 +10811,19 @@ Count		Words
 1		β1
 1		11
 171		noting
-59		designed
+58		designed
 
 116		equals
 289		know
 
-3714		or
+3692		or
 
 157		Select
 67		Calculate
 149		Repeat
 2		2n−1
 19		ingenious
-9343		•
+9344		•
 8		Inputs
 6		x
 1		y→
@@ -10882,14 +10882,14 @@ Count		Words
 3		superposition
 
 5		αx
-1030		we
+1029		we
 
 2		unitary
 
 2		uxz
 244		x
 
-538		then
+536		then
 
 12		U
 
@@ -10908,7 +10908,7 @@ Count		Words
 3		±1
 250		definitely
 76		touched
-1644		this
+1642		this
 
 335		same
 
@@ -10935,7 +10935,7 @@ Count		Words
 2		Benioff
 337		first
 
-1972		an
+1965		an
 
 148		machine
 
@@ -10946,7 +10946,7 @@ Count		Words
 70		automata
 2		pushdown
 309		languages
-732		were
+730		were
 
 1		Kondas
 1		Watrous
@@ -10995,12 +10995,12 @@ Count		Words
 21		simplification
 126		methods
 
-11384		to
+11364		to
 
-646		than
+643		than
 
 24		simplifying
-716		some
+715		some
 
 248		computations
 10		Meter
@@ -11010,7 +11010,7 @@ Count		Words
 4		exponentiation
 2		Maslov
 62		templates
-4173		for
+4167		for
 
 366		complicated
 602		facility
@@ -11053,7 +11053,7 @@ Count		Words
 19		Nielsen
 19		Leung
 7		teleportation
-50		play
+49		play
 
 1		one-qubit
 1		Teleportation
@@ -11114,7 +11114,7 @@ Count		Words
 
 14		inaccuracy
 249		elementary
-60		third
+59		third
 
 62		paradigmatic
 196		election
@@ -11182,7 +11182,7 @@ Count		Words
 1		Valiron
 72		fragment
 53		higher-order
-48		functions
+47		functions
 
 30		flowchart
 3		QFC
@@ -11190,7 +11190,7 @@ Count		Words
 8		Propositions
 3		subspaces
 21		lattice
-2697		as
+2667		as
 
 31		stemmed
 26		Inspired
@@ -11218,11 +11218,11 @@ Count		Words
 3		reexamined
 226		important
 
-476		do
+475		do
 
 423		recovered
 2		commutativity
-628		This
+627		This
 
 4		Unfortunately
 28		classes
@@ -11237,7 +11237,7 @@ Count		Words
 3		Chapters
 33		disappointing
 10		surpassing
-1609		have
+1607		have
 
 13		architectures
 
@@ -11256,7 +11256,7 @@ Count		Words
 341		Unfortunately
 7		methodologies
 
-157		world
+155		world
 
 321		lay
 165		critically
@@ -11277,7 +11277,7 @@ Count		Words
 9		high-level
 
 126		recursion
-1666		from
+1663		from
 
 19		guards
 2		finite-dimensional
@@ -11297,7 +11297,7 @@ Count		Words
 86		predicate
 14		transformer
 6		methodology
-2065		The
+2059		The
 
 8		probabilistic
 
@@ -11313,7 +11313,7 @@ Count		Words
 4		super-operators
 285		beautiful
 21		duality
-494		between
+490		between
 
 1		state-transformer
 1		predicate-transformer
@@ -11384,7 +11384,7 @@ Count		Words
 72		fruitful
 112		There
 
-49		171
+48		171
 
 959		but
 
@@ -11432,7 +11432,7 @@ Count		Words
 
 4		ambiguity
 
-42		suggests
+41		suggests
 
 10		languages
 
@@ -11444,13 +11444,13 @@ Count		Words
 1		spooky
 
 19		subsections
-30		pattern
+29		pattern
 
 39		intensively
 37		physicists
 62		seems
 
-111		understanding
+110		understanding
 
 149		methodologies
 104		hoped
@@ -11466,7 +11466,7 @@ Count		Words
 
 662		In
 
-814		has
+813		has
 
 1		Unambiguous
 2		ϕ1
@@ -11509,7 +11509,7 @@ Count		Words
 57		173
 
 2		degenerates
-776		these
+775		these
 
 392		information
 
@@ -11522,7 +11522,7 @@ Count		Words
 2		sophisticated
 537		entirely
 26		untouched
-390		because
+389		because
 
 29		Here
 
@@ -11640,7 +11640,7 @@ Count		Words
 24		multimodal
 483		post
 38		diagnostics
-673		settlement
+674		settlement
 17		necessitate
 1		—amongst
 1		things—
@@ -11679,7 +11679,7 @@ Count		Words
 22		tracking
 
 58		persistence
-21		attributes
+20		attributes
 
 3		domain-neutral
 16		compositionality
@@ -12358,7 +12358,7 @@ Count		Words
 39		delighted
 92		collaborate
 99		launching
-270		talent
+272		talent
 4		ground-breaking
 2		Prem
 2		Natarajan
@@ -12449,7 +12449,7 @@ Count		Words
 22		coils
 1		undescribed
 100		autonomously
-181		meets
+182		meets
 123		unprecedented
 5		Tokamak
 79		à
@@ -12745,7 +12745,7 @@ Count		Words
 3		machine-learning-based
 1		approach14
 31		versatility
-60		overcoming
+61		overcoming
 67		tuned
 32		asymmetric
 1		fast-to-evaluate
@@ -12939,7 +12939,7 @@ Count		Words
 1		low-elongation
 5		4a
 81		sustaining
-182		strict
+183		strict
 1		control-coil
 15		reversing
 1		4d
@@ -13002,7 +13002,7 @@ Count		Words
 1		Bishop et al
 70		small-scale
 19		low-dimensional
-186		constitutes
+187		constitutes
 1		fusion-control
 1		 14
 1		tokamaks
@@ -13123,7 +13123,7 @@ Count		Words
 911		ready
 4		Limitations
 
-1517		doesn
+1518		doesn
 39		upload
 9		ingest
 163		factories
@@ -13222,7 +13222,7 @@ Count		Words
 1		on-device
 11		personalize
 397		copy
-21		touted
+22		touted
 33		leak
 290		talked
 16		aggregates
@@ -13251,7 +13251,7 @@ Count		Words
 
 1		Jarmul
 
-134		Principal
+135		Principal
 21		Scientist
 1		Thoughtworks
 109		startups
@@ -13306,7 +13306,7 @@ Count		Words
 5		Editing
 42		Notes
 
-1309		Journal
+1310		Journal
 120		forum
 8		4500
 392		crisp
@@ -13365,7 +13365,7 @@ Count		Words
 2		VIENNA
 34		Va
 1		PRNewswire
-1108		--
+1109		--
 13		streamlining
 104		Score
 640		news
@@ -13487,7 +13487,7 @@ Count		Words
 29		inorganic
 63		Specialist
 8		epigraphers
-67		reconstruct
+68		reconstruct
 1		respectively5
 56		inscription
 1		it6
@@ -13528,7 +13528,7 @@ Count		Words
 1		epigraphy
 
 18		epigraphic
-573		biological
+574		biological
 33		harness
 71		intricate
 1		data10
@@ -13571,7 +13571,7 @@ Count		Words
 43		stacked
 184		shallow
 251		800
-234		phrase
+236		phrase
 1		δήμο
 1		το
 1		αθηναίων
@@ -13804,7 +13804,7 @@ Count		Words
 1		multi-head
 9		perceptive
 243		phrases
-235		distinctive
+236		distinctive
 1		morphosyntactic
 34		normalize
 13		heads
@@ -14121,7 +14121,7 @@ Count		Words
 72		rival
 51		Marie
 4		Drake
-129		News
+131		News
 28		back-end
 22		front-end
 38		JavaScript
@@ -14165,7 +14165,7 @@ Count		Words
 1		Unicorns
 21		agile
 2		use—and
-588		when
+587		when
 
 46		Selecting
 986		talk
@@ -14984,7 +14984,7 @@ Count		Words
 2		dataset11
 62		Markov
 40		invariant
-386		curve
+387		curve
 1		Oreifej
 67		histogram
 79		Chen
@@ -15024,7 +15024,7 @@ Count		Words
 29		grasping
 179		angle
 24		obscured
-2409		robot
+2410		robot
 2		RGB-D
 40		Liu
 5		dual-stream
@@ -15531,7 +15531,7 @@ Count		Words
 1		calculators
 11		Databases
 150		printing
-2515		medium
+2516		medium
 24		easy-to-use
 1		x 
 99		 
@@ -15585,7 +15585,7 @@ Count		Words
 1		model—namely
 1		interaction—from
 22		application
-39		requisite
+40		requisite
 1		xii 
 1		Previously
 21		intelligence
@@ -15627,7 +15627,7 @@ Count		Words
 1123		ed
 380		MA
 1		xiv 
-2483		chapter
+2484		chapter
 50		computer
 1		learning—namely
 3		number-crunching
@@ -16051,7 +16051,7 @@ Count		Words
 1		Mendel—designed
 11		experiments
 27		devising
-121		27
+120		27
 
 8		them—
 
@@ -16160,7 +16160,7 @@ Count		Words
 19		Selection
 
 76		weighed
-105		37
+104		37
 
 1		effect—for
 126		seat
@@ -16399,7 +16399,7 @@ Count		Words
 18		multiple
 4		description
 14		Recognition 
-80		57
+79		57
 
 1		invention
 6		non-
@@ -16453,7 +16453,7 @@ Count		Words
 
 1		latent
 13		complicated
-86		61
+85		61
 
 1		Generatively
 1		label
@@ -16615,7 +16615,7 @@ Count		Words
 83		71
 
 4		smooths
-126		complement
+127		complement
 1		characteristics—for
 28		fingerprints
 5		on—and
@@ -16723,7 +16723,7 @@ Count		Words
 194		1975
 1		probability—this
 32		Valiant
-77		81
+76		81
 
 1		Rank
 
@@ -16892,7 +16892,7 @@ Count		Words
 11		previous
 53		condensed
 13		Recurrent
-103		95
+102		95
 
 10		Connectionist
 61		connectionist
@@ -16971,7 +16971,7 @@ Count		Words
 2		—though
 3		Imposing
 197		nearby
-166		101
+165		101
 
 2		sudden
 1		change—an
@@ -17096,7 +17096,7 @@ Count		Words
 56		motifs
 1		sequences
 1		Motifs
-73		115
+72		115
 
 6		occurring
 1		aim—for
@@ -17139,7 +17139,7 @@ Count		Words
 38		Recommendation
 6		predicting
 1		surfing
-65		119
+64		119
 
 371		Remember
 1		composition—that
@@ -17505,7 +17505,7 @@ Count		Words
 24		GPUs
 861		houses
 12		migrated
-53		153
+52		153
 
 1		capability
 1		low-capacity
@@ -17704,12 +17704,12 @@ Count		Words
 
 20		Mesopotamia
 1		pseudoscience
-1484		not
+1482		not
 
 38		hindsight
 3		believed
 7		astrology
-1332		about
+1330		about
 
 220		sun
 94		moon
@@ -17759,7 +17759,7 @@ Count		Words
 1		km—distance
 18		routing
 1		rememberthat
-278		need
+277		need
 
 432		double
 11		Massive
@@ -17779,7 +17779,7 @@ Count		Words
 
 2		approximation
 33		Bag
-51		words
+50		words
 
 1		preselect
 1		172 
@@ -17949,14 +17949,14 @@ Count		Words
 
 23		Street
 
-91		Birmingham
+92		Birmingham
 17		B3
 1		2PB
 274		ISBN
 1		978-1-78216-140-0
 
 6		packtpub
-399		com
+398		com
 
 18		Asher
 1		Wishkerman
@@ -18052,7 +18052,7 @@ Count		Words
 9		Bing
 43		active
 
-563		my
+562		my
 
 294		wife
 5		Natalie
@@ -18087,7 +18087,7 @@ Count		Words
 209		large
 
 1		Bioimage
-42		biological
+41		biological
 
 108		specimens
 6		microscopes
@@ -18154,13 +18154,13 @@ Count		Words
 1		co-edits
 6		co-founded
 750		served
-116		since
+115		since
 
 1		life—biological
 1		intelligence—using
 5		PacktPub
 3		eBooks
-1433		more
+1431		more
 
 35		downloads
 225		Did
@@ -18178,7 +18178,7 @@ Count		Words
 
 103		discounts
 2		PacktLib
-115		across
+114		across
 
 2		Subscribe
 34		Fully
@@ -18193,7 +18193,7 @@ Count		Words
 
 2		holders
 
-455		use
+454		use
 
 12		Simply
 
@@ -18215,7 +18215,7 @@ Count		Words
 
 246		Getting
 16		Started
-710		its
+709		its
 
 8		Classify
 6		Real-world
@@ -18246,9 +18246,9 @@ Count		Words
 
 65		build
 
-715		our
+714		our
 
-385		see
+384		see
 
 263		shopping
 47		Music
@@ -18267,12 +18267,12 @@ Count		Words
 483		Services
 529		provider
 294		wonderful
-68		book
+67		book
 
 153		install
 2		easy_install
 27		pip
-498		such
+495		such
 
 62		NumPy
 28		SciPy
@@ -18294,7 +18294,7 @@ Count		Words
 7		argsort
 27		beginning
 
-24		movie
+23		movie
 
 129		available
 
@@ -18380,7 +18380,7 @@ Count		Words
 370		entry
 26		Computer
 
-220		–
+216		–
 
 221		dream
 56		team
@@ -18399,7 +18399,7 @@ Count		Words
 10		chore
 276		way
 
-1600		your
+1599		your
 
 35		cumbersome
 1		over-specify
@@ -18448,7 +18448,7 @@ Count		Words
 85		Measuring
 352		math
 1068		dry
-95		actually
+94		actually
 
 301		journey
 47		face
@@ -18466,7 +18466,7 @@ Count		Words
 
 153		Creative
 3		shootout
-209		three
+208		three
 
 58		thoughtful
 6		weighing
@@ -18515,7 +18515,7 @@ Count		Words
 
 5		above-average
 152		habit
-178		now
+177		now
 
 3		Cross
 
@@ -18651,7 +18651,7 @@ Count		Words
 294		accessed
 50		themselves
 
-207		individual
+205		individual
 
 246		False
 83		dtype
@@ -18694,7 +18694,7 @@ Count		Words
 
 63		itself
 
-486		over
+485		over
 
 62		longer
 
@@ -18800,7 +18800,7 @@ Count		Words
 1		02500000e
 14		743
 3		Preprocessing
-435		two
+434		two
 
 4		splitting
 
@@ -18824,7 +18824,7 @@ Count		Words
 37		pyplot
 59		mimic
 1		interface—a
-1271		at
+1268		at
 
 1		pyplot_tutorial
 212		html
@@ -18857,7 +18857,7 @@ Count		Words
 
 8		simplified
 
-172		always
+171		always
 
 7		inferiority
 13		-y
@@ -18900,7 +18900,7 @@ Count		Words
 98		seldom
 14		judge
 
-754		one
+753		one
 
 22		stuff
 
@@ -18979,11 +18979,11 @@ Count		Words
 21		initially
 
 217		bright
-1166		they
+1164		they
 
 2		lower-degree
 2		psychedelic
-1130		which
+1124		which
 
 1		22143941
 1		107618
@@ -19025,7 +19025,7 @@ Count		Words
 
 11		calculate
 
-458		like
+455		like
 
 44		subtracting
 6		optimize
@@ -19108,7 +19108,7 @@ Count		Words
 195		marker
 20		ox
 2		rgb
-455		different
+454		different
 
 9		markers
 
@@ -19161,7 +19161,7 @@ Count		Words
 
 12		classified
 
-58		alternative
+57		alternative
 
 7		chose
 
@@ -19180,7 +19180,7 @@ Count		Words
 137		off
 
 105		Ideally
-216		without
+215		without
 
 6		ei
 90		len
@@ -19190,7 +19190,7 @@ Count		Words
 
 1		learn_model
 1		apply_model
-449		each
+448		each
 
 103		cost
 
@@ -19210,7 +19210,7 @@ Count		Words
 416		should
 
 353		schedule
-1284		was
+1282		was
 
 6		cross-validation
 
@@ -19219,7 +19219,7 @@ Count		Words
 122		Throughout
 69		types
 
-107		single
+106		single
 
 35		perfect
 
@@ -19278,7 +19278,7 @@ Count		Words
 
 12		compactness
 66		perimeter
-483		new
+482		new
 
 14		glamorous
 3		wellchosen
@@ -19369,7 +19369,7 @@ Count		Words
 1		over-optimistic
 
 757		waste
-532		many
+531		many
 
 19		designing
 
@@ -19532,7 +19532,7 @@ Count		Words
 25		dissimilar
 15		understandably
 20		duplicated
-732		also
+731		also
 
 31		Printing
 6		Normalizing
@@ -19541,7 +19541,7 @@ Count		Words
 1		dist_norm
 2		v1_normalized
 2		v2_normalized
-337		being
+336		being
 
 50		delight
 23		Removing
@@ -19930,7 +19930,7 @@ Count		Words
 2		initializations
 6		Cosine
 2		Jaccard
-96		mean
+95		mean
 
 85		full
 
@@ -20003,7 +20003,7 @@ Count		Words
 1		topic_index
 1		topic_weight
 1		Sparsity
-269		few
+268		few
 
 9		feasible
 
@@ -20030,7 +20030,7 @@ Count		Words
 1		carlucci
 41		leader
 
-84		government
+83		government
 
 1		koch
 1		zambia
@@ -20114,7 +20114,7 @@ Count		Words
 255		might
 
 4		plurals
-114		verb
+115		verb
 160		companion
 1		wordle
 4		pasted
@@ -20126,7 +20126,7 @@ Count		Words
 38		Barack
 344		Obama
 6		redo
-1623		their
+1616		their
 
 83		That
 
@@ -20153,7 +20153,7 @@ Count		Words
 83		Gordon
 68		Banks
 23		Re
-56		essential
+55		essential
 
 6		tremor
 1		Indrol
@@ -20210,7 +20210,7 @@ Count		Words
 1		chastity
 
 166		medications
-126		English
+125		English
 
 48		dump
 20		python
@@ -20270,7 +20270,7 @@ Count		Words
 82		priori
 4		unintuitive
 639		reflection
-469		only
+467		only
 
 8		Hockey
 12		Soccer
@@ -20279,7 +20279,7 @@ Count		Words
 
 116		backgrounds
 29		gatherings
-10		Ruby
+11		Ruby
 2		HDP
 2		HdpModel
 1		hdp
@@ -20342,7 +20342,7 @@ Count		Words
 
 85		sometimes
 
-62		achieve
+61		achieve
 
 18		Tuning
 17		instance
@@ -20404,11 +20404,11 @@ Count		Words
 32		otherwise
 
 17		standalone
-32		nor
+31		nor
 
 6		repackaged
 88		beds
-513		make
+512		make
 
 1		GarageBand
 3		OwnerUserId
@@ -20433,7 +20433,7 @@ Count		Words
 
 2		Integer
 
-11		empty
+10		empty
 
 46		String
 58		HTML
@@ -20463,7 +20463,7 @@ Count		Words
 176		Read
 54		posting
 1		userdependent
-14		drop
+13		drop
 
 3		IsAccepted
 6		TAB
@@ -20519,7 +20519,7 @@ Count		Words
 
 12		hyperlinks
 1		up-voted
-395		re
+393		re
 
 4		code_match
 17		pre
@@ -20540,7 +20540,7 @@ Count		Words
 43		clue
 41		Once
 
-133		performance
+132		performance
 
 8		predicting
 
@@ -20607,7 +20607,7 @@ Count		Words
 
 10		worse
 
-122		remind
+123		remind
 54		Our
 
 4		LinkCount
@@ -20627,7 +20627,7 @@ Count		Words
 61		improve
 
 43		Play
-769		into
+768		into
 
 1		non-smooth
 10		Modify
@@ -20651,7 +20651,7 @@ Count		Words
 
 89		gotten
 2		100-dimensional
-95		say
+93		say
 
 1		overfitting
 66		Fixing
@@ -20771,7 +20771,7 @@ Count		Words
 7		acceptably
 7		Recall
 
-167		better
+166		better
 
 26		AUC
 128		80
@@ -20801,7 +20801,7 @@ Count		Words
 2		deserialize
 66		pickle
 2		logreg
-405		just
+404		just
 
 97		suits
 42		goal
@@ -20907,7 +20907,7 @@ Count		Words
 
 1		cheated
 
-5		rough
+4		rough
 
 146		fractions
 1		add-one
@@ -20925,7 +20925,7 @@ Count		Words
 20		happened
 
 1		add-one
-141		means
+137		means
 
 137		And
 
@@ -20938,7 +20938,7 @@ Count		Words
 2		47E-324
 10		conditional
 
-53		meaning
+52		meaning
 
 1		underflow
 3		00001
@@ -20964,7 +20964,7 @@ Count		Words
 1		radix
 1		mpmath
 1		-∞
-787		Don
+789		Don
 7		irritated
 1		class—it
 1		nominator
@@ -21069,7 +21069,7 @@ Count		Words
 2		smooth_idf
 14		None
 
-43		word
+39		word
 
 5		sublinear_tf
 120		simply
@@ -21077,7 +21077,7 @@ Count		Words
 27		reasonable
 
 47		tedious
-144		called
+140		called
 
 29		GridSearchCV
 1		classifier-like
@@ -21094,7 +21094,7 @@ Count		Words
 67		determine
 
 4		score_func
-49		write
+48		write
 
 1		Fmeasure
 10		f1_score
@@ -21200,11 +21200,11 @@ Count		Words
 30		640
 1		032
 
-82		account
+81		account
 
 87		nouns
 47		colorful
-53		adjectives
+54		adjectives
 88		Determining
 3		tagger
 5		parses
@@ -21249,7 +21249,7 @@ Count		Words
 23		preposition
 1		subordinating
 
-6		conjunction
+5		conjunction
 
 43		adjective
 64		cool
@@ -21301,7 +21301,7 @@ Count		Words
 
 1		VBG
 1		gerund
-15		participle
+17		participle
 1		VBN
 65		taken
 
@@ -21400,7 +21400,7 @@ Count		Words
 1		Gloss
 1		SynsetTerms
 
-54		term
+53		term
 
 1		sentscores
 1		sent_scores
@@ -21539,7 +21539,7 @@ Count		Words
 4		rmse_train
 21		square
 
-531		had
+530		had
 
 14		sanity
 85		sure
@@ -21665,7 +21665,7 @@ Count		Words
 1		subfolds
 451		no
 
-122		things
+120		things
 
 50		contaminated
 3		LassoCV
@@ -21841,7 +21841,7 @@ Count		Words
 1		inflated
 
 10		hairy
-289		both
+288		both
 
 87		multiplying
 5		weights
@@ -21868,7 +21868,7 @@ Count		Words
 1		ids
 
 1		es0
-309		u
+307		u
 
 4		r0
 3		P0
@@ -22064,7 +22064,7 @@ Count		Words
 64		meaningless
 6		1030
 2		costumer
-23		note
+22		note
 
 161		offline
 123		back
@@ -22098,7 +22098,7 @@ Count		Words
 14		encountered
 
 1		binary-classification
-19		named
+18		named
 
 10		folders
 
@@ -22260,7 +22260,7 @@ Count		Words
 
 1		FFTbased
 36		prefers
-19		label
+17		label
 
 4		genre
 
@@ -22407,7 +22407,7 @@ Count		Words
 1		image-specific
 2		PNG
 17		JPEG
-36		former
+35		former
 
 5		lossless
 3		compression
@@ -22574,7 +22574,7 @@ Count		Words
 47		magical
 3		pixel
 
-102		makes
+101		makes
 
 55		benefit
 
@@ -22988,7 +22988,7 @@ Count		Words
 36		downstream
 13		invalidated
 2		--cache
-176		--
+175		--
 
 1		memoization
 
@@ -23050,7 +23050,7 @@ Count		Words
 22		mistakenly
 264		conversations
 13		pitfall
-196		management
+195		management
 
 14		parlance
 26		Launch
@@ -23114,7 +23114,7 @@ Count		Words
 
 1		gcc-c
 1		python-pip
-99		necessary
+98		necessary
 
 1		pip-python
 3		-U
@@ -23584,7 +23584,7 @@ Count		Words
 48		violating
 1		modelspecific
 1		exactitude
-486		discipline
+487		discipline
 3		heresy
 606		himself
 14		masterpiece
@@ -23671,9 +23671,9 @@ Count		Words
 
 17		mantra
 19		building
-6		Xi
+5		Xi
 
-1517		Age
+1518		Age
 37		declaring
 7		serviceable
 5		flexibility
@@ -23950,7 +23950,7 @@ Count		Words
 
 90		–1
 133		–0
-45		62
+44		62
 
 10		X-Y
 4		reflecting
@@ -23981,7 +23981,7 @@ Count		Words
 
 54		58
 
-42		76
+41		76
 
 49		84
 
@@ -24109,7 +24109,7 @@ Count		Words
 
 109		26
 
-147		24
+146		24
 
 140		22
 
@@ -24478,7 +24478,7 @@ Count		Words
 3		910
 
 1		3158
-54		232
+55		232
 2		5350
 72		216
 7		750
@@ -24643,7 +24643,7 @@ Count		Words
 1		Ancombe
 10		renaming
 3		45678
-148		y
+147		y
 
 1		Sought-after
 40		y1
@@ -24843,7 +24843,7 @@ Count		Words
 17		purchase
 71		48
 
-301		40
+300		40
 
 7		Stem
 10		Leaf
@@ -24909,7 +24909,7 @@ Count		Words
 
 11		Histogram
 
-31		134
+30		134
 
 45		116
 
@@ -25062,7 +25062,7 @@ Count		Words
 
 13		425
 
-68		125
+67		125
 
 7		025
 
@@ -25258,7 +25258,7 @@ Count		Words
 10		Illustration
 
 40		census
-69		EDUCATION
+70		EDUCATION
 14		Roots
 1		LR1
 1		LR2
@@ -25293,7 +25293,7 @@ Count		Words
 689		college
 1		4311
 
-682		000
+681		000
 
 7		Matrix
 
@@ -26413,7 +26413,7 @@ Count		Words
 
 31		138
 
-33		122
+32		122
 
 45		193
 
@@ -26713,7 +26713,7 @@ Count		Words
 2		compares
 42		portray
 23		ray
-71		Age
+70		Age
 
 6		819
 127		enthusiasm
@@ -27163,7 +27163,7 @@ Count		Words
 1		Derksen
 1		Keselman
 11		automated
-800		British
+801		British
 1		265–282
 803		1992
 13		Judd
@@ -27259,7 +27259,7 @@ Count		Words
 2		0191
 2		1512
 1		4483
-37		102
+36		102
 
 4		0186
 1		4750
@@ -27544,7 +27544,7 @@ Count		Words
 1		CUST_AGE
 
 1		LIFE_DOLLARS
-42		211
+41		211
 
 14		unwieldy
 170		supplement
@@ -27699,7 +27699,7 @@ Count		Words
 131		monitored
 4		recalibrated
 7		retrained
-45		clarifying
+46		clarifying
 1		question—Is
 18		—is
 17		answerable
@@ -27982,7 +27982,7 @@ Count		Words
 
 5		Classified
 
-52		120
+51		120
 
 4		094
 
@@ -28911,7 +28911,7 @@ Count		Words
 18		437
 21		178
 
-51		110
+50		110
 
 2		7410
 20		soliciting
@@ -28924,7 +28924,7 @@ Count		Words
 87		$60
 128		$20
 3		remaining
-20		232
+19		232
 
 17		264
 
@@ -30051,7 +30051,7 @@ Count		Words
 4		Legendre
 1		1752–1833
 8		Sur
-184		la
+185		la
 7		Méthode
 1		moindres
 1		quarrés
@@ -31950,7 +31950,7 @@ Count		Words
 25		Causes
 5		Modes
 26		classed
-187		Material
+188		Material
 166		substance
 121		rubber
 9		tyre
@@ -32459,7 +32459,7 @@ Count		Words
 28		misunderstandings
 119		tutoring
 1		multi-model
-52		mind
+51		mind
 
 1		explanation-friendly
 25		tailoring
@@ -34101,7 +34101,7 @@ Count		Words
 1		483323
 1		383304
 1		200630e
-36		94
+35		94
 
 2		Concatenating
 191		joined
@@ -34627,7 +34627,7 @@ Count		Words
 14		glossary
 54		3-4
 3		JSONs
-34		126
+33		126
 
 2		json_filedata
 2		json_data
@@ -36834,7 +36834,7 @@ Count		Words
 2		Generalization
 2		Irreducible
 41		entirety
-11		288
+10		288
 
 1		Retrain
 35		flaw
@@ -37269,7 +37269,7 @@ Count		Words
 2		$50000
 2		2000cc
 2		30k
-179		2010
+177		2010
 
 1		Impurity
 2		non-leaf
@@ -40923,7 +40923,7 @@ Count		Words
 397		frozen
 2		cross-tabulation
 23		my_tab
-12		column
+11		column
 
 5		col_0
 22		Count
@@ -41112,7 +41112,7 @@ Count		Words
 16		AOD
 1		deep-dive
 1		Breakup
-50		Days
+51		Days
 62		days
 
 6		Oversees
@@ -43089,7 +43089,7 @@ Count		Words
 
 1		Peeking
 3		Pivot
-64		name
+63		name
 
 13		Aeso
 19		napkins
@@ -44425,7 +44425,7 @@ Count		Words
 1		classifiers—to
 130		Balance
 40		Sheet
-40		Company
+39		Company
 
 7		-----
 12		Rs
@@ -44893,7 +44893,7 @@ Count		Words
 80		1936
 66		1940s
 1		Wedderburn
-201		include
+199		include
 
 21		sufficiently
 
@@ -44949,7 +44949,7 @@ Count		Words
 34		detailed
 
 24		presume
-42		section
+41		section
 
 75		one-third
 137		working
@@ -44965,7 +44965,7 @@ Count		Words
 1		non-quantitative
 28		elementary
 
-89		though
+88		though
 
 2		introduction
 4		PhD
@@ -45245,7 +45245,7 @@ Count		Words
 2		Trade-Off
 2		Interpretability
 
-56		relatively
+54		relatively
 
 19		inflexible
 14		Flexibility
@@ -45367,7 +45367,7 @@ Count		Words
 8		lefthand
 8		illustrate
 15		relatively
-14		curve
+13		curve
 
 1		de-
 1		grees
@@ -45396,7 +45396,7 @@ Count		Words
 
 16		specifically
 
-46		smaller
+45		smaller
 
 1		monotonically
 1		Finally
@@ -45919,7 +45919,7 @@ Count		Words
 8		Notice
 
 33		counterintuitive
-143		life
+142		life
 
 3		Running
 
@@ -46273,7 +46273,7 @@ Count		Words
 1		heterosceda-
 1		sticity
 
-39		Such
+38		Such
 
 9		responses
 13		panel
@@ -46296,7 +46296,7 @@ Count		Words
 5		miniscule
 16		unusual
 
-63		cause
+62		cause
 
 2		Studentized
 6		studentized
@@ -46340,7 +46340,7 @@ Count		Words
 33		contours
 1		RSS—that
 1		estimates—to
-79		move
+77		move
 
 15		runs
 
@@ -46749,7 +46749,7 @@ Count		Words
 
 16		capita
 
-26		qualitative
+25		qualitative
 
 1		obser-
 1		vation
@@ -47427,7 +47427,7 @@ Count		Words
 1		dinon-parametric
 12		observation
 5		hypercube
-139		around
+138		around
 
 7		arbitrary
 
@@ -47740,7 +47740,7 @@ Count		Words
 
 8		extending
 
-53		chapter
+52		chapter
 
 7		replacing
 
@@ -47952,7 +47952,7 @@ Count		Words
 6		1
 1		β1
 3		selection
-44		produced
+43		produced
 
 1		models—that
 3		sparse
@@ -48140,7 +48140,7 @@ Count		Words
 2		2
 61		original
 
-91		appropriate
+89		appropriate
 
 15		consequence
 
@@ -48298,7 +48298,7 @@ Count		Words
 6		716
 1		-116
 1		model-fitting—including
-54		creating
+53		creating
 
 3		TRUEs
 3		FALSEs
@@ -48466,7 +48466,7 @@ Count		Words
 66		remains
 
 1		zero—ridge
-61		ask
+60		ask
 
 1		100743
 
@@ -48762,7 +48762,7 @@ Count		Words
 4		5The
 1		pre-specifying
 1		wigglier
-172		local
+171		local
 
 3		Ki0
 261		O
@@ -49148,7 +49148,7 @@ Count		Words
 1		ˆyRj
 9		recursive
 
-20		ahead
+19		ahead
 
 4		cutpoint
 1		half-planes
@@ -49271,7 +49271,7 @@ Count		Words
 
 24		easier
 
-456		human
+455		human
 
 1		non-expert
 1		▼
@@ -49547,7 +49547,7 @@ Count		Words
 31		Case
 
 4		classification
-11		so-called
+9		so-called
 
 1		non-separable
 2		0123
@@ -49584,7 +49584,7 @@ Count		Words
 6		Boundaries
 
 9		enlarging
-187		become
+184		become
 
 1		βp1
 1		βp2
@@ -49846,7 +49846,7 @@ Count		Words
 7		well-understood
 55		read
 
-53		tools
+52		tools
 
 76		clear
 
@@ -50116,13 +50116,13 @@ Count		Words
 40		coloring
 1		
 
-37		define
+36		define
 
 3		i∈Ck
 
 8		defines
 
-29		objective
+28		objective
 
 1		Kn
 1		optimum—a
@@ -51196,7 +51196,7 @@ Count		Words
 
 176		tenant
 41		service
-95		medical
+94		medical
 
 14		CH
 1		impactful
@@ -51225,7 +51225,7 @@ Count		Words
 6		QT
 1		versatile
 5		arrhythmias
-5		portable
+4		portable
 
 34		cardiac
 2		Gadgets
@@ -51555,7 +51555,7 @@ Count		Words
 1		Susko
 256		Developing
 5		office-based
-71		Journal
+70		Journal
 
 9		Worlds
 37		Levin
@@ -52491,7 +52491,7 @@ Count		Words
 8		maxillofacial
 1		Orthognathic
 1		Relaity
-129		various
+128		various
 
 1		Image-Guided
 3		Simulators
@@ -53133,7 +53133,7 @@ Count		Words
 1		Mahapatra
 1		Suseendran
 60		tourism
-75		hospitality
+76		hospitality
 1		156-160
 1		69–284
 19		METHODS
@@ -53166,7 +53166,7 @@ Count		Words
 15		Inform
 2		user-centred
 5		empirical
-104		place
+103		place
 
 4		finances
 
@@ -53300,7 +53300,7 @@ Count		Words
 10		engagement
 1		memorability
 1		content28
-15		Questionnaires
+16		Questionnaires
 1		7-point-scale
 13		questionnaire
 
@@ -53662,7 +53662,7 @@ Count		Words
 79		Sons
 1		Nolin
 1		Stipanicic
-195		Henry
+196		Henry
 1		Lachapelle
 1		Lussier-Desrochers
 1		Allain
@@ -53940,7 +53940,7 @@ Count		Words
 1		SAM-Y
 4		Platform
 
-118		robot
+117		robot
 
 2		Telemedical
 2		cardio-vascular
@@ -54264,7 +54264,7 @@ Count		Words
 6		Mammography
 2		micro-calcifications
 1		Shaheb
-12		el
+13		el
 29		companies
 5		fuzzy
 
@@ -54382,7 +54382,7 @@ Count		Words
 25		noises
 3		Median
 3		3-by-3
-16		isolated
+15		isolated
 
 52		disturbing
 4		BEGIN
@@ -54941,7 +54941,7 @@ Count		Words
 2		Neumeyer
 1		subjected
 
-81		developing
+80		developing
 
 3		Mahayudin
 1		Ruzinor
@@ -55064,7 +55064,7 @@ Count		Words
 3		MCI
 1		MFE
 1		Competitiveness
-124		Programme
+125		Programme
 4		COP
 1		Pro-gramul
 1		Operaional
@@ -55392,7 +55392,7 @@ Count		Words
 1		Conclude
 12		compared
 2		non-technology
-7		remind
+6		remind
 
 1		Pill
 8		Alert
@@ -56522,7 +56522,7 @@ Count		Words
 28		distracted
 1		attentiveness
 
-91		medium
+90		medium
 
 1		assistive
 10		caretakers
@@ -58218,7 +58218,7 @@ Count		Words
 1		Handy
 1		navigation
 34		embark
-76		project
+75		project
 
 8		journey
 
@@ -58478,7 +58478,7 @@ Count		Words
 
 37		SENSE
 188		PLAN
-84		ACT
+85		ACT
 29		divided
 
 6		PRIMITIVES
@@ -58494,7 +58494,7 @@ Count		Words
 
 27		PLAN
 
-25		ACT
+24		ACT
 
 8		Sensed
 5		sensed
@@ -59030,7 +59030,7 @@ Count		Words
 49		Even
 
 1		spacesuits
-43		John
+42		John
 
 5		rake
 5		Planetary
@@ -59576,7 +59576,7 @@ Count		Words
 
 7		foyer
 37		Mission
-19		Planner
+20		Planner
 12		Navigator
 5		portion
 371		Turn
@@ -59596,7 +59596,7 @@ Count		Words
 4		Architectures
 8		Mission
 
-4		Planner
+3		Planner
 
 3		Navigator
 
@@ -59638,7 +59638,7 @@ Count		Words
 11		heading
 
 2		introduces
-42		Activities
+40		Activities
 
 4		Sensory
 
@@ -60823,7 +60823,7 @@ Count		Words
 
 1		ARRAY
 1		REPRESENTING
-9		FIELD
+10		FIELD
 1		Perceivable
 1		analogous
 2		gravitation
@@ -61143,7 +61143,7 @@ Count		Words
 1		digitalization
 
 3		MP4
-14		famous
+13		famous
 
 7		Napster
 33		offering
@@ -61502,7 +61502,7 @@ Count		Words
 12		psychiatrist
 23		Otto
 1		Juliusburger
-137		1948
+138		1948
 7		2The
 13		Vinge
 1		3Clarke
@@ -61535,7 +61535,7 @@ Count		Words
 42		unsustainable
 1		Semiautonomous
 2		Geldart
-9		discipline
+8		discipline
 
 1		overruling
 1		5Vincent
@@ -61664,7 +61664,7 @@ Count		Words
 20		subjects
 
 2		tribunals
-15		namely
+14		namely
 
 18		personality
 
@@ -63300,7 +63300,7 @@ Count		Words
 1		124Robots
 11		integrity
 
-67		procedural
+68		procedural
 2		Hazelhorst
 1		36–51
 95		governmental
@@ -63314,7 +63314,7 @@ Count		Words
 4		severally
 24		parties
 
-10		strict
+9		strict
 
 21		located
 
@@ -63681,7 +63681,7 @@ Count		Words
 12		unsettled
 8		constantly
 1		ever-quickening
-52		technological
+51		technological
 
 6		regulation
 3		ecosystems
@@ -63696,7 +63696,7 @@ Count		Words
 2		regulated
 8		So-called
 102		contingent
-27		merely
+25		merely
 
 13		fixation
 10		finality
@@ -63919,7 +63919,7 @@ Count		Words
 
 1		Incumbents
 3		Twentieth-century
-51		formal
+50		formal
 
 6		ill-prepared
 2		re-invent
@@ -64216,7 +64216,7 @@ Count		Words
 8		protection
 10		communications
 4		commonsense
-30		agencies
+29		agencies
 
 7		lawfully
 2		Overreach
@@ -64658,7 +64658,7 @@ Count		Words
 
 4		approvals
 
-46		customer
+45		customer
 
 44		desired
 
@@ -64964,7 +64964,7 @@ Count		Words
 1		777–778
 1		113If
 1		114Art
-2		enunciate
+3		enunciate
 3		recitals
 6		evident
 
@@ -65874,7 +65874,7 @@ Count		Words
 1		96Petit
 1		97Geradin
 1		98Dolmans
-42		employee
+41		employee
 
 1		maximization
 45		debate
@@ -67909,7 +67909,7 @@ Count		Words
 1		vacuumtube
 3		clunky
 1		unscalable
-4		1948
+3		1948
 
 13		anticipates
 9		chess-playing
@@ -68560,7 +68560,7 @@ Count		Words
 1		And—tomorrow
 1		today—AI
 3		optimists
-33		largely
+32		largely
 
 24		helpless
 27		mechanically
@@ -70207,7 +70207,7 @@ Count		Words
 13		forced
 
 4		monomaniacal
-6		overcoming
+5		overcoming
 
 1		tech-assisted
 3		tallying
@@ -70643,7 +70643,7 @@ Count		Words
 
 66		favorites
 131		19th
-62		although
+61		although
 
 1		then-new
 1		meaning-free
@@ -70698,7 +70698,7 @@ Count		Words
 
 5		folly
 17		stockpile
-17		Any
+16		Any
 
 1		perpetual-motion
 
@@ -71105,7 +71105,7 @@ Count		Words
 1		picturephone
 1		Faustian
 33		bargain
-31		British
+30		British
 
 13		Airways
 16		Heathrow
@@ -71852,7 +71852,7 @@ Count		Words
 6		Camden
 6		thirty-seven
 1		riskassessment
-11		deciding
+10		deciding
 
 1		nondangerous
 1		Judges
@@ -72806,7 +72806,7 @@ Count		Words
 1		so—being
 4		such-andsuch
 7		gosh
-19		traditionally
+18		traditionally
 
 1		image-identification
 1		similar—ours
@@ -73671,7 +73671,7 @@ Count		Words
 1		1-800-Flowers
 9		concierge
 1		up-tothe-minute
-29		stationery
+30		stationery
 22		Slack
 2		deactivate
 1		behaviours—are
@@ -74488,7 +74488,7 @@ Count		Words
 9		bumps
 3		heady
 2		DeLorean
-216		Photo
+217		Photo
 1		off—they
 11		scenery
 1		de-blur
@@ -75340,7 +75340,7 @@ Count		Words
 1		wisecracked
 49		rest
 
-148		drama
+149		drama
 10		cinemas
 15		Robbie
 1		replicant
@@ -75418,8 +75418,6 @@ Count		Words
 2		Hirata
 7		Wakamaru
 6		Blanca
-1		drama
-
 24		Nao
 6		synchronously
 1		soul
@@ -76993,7 +76991,7 @@ Count		Words
 
 7		compromise
 
-18		redesigning
+19		redesigning
 3		wandering
 
 1		acertain
@@ -77752,7 +77750,7 @@ Count		Words
 4		Wed
 27		perverse
 3		TurtleBot
-46		explain
+45		explain
 
 5		readymade
 41		vivid
@@ -77827,7 +77825,7 @@ Count		Words
 1		Ecological
 
 3		Stealing
-8		synthetic
+7		synthetic
 
 1		ascendancy
 
@@ -79492,7 +79490,7 @@ Count		Words
 6		develops
 
 391		pit
-28		circumstances
+27		circumstances
 
 13		push
 
@@ -82416,7 +82414,7 @@ Count		Words
 54		Locke
 30		sociocultural
 1		detranscendentalized
-5		procedural
+4		procedural
 
 5		deflated
 1		thenceforth
@@ -83177,7 +83175,7 @@ Count		Words
 
 5		accidental
 
-64		Bickhard
+65		Bickhard
 7		self-maintaining
 9		exclusively
 
@@ -83306,7 +83304,7 @@ Count		Words
 2		unboundedly
 21		Bobby
 1		language-particular
-5		verb
+4		verb
 
 8		drags
 1		3Some
@@ -83534,7 +83532,6 @@ Count		Words
 1		zag
 1		helpen
 1		zwemmen
-
 1		Cross-serial
 9		context-sensitive
 1		fanbncn
@@ -85788,7 +85785,7 @@ Count		Words
 1		926–936
 2		Teuber
 1		11–57
-42		Rethinking
+43		Rethinking
 5		605
 1		noncomputational
 1		299–310
@@ -85888,7 +85885,7 @@ Count		Words
 6		connectionists
 26		saying
 
-17		programme
+16		programme
 
 1		1Fodor
 10		retreated
@@ -86515,7 +86512,7 @@ Count		Words
 
 1		66–75
 2		Sociobiology
-12		Bickhard
+11		Bickhard
 
 3		anticipatory
 
@@ -88506,7 +88503,7 @@ Count		Words
 4		11The
 6		sifting
 5		Invoking
-10		constitutes
+9		constitutes
 
 16		appraise
 23		adequate
@@ -88595,8 +88592,7 @@ Count		Words
 
 6		playfully
 2		anthill
-1		eponymous
-
+6		eponymous
 8		languaging
 4		ant-like
 46		tactical
@@ -88846,7 +88842,6 @@ Count		Words
 1		Asymptotically
 2		stabilises
 1		MonteCarlo
-5		eponymous
 6		strategically
 
 20		populations
@@ -89215,7 +89210,7 @@ Count		Words
 
 1		8He
 1		9When
-6		la
+5		la
 
 1		serialise
 13		Exit
@@ -89695,7 +89690,7 @@ Count		Words
 
 1		non-fictional
 22		Cervantes
-6		Don
+4		Don
 
 2		admirable
 
@@ -90389,7 +90384,7 @@ Count		Words
 61		Wells
 1		envatted
 1		solipsistic
-9		requisite
+8		requisite
 
 5		negotiation
 
@@ -91449,7 +91444,7 @@ Count		Words
 
 6		559
 
-7		phrase
+5		phrase
 
 1		511f
 2		VCM
@@ -91823,8 +91818,6 @@ Count		Words
 6		loath
 10		Multiplicity
 1		pre-empted
-24		calls
-
 4		overrule
 1		qualm
 
@@ -91935,8 +91928,6 @@ Count		Words
 
 1		neurofunctional
 1		theorists
-7		capturing
-
 4		Arzu
 2		Gokmen
 2		Prinzing
@@ -91950,7 +91941,7 @@ Count		Words
 2		commented
 1		NUS
 24		Career
-60		Award
+61		Award
 1		consciousness-animal
 35		Mach
 2		507–516
@@ -93435,8 +93426,7 @@ Count		Words
 
 2		ambling
 14		emits
-1		rejoinder
-
+6		rejoinder
 4		artifact
 
 1		seman‐
@@ -97855,6 +97845,8 @@ Count		Words
 3		inactivate
 6		alarm
 
+6		capturing
+
 31		Recording
 1		Sleeping
 
@@ -97902,7 +97894,6 @@ Count		Words
 1		x
 
 1		y
-
 1		x
 
 2		y
@@ -97989,7 +97980,7 @@ Count		Words
 1		wavelet-based
 5		Smiley
 2		Reconstructed
-13		partially
+12		partially
 
 2		MPEG-4
 
@@ -100755,7 +100746,6 @@ Count		Words
 8		······
 5		_idf
 1		·········
-
 8		961
 1		4285
 2		1195
@@ -101519,6 +101509,8 @@ Count		Words
 
 1		delineate
 
+21		calls
+
 17		Relativism
 14		Recognising
 1		valuing
@@ -101594,7 +101586,7 @@ Count		Words
 33		Ethical
 
 5		embedded
-16		distinctive
+15		distinctive
 
 6		characteristic
 1		978-3-319-60648-4_3
@@ -101771,7 +101763,7 @@ Count		Words
 
 11		nuance
 6		operationalise
-18		Bowden
+19		Bowden
 5		Accompanying
 1		McKerrow
 9		Tend
@@ -102631,7 +102623,7 @@ Count		Words
 1		Longer-Term
 2		hangs
 
-12		Ideals
+13		Ideals
 4		minorities
 
 11		majorities
@@ -107139,7 +107131,7 @@ Count		Words
 
 1		1543
 
-9		Henry
+8		Henry
 
 3		VIII
 
@@ -108382,7 +108374,6 @@ Count		Words
 1		fjords
 18		artificially
 
-5		rejoinder
 5		mindclones
 1		mimicing
 1		reportoires
@@ -108538,7 +108529,7 @@ Count		Words
 2		rule-governed
 2		idealizations
 1		nonquantum
-7		adopt
+6		adopt
 
 4		inessential
 1		actualized
@@ -108685,7 +108676,6 @@ Count		Words
 4		astronomically
 5		inescapably
 1		demarking
-
 1		counterfactuals
 176		intake
 1		yielding
@@ -108798,8 +108788,6 @@ Count		Words
 1		unclarified
 
 1		unreflected
-1		clarifying
-
 2		science-philosophical
 
 2		Fetzer-Floridi
@@ -108822,7 +108810,7 @@ Count		Words
 1		chapter—although
 1		yes-no-questions
 1		Sprachspiel-dependent
-5		information-philosophical
+6		information-philosophical
 1		autonomic
 
 2		enlightation
@@ -109025,8 +109013,6 @@ Count		Words
 1		Piccorini
 1		always-only
 1		information—a
-1		information-philosophical
-
 1		equivocity
 1		remember—
 
@@ -109592,7 +109578,7 @@ Count		Words
 1		Zahlen
 1		Beman
 1		Universes
-53		Kent
+54		Kent
 2		Constructor
 1		4331–4359
 1		Enigmas
@@ -115032,7 +115018,7 @@ Count		Words
 4		complaint
 10		saints
 7		unexposed
-31		lose
+30		lose
 
 1		Retaliation
 10		resign
@@ -123131,7 +123117,7 @@ Count		Words
 3		Extravagant
 3		BitConnect
 3		tanked
-8		Standard
+6		Standard
 
 1		Non-existent
 5		bare-bones
@@ -123212,7 +123198,7 @@ Count		Words
 
 1		Augor
 3		Rumor
-15		News
+13		News
 
 535		Enjoy
 1		simple—get
@@ -129317,7 +129303,7 @@ Count		Words
 7		2021-22
 1		2015-16
 2		75pc
-238		peel
+239		peel
 6		SBP
 2		fallouts
 2		Russian-Ukraine
@@ -130008,7 +129994,7 @@ Count		Words
 3		Proprietor
 
 5		Paint
-9		Shop
+8		Shop
 
 1		Winterborough
 
@@ -130531,8 +130517,6 @@ Count		Words
 22		adjectival
 27		£3
 15		statement
-2		participle
-
 28		infinitive
 10		sentence
 14		consignment
@@ -131167,8 +131151,6 @@ Count		Words
 1		non-split
 1		Janet
 
-3		adjectives
-
 6		Adjectives
 3		Adverbs
 
@@ -131214,7 +131196,7 @@ Count		Words
 2		grammarians
 1		adverbial
 
-5		stationery
+4		stationery
 
 7		Arriving
 4		hanging
@@ -131576,8 +131558,7 @@ Count		Words
 
 1		94–5
 
-1		73–4
-
+3		73–4
 3		anti-
 2		apostrophes
 1		13–15
@@ -131589,7 +131570,6 @@ Count		Words
 3		131–2
 
 1		circumlocution
-2		73–4
 2		80–2
 
 2		124–5
@@ -131620,12 +131600,10 @@ Count		Words
 
 1		132–3
 
-1		20–1
-
+2		20–1
 1		25–7
 
-1		27–8
-
+2		27–8
 3		flipcharts
 1		52–3
 
@@ -131637,7 +131615,6 @@ Count		Words
 1		47–50
 
 1		21–2
-
 1		117–18
 
 4		19–22
@@ -131662,8 +131639,7 @@ Count		Words
 
 1		36–7
 
-1		96–7
-
+3		96–7
 3		115–16
 
 1		80–2
@@ -131758,14 +131734,10 @@ Count		Words
 1		140–1
 
 3		A-Z
-1		Burt
-
 1		useful…
 1		Tilbury
 3		Cranfield
 1		978-1-84528-361-2
-
-1		Bowden
 
 1		seen…
 1		Engineer
@@ -131774,7 +131746,6 @@ Count		Words
 
 1		ANGELA
 1		BURT
-
 1		…from
 1		school…
 2		Angela
@@ -131783,8 +131754,6 @@ Count		Words
 1		978-1-84528-316-2
 
 1		MARION
-12		FIELD
-
 1		Invaluable
 1		guide…after
 1		semi-colon
@@ -131792,7 +131761,6 @@ Count		Words
 
 1		SHAY
 1		McCONNON
-
 1		captivates
 126		Snack
 38		Foods
@@ -131803,7 +131771,6 @@ Count		Words
 
 10		PHILLIP
 1		KHAN-PANNI
-
 1		Bridle
 10		Coach
 1		978-1-84528-191-5
@@ -135648,7 +135615,7 @@ Count		Words
 1		living-room
 7		chair
 
-99		Material
+98		Material
 
 11		Wedding
 13		general-reference
@@ -141015,7 +140982,7 @@ Count		Words
 10		sophomore
 4		varsity
 2		200-meter
-8		talent
+6		talent
 
 27		skinny
 2		junkie
@@ -142985,7 +142952,7 @@ Count		Words
 1		AllBusiness
 1		40-point
 1		allbusiness
-39		Shop
+40		Shop
 12		Mergers
 1		Diligence
 2		Monty
@@ -143195,9 +143162,7 @@ Count		Words
 8		duties
 
 3		paralysed
-4		Credo
-1		Credo
-
+5		Credo
 43		Compensation
 15		credo
 7		£17
@@ -143472,8 +143437,7 @@ Count		Words
 1		motor-based
 4		Holy
 
-1		Daddy
-
+8		Daddy
 1		Dailmer
 2		Mercedes
 
@@ -143898,7 +143862,7 @@ Count		Words
 4		severance
 1		heated-debate
 2		name-calling
-5		reconstruct
+4		reconstruct
 
 1		suspicious-looking
 13		reimbursements
@@ -144233,8 +144197,6 @@ Count		Words
 4		reimbursing
 7		£320
 3		£220
-1		doesn
-
 1		knee-jerk
 
 1		start-of-period
@@ -145040,6 +145002,8 @@ Count		Words
 1		Non-native
 2		concord
 1		often-used
+2		adjectives
+
 5		ponies
 1		comparative
 1		adverbs
@@ -145094,8 +145058,6 @@ Count		Words
 1		-se
 14		preach
 2		licenced
-4		complement
-
 2		Complement
 2		completes
 2		Takeaway
@@ -145278,7 +145240,7 @@ Count		Words
 2		paddling
 1		leaseholders
 128		TART
-174		USINESS
+175		USINESS
 141		OME
 
 1		raincoat
@@ -145544,7 +145506,7 @@ Count		Words
 10		HAT
 9		NVOLVED
 17		TARTING
-34		USINESS
+33		USINESS
 
 1		Breaks
 
@@ -145566,7 +145528,7 @@ Count		Words
 1		BARGAIN
 1		HUNTING
 
-2		Fisherman
+3		Fisherman
 1		Warehouse
 
 1		Cheapest
@@ -146453,7 +146415,7 @@ Count		Words
 2		giveaways
 1		readership
 
-6		email
+5		email
 
 2		Visitors
 
@@ -147474,7 +147436,7 @@ Count		Words
 4		s-level
 1		award
 
-3		Award
+2		Award
 
 1		clinician
 
@@ -147585,7 +147547,7 @@ Count		Words
 1		94-07
 3		Provided
 
-4		IBM
+3		IBM
 
 4		TECHNICIAN
 1		92-06
@@ -151161,7 +151123,7 @@ Count		Words
 8		Halfway
 1		larger-than-necessary
 7		$716
-4		Principal
+3		Principal
 
 4		$99
 1		$498
@@ -151292,7 +151254,7 @@ Count		Words
 1		1310
 1		$411
 1		Paycheck
-16		settlement
+15		settlement
 
 1		1311
 1		Eat-A-Lot
@@ -156383,11 +156345,8 @@ Count		Words
 1		YARWOOD-WHITE
 
 1		Yarwood-White
-
 1		GEMMA
 2		STONE
-
-1		Ruby
 
 1		NICHOLSON
 
@@ -156395,14 +156354,11 @@ Count		Words
 1		TREMELLEN
 
 1		Bravissimo
-
 1		ANITA
 1		RODDICK
 
 1		RACHEL
 1		ELNAUGH
-
-8		Days
 
 39		fulfi
 1		lment
@@ -156580,7 +156536,6 @@ Count		Words
 
 2		Succinctly
 1		surprise…
-
 14		nancially
 1		ball-park
 11		COMMON
@@ -157498,7 +157453,7 @@ Count		Words
 1		address…
 
 18		NEXT
-12		IMPROVE
+11		IMPROVE
 
 22		10SYOB_CH_10
 1		50-hour
@@ -157541,6 +157496,7 @@ Count		Words
 1		UMIST
 1		Selfmotivation
 2		ownermanagers
+2		IMPROVE
 1		STAYING
 1		MOTIVATED
 1		Visualise
@@ -157575,7 +157531,6 @@ Count		Words
 48		Isles
 1		traintogain
 5		WAYS
-1		IMPROVE
 1		sidelines
 1		maturity
 1		E-Learnity
@@ -165711,11 +165666,12 @@ Count		Words
 
 1		CHER
 
-2		Mamelie
-
+1		Mamelie
 43		Pudding
 
 7		Gâteau
+1		Mamelie
+
 5		waterway
 3		Cher
 3		Sancerre
@@ -167514,10 +167470,8 @@ Count		Words
 26		tart
 
 139		crunchy
-1		Micheline
-
+4		Micheline
 2		Flamiche
-3		Micheline
 7		mother-in-law
 1		Marin
 
@@ -167630,8 +167584,6 @@ Count		Words
 31		chutney
 
 2		PAS-DE-CALAIS
-
-1		Fisherman
 
 13		Chowder
 
@@ -168116,8 +168068,7 @@ Count		Words
 177		cucumber
 3		Refrigerate
 
-3		Pig
-
+20		Pig
 2		Parts
 
 1		Tentation
@@ -168273,7 +168224,6 @@ Count		Words
 
 6		30–60
 1		Water-Gardeners
-
 1		hortillons
 
 1		Hortillons
@@ -170016,6 +169966,8 @@ Count		Words
 122		edamame
 40		Feta
 5		Nutmeg
+
+3		complement
 
 15		coat
 
@@ -172965,7 +172917,7 @@ Count		Words
 
 2		Teriyaki
 
-23		peel
+22		peel
 
 1		1-inch-thick
 
@@ -181521,7 +181473,6 @@ Count		Words
 2		PIGGIES
 1		BLANKET
 
-18		Pig
 1		Paula-spin
 1		piggie
 2		piggies
@@ -181813,7 +181764,6 @@ Count		Words
 15		Mama
 1		creek
 
-7		Daddy
 1		saucers
 1		deviled
 
@@ -188550,7 +188500,7 @@ Count		Words
 1		Gabbana
 1		lemon-flavoured
 2		semen
-3		Photo
+2		Photo
 
 1		chocolate-making
 1		PerugiaAP
@@ -190856,6 +190806,8 @@ Count		Words
 1		Sodas
 
 1		Margarine
+
+7		Days
 
 1		contrary—some
 1		sixtyfive
@@ -195921,7 +195873,7 @@ Count		Words
 7		backpacks
 1		Assaan
 12		Allah
-6		Hoo
+7		Hoo
 1		yar
 1		KHUSHAL
 
@@ -196267,7 +196219,7 @@ Count		Words
 3		diplomatic
 
 2		rivalries
-1		day-long
+2		day-long
 15		Maulana
 3		Quetta
 5		slights
@@ -197056,7 +197008,7 @@ Count		Words
 4		Farooq
 1		Farooq
 
-8		Talibanisation
+9		Talibanisation
 1		Niemöller
 13		socialists
 4		unionists
@@ -197482,8 +197434,6 @@ Count		Words
 1		bodyguards
 
 1		bodyguard
-1		Talibanisation
-
 1		PRETEND
 1		Flying
 
@@ -197764,7 +197714,7 @@ Count		Words
 3		rerouted
 1		Tapey
 1		physiotherapist
-8		Birmingham
+7		Birmingham
 
 1		Botanical
 7		Gardens
@@ -198316,7 +198266,7 @@ Count		Words
 1		RIVAL
 2		CONCEPTIONS
 6		LITERACY
-85		EDUCATION
+84		EDUCATION
 
 4		differently
 10		conceives
@@ -198590,8 +198540,6 @@ Count		Words
 2		awless
 1		not-as-yet-realized
 1		tempering
-1		Ideals
-
 44		educational
 6		content-ideals
 3		excellences
@@ -200730,7 +200678,7 @@ Count		Words
 4		FENTO
 8		HEADLAMP
 25		Headteachers
-8		Programme
+7		Programme
 
 13		HEFCE
 8		HEI
@@ -202247,8 +202195,6 @@ Count		Words
 
 2		especial
 
-1		day-long
-
 1		reinvigorating
 14		pedagogical
 
@@ -202506,8 +202452,6 @@ Count		Words
 1		Trowler
 1		homiletic
 2		bookstand
-1		touted
-
 1		Palfreyman
 1		167–204
 13		Ramsden
@@ -202602,8 +202546,6 @@ Count		Words
 1		bedevilled
 4		Accredited
 2		systematise
-1		generalised
-
 1		Vicechancellors
 1		CODA
 
@@ -209663,7 +209605,7 @@ Count		Words
 2		fetishized
 2		semiology
 6		SUSAN
-6		ROBERTSON
+5		ROBERTSON
 
 2		fetishizing
 2		space–time
@@ -209718,6 +209660,7 @@ Count		Words
 8		Kamat
 2		spatializing
 2		reworkings
+1		ROBERTSON
 4		stratification
 
 1		lessness
@@ -210285,7 +210228,7 @@ Count		Words
 1		liberality
 
 3		Unconditional
-2		hospitality
+1		hospitality
 
 3		Goh
 2		Chok
@@ -210948,7 +210891,7 @@ Count		Words
 1		Broiler
 
 5		ROGER
-5		SLEE
+4		SLEE
 
 8		Kozol
 1		Kozol
@@ -210980,6 +210923,7 @@ Count		Words
 8		Mirza
 5		Parrish
 1		overrepresentation
+1		SLEE
 1		riven
 1		counterclaims
 5		trenchant
@@ -218700,7 +218644,7 @@ Count		Words
 6		drunken
 3		matron
 1		caustic
-48		parish
+49		parish
 1		stolen-goods
 5		Fagin
 3		Brownlow
@@ -225110,7 +225054,7 @@ Count		Words
 3		WeMakeScholars
 4		all-rounder
 1		self-sustainability
-6		meets
+5		meets
 
 1		utterances
 1		phonology—the
@@ -227984,7 +227928,7 @@ Count		Words
 1		Pruitt
 1		Gaiten
 1		Kivisto
-4		Rethinking
+3		Rethinking
 
 1		537–564
 2		MMs
@@ -238829,7 +238773,7 @@ Count		Words
 1		parody
 
 1		cartoonlike
-1		teaching—
+2		teaching—
 2		anesthetized
 1		workplaces—have
 1		Encompassing
@@ -240345,6 +240289,8 @@ Count		Words
 1		arrived—the
 1		moment—when
 1		meeting—it
+11		FIELD
+
 2		pre-kindergarten
 1		Osterman
 1		Kottkamp
@@ -241156,8 +241102,6 @@ Count		Words
 1		secuestrados
 1		Espectador
 1		Informe
-1		el
-
 1		Mandato
 1		Niños
 1		paz
@@ -244279,7 +244223,7 @@ Count		Words
 2		perspectives—connectionist
 9		Thom
 1		woeful
-15		978-1-405-18042-9
+14		978-1-405-18042-9
 
 1		chapters—this
 11		Alhadeff-Jones
@@ -244361,8 +244305,6 @@ Count		Words
 36		Ramus
 1		metanarrative
 2		design—those
-1		teaching—
-
 1		syllabus—instead
 1		Students—individually
 1		groups—
@@ -245420,8 +245362,7 @@ Count		Words
 
 1		redistributions
 3		totalising
-2		features—
-
+1		features—
 1		—His
 1		juvenilia
 4		eventalisation
@@ -245934,6 +245875,7 @@ Count		Words
 1		ularity
 1		ather
 3		Yanow
+1		978-1-405-18042-9
 3		Smelser
 1		phenomenalism
 2		Hollis
@@ -246189,7 +246131,6 @@ Count		Words
 1		hardnesses
 1		effect––small
 1		effect—
-
 1		flapping
 
 1		paper––
@@ -251393,7 +251334,7 @@ Count		Words
 1		Anecdotes
 1		advocacy
 1		oversampled
-4		Questionnaires
+3		Questionnaires
 
 1		anthrax
 
@@ -252238,7 +252179,7 @@ Count		Words
 3		end-use
 1		renewables
 1		hydropower
-3		redesigning
+2		redesigning
 
 1		inflation-adjusted
 1		decoupled
@@ -254323,8 +254264,6 @@ Count		Words
 2		TSCA
 
 1		decided
-1		enunciate
-
 1		reauthorizing
 1		subpopulations
 1		Toxics
@@ -271420,7 +271359,7 @@ Count		Words
 
 1		Dungeon
 9		Pembrokeshire
-2		Reconstructions
+3		Reconstructions
 7		roundhouses
 1		chevaux
 1		frise
@@ -272034,7 +271973,7 @@ Count		Words
 
 2		Terminus
 15		quem
-2		TPQ
+3		TPQ
 3		TAQ
 1		Typology
 
@@ -272451,7 +272390,7 @@ Count		Words
 1		Signposted
 1		trails
 
-2		Reconstructions
+1		Reconstructions
 
 1		exhibts
 
@@ -273628,8 +273567,6 @@ Count		Words
 
 1		Shipwrecks
 
-1		TPQ
-
 1		wrecks
 
 1		Reconstruction
@@ -273648,7 +273585,6 @@ Count		Words
 1		Microfauna
 
 1		Macrofauna
-
 2		Mollusc
 1		arx
 
@@ -273737,8 +273673,6 @@ Count		Words
 1		kinsman
 
 1		Scribe
-2		Hoo
-
 1		Amphorae
 1		Sculptors
 1		Akhenaten
@@ -273752,6 +273686,8 @@ Count		Words
 
 1		Deir-El
 1		Barrel-Makers
+1		Hoo
+
 1		craftsmanship
 1		cloisonné
 1		FEZ
@@ -274094,8 +274030,6 @@ Count		Words
 2		inter-visibility
 1		I-spy
 1		horseshoes
-3		Kent
-
 1		Archaeologia
 1		Cantiana
 
@@ -274112,6 +274046,8 @@ Count		Words
 1		seven-type
 
 1		Hamid
+
+2		Kent
 
 2		Kentish
 1		unprovenanced
@@ -274174,8 +274110,6 @@ Count		Words
 
 1		Kilnsea
 
-2		parish
-
 1		earthwork
 
 2		Grims
@@ -274186,6 +274120,8 @@ Count		Words
 1		Swindon
 
 1		hedgerow
+1		parish
+
 1		dur
 1		BritArch
 1		inter-library
@@ -274928,7 +274864,6 @@ Count		Words
 1		multi-vallation
 3		walling
 1		58–61
-2		96–7
 1		seriousness
 1		bonework
 1		animal-bone
@@ -278576,6 +278511,8 @@ Count		Words
 1		1990a
 1		coexisting
 
+1		features—
+
 1		physiographic
 1		alike—may
 1		wholescale
@@ -280399,6 +280336,8 @@ Count		Words
 3		MNE
 2		disarticulate
 1		Sheep-sized
+1		Pig
+
 2		15-26
 1		unerupted
 2		un-fused
@@ -282860,7 +282799,7 @@ Count		Words
 1		Rink
 
 1		singlegrain
-242		Kilbride
+247		Kilbride
 1		greenbelt
 8		overspill
 2		conurbation
@@ -282909,7 +282848,7 @@ Count		Words
 1		tenures
 2		SCROL
 1		AreaIdSecond
-7		Kilbride
+2		Kilbride
 
 1		homemaking
 
@@ -286894,10 +286833,8 @@ Count		Words
 2		strata
 
 2		palaeoenvironments
-2		Pearlette
+3		Pearlette
 1		610000
-1		Pearlette
-
 1		inter-stratified
 
 1		Fullerton
@@ -291398,7 +291335,6 @@ Count		Words
 1		2300–1500
 1		BM-285
 1		3560±120
-1		20–1
 2		stop-ridge
 1		1500–700
 3		1973e
@@ -291609,7 +291545,6 @@ Count		Words
 1		semi-mythical
 1		Ambri
 1		Ambrius
-1		27–8
 1		Aelfthryth
 1		Melor
 1		130–1
@@ -296797,7 +296732,7 @@ Count		Words
 1		tight-knit
 1		SPAIN
 
-5		Planeta
+6		Planeta
 1		CO-SHOP
 
 15		Co-Shop
@@ -296863,8 +296798,6 @@ Count		Words
 7		Notjustshop
 1		Cracow
 4		seamstresses
-1		Planeta
-
 14		Showroom
 2		Influencers
 

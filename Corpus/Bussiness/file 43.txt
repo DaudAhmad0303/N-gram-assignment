@@ -144,7 +144,7 @@ English – though you will find many variants , as I will shortly
 explain . This can present unexpected problems unless you 
 understand how to design your communication to give you 
 the best chance of success , whatever the variety of business 
-English used by your target audience . 
+English used by your target audience .  
  ‘ Standard ’ and ‘ variant ’ English
 A particularly interesting fact is that there are more non-native 
 speakers of English than native English speakers . As I write , 
@@ -292,7 +292,7 @@ connected with exporting , including labels on products . As
 one municipal spokesman acknowledged ,  ‘ the misinformation 
 had become a headache for foreigners ’  , so they asked people 
 to help them address the problem and unearthed examples 
-such as : 
+such as :  
  ‘ To take notice of safe , the slippery are very crafty ’  = Warning : 
 slippery path . 
 In a gym :  ‘ The treadmill is in the middle of repairing ’  = The 
@@ -548,10 +548,10 @@ even undermine a person ’ s writing . Why should readers be
 impressed by writing that seems tired and boring ? 
 24 How to write effective business English 
 Here are some examples of clichés , with their meanings 
-shown in brackets : 
- ‘ In this day and age ’  ( now )  ; 
- ‘ It will fall on deaf ears ’  ( it will be ignored )  ; 
- ‘ Not to put too fine a point on it ’  ( this means )  . 
+shown in brackets :  
+ ‘ In this day and age ’  ( now )  ;  
+ ‘ It will fall on deaf ears ’  ( it will be ignored )  ;  
+ ‘ Not to put too fine a point on it ’  ( this means )  .  
  ‘ Nuance ’ is another word that English has imported from 
 French . It means shade or subtlety in language . Unsurprisingly , even native writers can have difficulty understanding 
 nuances . As an example , in one online discussion forum I 
@@ -892,16 +892,16 @@ almost immaterial whether these expressions are strictly correct or not , if ou
 always alternatives you can choose that are less likely to lead 
 you into controversy . Here are some examples that regularly 
 crop up in my training workshops . Where at all possible , 
-people prefer to read : 
+people prefer to read :  
  ‘ For this to work , you / we need to .  .  .  ’ rather than ‘ It must be 
-done .  ’ 
+done .  ’  
  ‘ Yes , I ’ ve done that ’ rather than ‘ Done .  ’ 
-Business writing for today 37
+Business writing for today 37 
  ‘ Thank you for bringing this to our attention ’ rather than ‘ We 
-note .  .  .  ’ 
+note .  .  .  ’  
  ‘ So that we can reach our targets , please could I have 
 these figures tomorrow ?  ’ rather than ‘ I need these figures 
-tomorrow .  ’ 
+tomorrow .  ’  
  ‘ We regret we are unable to help ’ rather than ‘ We cannot 
 help .  ’ 
 Can you see the pattern that is emerging ? People tend not to 
@@ -1508,7 +1508,7 @@ hyphen or dash : –
 slash or stroke :  / 
 brackets :  (  ) 
 square brackets :  [  ] 
-ampersand :  & 
+ampersand :  &  
  ‘ at ’ sign :  @ 
 colon :  : 
 semicolon :  ; 
@@ -1663,7 +1663,7 @@ feet ’  , to mention a few . So please do refer to a mainstream
 English grammar book if you need more help with this . 
 There is one point that I would like to address here , as it 
 arises so often . It concerns the wrong use of an apostrophe 
-followed by ‘ s ’ to signify a plural meaning . For example , 
+followed by ‘ s ’ to signify a plural meaning . For example ,  
  ‘ tomato ’ s ’ and ‘ company ’ s ’  . The correct plurals are ‘ tomatoes ’ 
 and ‘ companies ’  . 
 Vowels and consonants
@@ -2129,14 +2129,14 @@ another week . So , as an example , if you write it on a Monday ,
 is ‘ next Tuesday ’ the following day ( which I would take it to 
 mean )  , or the Tuesday of the following week ? If you write 
 it on a Friday , it is easier to see that it would have to be the 
-Tuesday of the following week . 
+Tuesday of the following week .  
  ‘ This coming Tuesday ’ has the same meaning as ‘ next 
 Tuesday ’  . So do be careful . I know of instances where misunderstandings about this have led to missed appointments . 
 Ironically , the people who misunderstand the correct use of 
 the expression are the ones who can get angry . Also , imagine 
 the cost if you book foreign travel for the wrong date . The best 
 arrangement is always to write the precise date you mean , for 
-example :  ‘ next Tuesday , 4th November ’  . 
+example :  ‘ next Tuesday , 4th November ’  .  
  ‘ In a couple of weeks ’ literally means ‘ in two weeks ’  , as 
  ‘ couple ’ means ‘ two ’ in English . It is true that ‘ a couple of 
 weeks ’ can be used in a looser sense , meaning in about two 
@@ -2145,15 +2145,15 @@ weeks , but it is best to check . As another example , the Dutch
 expression ‘ paar dagen ’ means a few days , but the Dutch often 
 wrongly translate this into English as ‘ a couple ’  , or ‘ two ’ days . 
 So where orders are concerned , it is best to clarify what is 
-meant in these instances . 
- ‘ Next Monday week ’ means ‘ a week from next Monday ’  . 
+meant in these instances .  
+ ‘ Next Monday week ’ means ‘ a week from next Monday ’  .  
  ‘ Over a week ’ in English means ‘ in more than a week ’ s time ’  . 
 But non-NE writers often use the expression ‘ over a week ’ 
 to mean in a week ’ s time , that is , one week from now . An 
 example would be :  ‘ The delivery will be over a week .  ’ Again 
 be careful if you are dealing with orders , because you can 
-confuse . 
- ‘ A fortnight ’ means two weeks . I find that many nationalities are unaware of this word , so it can be better to avoid it . 
+confuse .  
+ ‘ A fortnight ’ means two weeks . I find that many nationalities are unaware of this word , so it can be better to avoid it .  
  ‘ A long weekend ’ means a break of three or four days that 
 includes a Saturday and Sunday , and may start on a Friday 
 and end on the following Monday . 
@@ -2235,7 +2235,7 @@ comma after each three digits :
 10 , 000 ; 
 100 , 000 ; 
 100 , 000 , 000 . 
-How the decimal point is written in English
+How the decimal point is written in English 
  ‘ Decimal point ’ is the UK English term for the dot placed 
 after the figure that represents units in a decimal fraction : for 
 example , 9 . 6 . 
@@ -2318,16 +2318,16 @@ Words or spellings that commonly confuse
 I now list some commonly confused words together with 
 examples of correct usage . 
 96 How to write effective business English
-Programme ( UK ) and program ( US ) 
+Programme ( UK ) and program ( US )  
  ‘ A programme ’ is a plan of events , a radio or television broadcast or coded software instructions for a computer or other 
 machine . But within the UK you will find many writers using 
  ‘ program ’ when referring to computer software . 
 Receive and recieve
 The correct version is ‘ receive ’  . A useful rule in English spelling 
 is that after the letter ‘ c ’ the letter ‘ e ’ goes before ‘ i ’  . 
-Stationary and stationery
+Stationary and stationery 
  ‘ Stationary ’ means standing still : for example ,  ‘ The careless 
-driver crashed into a stationary car .  ’ 
+driver crashed into a stationary car .  ’  
  ‘ Stationery ’ means writing and printing materials : for 
 example ,  ‘ I have ordered new business stationery from my 
 printer .  ’ 
@@ -2341,47 +2341,47 @@ In US English this difference does not exist . The ‘ -ce ’ ending
 can apply to nouns and verbs . For example :  ‘ He has a valid 
 licence , so he is licenced to drive here .  ’ 
 Common confusions and how to avoid them 97
-Remember and remind
+Remember and remind 
  ‘ To remember ’ means to be able to bring something or someone back into your mind . For example :  ‘ I must remember to 
-update those details ’  ( meaning : nobody else is involved )  . 
+update those details ’  ( meaning : nobody else is involved )  .  
  ‘ To remind ’ means to cause or prompt someone to remember 
 something . For example :  ‘ Please remind me to update those 
 details .  ’ 
-Affect and effect
- ‘ Affect ’ is a verb . For example :  ‘ Recession affects spending .  ’ 
+Affect and effect 
+ ‘ Affect ’ is a verb . For example :  ‘ Recession affects spending .  ’  
  ‘ Effect ’ can be a verb or a noun . For example :  ‘ Recession 
-has a negative effect on spending .  ’ 
+has a negative effect on spending .  ’  
  ‘ We must effect the changes .  ’ 
-Compliment and complement
- ‘ Compliment ’ is a noun or verb meaning praising or admiring . 
+Compliment and complement 
+ ‘ Compliment ’ is a noun or verb meaning praising or admiring .  
  ‘ Complement ’ is a noun or verb meaning a thing that completes something else . For example : 
 We are always delighted to receive a compliment from a 
 customer . 
 When dining , the right ambience complements the meal . 
-Loose and lose
+Loose and lose 
  ‘ Loose ’ is an adjective that means not tightly packed or 
 fixed . For example :  ‘ There is a loose connection in the wiring 
-system .  ’ 
+system .  ’  
  ‘ Lose ’ is a verb that means cease to have , be unable to find . 
 For example :  ‘ If we lose their parcel we will also lose their 
 custom .  ’ 
 98 How to write effective business English
-There and their
- ‘ There ’ is an adverb meaning in that place . 
+There and their 
+ ‘ There ’ is an adverb meaning in that place .  
  ‘ Their ’ is an adjective meaning belonging to them . For 
 example : 
 The file you need is over there . 
 It will be their turn next . 
-Where , were and we ’ re
+Where , were and we ’ re 
  ‘ Where ’ is an adverb , meaning in ( or to ) which place , direction 
-or respect . 
- ‘ Were ’ is a verb , the past tense of ‘ to be ’  . 
+or respect .  
+ ‘ Were ’ is a verb , the past tense of ‘ to be ’  .  
  ‘ We ’ re ’ is a contraction of ‘ we are ’  . For example : 
 Where are we going on holiday ? 
 You were at home last night and now you are at work . 
 We ’ re attending a training course today . 
-Your and you ’ re
- ‘ Your ’ means belonging to you . 
+Your and you ’ re 
+ ‘ Your ’ means belonging to you .  
  ‘ You ’ re ’ is the contraction of you are . For example : 
 Your bag is in the other room . 
 You ’ re expected in half an hour . 
@@ -2399,7 +2399,7 @@ Many non-native English ( non-NE ) writers have difficulty
 understanding the distinction between these two words . 
 Generally speaking ,  ‘ when ’ means ‘ at which time ’ or ‘ in which 
 situation ’ or ‘ during the time that ’  . It has a definite feel to it , 
-even though it may be in the future . 
+even though it may be in the future .  
  ‘ If ’  , on the other hand , is more tentative and hypothetical . 
 It introduces a situation that is conditional : it supposes something will happen that is likely to make something else happen . 
 Examples are : 
@@ -2435,12 +2435,12 @@ allowed to have a day off .
 The verb ‘ may ’ is used to express possibility . For example ,  ‘ I 
 may learn Spanish or Mandarin Chinese but haven ’ t decided 
 yet ’ tells us that the speaker is not yet able to speak either 
-language . 
+language .  
  ‘ May ’ is also used to ask permission in a polite way : for 
 example ,  ‘ May I go with you ?  ’ or ‘ May I have a cup of coffee , 
 please ?  ’ That said , it is quite normal for business peers to say or 
 write ‘ Can we talk about this ?  ’  ‘ Can I attend the meeting ?  ’ 
-Should , must and have to
+Should , must and have to 
  ‘ Should ’  ,  ‘ must ’ and ‘ have to ’ are verbs that convey obligation . 
 In writing ‘ should ’ can be interpreted as weaker in meaning 
 than ‘ must ’ or ‘ have to ’  . For example , if I write ,  ‘ You should 

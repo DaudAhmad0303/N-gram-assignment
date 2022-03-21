@@ -256,7 +256,7 @@ when to do it . Working for someone else ’ s organisation brings all
 those disadvantages . When you work for yourself , the only person
 to blame if your job is boring , repetitive or takes up time that you
 should perhaps spend with family and friends is yourself . 
-Another source of personal satisfaction comes from the ability to
+Another source of personal satisfaction comes from the ability to 
  ‘ do things my way ’  . Employees are constantly puzzled and often
 irritated by the decisions their bosses impose on them . All too often
 managers in big firms say that they ’ d never spend their own money
@@ -314,7 +314,7 @@ been growing at an average of 18 per cent a year , making a return on capital of
 www . traidcraft . co . uk / socialaccounts . 
 Saving the planet
 Not everyone has making money as their sole aim when setting up in
-business . According to the government ’ s figures , around 20 , 000
+business . According to the government ’ s figures , around 20 , 000 
  ‘ social entrepreneurs ’ run businesses aiming to achieve sustainable
 social change and trade with a social or environmental purpose . 
 They contribute almost £25 billion to the national economy and
@@ -377,7 +377,7 @@ invariably paid up front . But just because you get the cash in your
 hand doesn ’ t mean that you don ’ t have to meet exacting standards . 
 Customers are protected in their dealings in a myriad of ways and if
 you fall short of their legal entitlement you can end up with a bigger
-bill than a simple cash refund .  ( I cover legal issues in Chapter 10 , 
+bill than a simple cash refund .  ( I cover legal issues in Chapter 10 ,  
  ‘ Marketing Your Wares ’  .  ) In conventional retailing you also have to
 rent premises and stock them with products , both factors that can
 add significantly to the business risk . 
@@ -563,7 +563,7 @@ title deeds can ’ t expressly prohibit you . Great Little Garden
 and have sections on using garden sheds as home offices . Sheds
 that you could use for home office purposes sell at garden centres
 for £800 upwards . 
-A further alternative , if space allows , is to rent or buy a portable
+A further alternative , if space allows , is to rent or buy a portable 
  ‘ room ’  . Portakabin ( www . portacabin . co . uk ) and Foremans
 Relocatable Building Systems ( www . foremansbuildings . co . uk ) have
 selections of new and second-hand cabins for rent and sale . 
@@ -711,7 +711,7 @@ onside :
 Tell him about your business ideas early on and why you
 think you ’ ll succeed without disrupting home life
 unreasonably . 
-Discuss the space you need , why you need it and if necessary
+Discuss the space you need , why you need it and if necessary 
  ‘ trade ’ space . If you have to have one of the bedrooms , see
 what can you offer as compensation . In one rather dramatic
 case a boat builder needed all of the downstairs rooms for 12
@@ -1152,7 +1152,7 @@ one sector to pile them into the next big thing . Whatever the reason
 for looking for an exit , to get the best value out of your business
 follow these ten guidelines . 
 Monitoring Market Prices
-Timing is crucial when it comes to selling a business . Since 1900 , 27
+Timing is crucial when it comes to selling a business . Since 1900 , 27 
  ‘ bull ’ markets have existed , when company shares rise sharply , with
 corresponding ‘ bear ’ markets , the latest example being in 2008–
 2010 , when over-optimistic investors get mauled as the bottom
@@ -2001,7 +2001,7 @@ You may ask yourself why on earth you ’ re reading a chapter on
 values in a book on business planning . We can hear what you ’ re
 thinking : Hey , it ’ s the twenty-first century . Today ’ s business ethics
 revolve around survival in the marketplace : cater to your
-customers , beat the competition ( hey , demolish them !  )  , make
+customers , beat the competition ( hey , demolish them !  )  , make 
  ‘ loadsamoney ’ and run . 
 Yet even in a business world dominated by market economies , 
 global competition and the laws of the jungle , values still matter . In
@@ -2147,7 +2147,7 @@ companies find themselves paralysed in similar situations ? The
 reasons are summed up in the company ’ s statement of values , an
 extraordinary document called the Johnson & Johnson Credo ( see
 the ‘ The Johnson & Johnson Credo ’ sidebar )  . 
-The Johnson & Johnson Credo
+The Johnson & Johnson Credo 
  ‘ We believe our first responsibility is to the doctors , nurses and patients , to
 mothers and all others who use our products and services . In meeting their
 needs , everything we do must be of high quality . We must constantly strive to
@@ -2588,7 +2588,7 @@ about yourself . But go easy here . Radio Shack , an American
 electronics retailer , began to lose a lot of goodwill when
 customers grew suspicious about – or just annoyed by – all the
 questions that their shop assistants were asking . 
-The bad customer
+The bad customer 
  ‘ A bad customer ? Isn ’ t that a contradiction in terms ?  ’ you ask .  ‘ How
 can there be such a thing as a bad customer , especially for a
 customer-orientated company ?  ’ Keep in mind that your initial
@@ -3154,7 +3154,7 @@ buy from you .
 Sometimes your business customers aren ’ t the end users , so
 you need to understand your customers ’ customers as well . 
 Part III
-Weighing Up Your Company
+Weighing Up Your Company 
  ’ 
 s
 Prospects
@@ -3744,7 +3744,7 @@ Competitive advantage in the marketplace is a direct result
 of your company ’ s distinct core competence . 
 Staying ahead of the competition means sustaining your
 competitive advantage , which requires a long-term strategy . 
-Whatever happened to Daddy
+Whatever happened to Daddy 
  ’ 
 s Daimler ? 
 Daimler used to be a synonym for making it in the UK . When a Daimler was
@@ -3843,7 +3843,7 @@ A value chain highlights mismatches between current
 spending and the areas that provide the most value to
 customers . 
 Part V
-A Planner
+A Planner 
  ’ 
 s Toolkit
 In this part .  .  . 
@@ -4892,7 +4892,7 @@ Cycle
 Figure 2-1 presents an overview of the bookkeeping cycle side-byside with elements of the accounting system . You can follow the
 basic bookkeeping steps down the left-hand side . The accounting
 elements are shown in the right-hand column . The basic steps in the
-bookkeeping sequence , explained briefly , are as follows .  ( See also
+bookkeeping sequence , explained briefly , are as follows .  ( See also 
  ‘ Managing the Bookkeeping and Accounting System ,  ’ later in this
 chapter , for more details on some of these steps .  ) 
 1 . Record transactions – the economic exchanges between a
@@ -4943,9 +4943,9 @@ each .  ) The bookshop now owns the books and also owes John
 Wiley £600 . 00 , which is the cost of the 50 copies . You look only at
 recording the purchase of the books , not recording subsequent
 sales of the books and paying the bill to John Wiley . 
-The bookshop has established a specific stock or account called
+The bookshop has established a specific stock or account called 
  ‘ Stock-Trade Paperbacks ’ for books like this . And the purchase
-liability to the publisher should be entered in the account
+liability to the publisher should be entered in the account 
  ‘ Creditor-Publishers ’  . So the journal entry for this purchase is
 recorded as follows : 
 Stock-Trade Paperbacks + £600 . 00 Creditor-Publishers + £600 . 00
@@ -5046,7 +5046,7 @@ Accounting System
 In our experience , far too many business managers either ignore
 their bookkeeping and accounting systems or take them for granted
 – unless something obvious goes wrong . The managers assume that
-if the books are in balance , then everything is okay . The section
+if the books are in balance , then everything is okay . The section 
  ‘ Recording transactions using debits and credits ’  , later in this
 chapter , covers just exactly what ‘ the books being in balance ’ means
 – it does not necessarily mean that everything is okay . 
@@ -5492,7 +5492,7 @@ accounted for or are accounted for in a way that disguises their
 true nature . For example , money laundering involves taking
 money from illegal sources ( such as drug dealing ) and passing
 it through a business to make it look legitimate – to give the
-money a false identity . This money can hardly be recorded as
+money a false identity . This money can hardly be recorded as 
  ‘ revenue from drug sales ’ in the accounts of the business . 
 Fraud occurs in large corporations and in one-owner / managercontrolled small businesses – and every size business in between . 
 Some types of fraud are more common in small businesses , 
@@ -5537,7 +5537,7 @@ accounts to cover the fraud or simply not recording certain entries
 that should be recorded . If you saw an expense account called
 bribes , you would tend to be a little suspicious , but unethical
 bookkeepers and accountants are usually a tad cleverer than that . 
-You can find several tips on uncovering and preventing fraud in
+You can find several tips on uncovering and preventing fraud in 
  ‘ Managing the Bookkeeping and Accounting System ’ earlier in this
 chapter . 
 When the books have been cooked , the financial
@@ -5629,7 +5629,7 @@ assessment at some later date . If the business is run as a limited
 company , then the directors of the company are employees . 
 PAYE must be operated on all salaries and bonuses paid to
 them , yourself included . 
-The way to an employee
+The way to an employee 
  ’ 
 s heart is through the
 payroll department
@@ -5841,10 +5841,10 @@ Tracking and recording Value Added Tax is a big
 responsibility for many businesses , especially if the business
 operates across several European countries . Having welltrained accounting staff manage this side of the business is well
 worth the cost . You can check the HM Revenue and Customs
-website for the latest rules ( go to www . hmrc . gov . uk and click on
+website for the latest rules ( go to www . hmrc . gov . uk and click on 
  ‘ VAT ’  )  . 
 You can find a useful VAT calculator on the small business portal
-www . bytestart . co . uk . Click on ‘ Tax and Accounting ’ and then on
+www . bytestart . co . uk . Click on ‘ Tax and Accounting ’ and then on 
  ‘ VAT Calculator ’  . 
 Taxing Your Bottom Line : Company
 Taxes
@@ -6103,7 +6103,7 @@ deductible or are only partially deductible , have nothing to do with
 choosing accounting methods .  ) 
 Deductible expenses
 What expenses can you claim when you are self-employed ? 
-Expenditure can be split into two main categories ,  ‘ Capital ’ and
+Expenditure can be split into two main categories ,  ‘ Capital ’ and 
  ‘ Revenue ’  . 
 Capital Expenditure : Capital expenditure is expenditure on
 such items as the purchase or alteration of business
@@ -6423,7 +6423,7 @@ connections to interpret the financial statements of a business ( see
 Chapter 14 )  . 
 Most people intuitively understand that sooner or later sales
 revenue increases cash and expenses decrease cash .  ( The exception
-is depreciation expense , as explained in Chapters 5 and 7 .  ) It ’ s the
+is depreciation expense , as explained in Chapters 5 and 7 .  ) It ’ s the 
  ‘ sooner or later ’ that gives rise to the assets and liabilities involved
 in making profit . 
 The assets and liabilities driven by sales revenue and expenses are
@@ -7457,7 +7457,7 @@ generated by the business itself , in contrast to external money
 that the business raises from lenders and owners . A business
 does not have to find sources of external money if its internal
 cash flow from profit is sufficient to provide for its growth . 
-Net income + depreciation expense doesn
+Net income + depreciation expense doesn 
  ’ t
 equal cash flow from profit ! 
 The business in our example earned £1 . 6 million in net income for the year , 
@@ -8265,7 +8265,7 @@ s annual letter to shareholders
 We have to call your attention to one notable exception to the generally selfserving and slanted writing found in the letter to shareholders by the chief
 executive officer of the business in annual financial reports . The annual letter
 to stockholders of Berkshire Hathaway , Inc . is written by Warren Buffett , the
-Chairman and CEO . Mr Buffett has become very well known – he ’ s called the
+Chairman and CEO . Mr Buffett has become very well known – he ’ s called the 
  ‘ Oracle of Omaha ’  . In the annual ranking of the world ’ s richest people by
 Forbes magazine he is near the top of the list – right behind people like Bill
 Gates , the co-founder of Microsoft . If you had invested £1 , 000 with him in 1960 , 
@@ -8684,7 +8684,7 @@ financial interest in the business . Annual reports , of course , come
 out only once a year – usually two months or so after the end of the
 company ’ s fiscal ( accounting ) year . You have to keep abreast of
 developments during the year by reading financial newspapers or
-through other means . Also , annual financial reports present the
+through other means . Also , annual financial reports present the 
  ‘ sanitised ’ version of events ; they don ’ t divulge scandals or other
 negative news about the business . 
 Finally , not everything you may like to know as an
@@ -9558,7 +9558,7 @@ thought of as lying within a range ; liquidity ( current ratio )  , for
 example , staying between 1 . 2 : 1 and 1 . 8 : 1 . A change in either
 direction may represent a cause for concern . 
 The temptation to compute cash flow per
-share : Don
+share : Don 
  ’ t give in ! 
 Businesses are prohibited from reporting a cash flow per share number on
 their financial reports . The accounting rule book specifically prohibits very few
@@ -9584,7 +9584,7 @@ ratio analysis and definitions of each ratio and the formula used
 to calculate it . To download their spreadsheet , you first need to
 register with the Harvard website . 
 By registering ( for free ) with the Proshare website ( go to
-www . proshareclubs . co . uk and click on ‘ Research Centre ’ and
+www . proshareclubs . co . uk and click on ‘ Research Centre ’ and 
  ‘ Performance Tables ’  )  , you have access to a number of tools
 that crunch public company ratios for you . Select the
 companies you want to look at , and then the ratios you ’ re most
@@ -10357,7 +10357,7 @@ We ’ ll tell you one disadvantage of knowing some accounting : The
 other members of the board will be very impressed with your
 accounting knowledge and may want to elect you chairperson . 
 A short word on massaging the numbers : 
-Don
+Don 
  ’ t ! 
 I ( John ) taught accounting to future business managers and accountants . I
 didn ’ t encourage profit smoothing , window dressing and other techniques for
@@ -10438,7 +10438,7 @@ of floating on the junior market is around 6 . 5 per cent of all funds
 raised , and companies valued at less than £2 million can expect to
 shell out a quarter of funds raised in costs alone . The market is
 regulated by the London Stock Exchange . You can find out more by
-going to their website ( www . londonstockexchange . com ) and clicking on
+going to their website ( www . londonstockexchange . com ) and clicking on 
  ‘ AIM ’  . 
 One rung down from AIM is PLUS-Quoted Market whose roots lie in
 the market formerly known as Ofex . It began life in November 2004
@@ -10549,7 +10549,7 @@ arm of McDonalds that looks after its corporate venturing
 activities . They could also have considered Cisco , Apple
 Computers , IBM and Microsoft who also all have corporate
 venturing arms . 
-For an entrepreneur , corporate venture funds can provide a
+For an entrepreneur , corporate venture funds can provide a 
  ‘ friendly customer ’ and help to open doors . For the ‘ parent ’ it
 provides a privileged ring-side seat as a business grows and so be
 able to decide if the area is worth plunging into more deeply , or at
@@ -10613,7 +10613,7 @@ aspects of the loan are matters between the borrower and the
 lender . 
 You can find out more about the UK Small Firms Loan
 Guarantee Scheme on the Business Link website ( go to
-www . businesslink . gov . uk and click on ‘ Finance and grants ’  , 
+www . businesslink . gov . uk and click on ‘ Finance and grants ’  ,  
  ‘ Finance options ,  ‘ Borrowing ’  , and ‘ Government lending
 schemes ’  )  . 
 As a means of short-term borrowing , banks can offer overdrafts – a
@@ -10746,7 +10746,7 @@ wallets .
 Grants are constantly being introduced ( and withdrawn )  , 
 but no system exists to let you know automatically . You have to
 keep yourself informed . The Business Link website ( go to
-www . businesslink . gov . uk and click on ‘ Finance and grants ’ and
+www . businesslink . gov . uk and click on ‘ Finance and grants ’ and 
  ‘ Grants and government support ’  ) has advice on how to apply
 for a grant as well as a directory of grants on offer . The
 Microsoft Small Business Centre 

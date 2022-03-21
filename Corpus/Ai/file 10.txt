@@ -3,7 +3,7 @@ While the interpretability of machine learning models is often equated with thei
 
 Previous article in issueNext article in issue
 Keywords
-Cognitive biasCognitive illusionInterpretabilityMachine learningRule induction
+Cognitive biasCognitive illusion Interpretability Machine learningRule induction
 1 . Introduction
 This paper aims to investigate the possible effects of cognitive biases on human understanding of machine learning models , in particular inductively learned rules . We use the term “ cognitive bias ” as a representative for various cognitive phenomena that materialize themselves in the form of occasionally irrational reasoning patterns , which are thought to allow humans to make fast judgments and decisions . 
 

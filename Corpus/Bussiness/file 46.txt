@@ -4037,7 +4037,7 @@ over again when dealing with long lists of numbers ?
 A frequency distribution is usually presented as a table in which all the possible scores or numbers are listed in order ( from lowest to highest or highest
 to lowest )  . A tally is made in another column . A tally consists of hash marks 
 (  |  |  |  ) where you make a mark for each number and slice through four of the
-hash marks when you get to a group of five , like this :  | | | |  . You probably
+hash marks when you get to a group of five , like this :  |  |  |  |  . You probably
 used these tallies as a kid when you were in competition with your friends . 
 Table 8-1 shows a frequency distribution of the following numbers : 4 , 7 , 6 , 5 , 
 8 , 7 , 6 , 5 , 7 , 5 , 4 , 5 , 6 , 8 , 8 , 6 , 4 , 3 , 5 , 6 , 7 , 6 , 5 , 4 , 3 , 4 , 5 , 6 , 7 , 8 , 8 , 8 , 6 , 6 , 3 , 4 , 3 , 6 , 
@@ -4050,13 +4050,13 @@ Table 8-1 A Frequency Distribution of the 75 Numbers
 Number Tally Frequency
 0 | 1
 1 0
-2 | | 2
-3 | | | |  | | | | 9
-4 | | | |  | | | |  | 11
-5 | | | |  | | | |  | | | | 14
-6 | | | |  | | | |  | | | |  | | | |  | 21
-7 | | | |  | | | | 10
-8 | | | |  | | 7
+2 |  | 2
+3 |  |  |  |  |  |  |  | 9
+4 |  |  |  |  |  |  |  |  | 11
+5 |  |  |  |  |  |  |  |  |  |  |  | 14
+6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 21
+7 |  |  |  |  |  |  |  | 10
+8 |  |  |  |  |  | 7
 Total 75
 Grouping values together 
 in a frequency distribution
@@ -4116,13 +4116,13 @@ Table 8-3 The Frequency Distribution of Sales-Associate Mileage
 Range Tally Frequency
 0 – 99 | 1
 100 – 199 |  |  |  | 4
-200 – 299 | | | |  | | | 8
+200 – 299 |  |  |  |  |  |  | 8
 300 – 399 |  | 2
-400 – 499 | | | |  | | | |  | | | |  | | | 18
-500 – 599 | | | |  | | | | 10
+400 – 499 |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 18
+500 – 599 |  |  |  |  |  |  |  | 10
 600 – 699 | 1
 700 – 799 |  | 2
-800 – 899 | | | |  | | 7
+800 – 899 |  |  |  |  |  | 7
 900 – 999 |  |  | 3
 Total 56
 This frequency table is much more informative than the original listing of

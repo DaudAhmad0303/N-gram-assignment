@@ -1422,7 +1422,7 @@ moisture , creating a dark green line in the crop
 above . This ‘ positive ’ cropmark is visible from
 the air . The opposite occurs in plants over a
 buried wall . They are likely to be stunted and
-produce a yellowish ,  ‘ negative ’ cropmark . 
+produce a yellowish ,  ‘ negative ’ cropmark .  
  ‘ Parch marks ’ show on grass for the same
 reason . 
 Cropmarks sometimes only show for a few
@@ -1727,7 +1727,7 @@ destruction . However , that ‘ destruction ’ is
 minimised if the archaeologist pays appropriate
 care and attention to the way the excavation is
 conducted and particularly to the quality of the
-records kept . This is sometimes referred to as
+records kept . This is sometimes referred to as 
  ‘ preservation by record ’  ( see p . 114 )  . 
 There are other considerations . A balance must
 be struck between the desire to protect archaeological remains for future generations and the
@@ -1874,8 +1874,8 @@ Over twenty seasons , archaeologists have studied the defensive circuit , the co
 the gateway , and almost the whole of the interior of the fort . Reconstructions of four major
 roundhouses and smaller constructions have been completed . 
 Figure 2 . 2
-An area excavation to reveal the
- ‘ chevaux de frise ’ an Iron Age
+An area excavation to reveal the 
+ ‘ chevaux de frise ’ an Iron Age 
  ‘ tank trap ’ protecting the
 entrance to Castell Henllys , 
 West Wales . Compare with
@@ -2254,7 +2254,7 @@ because archaeologists have a laissez-faire
 attitude to standards and procedures but
 because of variety in the nature of sites , 
 evidence and questions asked . Most texts on
-excavation express their ideas about appropriate
+excavation express their ideas about appropriate 
  ‘ good practice ’ and as new methods evolve so
 they too appear in print . The archaeological
 world constantly shares its experiences and a
@@ -2824,7 +2824,7 @@ animal bone is
 carefully recorded
 to provide
 insights into
-behaviour . This
+behaviour . This 
  ‘ working floor ’ at
 Klithi has been
 painstakingly
@@ -3664,7 +3664,7 @@ of a desktop survey and four shafts between
 3 m and 5 m deep to reach the top of the
 natural geology . These gave indications of the
 sequences and structures which might be
-encountered . The excavation also produced
+encountered . The excavation also produced 
  ‘ wet ’ archaeology including about 1 , 500 datable 
 ( by dendrochronology ) Roman timbers . This
 extensive urban excavation ( the on-site budget
@@ -4184,12 +4184,12 @@ composition varies . Each stone or metal ore
 was produced in a specific location under
 particular geological conditions . These unique
 circumstances mean that they contain slightly
-different combinations and quantities of
+different combinations and quantities of 
  ‘ impurities ’  . Copper , for example , may contain
 minute amounts of arsenic , silver and lead . 
 These ‘ trace elements ’ occur as a few parts per
 million and may have negligible effects on the
-material , but they provide it with a distinctive
+material , but they provide it with a distinctive 
  ‘ chemical fingerprint ’  . Where the geological
 sources of metal , clay or stone have been
 mapped , archaeologists may be able to identify
@@ -4424,7 +4424,7 @@ Clay is almost entirely formed from eroded
 sedimentary rocks , but a tiny percentage of the
 material is made up of trace elements . 
 Petrology and other characterisation techniques
-can be applied to pottery and bricks although
+can be applied to pottery and bricks although 
  ‘ fingerprinting ’ clay sources is much more
 64 ■ ARCHAEOLOGY COURSEBOOK
 difficult and well developed than is the case
@@ -4864,7 +4864,7 @@ a little distorted from the drying process ,
 together with internal organs , nails and hair . 
 Accurate sexing of the body can usually be
 done from the external sexual organs , or from
-facial hair . There are always exceptions . 
+facial hair . There are always exceptions .  
  ‘ Mummy 1770 ’  , which had probably spent
 some time in the Nile as a result of an
 unfortunate encounter with a crocodile , could
@@ -4929,7 +4929,7 @@ example , where the soil is wet and acid , neither
 hard nor soft tissue survives well . The only
 surviving trace of the presence of a body may
 be a stain in the bottom of the grave that
-provides a silhouette of the original body . The
+provides a silhouette of the original body . The 
  ‘ sand man ’ in Mound 1 at Sutton Hoo may
 have been such a burial . 
 
@@ -4953,7 +4953,7 @@ passage of the baby ’ s head during birth .
 Women are therefore said to possess a larger
 sub-pubic arch . In the blade of the pelvis , 
 below the socket for the hipbone ( femur )  , is
-the sciatic notch to which is applied a rough
+the sciatic notch to which is applied a rough 
  ‘ rule of thumb ’  , in the words of the forensic
 anthropologist Rebecca Storey .  ‘ You stick your
 thumb in and if it wiggles it ’ s female and if it
@@ -5174,7 +5174,7 @@ The first was a gossamer chequered weave
 of damask silk . This was fabricated in the
 workshops of Damascus in Syria from silk
 imported from China . It relied for its effect
-on the play of light on its surface creating
+on the play of light on its surface creating 
  ‘ interference colours ’  , like the wings of
 tropical birds . It must have created a truly
 exotic impression in the streets of Roman
@@ -5740,7 +5740,7 @@ introduction of many artefacts from clay pipes
 to beer bottles are known and can be used to
 date sites . Where artefacts are used for dating it
 is critical that their precise position within the
-stratigraphy is accurately recorded . Such
+stratigraphy is accurately recorded . Such 
  ‘ indirect dating ’ of sites provides two types of
 date : 
 ■ Terminus post quem ( TPQ )  : the earliest
@@ -5760,7 +5760,7 @@ frame for prehistory known as the ‘ 3 age
 system ’  , based on the introduction of tools
 made from stone then bronze then iron . Today
 many flaws are apparent in this scheme but the
-terms are still used to distinguish different
+terms are still used to distinguish different 
  ‘ periods ’ in the past . A more sophisticated
 technique was popularised by Flinders Petrie in
 the 1900s . He noted that the design and
@@ -6512,7 +6512,7 @@ process began can be calculated by
 measuring the charge
 Uranium decays regularly through fission 
 ( splitting ) which releases energy and
-damages crystalline structures , leaving a
+damages crystalline structures , leaving a 
  ‘ track ’  . Tracks or holes are counted to estimate
 the time the process of decay has taken
 Uranium isotopes U235 and U238 are
@@ -7305,7 +7305,7 @@ cultures to identify general principles . Amongst
 the most well known studies are those of the
 Hadza and Kalahari bushmen which were used
 in the 1960s to provide social and economic
-models for pre-agricultural people in Europe as
+models for pre-agricultural people in Europe as 
  ‘ man the hunter ’  . 
 ■ Specific analogies have been used to explore
 particular archaeological phenomena . 
@@ -7780,7 +7780,7 @@ where development could be delayed for
 proper assessment and excavation ( paid
 from government funds ) 
 ■ the National Heritage Act ( 1983 ) amended
-AMAA to also include works , gardens and
+AMAA to also include works , gardens and 
  ‘ areas ’ as Monuments . 
 Pros
 ■ It gave legal protection to some visible
@@ -8129,7 +8129,7 @@ pay staff well .
 ■ The costs of post-excavation work , 
 including the use of specialists and storage
 of remains , tends to be overlooked and may
-have suffered . Some museums are now
+have suffered . Some museums are now 
  ‘ full ’  . 
 ■ Excavation reports are the property of the
 developers , who do not have to publish
@@ -8793,7 +8793,7 @@ basis of their assumptions about gender roles .
 For example , a skeleton buried with an axe
 must have been male because men fight and
 chop down trees , a burial with a mirror or
-domestic artefacts must be female . A largely
+domestic artefacts must be female . A largely 
  ‘ female ’ burial with an arrowhead could be
 explained away as a woman who had been
 killed by the arrow . This kind of analysis has , 
@@ -9023,7 +9023,7 @@ Interactive exhibts
 MUSEUMS
 Displays of collections
 Interpretive displays
-Reconstructions
+Reconstructions 
  ‘ Hands-on displays ’ 
 Interactive IT displays
 EDUCATION
@@ -9853,7 +9853,7 @@ memories in stone .
 2
 3111
 RELIGION AND RITUAL ■ 139
-Figure 8 . 2 Drawing of the Wakah Kan or
+Figure 8 . 2 Drawing of the Wakah Kan or 
  ‘ Raised up sky ’ from Copan . This ‘ world tree ’ 
 linked the underworld , the realm of the living
 and the sky . The king would dress in the image
@@ -10440,7 +10440,7 @@ and whom the ordinary hunter may meet
 during the hunt or while out roaming the
 woods . Many of the indigenous peoples of
 North America subscribed to this view of the
-world and would pray to the spirits of their
+world and would pray to the spirits of their 
  ‘ brothers and sisters ’ the animals for success in
 the hunt . They asked animals to give up their
 lives for the good of people and apologised to
@@ -10643,7 +10643,7 @@ us the most bizarrely exotic can be shown to
 serve the same basic social and psychological
 function . Anthropologists have classified
 several different types of ritual , a major
-division being between ‘ rites of passage ’ and
+division being between ‘ rites of passage ’ and 
  ‘ rites of intensification ’  . 
 Rites of passage
 Rites of passage are ceremonies to mark crucial
@@ -10675,7 +10675,7 @@ ceremonies , as though they had returned from
 the dead . The ceremony highlighted their new
 status as adults and reminded existing adults 
 to act towards them in the appropriate 
-ways . They skipped the ill-defined status of
+ways . They skipped the ill-defined status of 
  ‘ teenager ’  , which causes problems in western
 society . 
 In the same way female initiation rites prepared
@@ -10966,7 +10966,7 @@ known funerary monuments in the world
 traces . They also rely on there being a distinct
 area set aside . Even if it is in a dwelling special
 zones can be identified . For example , the altar
-or ‘ lararium ’ mounted on the wall of the
+or ‘ lararium ’ mounted on the wall of the 
  ‘ House of the Vettii ’ in Pompeii , which depicts
 the gods of the house , where small offerings
 would be made as a daily ritual to ensure their
@@ -11079,7 +11079,7 @@ out . Pottery vessels with particular designs
 such as beakers or grooved ware are often seen
 as ritual artefacts . In some cases these have
 been repaired but not sufficiently to make them
-useable . Figurines and statues such as the
+useable . Figurines and statues such as the 
  ‘ Venus figurines ’ of Palaeolithic Europe and
 non-functional artefacts such as copper axes are
 more ambivalent unless their context can link
@@ -11274,7 +11274,7 @@ Maya believed to open up a portal into the
 other world . A smoking axe , a symbol of
 divinity , pierces Pacal ’ s forehead and he is
 wearing the jade net skirt , which tells us that
-at the moment of death he had become the
+at the moment of death he had become the 
  ‘ Maize God ’  . Behind Pacal rises the World
 Tree or Wakah Kan ( see p . 139 ) which
 connects the three realms of Underworld , 
@@ -11431,7 +11431,7 @@ techniques are studies of intervisibility , which
 examine whether monuments were sited in
 view of each other . This has been assisted by
 the use of GIS and has been particularly
-applied to rock art and barrows . Attempting to
+applied to rock art and barrows . Attempting to 
  ‘ read ’ the way monuments structure experience
 of the landscape borrows from the sociological
 approach known as phenomenology and has
@@ -11562,7 +11562,7 @@ acquire special gifts , such as healing or
 divination and the ability to deal with
 supernatural beings and powers . When they
 return to society they are frequently given
-another kind of religious role : that of the
+another kind of religious role : that of the 
  ‘ shaman ’  . Faith healers and some evangelists in
 our own society are similar in some respects to
 this definition of the shaman . 
@@ -11713,7 +11713,7 @@ barrows might have been territorial markers . Recent studies by Tilley ( 1998 ) 
 ■ Juxtaposing evidence to assess it :  ‘ Deposits of cattle bones and smashed pottery near many
 entrances may suggest feasting but similar evidence inside is more ambivalent . Is it debris
 from feasting , gifts to the ancestors or the remnants of food the dead took with them ?  ’ 
-It is useful early on in your course to build up a vocabulary of link words and phrase such as
+It is useful early on in your course to build up a vocabulary of link words and phrase such as 
  ‘ however ’  ,  ‘ for example ’  ,  ‘ on the other hand ’  . These will prevent you from becoming repetitive
 and remind you to always back up your statements . 
 Finally you need to conclude . You should revisit the conclusions of each sub-question and see
@@ -12026,7 +12026,7 @@ activity ( see p . 67 )  . For example , the soils of
 many upland areas , including Dartmoor , show
 that they were once wooded but that clearance
 and agriculture in the Bronze Age contributed
-to degradation of the soil and the formation of
+to degradation of the soil and the formation of 
  ‘ iron pans ’ which have prevented their use for
 crops since then . Studies of eroded layers of
 soil from the highlands of New Guinea around
@@ -12215,7 +12215,7 @@ mesopotamia . html
 Site catchment analysis
 In the 1970s archaeologists interested in
 understanding how humans exploited their
-environment and the extent of settlement
+environment and the extent of settlement 
  ‘ territories ’ borrowed a range of analytical
 techniques from economic geography . 
 Prominent amongst these was site catchment
@@ -12311,7 +12311,7 @@ landscape can be used as a text to read off past
 activities and relationships . 
 Plants are good indicators of local environments because we know the conditions that the
 various species can tolerate . Analysis of plant
-samples from sites can provide insights into the
+samples from sites can provide insights into the 
  ‘ catchment area ’ beyond the immediate locality
 with people introducing plants into the site
 through plant collecting or cultivation or by
@@ -13052,7 +13052,7 @@ Similar analysis has been used on pits to
 suggest that they were not used solely for
 refuse disposal . 
 Areas with few finds present more of a
-challenge . The apparent deliberate clearing or
+challenge . The apparent deliberate clearing or 
  ‘ purification ’ of an area can be a signature of
 ritual activity ( for example the ditch at
 Avebury or the Zapotec temples of San Jose
@@ -13113,7 +13113,7 @@ these assemblages at face value tended to
 see these as kill sites or base camps where
 groups of hunters butchered carcasses or
 shared meat from their prey . This idea has
-been challenged on the grounds that the
+been challenged on the grounds that the 
  ‘ sites ’ were unsafe for humans and that
 microscopic analysis of the bones suggests
 that humans scavenged the bones after
@@ -14468,7 +14468,7 @@ humans is not suited to meat processing and
 we are slow and lack cutting teeth . This does
 not point to a long adaptation to hunting . 
 Other clues to humans consuming meat include
-bones and tools found next to each other on
+bones and tools found next to each other on 
  ‘ living floors ’  . Even when the site is not a
 palimpsest , association does not prove whether
 1111
@@ -14560,7 +14560,7 @@ to the sea but during its earlier occupation
 the sea level was lower . Then it faced onto an
 open plain leading down to the sea . The
 archaeological material was found during the
-excavation of a gully behind two isolated
+excavation of a gully behind two isolated 
  ‘ stacks ’ of rock , at the foot of a sheer cliff . 
 Apart from the human remains and tools
 there was a considerable quantity of faunal
@@ -14577,7 +14577,7 @@ and then stampeded to their deaths in the
 gully below where they could be butchered at
 leisure . There is a considerable body of
 ethnographic evidence for similar practices
-involving bison in North America such as at
+involving bison in North America such as at 
  ‘ Head smashed in ’  . This suggests a very
 organised and concerted group effort perhaps
 using firebrands to frighten the animals and
@@ -14901,7 +14901,7 @@ Fagin 1995 , Moore 2000
 food or sacrificial imports are not mistaken for
 farming . The same applies to cereal grains . 
 Post-domestication studies focus on what
-purpose the animals were exploited for . The
+purpose the animals were exploited for . The 
  ‘ secondary products revolution ’ is used to refer
 to rearing animals primarily for purposes other
 than food . This can be difficult to detect even
@@ -15270,7 +15270,7 @@ paintings .
 Other traces of storage need greater interpretation . Drying racks and off-ground structures
 will only be represented in the archaeological
 record by postholes . Analogies and experiments
-were needed to interpret as raised granaries the
+were needed to interpret as raised granaries the 
  ‘ four posters ’ common on Iron Age sites such
 as Crickley Hill . 
 Landscape features may be ambivalent or even
@@ -15345,9 +15345,9 @@ which redistributed the goods and food
 supplies produced in its hinterland . The
 palaces themselves are complex groups of
 buildings . They often include a central
-courtyard , areas that have been identified as
+courtyard , areas that have been identified as 
  ‘ royal suites ’ and a large number of long , 
-narrow rooms often referred to as
+narrow rooms often referred to as 
  ‘ magazines ’  . These served as storerooms . 
 Some of them have stone-lined containers set
 into the floor and huge ceramic jars up to 2
@@ -15613,7 +15613,7 @@ MATERIAL CULTURE AND ECONOMICS ■ 215
 KEY SITE
 Pulltrouser Swamp
 The Aztecs developed a system of intensive
-agriculture based on floating gardens or
+agriculture based on floating gardens or 
  ‘ chinampas ’  . Floating rafts were covered in
 weeds and lake mud and anchored to the
 lake bed in rows , with canals left between
@@ -15943,7 +15943,7 @@ from their source .
 Fall-off analysis is used to examine the rate at
 which finds diminish the further one gets from
 the place of manufacture . A sharp fall suggests
-very local exchange , a smooth decline suggests
+very local exchange , a smooth decline suggests 
  ‘ down the line ’ trade while a pattern with
 several blips in the curve indicates secondary
 trading or exchange centres . This technique has
@@ -16153,7 +16153,7 @@ Historical documents suggest he was one of a growing class of merchants who fina
 own ventures and often captained their own ship . The vessel itself was partly constructed in the
 old classical ‘ hull-first ’ style , with logs sculpted to fit . However , this time the mortise and tenon
 joints were less carefully executed . They were fewer in number and often nails were driven
-through them once the plank was located . The upper section of the hull was built by the new
+through them once the plank was located . The upper section of the hull was built by the new 
  ‘ frame-first ’ method . Many flat planks were cut from a log and twisted against internal frames
 as they moved forward along the hull . This more economical use of materials and time suggests
 that social conditions had changed from the time that the Kyrenia was built . The Byzantine
@@ -16274,7 +16274,7 @@ Warfare
 Hierarchy
 Three Shipwrecks
 Dates
-Coins and TPQ
+Coins and TPQ 
  ‘ Time capsule ’ 
 Display and Presentation
 Raising wrecks
@@ -16299,7 +16299,7 @@ in evolution . The hammer also provided corroborative faunal dating evidence . T
 from a giant elk which became extinct around 500 , 000 years ago . 
 Dating
 Microfauna
-Macrofauna
+Macrofauna 
  ‘ Mollusc clock ’ 
 Experimental arx
 Horse scapula and
@@ -16620,7 +16620,7 @@ iconography in Copan and Egypt
 Religion and ritual
 Scribe tomb
 Copan
-Sutton Hoo
+Sutton Hoo 
  ‘ Temple ’ as patron
 Amphorae in burials
 Sculptors of Akhenaten
@@ -17595,7 +17595,7 @@ there is additional evidence to confirm this , as
 in the cases of Tutankhamun and the royal
 scribe burial at Copan ( see p . 230 )  . The latter
 was identified from its central location , rich
-grave goods and human sacrifices and from the
+grave goods and human sacrifices and from the 
  ‘ health ’ of the skeleton , which had little sign of
 wear . This burial , on a balance of probabilities , 
 represented the royal scribe and son of Copan ’ s
@@ -17710,7 +17710,7 @@ symbolic associations may be an equally
 important factor in the choice of raw material , 
 such as jade in Mesoamerica . Even the gold at
 Varna ( see cover ) may not be what it seems . 
-Some of the richest graves there are empty
+Some of the richest graves there are empty 
  ‘ cenotaphs ’  . It may be that the gold represents
 offerings from the living rather than the
 belongings of the deceased . A further complication occurs with vessels such as beakers . Their
@@ -18755,8 +18755,8 @@ included in the section are all based on good
 A Level projects . 
 HOW TO CHOOSE A TOPIC
 Study the assignment brief issued to you . 
-It may include constraints such as the word
- ‘ local ’ or you may need to undertake some
+It may include constraints such as the word 
+ ‘ local ’ or you may need to undertake some 
  ‘ first-hand ’ observation . It is essential that you
 choose a subject that fits the requirements of
 your course , is based on evidence which is
@@ -19102,7 +19102,7 @@ distribution and layout and their chronological
 3111
 EXAMPLE 1
 What evidence is there to suggest an Irish
-influence on the portal tombs of Wales ? 
+influence on the portal tombs of Wales ?  
  ‘ Kate ’ began with a comparative study of
 some portal tombs of south and north Wales
 and Ireland – leaving Cornish and Scottish
@@ -19286,7 +19286,7 @@ stone , bone , metal , organic remains and glass .
 DOING AN ARCHAEOLOGICAL PROJECT ■ 267
 EXAMPLE 2
 A survey of ground and polished stone and
-flint axes from East Kent
+flint axes from East Kent 
  ‘ Hamid ’ set out to examine finds from a small
 area in some detail and to catalogue quantity , 
 type and distribution . He hoped this might
@@ -19499,7 +19499,7 @@ and your study could add to them . One rural
 3111
 DOING AN ARCHAEOLOGICAL PROJECT ■ 269
 270 ■ ARCHAEOLOGY COURSEBOOK
-EXAMPLE 3
+EXAMPLE 3 
  ‘ To what extent can a correlation be
 established between air photographic
 evidence and that revealed by
@@ -19639,7 +19639,7 @@ a scale
 EXAMPLE 4
 Industrial archaeology : the Dudley ( No . 2 ) 
 Canal from Selly Oak to Halesowen , 
-Birmingham
+Birmingham 
  ‘ Tom ’ attempted to evaluate the archaeological significance of the surviving surface
 evidence for 8 km of a canal abandoned
 nearly fifty years ago . The line of the canal
@@ -19697,7 +19697,7 @@ Fairbourne , Gwynedd . Running in lines across
 the countryside are numerous pillboxes
 designed to hold up an invading army . These
 could be studied for typology or distribution . 
-In towns , metal was collected during the war to
+In towns , metal was collected during the war to 
  ‘ help the war effort ’  . Careful examination of
 the tops of garden walls reveals the extent of
 such activity and provides fresh and original
@@ -19852,7 +19852,7 @@ National Monuments Record ( NMR ) site . It is
 comprehensive and self-explanatory . It offers 
 a search service , which is free ‘ subject to
 limitations ’  , and free information packs . Topics
-available include ‘ Archaeology of England ’ and
+available include ‘ Archaeology of England ’ and 
  ‘ Aerial photographs of England ’  . A valuable
 link from NMR is to an alphabetical list of
 SMR addresses . These are your local sources 
@@ -19863,7 +19863,7 @@ If you want to find out if any excavations have
 taken place at your site , visit the Excavation
 Index : 
 
-This site offers a search option via < catalogue > 
+This site offers a search option via < catalogue >  
 < accept / enter > and putting the place name 
 ( the parish ) in the box offered . It lists what it
 1111
@@ -19931,7 +19931,7 @@ focus is primary education so you need to
 276 ■ ARCHAEOLOGY COURSEBOOK
 EXAMPLE 5
 Sites and settlement patterns before 1900
-in an Oxfordshire parish
+in an Oxfordshire parish 
  ‘ Marc ’ aimed to establish what continuity of
 occupation / settlement could be discovered by
 a survey of extant features and recorded
@@ -20292,7 +20292,7 @@ A reasonable alternative for those objects you
 may have collected yourself in fieldwalking is
 to scan them and trace the printout . 
 Often when there is a quantity of pottery to
-review attention is paid to what are called
+review attention is paid to what are called 
  ‘ diagnostic ’ sherds , for example rims and
 decorated pieces . The less significant sherds can
 then be grouped and described as collections . 
@@ -20465,7 +20465,7 @@ you should list all your sources alphabetically
 by author . You also include date of
 publication , title , publisher and place of
 publication as shown below . 
-An example from case study X : 
+An example from case study X :  
  ‘ The discovery of eight flint axes from Creteway
 Down at Folkestone can be associated with
 finds of Neolithic date from the same area .  
@@ -21284,7 +21284,7 @@ also very fine . It is usually found often in
 burial sites which suggests it had a very specific
 purpose . Beaker ware may have been brought
 be immigrants or the idea imported from
-Europe . By the late Bronze Age British
+Europe . By the late Bronze Age British 
  ‘ Beaker ’ pottery was produced . Both types
 being identified by thin section analysis of the
 original material and its inclusions . 
@@ -21301,7 +21301,7 @@ inaccuracies . While a specific artefact was not
 identified , much of the material could have
 been used . However , there was insufficient focus
 on methods . It is a high level 2 answer and
-scored a borderline 10 / 25 . 
+scored a borderline 10 / 25 .  
  ‘ A sedentary way of life is necessary for
 storage practices ’ Discuss . 
 This is a discursive type essay on a settlement
@@ -21328,7 +21328,7 @@ evidence of storage . At the cave at Pontnewydd
 in Gwynedd animal bones have been
 discovered in recesses contemporary with
 occupation layers which suggests the cave had
-been used to deposit animal ‘ joints ’  . 
+been used to deposit animal ‘ joints ’  .  
  ‘ Zia ’ has not begun her response by defining the
 terms but it is clear that she has understood
 them . She has confidently provided an example
@@ -21412,7 +21412,7 @@ Zia is making up for a lack of specific
 knowledge with some generalised examples
 here . They are all relevant . 
 At Danbury and other hill forts from the Iron
-Age storage is seen in the large pits and the
+Age storage is seen in the large pits and the 
  ‘ four poster ’ structures . Pits up to 20 feet deep
 and 7 feet across were dug down into the
 bedrock . Apparently they were used for grain
@@ -21471,7 +21471,7 @@ societies .
 Mobile populations require small-scale storage
 of light and easily transportable products . 
 Larger scale storage of bulky items are more
-appropriate to sedentary populations . 
+appropriate to sedentary populations .  
  ‘ Sedentary ’ and ‘ storage ’ are usually linked
 because if a group stores a high percentage of
 the wealth or resources in one place and then

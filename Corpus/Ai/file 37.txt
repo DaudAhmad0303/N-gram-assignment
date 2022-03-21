@@ -955,7 +955,7 @@ that point we would only know what all the individual words were rather than
 what the person was actually trying to say . This is where Natural Language 
 Understanding ( NLU ) comes in—it takes the words and tries to determine 
 the meaning or intent of the complete sentences . So , we have gone from a 
-digital stream of sound to a set of words ( e . g .  ‘ I ’  ,  ‘ want ’  ,  ‘ to ’  ,  ‘ cancel ’  ,  ‘ my ’  , 
+digital stream of sound to a set of words ( e . g .  ‘ I ’  ,  ‘ want ’  ,  ‘ to ’  ,  ‘ cancel ’  ,  ‘ my ’  ,  
  ‘ direct ’  ,  ‘ debit ’  ,  ‘ for ’  ,  ‘ mortgage ’  ,  ‘ protection ’  ) to working out that this person 
  ‘ wants to cancel her Direct Debit for her mortgage protection insurance ’  . 
 We can then use other capabilities in this category to take that request further . For example , we could use an Optimisation approach to help the customer understand that if they were to cancel that Direct Debit they would 
@@ -1362,7 +1362,7 @@ AlphaGo , as the system is called , uses the same concept of reinforcement
 learning , this time based on studying 30 million moves from human Go 
 matches . It then plays different versions of itself thousands of times to work 
 out the best strategies , which it uses to create long-range plans for the actual 
-games . Apparently , during the second match , the human player , Lee Sedol , 
+games . Apparently , during the second match , the human player , Lee Sedol ,  
  ‘ never felt once in control ’  ( a general fear of AI that is shared by many people , 
 it must be admitted )  . Since then , AlphaGo has beaten the world ’ s best Go 
 player , Ke Jie , three games to zero . 
@@ -3064,7 +3064,7 @@ strategy . Business strategies , if they are written succinctly , will have a ha
 6 Starting an AI Journey
 93
 cost base ’  ,  ‘ Reduce the exposure to internal risk ’ or ‘ Improve customer service CSAT score ’  . 
-Each of these strategic objectives would deliver benefits to the business : 
+Each of these strategic objectives would deliver benefits to the business :  
  ‘ Reducing the cost base ’ would deliver lower costs through , for example , not 
 hiring any new staff , not taking on any additional office space or minimising 
 travel .  ‘ Reducing the exposure to risk ’ might be delivered through reducing 
@@ -3324,7 +3324,7 @@ an existing function or department . That level of ambition means starting
 with a blank sheet of paper . 
 The AI Maturity Matrix then is a useful tool to start your AI journey . It 
 provides an opportunity to openly discuss the role and opportunities for AI 
-and automation across the business and provides a platform to develop a ‘ ‘ heat 
+and automation across the business and provides a platform to develop a ‘  ‘ heat 
 map ’ of what those opportunities might be . The approach to creating an AI 
 heat map is described in the next section . 
 Creating Your AI Heat Map
@@ -3530,7 +3530,7 @@ Luckily , the work done creating the AI Maturity Matrix and Heat Map
 provides a good methodology for evaluating which are the AI opportunities 
 that will deliver the most value . Creating a meaningful business case for AI for 
 each of these is certainly feasible with a little thought . 
-We already have , from the AI Heat Map , a list of opportunities and a highlevel assessment of which are the most promising . In my example in the previous section the opportunities which are showing as the ‘ ‘ hottest ’  ( dark grey ) 
+We already have , from the AI Heat Map , a list of opportunities and a highlevel assessment of which are the most promising . In my example in the previous section the opportunities which are showing as the ‘  ‘ hottest ’  ( dark grey ) 
 are the ones to prioritise , especially if they are strong across a number of different aspects ( strategic alignment , solving current challenges , benefits types )  . 
 At this stage , you can easily apply some scoring mechanisms to make the 
 prioritisation process easier . For example , you could replace the shades or 

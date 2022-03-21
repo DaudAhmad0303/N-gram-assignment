@@ -356,7 +356,7 @@ programme explored in this book :
 complicity in researchers that makes it difficult to epistemologically break from 
 our spontaneous understanding of the social world ; 
 – Rigorous ‘ scientific ’ scholarship would therefore call into question the very 
-foundations on which the contemporarily popular discourses of ‘ leadership ’ 
+foundations on which the contemporarily popular discourses of ‘ leadership ’  
  ‘ management ’ and ‘ administration ’ in education are constructed ; 
 – The contemporary social condition cannot be separated from the ongoing , and 
 inexhaustible , recasting of administrative labour ; 
@@ -453,7 +453,7 @@ loyalty or reverence . Bourdieu never explicitly wrote about educational
 administration , but most importantly , as James Ladwig ( 1996 ) argues , built within 
 the very French , Durkheimian sociological tradition , Bourdieu ’ s theoretical and 
 methodological stance begins from the epistemological presumption that ( in 
-Poincare ’ s words )  ‘ facts do not speak ’  . The result being that for Bourdieu , 
+Poincare ’ s words )  ‘ facts do not speak ’  . The result being that for Bourdieu ,  
  ‘ scientific ’ knowledge does not come into being through deduction or induction 
 rather through social construction . He believes that social science is not about 
 reality , nor is it about how reality is experienced , instead social science must focus 
@@ -1260,7 +1260,7 @@ instrument in the ongoing ( re ) construction of objects in the social world , t
 rigorous and robust epistemological / ontological critique runs the risk of mistaking 
 objects pre-constructed in and by ordinary language for data ( Bourdieu , 
 Chamboredon ,  & Passeron , 1991 [ 1968 ]  )  . The masking of the everyday origins of 
-such data through the mobilisation of scientific language ( e . g . the ‘ quality ’  , 
+such data through the mobilisation of scientific language ( e . g . the ‘ quality ’  ,  
  ‘ improvement ’  ,  ‘ effective ’ discourses ) is infrequently called into question ( except 
 arguably in the critical stream of educational administration research ) as the 
 descriptions provided create a sense of comfort through the recognition of 
@@ -1563,7 +1563,7 @@ and John Heywood ( 2013 ) observe that the label ‘ leadership ’ is infrequen
 in Europe and when it is it requires extended articulation as to its meaning . i 
 This 
 raises an important point for the contemporary global academy of educational 
-administration . That is , despite the apparent popularity in Anglophone literatures , 
+administration . That is , despite the apparent popularity in Anglophone literatures ,  
  ‘ leadership ’ may be more of a particular socio-geographic construct than a 
 universal . Therefore , its spread in global educational administration discourses may 
 be a part of a new form of imperialism achieved through language rather than 
@@ -1612,7 +1612,7 @@ recognising that many others have directly engaged with the shifting labels and 
 raised concern about the seemingly uncritical shift from administration to 
 management and then leadership , the shift / s remain , so too does the proliferation of 
 adjectival ‘ leadership ’ and the seemingly insurmountable theory and practice 
-binary . 
+binary .  
  ‘ Leadership ’ is arguably the most commonly used concept or label in 
 contemporary research in , and the practice of , educational administration . 
 However , in broader organisational research discourses , while central , the 
@@ -1718,7 +1718,7 @@ fellowships , and so on . Herein lays a significant challenge for education
 researchers . On a global scale , policy makers have embraced the idea of 
 experimental / interventional research design ( e . g . randomised control trials ) as the 
  ‘ gold-standard ’ for educational inquiry ( Donmoyer & Galloway , 2010 )  . The 
-preference for large scale experimental studies designed to reveal , once and for all , 
+preference for large scale experimental studies designed to reveal , once and for all ,  
  ‘ what works ’ in education is firmly embedded in assessment criteria for national 
 competitive funding regimes . For those working in education , and the broader 
 humanities and social sciences , this shift negates forms of research which are not 
@@ -1736,7 +1736,7 @@ at 9 : 00am on Monday morning . The apparent relevance of social theorist /
 philosophers such as Pierre Bourdieu , Gilles Deleuze , Jacques Derrida , Michel 
 Foucault , Max Weber , among others , is seen as minimal at best , and in most cases , 
 unnecessary . However , it is theory that stops us from forgetting that the world is 
-not laid out in plain view and thinking that things speak for themselves – ‘ the data ’  , 
+not laid out in plain view and thinking that things speak for themselves – ‘ the data ’  ,  
  ‘ practice ’  , the pure voice of the previously marginalised ( MacLure , 2010 )  . This 
 type of engagement , or lack thereof , with theory allows for the dominance of a 
 particular form of description , a matter which I shall return to later . But for now , 
@@ -1810,7 +1810,7 @@ meaningless . In contrast , the constructed ‘ leadership ’  , an act of cogn
  ‘ leadership ’ by a finite set of criteria or properties which seek to create a 
 distinction between those who possess the properties and those who do not . In 
 short ,  ‘ leadership ’ is mobilised as a label of exclusion , not inclusion . The notion of 
- ‘ leadership ’ as exclusive is problematic for those promoting the latest ‘ adjectival ’ 
+ ‘ leadership ’ as exclusive is problematic for those promoting the latest ‘ adjectival ’  
  ‘ leadership ’  ( e . g . teacher , shared , distributed , and so on )  , where ‘ leadership ’ is 
 apparently something that everyone possesses – effectively reducing ‘ leadership ’ to 
 a meaningless label that offers nothing in relation to social distinctions – raising 
@@ -1865,7 +1865,7 @@ the abstraction of the empirical , are the relations with both time and space ,
 primarily through temporality . To engage with these matters I turn to Bourdieu ’ s 
 discussion of time , including that mobilised and advanced by Lisa Adkins . 
 CHAPTER 3 
-40
+40 
  ‘ LEADERSHIP ’ AND ITS RELATION TO TIME AND SPACE 
 What we have come to know as the school and the administration of schooling is 
 constituted through the operationalisation and privileging of clock time . The 
@@ -2033,7 +2033,7 @@ that fits all ’  ( p . 215 )  . Given the apparent failure on the part of educ
 administration discourses to confront the specificity of ‘ leadership ’  , it is perhaps of 
 little surprise that the theoretical resources of the discipline have not been put to 
 use to engage with the questioning of its scholarly value . This is even less 
-surprising if we consider that as a domain of practice and knowledge production , 
+surprising if we consider that as a domain of practice and knowledge production ,  
  ‘ leadership ’ is constituted as a source of new methods of institutional performance 
 and social transformation . However ,  ‘ leadership ’ discourses are not composed only 
 of practical tips and / or recipes for improving the productivity of institutions as one 
@@ -3030,7 +3030,7 @@ features of the relational research programme :
 complicity in researchers that makes it difficult to epistemologically break from 
 our spontaneous understanding of the social world ; 
 – Rigorous ‘ scientific ’ scholarship would therefore call into question the very 
-foundations on which the contemporarily popular discourses of ‘ leadership ’ 
+foundations on which the contemporarily popular discourses of ‘ leadership ’  
  ‘ management ’ and ‘ administration ’ in education are constructed ; 
 – The contemporary social condition cannot be separated from the ongoing , and 
 inexhaustible , recasting of administrative labour ; 
@@ -3846,7 +3846,7 @@ The mobilisation of the adjective ‘ outstanding ’ is a significant move in t
 the ordinary language of the pre-scientific world rather than that of science and 
 scholarship . This does particular work in relation to research design . Dinham 
 ( 2005 ) outlines the following design : 
-… a case study approach whereby quantitative ( e . g . public examination performance , 
+… a case study approach whereby quantitative ( e . g . public examination performance ,  
  ‘ value-adding ’ measures ) and qualitative data ( e . g . nomination from parent groups , 
 Principals , DET officers ) were used to select a sample of sites where schools appeared 
 to be achieving outstanding educational outcomes , either within faculty-based subject 
@@ -5384,7 +5384,7 @@ production has been a relatively weak quality profile within the already weak
 quality profile of educational research ( Eacott , 2010 ; Gorard , 2005 ; Griffiths , 1959 , 
 1965 , 1985 ; Immegart , 1975 )  . A significant portion of early , and it is possible to 
 argue contemporary , inquiry into educational administration does not move beyond 
-the ordinary language of the ‘ applied ’ field . As Bobby Calder ( 1977 ) argues , 
+the ordinary language of the ‘ applied ’ field . As Bobby Calder ( 1977 ) argues ,  
  ‘ leadership ’  ( as the contemporary label of choice ) is a label that originated in 
 everyday discourses – that of the ‘ spontaneous sociologist ’  ( Bourdieu & Wacquant , 
 1992 [ 1992 ]  )  , p . 66 ) – and its common-sense meaning has been appropriated into 
@@ -5443,7 +5443,7 @@ Clarke , Styles ,  & Beycioglu , 2010 )  . I cite this as not a mere example of 
 academic ego , rather as a pedagogical observation about the often hidden role of 
 discourse communities and the potential bounded manner in which they go about 
 their work . This goes beyond peer-reviewed papers ( and is arguably evident to a 
-greater extent beyond the academy of peer-review )  . Brian Caldwell ’ s ( 2012 ) 
+greater extent beyond the academy of peer-review )  . Brian Caldwell ’ s ( 2012 )  
  ‘ Review of related literature for the evaluation of empowering local schools ’ for 
 the Department of Education , Employment and Workplace Relations reduces the 
 critical literatures ( of which there are many ) on school-based management and its 

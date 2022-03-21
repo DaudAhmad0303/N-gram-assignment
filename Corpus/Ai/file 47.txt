@@ -2162,13 +2162,13 @@ section as follows :
 Profiles : 
 FourOrgsTradeOrdererGenesis : 
 Capabilities :  
-< <  :  * ChannelCapabilities
+<  <  :  * ChannelCapabilities
 Orderer :  
-< <  :  * OrdererDefaults
+<  <  :  * OrdererDefaults
 Organizations : 
 - * TradeOrdererOrg
 Capabilities :  
-< <  :  * OrdererCapabilities
+<  <  :  * OrdererCapabilities
 Consortiums : 
 TradeConsortium : 
 Organizations : 
@@ -2179,14 +2179,14 @@ Organizations :
 FourOrgsTradeChannel : 
 Consortium : TradeConsortium
 Application :  
-< <  :  * ApplicationDefaults
+<  <  :  * ApplicationDefaults
 Organizations : 
 - * ExporterOrg
 - * ImporterOrg
 - * CarrierOrg
 - * RegulatorOrg
 Capabilities :  
-< <  :  * ApplicationCapabilities
+<  <  :  * ApplicationCapabilities
 As we can see , the channel we are going to create is named FourOrgsTradeChannel , 
 which is defined in the profile . The four organizations participating in this
 channel are labeled ExporterOrg , ImporterOrg , CarrierOrg , and RegulatorOrg , each of
@@ -5151,7 +5151,7 @@ The following code snippet shows how to instantiate and run the express server :
 var express = require (  ' express '  )  ; 
 var bodyParser = require (  ' body-parser '  )  ; 
 var app = express (  )  ; 
-var port = process . env . PORT | | 4000 ; 
+var port = process . env . PORT |  | 4000 ; 
 app . options (  '  *  '  , cors (  )  )  ; 
 app . use ( cors (  )  )  ; 
 app . use ( bodyParser . json (  )  )  ; 
@@ -7997,7 +7997,7 @@ the container , thus avoiding the need to deploy the plethora of tools on the lo
 workstation . Here is the composer task :  
 . PHONY : composer
 composer : 
-echo "  > > Building composer package within Docker container " 
+echo "  >  > Building composer package within Docker container " 
 docker run --rm -v $ ( COMPOSER_PATH )  :  / src -v $ ( DIST_DIR )  :  / dist -w / src node : 8 . 11 sh -c 
  " $ ( COMPOSER_BUILD_CMD )  " 
 Breaking the docker run command : 
@@ -8325,7 +8325,7 @@ uid Your Name ( GitHub Signing Identity )  < yourID @ email . com >
 sub rsa4096 2018-02-03 [ E ] 
 With the gpg created , we now need to export the key in a format that GitHub will
 be able to understand . To achieve this , we run the following command : 
-gpg --armor --export < < email-you-use-to-generate-the-key > > 
+gpg --armor --export <  < email-you-use-to-generate-the-key >  > 
 The tool will output the public key directly in the console and should look as
 follows : 
 -----BEGIN PGP PUBLIC KEY BLOCK-----

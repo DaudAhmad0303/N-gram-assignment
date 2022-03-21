@@ -2432,7 +2432,7 @@ more of less explicitly stated hypothesis . The data is collected and analysed a
 report of documents the results . This report describes how well participants responded to
 the different elements of the VE experience , whether they were able to use all the UX / UI
 functionalities , and / or the goals of the experiment were reached . 
-Figure 6 . 6 The development cycle , using Rapid prototype < > test cycles by the Interaction Design
+Figure 6 . 6 The development cycle , using Rapid prototype <  > test cycles by the Interaction Design
 Foundation
 Review of Virtual Reality Evaluation Methods 83
 The experimental data and other information is then stored for future reference , dissemination to the scientific forum , added to the requirements specifications to inform the
@@ -5798,7 +5798,7 @@ Figure 15 . 12 Test after learning process with Robot
 Table 15 . 2 shows the results of assessment conducted after the students completed both
 the traditional learning and with the assistance of Roboshapes . The ’ traditional method ’ 
 column presents the results of the assessment ( i . e . Test 1 ) that was conducted based on
-the modules taught by the teacher using cards and whiteboard . Following this , the column
+the modules taught by the teacher using cards and whiteboard . Following this , the column 
  ’ robot method ’ presents two assessment results ( i . e . Test 2 & Test 3 ) based on the modules
 taught by the Roboshapes . Referring to Table 15 . 2 , the average score for Test 1 ( i . e . traditional learning ) was 90% , while the average score for Test 2 and Test 3 ( i . e . learning with
 the assistance of Roboshapes ) were 100% . This shows that students learn better when the

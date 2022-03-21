@@ -312,7 +312,7 @@ criteria for the construction and circulation of texts ’  ( Bernstein , 1999 :
 principles of integration . These specialized languages and their theoretical idiolects are ‘ not
 translatable ’  ( p . 163 ) he argues , their speakers are exclusive , and their relations are serial . Thus , 
 1
-academic and social capital within the practice of sociology is bound up , as he sees it , with the
+academic and social capital within the practice of sociology is bound up , as he sees it , with the 
  ‘ defence of and the challenge of other languages ’  ( p . 163 )  . Development in such a ‘ horizontal
 discourse ’  , as he termed it , is not greater generality or abstraction or integration but the development of a new language that ‘ offers the possibility of fresh perspective , a new set of questions , 
 a new set of connections , and an apparently new problematic , and most importantly , a new
@@ -323,7 +323,7 @@ a discursive regime , he suggests that the primary motivation lies in the ‘ ma
 languages . He goes on to describe what he calls the implicit ‘ conceptual syntax ’  , or ‘ weak
 grammars ’ of horizontal knowledge structures , such as those of sociology of education , which
 present particular problems to acquirers , in terms of knowing whether they are ‘ really speaking
-or writing sociology ’  ( p . 164 )  . Acquisition is tacit and depends upon acquiring the appropriate
+or writing sociology ’  ( p . 164 )  . Acquisition is tacit and depends upon acquiring the appropriate 
  ‘ gaze ’  ;  ‘ a particular mode of recognizing and realizing what counts as an “ authentic ” sociological
 reality ’  ( p . 165 )  . This gives rise then to ‘ segmental competences ’ and ‘ segmental literacies ’ that
 rest upon an ‘ obsession with language ’  , but also , inasmuch that these knowledge structures are
@@ -385,7 +385,7 @@ Various epistemological positions within this debate are taken up in the collect
 the deployment of grand narratives and some incredulity . 
 Of course , many sociologists do not take postmodernism seriously , in part perhaps because
 they regard postmodernism itself as lacking seriousness and condemn it as ironic , nihilistic and
-narcissistic and apolitical . Indeed , for some feminists , postmodernism is ‘ a problem ’  , even just
+narcissistic and apolitical . Indeed , for some feminists , postmodernism is ‘ a problem ’  , even just 
  ‘ boys games ’  , particularly in as much that postmodernism critiques the ‘ oppressions ’ embedded
 within the humanist tradition upon which ‘ women ’ s liberation ’ draws . For others , postmodernism offers an extension to , and new possibilities for , critique and situated struggle . Kenway 
 ( 1997 : 132 ) goes as far as to argue that :  ‘ In many senses feminist postmodernism has become 
@@ -434,7 +434,7 @@ global . However , there are neither inevitable nor simple relationships between
 contexts and the preoccupations and dispositions of the academy . Over and against this , we
 must not forget that the social sciences act back on and in society through the recontextualization
 of the ‘ human sciences ’ within professional education or the work of government , although
-perhaps less directly now than in the past . 
+perhaps less directly now than in the past .  
  ‘ Human science ’ knowledge functions politically and is intimately implicated in the practical
 management of social and political problems . The idea that human sciences such as sociology
 stand outside or above the political agenda concerning the management of the population 
@@ -484,7 +484,7 @@ and to spaces of possible action . Thus , its aim is to critically examine curre
 a conceptual / political framework that also emphasizes the spaces in which counterhegemonic actions can be or are now going on . 
 3 At times , this also requires an expansion of what counts as ‘ research ’  . Here , we mean acting
 as critical ‘ secretaries ’ to those groups of people and social movements who are now engaged
-in challenging existing relations of unequal power or in what elsewhere has been called
+in challenging existing relations of unequal power or in what elsewhere has been called 
  ‘ non-reformist reforms ’  . This is exactly the task that was taken on in the thick descriptions
 of critically democratic school practices in Democratic schools ( Apple and Beane , 2007 ) and
 in the critically supportive descriptions of the transformative reforms such as the Citizen
@@ -614,7 +614,7 @@ and politics all interact , globally and locally , in complex and overdetermined
 very notions of post-colonialism and globalization ‘ can be thought of as a site of dialogic
 encounter that pushes us to examine center / periphery relations and conditions with specificity , 
 wherever we may find them ’  ( Dimitriadis and McCarthy , 2001 : 10 )  . 
-As they have influenced critical sociology of education , some of the core politics behind postcolonial positions are summarized well by Dimitriadis and McCarthy ( 2001 ) when they state that , 
+As they have influenced critical sociology of education , some of the core politics behind postcolonial positions are summarized well by Dimitriadis and McCarthy ( 2001 ) when they state that ,  
  ‘ The work of the postcolonial imagination subverts extant power relations , questions authority , 
 and destabilizes received traditions of identity ’  ( p . 10 ; see also Bhabha , 1994 ; Spivak , 1988 )  . 
 Sociologists of education interested in globalization , in neo-liberal depredations and in postcolonial positions have largely taken them to mean the following . They imply a conscious process
@@ -770,7 +770,7 @@ INTRODUCTION
 Part 1
 Perspectives and theories
 
-1
+1 
  ‘ Spatializing ’ the sociology of education
 Stand-points , entry-points , vantage-points1
 Susan L . Robertson
@@ -801,13 +801,13 @@ of spatial turns , offers us a set of theoretical and empirical concepts with wh
 following assumptions are key : that , ontologically , space is social and real ; that spaces are social
 relations stretched out ; and that space is socially produced . 
 15
-Epistemologically , space can be known through particular categories of ideas , as ‘ perceived ’  , 
+Epistemologically , space can be known through particular categories of ideas , as ‘ perceived ’  ,  
  ‘ conceived ’ and ‘ lived ’  ( Lefebvre , 1991 )  , or as ‘ absolute ’  ,  ‘ relative ’ and ‘ relational ’  ( Harvey , 2006 )  . 
 These two framings will be developed in this chapter . Spaces are dynamic , overlapping and
 changing , in a shifting geometry of power ( Massey , 1994 )  . The organization of socio-spatial
 relations can take multiple forms and dimensions . This is reflected in a rich spatial lexicon that
 has been developed to make sense of the changing nature of production ,  ( nation ) state power , 
-labour , knowledge , development and difference . Key concepts in this lexicon are ‘ territory ’  , 
+labour , knowledge , development and difference . Key concepts in this lexicon are ‘ territory ’  ,  
  ‘ place ’  ,  ‘ scale ’  ,  ‘ network ’ and ‘ positionality ’  . These concepts are pertinent for the sociology of
 education , which has , as its central point of enquiry , on the one hand , the role of education
 in ( re ) producing modern societies , and on the other hand , an examination of transformations
@@ -942,8 +942,8 @@ multiple geographies , out of which difference is constituted , and where differ
 SUSAN L . ROBERTSON
 The organization of spatial relations – a methodology
 Jessop et al .  ( 2008 ) take up the challenge of advancing a methodology for studying spatial
-relations . They propose a lexicon that includes key concepts such as ‘ territory ’  ,  ‘ place ’  ,  ‘ scale ’  , 
- ‘ network ’ and ‘ positionality ’  . 
+relations . They propose a lexicon that includes key concepts such as ‘ territory ’  ,  ‘ place ’  ,  ‘ scale ’  ,  
+ ‘ network ’ and ‘ positionality ’  .  
  ‘ Territory ’ refers to the boundaries that constitute space in particular ways , as differentiated , 
 bordered areas of social relations and social infrastructures supporting particular kinds of
 economic and social activity , opportunity , investment and so on . Territories are arenas to be
@@ -960,7 +960,7 @@ thing , as in a human resource complex )  , as conceived ( e . g . a map of a re
 attachment as a Canadian )  . It is relative in that the movement within and across territories , for
 instance , will be different , dependent upon where and how one is located . It is relational in
 that it is not possible to understand particular territories without placing them in their past , 
-present or emergent futures . 
+present or emergent futures .  
  ‘ Scale ’ represents social life as structured in particular ways , in this case relationally , from
 the body to the local , national and global ( Herod and Wright , 2002 )  . This structuring of social
 life is viewed as operating at the level of the conceived and the material ; in other words , that
@@ -976,7 +976,7 @@ conceptual elasticity of the concept and , more importantly , the privileging of
 understandings of socio-spatial processes , rather than vertical and horizontal . Marston et al .  ( 2005 : 
 420 ) are at pains to point out that the power of naming ( as in representations of space ) should
 not be confused with either perceived or lived spaces . This is an important point and emphasizes
-the value of ensuring we keep these epistemologies distinct in our analysis . 
+the value of ensuring we keep these epistemologies distinct in our analysis .  
  ‘ Place ’  , on the other hand , is constituted of spatialized social relations and the narratives
 about these relations . Places , such as ‘ my home ’ or ‘ my school ’  , only exist in relation to particular
 criteria ( as in ‘ my school ’ draws upon criteria such as formal learning , teachers and so on )  , and , 
@@ -985,7 +985,7 @@ and they are lived . Massey argues that place emerges out of the fixing of parti
 on space ; it is the outcome of efforts to contain , immobilize , to claim as one ’ s own , to include
 and therefore exclude ( 1994 : 5 )  .  ‘ All attempts to institute horizons , to establish boundaries , to
 secure the identity of places , can in this sense be seen as attempts to stabilize the meaning 
-of particular envelopes of space-time ’  ( Massey , 1994 : 5 )  . Amin puts this relational argument a
+of particular envelopes of space-time ’  ( Massey , 1994 : 5 )  . Amin puts this relational argument a 
  ‘ SPATIALIZING ’ THE SOCIOLOGY OF EDUCATION
 19
 little differently : that place is ‘  .  .  . where the local brings together different scales of practice / social
@@ -1078,7 +1078,7 @@ Concerning the questions of ‘ how , by whom and at what scale are these things
 determined , coordinated , governed , administered and managed ?  ’ and ‘ in whose interests are these practices
 and politics carried out ?  ’  , this is broadly the province of governance ( cf . Dale , 1996 )  . Sociological
 research around this question has concerned itself with the emergence of markets as a mechanism
-of coordination ( cf . Gewirtz et al .  , 1995 ; Ball , 2007 ; Ball et al .  , 1996 ; Levin and Belfield , 2006 )  ; 
+of coordination ( cf . Gewirtz et al .  , 1995 ; Ball , 2007 ; Ball et al .  , 1996 ; Levin and Belfield , 2006 )  ;  
  ‘ SPATIALIZING ’ THE SOCIOLOGY OF EDUCATION
 21
 the rise in importance of international organizations , such as the OECD , the World Bank and
@@ -1120,18 +1120,18 @@ Given the exigencies of length , I will only develop two examples from the educa
 above to show what this might mean : first ,  ‘ tracking ’ students into different education groups , 
 and second , processes of decentralization / marketization in education governance ( see Tables 1 . 1
 and 1 . 2 )  . Typical organizational processes in which almost all schooling systems differentiate
-learners in some way in the education system are through spatial practices such as ‘ grouping ’  , 
+learners in some way in the education system are through spatial practices such as ‘ grouping ’  ,  
  ‘ tracking ’ or ‘ streaming ’  , or through the provision of different kinds of schooling experience , 
 such as private versus public schools , or vocational schools versus comprehensive schools . 
 22
-SUSAN L . ROBERTSON
+SUSAN L . ROBERTSON 
  ‘ SPATIALIZING ’ THE SOCIOLOGY OF EDUCATION
 23
 Table 1 . 1 ‘ Tracking ’  : spatial stratification
 Spatial practice Representations of space Spaces of representation 
 [ perceived space ]  [ conceived ]  [ lived ] 
 Absolute space particular knowledges / class groups / ability / aspiration ; feelings of worth / 
-lessons delivered to year levels / school types ; lessness ; belonging ; 
+lessons delivered to year levels / school types ; lessness ; belonging ;  
  ‘ tracked ’ student ; school prospectus ; withdrawal ; resistance and
 classroom school uniform ; rebellion
 Relative space different levels of ‘ ability ’ as innate anxiety over resources 
@@ -1229,7 +1229,7 @@ the ways in which education space has been radically transformed . Clearly , one
 implication of spatializing the sociology of education is the challenge that follows from this : 
 the development of a set of methodological / organizational categories that are able to take full
 account of the concerns of sociologists of education . Finally , I would argue that , in spatializing
-the sociology of education , we , in turn , enhance the possibilities of what Lefebvre named
+the sociology of education , we , in turn , enhance the possibilities of what Lefebvre named 
  ‘ anOther ’ space emerging : an alternative , differently constituted , social space , constructed out
 of ideas about being and becoming , that might in turn mediate the full onslaught of the social
 relations of global capitalism . 
@@ -1253,7 +1253,7 @@ sociology of education , Westport , CT : Greenwood .
 Brenner , N .  ( 2003 ) New state spaces , Oxford : Oxford University Press . 
 Brown , P . and Lauder , H .  ( 2005 )  ‘ Globalisation , knowledge and the myth of the magnet economy ’  , 
 Globalisation , Societies and Education , 4 ( 1 )  : 25–57 . 
-Castells , M .  ( 1996 ) The network society , Oxford : Blackwell . 
+Castells , M .  ( 1996 ) The network society , Oxford : Blackwell .  
  ‘ SPATIALIZING ’ THE SOCIOLOGY OF EDUCATION
 25
 Dale , R .  ( 1996 )  ‘ The state and the governance of education : an analysis of the restructuring of the stateeducation relation ’  , in A . H . Halsey , H . Lauder , P . Brown and A . Stuart Wells ( eds ) Education , culture , 
@@ -2268,7 +2268,7 @@ a procedural rather than a true democracy ( Mauzy and Milne , 2002 ; Mutalib , 2
 development of Singapore as a nation-state through government decisions tends to be conflated
 with the party ’ s directives ’  ( Ho , 2006 : 388 )  . 
 As Singapore relies on the recruitment of foreign talent , there is much emphasis within its
-state-initiated policy discourse on the country and its citizens being ‘ open ’  ,  ‘ accommodating ’  , 
+state-initiated policy discourse on the country and its citizens being ‘ open ’  ,  ‘ accommodating ’  ,  
  ‘ big-hearted ’ and ‘ welcoming ’ towards talented foreigners ( Singapore Government , 1997 ; Lee , 
 2006 )  . It is important to acknowledge , however , that Singapore ’ s purported policy ‘ openness ’ 
 towards foreigners stands in marked contrast to its rigid political system . In this respect , 
@@ -2358,7 +2358,7 @@ hospitality is defeated : it becomes impossible to host anyone at all , precisel
 no ownership or control .  ‘ Unconditional ’ hospitality is not possible , but for Derrida the very
 notion of hospitality relies upon this concept and is inconceivable without it . We will now use
 this paradoxical framework to examine Singapore ’ s hospitality . 
-Singapore ’ s hospitality
+Singapore ’ s hospitality 
  ‘ Singapore Vision 21 ’ is Singapore ’ s key policy strategy focused on attracting foreign talent . 
 Prime Minister Goh Chok Tong launched it in 1997 ( Singapore Government , 1997 )  , but it is
 still operational today , as evidenced by recent references to the initiative in ministerial speeches 
@@ -2391,7 +2391,7 @@ Singapore ’ s foreign talent policy rhetoric . Examining the ways in which thi
 played out in practice may enable a more complex understanding of the ethical and political
 responsibility the Singaporean government shows towards foreign talent and its own talented
 citizens . 
-Foreign talent
+Foreign talent 
  ‘ Foreign talent ’ is the term used in Singaporean policy discourse to describe highly skilled , 
 globally mobile individuals :  ‘ people who have certain internationally marketable experiences
 and skills ’  ( Singapore Government , 1997 )  . The profile of foreign talent in Singapore shows
@@ -2426,7 +2426,7 @@ at the nexus of East and West ’  ( National Research Foundation , 2008 )  .
 But just as Singapore tries to engage Asia , it also tries to transcend Asia ( Koh , 2005 )  , motivated
 by its small-nation aspirations to insert itself , via CREATE , into a global , networked
 environment . The Singaporean government is savvy about the geopolitical position of countries
-and regions and Singapore ’ s own location within the globe and the region . It understands that
+and regions and Singapore ’ s own location within the globe and the region . It understands that 
  ‘ many US and European universities are eager to establish a presence in Asia in a way never
 contemplated before because of the keen awareness of the rise of Asia and the increasing shift
 of global dominance towards Asia ’  ( National Research Foundation , 2008 )  . It is this formidable
@@ -2482,7 +2482,7 @@ As suggested , we do not seek to imply that the hospitality that Singapore exten
 is unconditional , but at the same time there are nuances to conditions within conditional
 hospitality . In this context , the host does not impose ‘ his ’ mastery by insisting that the guest
 follow the practices and laws of the territory . Foreign talent does not have to abide by the same
-laws , rules and conventions as Singaporean citizens . In fact , the S21 says attracting foreign talent
+laws , rules and conventions as Singaporean citizens . In fact , the S21 says attracting foreign talent 
  ‘ involves removing obstacles to the entry of talent . Regulatory mechanisms can be loosened . 
 Rules should be simplified ’  ( Singapore Government , 1997 : 16 )  . Foreign talent are also offered
 fast-tracked employment passes , subsidized housing , education and healthcare and tax incentives 
@@ -2522,7 +2522,7 @@ most part , foreign talent ’ s long-term commitment to the nation remains in d
 Permanent Resident ( PR ) status and Singaporean citizenship are offered as enticements , they
 do not guarantee that foreign talent will stay ( Yeoh , 2007b )  . As they are ‘ flexible citizens ’  ( Ong , 
 1999 ) who have the credentials to remain globally mobile in the knowledge economy , foreign
-talent are free to enjoy the privileges that Singapore affords them and then leave the country . 
+talent are free to enjoy the privileges that Singapore affords them and then leave the country .  
  ‘ In fact , attaining Singaporean citizenship or Permanent Resident status may confer a higher
 degree of potential mobility on them , enabling them to gain entry more easily as tourists and
 immigrants in other gateways around the world ’  ( Yeoh , 2007b : 55 )  . 
@@ -2728,7 +2728,7 @@ unfolding changes of late capitalism , it is evident that changes in capitalist 
 production are tempered by the specificities of local histories and cultures ( economic , political
 and social ) and are recalibrated over time . To take the English context as a case , in the wake
 of the international oil crisis of the 1970s , the neo-liberal policy response emphasised the need
-for market forces ( competition and school autonomy ) to counter the educational ‘ crisis ’ of
+for market forces ( competition and school autonomy ) to counter the educational ‘ crisis ’ of 
  ‘ under-achievement ’ and ‘ poor ’ teaching that had allegedly contributed towards an economic
 downturn . By the 1990s , policy now included deregulation and ‘ choice ’ as part of government
 attempts to raise school standards and make schools more accountable and business-like , 
@@ -2807,7 +2807,7 @@ performativity ’  , where there is the potential to be graded as ‘ successfu
 But ‘ being ’ and ‘ doing ’ this new type of entrepreneurial teacher , whose targets and ‘ aspirations ’ 
 are governed by national testing schemes , can produce feelings of what Ball ( 2003 ) calls
 TOWARDS A SOCIOLOGY OF THE GLOBAL TEACHER
-61
+61 
  ‘ inauthenticity ’  . This new teacher , measured and evaluated through techniques such as monitoring , the production of documentary ‘ evidence ’ of effective planning for teaching , performance
 reviews , appraisals , inspections and the like , may become professionally conflicted :  ‘ commitment , 
 judgement and authenticity within practice are sacrificed ’ at the altar of measurable outcomes 
@@ -2834,7 +2834,7 @@ at once a ‘ professional classroom manager , an expert providing “ high qual
 in “ more for less ” times ’  ( McWilliams , 2008 : 35 )  . The reconstructed teacher is produced out
 of sets of recipes for action , systemic rules , technologies of performance and routine classroom
 actions that are designed ( by others ) to ‘ deliver ’ quality and ‘ assure ’ high standards . The teacher
-is reconstituted as a technical ‘ risk manager ’ who , in McWilliam ’ s terms ( 2008 : 36 )  , makes
+is reconstituted as a technical ‘ risk manager ’ who , in McWilliam ’ s terms ( 2008 : 36 )  , makes 
  ‘ learning outcomes more visible , calculable and thus more accountable ’ in a context where , 
 to some extent , any competing versions of the teacher have been erased . 
 Recontextualising the global teacher
@@ -2864,7 +2864,7 @@ are learning to become teachers . In terms of the Mississippi experience , one p
 the way in which the licence can be easily extended , without much support for professional
 development or interventions from teaching colleges . In NYC , the Teaching Fellows
 programme offers college accreditation and in-school mentoring , but the retention rates are
-low . Both schemes place would-be teachers in challenging classrooms with , in the main , 
+low . Both schemes place would-be teachers in challenging classrooms with , in the main ,  
  ‘ disadvantaged ’ children . In the UK , there are similar teacher training programmes that aim to
 fill the same sorts of gap ( Ross and Hutchings , 2003 )  . 
 Although some aspects of some of these ‘ alternative route ’ schemes have been positively
@@ -2891,7 +2891,7 @@ downturn , recruitment to jobs that look secure frequently goes up . Simultaneou
 public sector there is an awareness that the new educational professional is an entrepreneurial
 individual , someone who seeks performance-related rewards , who is compared with and
 compares him / herself against his / her ‘ colleagues ’  . Many of the dominant and normalising
-discourses that currently surround ‘ being a teacher ’ speak of being open to change and the
+discourses that currently surround ‘ being a teacher ’ speak of being open to change and the 
  ‘ developing professional ’ as a lifelong project – even where , paradoxically , a view of teaching
 as a career for life has been eroded . The ‘ enduring ’ sense behind this lifelong project of constant
 improvement may not be something that new graduates feel particularly drawn towards . 
@@ -2979,7 +2979,7 @@ and of being a teacher .
 Reshaping the teacher – complexities and costs
 In this chapter , I have argued that neo-liberal and globalising impulses are having discernable
 outcomes in reshaping the work of the teacher in many parts of the world . In this final section , 
-I want briefly to discuss some points that are raised by this work . In speaking of ‘ the world ’ or
+I want briefly to discuss some points that are raised by this work . In speaking of ‘ the world ’ or 
  ‘ international change ’  , there is sometimes a tendency for northern-hemisphere researchers to
 concentrate on northern-hemisphere cases , frequently the UK , the US and Australia , that then
 stand as a proxy for the ‘ global world ’  . Here , I have tried to draw on a wider range of work
@@ -3033,7 +3033,7 @@ Barro , R . J . and Lee , J . W .  ( 2001 )  ‘ International data on education
 Oxford Economic Papers 53 : 541–563 . 
 Bartlett , L .  ( 2004 )  ‘ Expanding teacher work roles : a resource for retention or a recipe for overwork ?  ’  , 
 Journal of Education Policy 18 ( 5 )  : 565–582 . 
-Blair , T .  ( 1998 ) The Today programme , BBC Radio 4 , 30 September 1998 , cited in D . Held , 
+Blair , T .  ( 1998 ) The Today programme , BBC Radio 4 , 30 September 1998 , cited in D . Held ,  
  ‘ Globalisation , the timid tendency ’  , Marxism Today Nov / Dec : 24–28 . 
 Clarke , J .  , Newman , J .  , Smith , N .  , Vidler , E . and Westmarland , L .  ( 2007 ) Creating citizen-consumers : changing
 publics and changing public services , London : Sage Publications . 
@@ -3164,7 +3164,7 @@ intractability of unequal schooling outcomes .
 Code theory
 Pedagogy is a formal , state-controlled medium for specializing the consciousness of young
 people . Code theory provides a grammar for an analysis of how consciousness is differentially
-specialized . For Bernstein , this grammar was necessary to explain the difference between middleclass and working-class success in schooling . 
+specialized . For Bernstein , this grammar was necessary to explain the difference between middleclass and working-class success in schooling .  
  ‘ Code ’ refers to an orientation to organizing experience and making meaning . The initial
 work on codes examined the relation between social class , maternal modes of control and
 communicative outcomes ( Bernstein and Brandis , 1970 ; Bernstein and Henderson , 1969 ; 
@@ -3218,7 +3218,7 @@ URSULA HOADLEY AND JOHAN MULLER
 however they wanted . They were asked the reasons for their groupings . They were then asked
 to group the food a second time and to again provide criteria for the grouping . The experiment
 showed that working-class children mostly used context-dependent principles for their sorting , 
-in that their groupings referred to personal and particularistic meanings ( e . g .  ‘ I like those things ’  ; 
+in that their groupings referred to personal and particularistic meanings ( e . g .  ‘ I like those things ’  ;  
  ‘ That is what mother cooks for breakfast .  ’  )  , which generally referred to everyday use . They
 did not change their principles for sorting the second time , demonstrating a single ( restricted ) 
 coding orientation . Middle-class children were found to respond to the task first by referring
@@ -3312,7 +3312,7 @@ practices whose characteristics permit access to the school coding orientation .
 ( Morais and Neves , 2001 : 213–214 ) 
 In addition to explication of the evaluative criteria , weak framing over pacing is identified
 as being crucial for facilitating access to school knowledge for working-class learners , creating
-the opportunity to individualize the rate of acquisition . In research into literacy pedagogy for
+the opportunity to individualize the rate of acquisition . In research into literacy pedagogy for 
  ‘ indigenous learners ’  , Rose ( 2004 ) likewise specifies the dimensions facilitating a weakening of
 the negative relation between social class and educational achievement : a weakening of the
 framing of pacing and sequencing rules , and a weakening of ‘ the framing regulating the flow of
@@ -3381,7 +3381,7 @@ in terms of the distribution of what knowledge to which social groups . The ‘ 
 distributive rules and the control over the process of transmission through the recontextualizing
 rules result in differential specialization of consciousness through acquisition . It is at the
 moment of evaluation that we see the extent to which the distributive rules ( both in terms of
-instructional knowledge and social norms ) have been realized . The evaluative rules bring the
+instructional knowledge and social norms ) have been realized . The evaluative rules bring the 
  ‘ what ’  ( classification ) and the ‘ how ’  ( framing ) into a final relation to each other . They condense
 the device . It is only at the point of evaluation that we can see the mutual operation of the
 distributive rules and the recontextualizing rules . But what of the knowledge to be distributed ? 
@@ -3431,7 +3431,7 @@ differentiates them .
 There has been a range of exploratory empirical work in relation to different knowledge
 structures and their pedagogical and distributional implications . Reeves and Muller ( 2005 )  , for
 example , consider what a knowledge structure of mathematics looks like when translated into
-the South African school curriculum . Christie and Macken-Horarick ( 2007 ) reconstruct
+the South African school curriculum . Christie and Macken-Horarick ( 2007 ) reconstruct 
  ‘ verticality ’ in subject English in the Australian curriculum . More broadly , Young and Gamble 
 ( 2006 ) and Wheelahan ( 2007 ) examine issues of skills and their orderings in vocational
 education curricula , and Maton ( 2005 ) has been concerned with sociology and its weak grammar
@@ -3642,7 +3642,7 @@ One possible sense in which the organic model can be criticized was its implicat
 conservativism . Although Hobson wrote against the politics of conservativism , John Allett ( 1990 : 
 80
 MARK OLSSEN
-74 ) argues that ‘ there is a significant conservative aspect to Hobson ’ s thought ’  . In Allett ’ s view , 
+74 ) argues that ‘ there is a significant conservative aspect to Hobson ’ s thought ’  . In Allett ’ s view ,  
  ‘ Hobson ’ s conservativism is centred in his sociology ’  ( p . 76 )  . As he puts it : 
 Hobson ’ s interest in conservativism is limited primarily to its usefulness as a corrective 
 ( not an alternative ) to liberal individualism . There are occasions , however , when he engages
@@ -3751,7 +3751,7 @@ vision to promote enhanced well-being and human welfare as central . In accord w
 philosophy , it was Ruskin who gave Hobson his concept of social welfare . This involved
 redefining the concept of wealth away from a concern with exchange , to a concern with its
 intrinsic worth , or , as Allett ( 1981 : 18 ) puts it , for its ‘ life sustaining properties ’  . In representing
-individuals as social beings , Hobson echoed the insights of Mackenzie who had written that
+individuals as social beings , Hobson echoed the insights of Mackenzie who had written that 
  ‘  [ i ] t is only through the development of the whole human race that any one man can develop ’  
 ( Mackenzie , 2006 : 180 )  . This is a crucial theoretical axiom from the standpoint of educational
 analysis , for it formulates the social democratic idea that it is the way we organize the society
@@ -3878,7 +3878,7 @@ institutions function and that a future is embarked upon . Because in planning o
 incomplete information due to the dispersal of knowledge across social systems , such coordination can be more or less exact or loosely stochastic and probabilistic in terms of overcoming
 uncertainty . Because learning is time-dependent , and individuals and communities are always
 experiencing unique features of their worlds , uncertainty cannot be eliminated . Hence , all that
-is possible is pattern coordination in open-ended systems , where planning is formed around
+is possible is pattern coordination in open-ended systems , where planning is formed around 
  ‘ typical ’ rather than ‘ actual ’ features . Such plan or pattern coordination can only be a constructed
 order . Constructing plans becomes the agenda for education for life in Dewey ’ s sense . Dewey
 ultimately held to the faith , as Keynes did , that , despite unpredictability and uncertainty , the
@@ -3929,7 +3929,7 @@ Finally , to conclude , we can also note that contemporary sociological approach
 that of Michel Foucault , contain complexity accounts of change of relevance for extending
 work in the sociology of education . Foucault ’ s notion of dispositif , or apparatus , as a ‘ strategic
 assemblage ’ enables a conceptualization of the school within a new pluralist reconciliation of
-part and whole simultaneously balancing the poles , as he calls them , of ‘ individualization ’ and
+part and whole simultaneously balancing the poles , as he calls them , of ‘ individualization ’ and 
  ‘ totalization ’  . For Foucault , the dispositif was defined as
 a resolutely heterogeneous grouping comprising discourses , institutions , architectural
 arrangements , policy decisions , laws , administrative measures , scientific statements , 
@@ -3979,7 +3979,7 @@ such as noise , stochasticity , irreversibility . Such an approach suggests dist
 6 In this , he differs from Einstein , who saw time as an illusion , as well as from classical mechanics . 
 He acknowledges debts to Bergson ( Prigogine , 2003 : 19–20 )  , to Heidegger ( 2003 : 9 ) and to
 Heraclitus ( 2003 : 9 , 10 )  . 
-7 Interconnectedness means that ‘ individualities emerge from the global ’  , and counters the idea that
+7 Interconnectedness means that ‘ individualities emerge from the global ’  , and counters the idea that 
  ‘ evolution is independent of environment ’  ( 2003 : 54 )  . 
 8 Pomian ( 1990 ) discusses issues such as determinism and chance in relation to Prigogine ’ s work . Also
 see Prigogine ( 1997 )  . 
@@ -4049,7 +4049,7 @@ in connectivity . A distinct ‘ imperative to connect ’ is acknowledged to un
 geopolitical , economic and technological shifts of globalization , deriving in no small part from
 rapid advances in connectivity fostered by information and telecommunications technologies 
 ( Green et al .  , 2005 )  . In particular , the connectivities afforded by the Internet have been
-foregrounded in popular and academic accounts of late-modern societal change in terms of the
+foregrounded in popular and academic accounts of late-modern societal change in terms of the 
  ‘ network society ’  ,  ‘ shrinking world ’  ,  ‘ digital age ’ and so on . With these recent articulations of
 connectivity in mind , the present chapter examines the bearing of Internet connectivity on the
 processes and practices of contemporary education . 1
@@ -4116,7 +4116,7 @@ in the widely held belief in the Internet somehow being able to ‘ liberate ’
 structure and hierarchy , boosting individual freedoms and reducing centralized controls over
 what can and what cannot be done . For many commentators , the various forms of Internet
 connectivity described above imply a fundamental reconfiguration of the social . At a macro
-level of analysis , for example , the ‘ flattening out ’ of hierarchies and the introduction of
+level of analysis , for example , the ‘ flattening out ’ of hierarchies and the introduction of 
  ‘ networking logic ’ to the organization of social relations is seen to support the open 
 ( re ) configuration of society and corresponding underdetermination of organizational structure 
 ( e . g . Castells , 1996 ; Friedman , 2007 )  . Conversely , a micro level ‘ sense ’ of connectivity is seen
@@ -4253,7 +4253,7 @@ being situated within local contexts such as the school , university , home and 
 and , it follows , the social interests , relationships and restrictions that are associated with them . 
 This contextualized perspective on the Internet and education allows for recognition of the
 many compromises of Internet connectivity for the individual learner that are not often
-acknowledged within education debate . For instance , within schools and universities , the
+acknowledged within education debate . For instance , within schools and universities , the 
  ‘ official ’ establishment of Internet connectivities is often centred on concerns and interests of
 the institution rather than the interests of the individual . This can be seen , for example , in
 education institutions ’ implementation of digital technologies to support bureaucratic and
@@ -4334,7 +4334,7 @@ the reciprocal relationship between online and offline ? Moreover , what are the
 between an individual having connectivity ‘ done to them ’  , as opposed to being able to ‘ do ’ 
 connectivity themselves ? What advantages and pleasures ( if any ) are to be had by being
 disconnected rather than connected ? It is likely that such questions will grow in significance
-as the twenty-first century progresses and education becomes framed increasingly within a
+as the twenty-first century progresses and education becomes framed increasingly within a 
  ‘ register of connectivity ’  ( Wittel et al .  , 2002 : 208 )  . Redressing these tensions through sustained
 empirical and theoretical analyses should now constitute a next step in a rigorous , sociologically
 informed rethinking of the connectivities of contemporary education . The prevailing ‘ imperative
@@ -4345,7 +4345,7 @@ NEIL SELWYN
 Note
 1 While I remain mindful of the political-economic significance of non-technology based connectivity , 
 this chapter focuses primarily on the educational implications of connections afforded by digital
-technologies – in particular the Internet . Broader considerations of globalization and the
+technologies – in particular the Internet . Broader considerations of globalization and the 
  ‘ disembedding ’ of social systems of late / postmodern society provide the focus for other chapters in
 this book , such as the contributions from Susan L . Robertson , Roger Dale , Jane Kenway , Hugh
 Lauder and others . 
@@ -4452,7 +4452,7 @@ when speaking of the extent , depth and causes of the degradation of Africa in t
 pandemic . He cites the International Monetary Fund and the World Bank as architects of
 continuing immiseration through their insistence on ‘ conditionality ’ in the structural adjustment
 programme that governs loans . 
-The conditions ranged from the sale of public sector corporations , to the imposition of
+The conditions ranged from the sale of public sector corporations , to the imposition of 
  ‘ cost-sharing ’  ( the euphemism for user fees imposed on health and education )  , to savage
 cutbacks in employment levels in the public service , mostly in the social sectors . To this
 day , the cutbacks haunt Africa : the IFIS continue to impose ‘ macroeconomic ’ limits on
@@ -4471,7 +4471,7 @@ process of educational and social exclusion of staggering proportion . A ‘  . 
 suggests that ,  ‘ there are about 77 million children not enrolled in school and an estimated 781
 million adults who have not yet had the opportunity to learn to read and write – two-thirds
 of them women ’  ( UNESCO , 2007 )  . While such phenomena seem remote , only reaching us
-intermittently through the light touch of headlines and celebrity causes , there are local
+intermittently through the light touch of headlines and celebrity causes , there are local 
  ‘ geographies of exclusion ’  ,  ‘ geographies of injustice ’  ( Harvey , 1996 ; Sibley , 1995 )  . 
 Harvey ( 1996 ) draws our attention to the plight of the twenty-five workers who died and
 fifty-six others who were seriously injured in the 1991 fire in the Imperial Foods chicken
@@ -4531,7 +4531,7 @@ Bernstein , Bourdieu and to his extensive empirical work to demonstrate how priv
 advantage and disadvantage assert themselves through the mixed markets of schooling 
 ( Ball , 2007 )  . 
 SHREDDING THE SOCIOLOGY OF INCLUSION
-101
+101 
  ‘ In effect class and policy and class and educational practices are being realigned ’  ( Ball , 2003 : 
 170 )  . Accordingly , in the now ‘ ambiguous nature of class reproduction ’  ( Ball , 2003 : 178 )  , his
 research examines a cohort of English middle-class parents who , displaying a mix of confidence
@@ -4556,7 +4556,7 @@ who :
 discovered the extent of the reach of the standards agenda , and the way in which schools
 were focussing on the ‘ D ’ students and trying to convert them into Cs . They realized the
 significance of their ‘ D to C conversion ’ and its link with the process of ‘ educational triage ’ 
-which was going on , a means of apportioning scarce resources to greatest areas of need : 
+which was going on , a means of apportioning scarce resources to greatest areas of need :  
  ‘ it was naming what lots of people were living ’ and it was clear to them that the strategies
 for triage being operated in schools were producing exclusion for those deemed ‘ hopeless
 cases ’ by concentrating on candidates who could be targeted for upward conversion .  
@@ -4577,7 +4577,7 @@ arguing that we ought to resist the reduction of inclusive education to a narrow
 secure mainstream schooling for disabled pupils . All too often , in the minds of education
 policymakers , researchers and teachers , inclusive education becomes a default vocabulary for
 102
-ROGER SLEE
+ROGER SLEE 
  ‘ the education of ( so-called ) Special Educational Needs pupils ’  ( Slee , 1996 )  . The exclusion of
 disabled pupils , however , remains a key item in the broad agenda of inclusive education research . 
 In the next section of this chapter I want to trace the emergence of inclusive education as a
@@ -4952,7 +4952,7 @@ May ( 2008 ) offers another example of IME shaping respondents ’ self-presenta
 study of Finnish women who were inhabiting the apparently ‘ spoiled identity ’ of lone motherhood . 
 What unites these women [ lone mothers ] is the dialogue they hold with social norms
 relating to ‘ proper ’ family life .  .  . The narrators .  .  . do not refute social norms around
-the two parent family but attempt to show how , despite at face value appearing to be
+the two parent family but attempt to show how , despite at face value appearing to be 
  ‘ unsuccessful ’  , their families have in fact been ‘ successful ’ ones .  
 ( May , 2008 : 481 ) 
 May asks why ‘ individuals whose lives are in some way non-normative simply do not discard
@@ -5026,7 +5026,7 @@ manifest in their use of the term ‘ organics ’  ‘ as a local working class
 a certain sort of “ arty ” middle class “ incomer ”  ’  ( O ’ Connell , 2008 : 185 )  . Organic food has come
 to symbolise a particular facet of good mothering for the affluent middle classes . It is one example
 of a ‘ morality tale ’ told and performed by middle-class mothers ( Liechty , 2003 : 69 )  , and part of
-a production of a ‘ class-cultural space ’  ( Liechty , 2003 : 256 )  . Liechty notes such a production is
+a production of a ‘ class-cultural space ’  ( Liechty , 2003 : 256 )  . Liechty notes such a production is 
  ‘ accomplished through two conceptually distinct forms of cultural practice : discursive , narrative
 or linguistic practice on the one hand and embodied , physical or material practice ( including
 the use of goods ) on the other ’  ( Liechty , 2003 )  . This class cultural space of mothering has become
@@ -5040,7 +5040,7 @@ is to search out such forms of advice and then evaluate their appropriateness to
 children . This is ‘ professional mothering ’  , a style adopted by middle-class mothers , who have
 or have had professional careers and now seek to use their personal and professional skills and
 resources in bringing up their children . Brooks and Wee ( 2008 )  , writing about middle-class
-professional mothers in Singapore , cite middle-class mothers talking about mothering as a
+professional mothers in Singapore , cite middle-class mothers talking about mothering as a 
  ‘ career ’  , with an evaluative ‘ end product ’ of successful and happy children . 
 One facet of professional mothering is the concern to create the circumstances in which the
 child ’ s intellectual , physical and creative skills are fully and extensively developed . Bourdieu 
@@ -5049,7 +5049,7 @@ look at the work done inside the family in the transmission of cultural capital 
 capital increases the efficiency of the cultural transmission by the school . I have written elsewhere 
 ( with Stephen Ball : Vincent and Ball , 2007 ) on the volume of activities available to children
 and their parents : from dance , drama and art , through sport , music and cooking , to more esoteric
-options such as yoga , life coaching and pottery . These activities are part of an attempt at
+options such as yoga , life coaching and pottery . These activities are part of an attempt at 
  ‘ concerted cultivation ’  , as identified by Annette Lareau . 
 THE SOCIOLOGY OF MOTHERING
 113
@@ -5234,7 +5234,7 @@ unremitting focus on the child that many women are unable or unwilling to mainta
 course , easier to work with and around IME if you are affluent and , perhaps , if you have a
 partner . Explanations focusing on those who do not live by its precepts often slip from structural
 poverty into cultural poverty , and resistance to IME becomes ‘ bad ’ mothering . Although absent
-fathers are condemned , a particular ferocity informs moral judgement of ‘ bad ’ mothers . Middleclass performances of mothering map out and inhabit a class cultural space determined by an
+fathers are condemned , a particular ferocity informs moral judgement of ‘ bad ’ mothers . Middleclass performances of mothering map out and inhabit a class cultural space determined by an 
  ‘ intensive ’ approach , one that is both ‘ sensitive ’ in terms of the mother ’ s interaction with the
 child , and ‘ professional ’ in her approach to the task of moulding her child . Here is the ‘ implicit
 ought ’  ( Lawler , 2005 : 801 ) of mothering , the ‘ moral boundary drawing ’  ( Sayer , 2005 )  , which
@@ -5427,7 +5427,7 @@ sense of something of great value being lost in the conduct and the person type 
 Thus , the full meaning of the concept of rationalisation is understandable only in relation to
 another concept pivotal in Weber ’ s work , namely disenchantment . Influenced by Nietzsche , 
 Weber ’ s view was that , in the modern world , God is dead , and all objective order of value is
-gone ( Hennis , 1988 : 158–159 )  . The bearing of the modern person in the rationalised world
+gone ( Hennis , 1988 : 158–159 )  . The bearing of the modern person in the rationalised world 
  ‘ has been disenchanted and denuded of its mystical but inwardly genuine plasticity ’  ( Weber , 
 1948a : 148 )  . The inner capacity for a sense of spirituality and profound meaning has not
 disappeared , but an understanding and a belief system that pervade the social structures and
@@ -5514,7 +5514,7 @@ freedom is possible within the rationalising social order of the modern world . 
 for moderns to be anything more than ‘ cheerful robots ’  ( Mills , 1970 ) C . Wright Mills ’ phrase
 – cheerful robots – captures perfectly the denuded conception of the human being where the
 understanding of what is fundamentally to be valued is confined within the scope of rationalised
-and marketised society alone . In ideal-typical terms , the modern social actor is defined by the
+and marketised society alone . In ideal-typical terms , the modern social actor is defined by the 
  ‘ steel shell ’  , which comes to be a very part of their being . In this section I will consider three
 responses : the entrepreneurial turn in modern bureaucracy ; the individualistic response that is
 represented by Weber ’ s idea of ‘ inner distance ’  ; and possibilities for counter-rationality based
@@ -6662,7 +6662,7 @@ Numbers , R .  ( 2006 ) The creationists , 2nd edn , Cambridge , MA : Harvard Un
 Sampson , Z . C .  ( 2005 )  “ Home schools are becoming more popular among blacks ,  ” The New York Times , 
 December 11 : A34 . 
 Smith , C .  ( 1998 ) American evangelicalism , Chicago , IL : University of Chicago Press . 
-Stambach , A . and David , M .  ( 2005 )  “ Feminist theory and educational policy : How gender has been
+Stambach , A . and David , M .  ( 2005 )  “ Feminist theory and educational policy : How gender has been 
  ‘ involved ’ in family school choice debates ,  ” Signs 30 : 1633–58 . 
 Stevens , M .  ( 2001 ) Kingdom of children , Princeton , NJ : Princeton University Press . 
 154
@@ -6675,7 +6675,7 @@ In national settings of various kinds across the world , there is underway a set
 highly significant experimental and evolutionary ‘ moves ’ that involve the modernisation of
 public services , state apparatuses , the overall institutional architecture of the state and its scales
 of operation . 
-The most basic and general of these moves is what Jessop ( 2002 ) calls ‘ destatization ’  , which
+The most basic and general of these moves is what Jessop ( 2002 ) calls ‘ destatization ’  , which 
  ‘ involves redrawing the public–private divide , reallocating tasks , and rearticulating the
 relationship between organisations and tasks across this divide ’  ( p . 199 )  . This redrawing and
 reallocation has various aspects – some older , some new – such as the creation of executive
@@ -6685,7 +6685,7 @@ knowledge companies for policy research and evaluation , philanthropic activity 
 to fund educational programmes and innovations , the involvement of the voluntary sector 
 ( charities , NGOs , trust and foundations etc .  ) in service provision , and the use of social
 entrepreneurs to address intractable social problems – sometimes in complex combinations . In
-other words , tasks and services previously undertaken by the state are now being done by various
+other words , tasks and services previously undertaken by the state are now being done by various 
  ‘ others ’  , in various kinds of relationship among themselves and to the state and to the remaining
 more traditional organisations of the public sector , although in many cases the working
 methods of these public sector organisations have also been fundamentally reworked , typically
@@ -6729,7 +6729,7 @@ rather take their place in ‘ the judicious mixing of market , hierarchy and ne
 the best possible outcomes ’  ( Jessop , 2002 : 242 ) – ‘ best ’ that is from the point of view of the
 state . Sovereignty and violence are very much with us . Indeed , rather ,  ‘ there is a contemporary
 proliferation of the techniques of arrest , incarceration , punishment , expulsion , disqualification
-and more broadly coercion ’  ( Dean , 2008 : 104 )  . These are what Jessop ( 2002 : 201 ) calls
+and more broadly coercion ’  ( Dean , 2008 : 104 )  . These are what Jessop ( 2002 : 201 ) calls 
  ‘ countertrends in the state ’  , drawing on Poulantzas ’ s notion of ‘ conservation-dissolution ’ 
 effects . Such effects ‘ exist insofar as past forms and functions of the state are conserved and / or
 dissolved as the state is transformed ’  ( Jessop , 2002 : 201 )  . Thus , alongside the use of new
@@ -6823,7 +6823,7 @@ practices of ‘ performance ’ measurement , benchmarking and targeting to man
 providers and forms of provision . New forms of power , authority and subjectivity are brought
 to bear in shaping governable domains and governable persons . 
 While heterarchies are justified in terms of innovation , risk-taking and creativity , they are
-also often selective and exclusive , both in terms of memberships and discourses . They serve to
+also often selective and exclusive , both in terms of memberships and discourses . They serve to 
  ‘ short-circuit ’ existing policy blockages . Some potential or previous participants in policy are
 specifically excluded – trades unions for example – and challenges from outside the shared basis
 of discourse ‘ may be easily deflected or incorporated ’  ( Newman , 2001 : 172 )  . Heterarchies also
@@ -6914,7 +6914,7 @@ of Scotland ( CTUS )
 Sir Ian 
 Wood 
  “ Determined to 
-Succeed ” 
+Succeed ”  
  ‘ Whole School ’ Initiative 
 East Ayrshire Schools – support to deliver 
  ‘ radical change ’ 
@@ -6970,7 +6970,7 @@ Halifax Bank of Scotland
 Figure 14 . 1 Philanthropy , business and education policy in Scotland
 There are many different sorts of relationship involved here , focused on the involvement
 of Sir Tom Hunter , a Scottish businessman and philanthropist , whose money was made from
-a chain of sportswear shops , who has pledged to give away £1 billion before he dies and become
+a chain of sportswear shops , who has pledged to give away £1 billion before he dies and become 
  ‘ one of the greatest philanthropists of his time ’  ( Scotsman . com )  . His activities have generated
 a number of partnerships between his charitable foundation and the Scottish government , local
 government , schools , universities and various parastatal organisations . Several of the programmes
@@ -6979,7 +6979,7 @@ Tom himself sits on various groups and committees . In a very straightforward wa
 buys voice and influence within the policy process and can also be used to attempt to change
 the culture and priorities of organisations in descisive ways . There are two primary themes that
 run through these relationships and interventions – they are change and the narrative of
-enterprise . That is , various attempts to ‘ modernise ’ public sector schooling ( Schools of Ambition , 
+enterprise . That is , various attempts to ‘ modernise ’ public sector schooling ( Schools of Ambition ,  
  ‘ radical change in East Ayrshire ’  , Leadership Development , Teachers for a New Era ) and , related
 to this , the insertion of forms of enterprise and enterprise education into schools and universities . 
 These insertions carry with them a set of values values that are ‘ fundamentally premised on the
@@ -7354,7 +7354,7 @@ public management and which has been very evident in schooling systems . In an i
 study of teachers ’ work , published more than two decades ago , Connell ( 1985 ) argued that
 teaching was a labour process without a product . In the context of the introduction of new
 outcomes accountabilities , this observation does not hold true today , at least in Anglo-American
-models of school reform . Smyth ( 1998 : 193 ) observed , in respect of such outcome accountability : 
+models of school reform . Smyth ( 1998 : 193 ) observed , in respect of such outcome accountability :  
  ‘ A crucial element of this educational commodity approach to teachers ’ work is the attention
 to calculable and measurable aspects of the work , especially educational outputs .  ’ This has had
 168
@@ -7499,7 +7499,7 @@ The Queensland School Reform Longitudinal Study ( QSRLS )  ( Lingard et al .  , 
 the concept of productive pedagogies was derived , was commissioned by the state government
 in 1997 . The QSRLS developed out of Newmann and Associates ’  ( 1996 ) US research on
 TOWARDS A SOCIOLOGY OF PEDAGOGIES
-171
+171 
  ‘ authentic pedagogy ’ and backward mapped from classroom practices to structures , with
 priority given in the research design to classroom practices . As Rose has noted :  ‘ The vantage
 point from which you consider schools – your location physically and experientially – will
@@ -7509,7 +7509,7 @@ government primary and secondary schools . The model derived from maps of teache
 developed from a classroom observation tool , in turn developed out of the relevant research
 literature and from an interrogation of the classroom data . The point to stress here is that the
 model has come from observing actual teachers at work in actual classrooms . 
-Although the QSRLS was developed out of Newmann and Associates ’  ( 1996 ) research on
+Although the QSRLS was developed out of Newmann and Associates ’  ( 1996 ) research on 
  ‘ authentic pedagogy ’  , it was recontextualized to take account of the Queensland context . The
 Newmann research identified the concept of ‘ authentic pedagogy ’ to refer to teacher classroom
 practices that promoted high-quality learning and boosted achievement for all students . 
@@ -8758,9 +8758,9 @@ structures . In recent decades , there has been a significant step change in att
 body by purveyors of popular culture and burgeoning body / health industries , and central
 governments have been increasingly tempted to claim control of its underlying ethics , codes
 and principles , which regulate communication and embodied consciousness and their location . 
-Such inclinations have often been sanctified as being necessary in order to control and better
+Such inclinations have often been sanctified as being necessary in order to control and better 
  ‘ educate ’ potentially volatile and , purportedly , increasingly unhealthy ( overweight and obese ) 
-populations . A new and pervasive form of ‘ surveillance education ’ has emerged in which
+populations . A new and pervasive form of ‘ surveillance education ’ has emerged in which 
  ‘ perfection codes ’  ( Evans and Davies , 2004 )  ( which centre attention on one ’ s ‘ relationship to
 one ’ s embodied self ’  ) and ‘ surveillance medicine and health ’  ( Armstrong , 1995 )  , reaching way
 beyond schools , feature prominently . Its narratives are neither arbitrary nor socially innocent . 
@@ -8772,7 +8772,7 @@ cultures and embodied characteristics of many are ‘ abjectified ’  ( Kenway 
 those of relatively few ( slim , active , independent individuals ) are privileged and portrayed as
 corporeal exemplars of desirable aspirational ideals . It is hardly surprising , then , that we find in
 countries across such societies a ubiquitous fear , especially among the middle classes , of being
-defined as ‘ overweight ’  , inactive and manifestly insufficiently thin . 
+defined as ‘ overweight ’  , inactive and manifestly insufficiently thin .  
  ‘ Body pedagogics ’ and the medicalization of our lives
 In what some refer to as the medicalization of people ’ s lives ( Furedi , 2005 )  , the reclassification
 of populations globally as ‘ at risk ’  , in perpetual states of being ‘ potentially unwell ’  , has no more
@@ -8792,7 +8792,7 @@ economics , generated policies that provided the basis for a radical shift from 
 problems through therapeutic measures to intervention – the earlier the better – making the lives
 of children and young people and their families and schools primary targets of health and
 education policies . Though driven by genuinely altruistic desire to improve the health of
-individuals and populations , when framed within an ideology of ‘ liberal individualism ’ and
+individuals and populations , when framed within an ideology of ‘ liberal individualism ’ and 
  ‘ performativity ’  ( see Ball , 2003 , 2004 )  ‘ health ’ has taken on particularly narrow connotations
 202
 JOHN EVANS , BRIAN DAVIES AND EMMA RICH
@@ -8827,19 +8827,19 @@ corporeality , rather than as the intersection of two mutually reinforcing modes
 order and control . Societies are depicted as having shifted from exercising imposed , disciplinary
 power to ‘ technologies of the self ’  , whereby individuals or populations are ‘ encouraged ’ to
 regulate and continually work on their own bodies and ‘ self regulate ’  . Calling on a variety of
-government-provided expertise enjoined ‘ to shape , guide , direct the conduct of others ’ and
- ‘ bridle the individual ’ s passions ’  , individuals are induced to control their own instincts ; they
+government-provided expertise enjoined ‘ to shape , guide , direct the conduct of others ’ and 
+ ‘ bridle the individual ’ s passions ’  , individuals are induced to control their own instincts ; they 
  ‘ govern themselves ’  ( Rose , 1999 : 3 )  . This rather caricatures the way in which order and control
 are pursued in advanced technological societies , obfuscating how different forms of embodiment
 may be nurtured when external and internal forms of regulation work conjointly on the body
-to ‘ enframe ’ subjectivity and embodied action , a process in which some bodies may achieve
+to ‘ enframe ’ subjectivity and embodied action , a process in which some bodies may achieve 
  ‘ authenticity ’ and are compliant , while others are ‘ abjectified ’ and alienated and offer dissent . 
 But exercise of biopower neither assumes nor guarantees acceptance or internalization of its
 normalizing roles , rules and codes , not least because it cannot foresee or regulate the unintended
-consequence of policies , for example , with respect of individual or population failure to adopt
+consequence of policies , for example , with respect of individual or population failure to adopt 
  ‘ correct ’ behaviours relating to weight , exercise and food . Pursuit of ‘ self induced ’ order always
 occurs within frameworks of disciplinary control . Moreover , given that disciplinary power and
-surveillance may vary across settings , individuals may experience corporeal ‘ authenticity ’ or
+surveillance may vary across settings , individuals may experience corporeal ‘ authenticity ’ or 
  ‘ abjection ’ across different sites of practice , depending on the proximity of their cultural values
 to prevailing social ( corporeal ) norms and / or their willingness to ‘ self regulate ’ within given or
 perceived zones of influence : psycho-social locations ( communities of encoded practice ) that
@@ -8896,7 +8896,7 @@ doctors , alternative therapists , journalists , campaigners , academics and so 
 ( 2008 ) have shown that many young people access health information not just from traditional
 medical sources but from newspapers , magazines , television and other electronic media . 
 Research continues to highlight the importance of ‘ media representations of health and illness
-in shaping people ’ s health beliefs and behaviors ’  ( Giles , 2003 : 318 )  , critiquing many for their
+in shaping people ’ s health beliefs and behaviors ’  ( Giles , 2003 : 318 )  , critiquing many for their 
  ‘ ability to mislead and misinform the public about health issues ’  ( Giles , 2003 : 217 )  . Furthermore , 
 Miah and Rich ( 2008 ) argue that , with the advent of a range of digital platforms that merge
 entertainment with the regulation of the body , such as Internet-based nutrition games and the
@@ -8968,10 +8968,10 @@ of how health discourse is reproduced as pedagogy , any sociology of education i
 the body would need to explore how obesity and wider body-centred discourse are translated
 into principles of communication . How are they recontextualized within particular social
 settings , afforded different levels of influence , and how are prevailing meaning systems , rules
-and resources within them either adopted , adapted , resisted or reshaped through individual
+and resources within them either adopted , adapted , resisted or reshaped through individual 
  ‘ knower structures ’  ( Maton , 2006 ) given by culture and social class ? In the flow and
 recontextualization of discourse within and between sites of practice , such as translation of
-government policies into school policy / initiatives , gaps open up , creating a space in which
+government policies into school policy / initiatives , gaps open up , creating a space in which 
  ‘ ideology can play ’  ( Bernstein , 1996 : 47 )  . Individuals can read , interpret and recontextualize
 received wisdom or ‘ sacred ’ health knowledge that schools and other sites of practice convey
 through the cognitive filters of their culture and class . Research has persistently emphasized
@@ -9053,7 +9053,7 @@ somatically and within their sub-cultural location in a specific time and space 
 attests that young people tend to locate their difficulties viscerally and relationally in antecedent
 experiences of their fast-changing , sometimes awkward , less than ‘ perfect ’ bodies , among their
 families , teachers and peers . Within these networks of relative intimacy , their changing bodies
-are inescapably subjected to their own and others ’ evaluative gazes . For some , engaging in
+are inescapably subjected to their own and others ’ evaluative gazes . For some , engaging in 
  ‘ deviant ’ actions , for example , radical body modification involving excessive exercise and eating
 little or no food , experiencing the joy of achieving the distinction of ‘ thin ’ beyond the slender
 ideal , becomes a perfectly rational , morally acceptable goal that avoids the pain of being ‘ othered ’  , 
@@ -9067,14 +9067,14 @@ self-indulgent and greedy . Body-centric narratives , infused with performance a
 codes , sieve , separate , celebrate and vilify manifest body shape and form . They simultaneously
 celebrate and abjectify particular lifestyles , people , positions and actions . Such a performative
 culture , for example , induces individuals from a disturbingly young age to learn to fear and
-loathe bodies that are not the correct shape or weight ; control , virtue and goodness ( hence , 
+loathe bodies that are not the correct shape or weight ; control , virtue and goodness ( hence ,  
  ‘ acceptance ’  , employability and trainability ) are to be found in slenderness and processes of
 208
 JOHN EVANS , BRIAN DAVIES AND EMMA RICH
 becoming excessively thin . Responsibility falls upon individuals to accept that correct diet , 
 involvement in physical activity and the pursuit of ‘ perfection ’ academically are moral as well
 as corporeal obligations . Given the social sanctions that accompany this discourse , including
-bullying , stigma and labelling , particularly reported by young people defined by their peers as
+bullying , stigma and labelling , particularly reported by young people defined by their peers as 
  ‘ fat ’  , it is hardly surprising that some not only take drastic action to lose weight but became
 seriously depressed , as well as physically ill . 
 The sociology of education needs to engage with changing worlds in which health and other
@@ -10885,7 +10885,7 @@ Pastor , M . Jr .  , Dreier , P .  , Grigsby , J . E . III and Lopez-Garza , M .
 suburbs can grow together , Minneapolis , MN : University of Minnesota Press . 
 Pink , W . F . and Noblit , G . W .  ( eds )  ( 2008 ) International handbook of urban education , Dordrecht , Netherlands : 
 Springer . 
-Reay , D .  ( 2007 )  ‘ ’ Unruly places : inner-city comprehensives , middle-class imaginaries and working-class
+Reay , D .  ( 2007 )  ‘  ’ Unruly places : inner-city comprehensives , middle-class imaginaries and working-class
 children ,  ” Urban Studies 44 ( 7 )  : 1191–1201 . 
 Rizvi , F .  ( 2007 )  “ Postcolonialism and globalization in education ,  ” Cultural Studies _ Critical Methodologies
 7 : 256–263 . 
@@ -11394,7 +11394,7 @@ educational space
 António Nóvoa
 Europe must be seen as a problematic entity . The concepts of European construction 
 or integration cannot be taken for granted . The same applies for the European educational
-space . No member state will abdicate its right to govern its education . The very notion of
+space . No member state will abdicate its right to govern its education . The very notion of 
  ‘ Europeanization of education ’ causes concern in most countries , raising fears of homogenization
 and of loss of national identity . But , at the same time , it is undeniable that the European Union
 is increasingly intervening in the educational field , leading to orientations and guidelines that
@@ -11501,13 +11501,13 @@ defined and redefined according to context : quality and lifelong learning . On 
 they define a strong tendency towards logics of evaluation , leading to rankings and classifications
 that consecrate as ‘ inevitable ’ a particular way of conceiving education and schooling . On the
 other hand , they introduce a new approach to educational matters , at both the personal and
-the social level . 
+the social level .  
  ‘ Improving quality and effectiveness ’ is the first strategic objective . The work programme
 focuses on key competencies for the so-called knowledge society . The attention is directed
 266
 ANTÓNIO NÓVOA
 towards three key competencies :  ‘ Learning to learn ’  , an old pedagogical concept that is
-redefined by constructivism , but also by the economic world , in terms of lifelong learning ; 
+redefined by constructivism , but also by the economic world , in terms of lifelong learning ;  
  ‘ social skills ’  , which relates to personal relations and networks , as well as to principles of selfresponsibility and citizenship ; and ‘ entrepreneurship ’  , which underlines the importance of
 initiative , management and risk . 
 The intention to ensure and to monitor quality education leads to the evaluation of progress
@@ -11525,11 +11525,11 @@ invent the concept of employability in order to link employment to education , a
 unemployment as a problem of ‘ uneducated ’ people ( CEU , 2008 )  . 
 Active citizenship , entrepreneurial culture and lifelong learning are part of a process of
 reconfiguring the self . Thus , the responsibility for solving the crisis of the welfare state ( and / or
-the European social model ) shifts to citizens who are invited to become responsible for
+the European social model ) shifts to citizens who are invited to become responsible for 
  ‘ constantly updating their knowledge ’ in order to enhance employability and consolidate the
 process of unionization . 
 The goal of the third strategic objective – ‘ opening up education and training systems to
-the wider world ’ – is to create an open ‘ European area for education ’ and to promote the
+the wider world ’ – is to create an open ‘ European area for education ’ and to promote the 
  ‘ European dimension of teaching and training ’  . Mobility within the European space is described
 as not simply movement , but rather as a process that develops awareness of what it means to
 be a citizen of Europe . 
@@ -11617,7 +11617,7 @@ supporting the improvement of education and training policies ’  ( CEC , 2008a
 Governing without governing : fabricating educational policies
 at the European Union
 The processes that we have just described are not specific to the European context . They are
-part of broader developments , which have been popularized by the imperfect concept of
+part of broader developments , which have been popularized by the imperfect concept of 
  ‘ globalization ’  . But , inside the European Union , they are strengthened by a historic project
 that tends to integrate national states into a political union . And this fact gives them a different
 status , opening up new political possibilities . This is the main reason why this ‘ unidentified
@@ -11633,7 +11633,7 @@ the progress made by each country . The goal of this process is described as ‘
 States to develop their own policies progressively ’  ( CEU , 2002 : 5 )  , but always in accordance
 with the objectives defined at European level . 
 To achieve this goal , an open method of coordination has been implemented in the framework
-of the Lisbon Strategy ( Lange and Alexiadou , 2007 )  . This method is built on the use of tools
+of the Lisbon Strategy ( Lange and Alexiadou , 2007 )  . This method is built on the use of tools 
  ‘ such as indicators and benchmarks as well as comparing best practice , periodic monitoring , 
 evaluation and peer review etc . organized as mutual learning processes ’  ( CEU , 2002 : 5 )  . 
 Cohesion and configuration of policy are not achieved through sanctions , but through a much
@@ -11670,7 +11670,7 @@ technique or a method , but also one of the most successful tools for implementi
 policies . Therefore , it is obvious that these kinds of policy need data that can allow the
 establishment of aims and the monitoring of progress . It is not simply a matter of collecting
 and organizing data ; rather , it is a process that constructs educational realities as much as it
-describes them . Through the arrangement of categories and classifications , a definition of the
+describes them . Through the arrangement of categories and classifications , a definition of the 
  ‘ best system ’ is proposed . Each member state will act in accordance with these goals and ideals . 
 By the end of 2007 , a very important working document asked for a stronger knowledge
 base for developing policy and practice at national and EU levels in order to improve the quality
@@ -11703,7 +11703,7 @@ process that involves countries that do not belong to the European Union , and i
 that cross-references trends that are expressed worldwide . But , on the other hand , it has gained
 an extremely relevant role in the EU policies , restructuring higher education and research . There
 is no legal obligation to take part in the Bologna Process , but it is unthinkable for any country
-to stay outside its dynamics , networks and connections , which are at the core of the modernization agenda of the universities . If one permits me the paradox , I would say that it is a
+to stay outside its dynamics , networks and connections , which are at the core of the modernization agenda of the universities . If one permits me the paradox , I would say that it is a 
  ‘ compulsory option ’  . 
 The complexity of the debate calls for more theoretical tools and critical approaches . It is
 useless to reproduce distinctions and dichotomies that cannot raise new understandings . We
@@ -11712,14 +11712,14 @@ This is not a zero-sum game , where giving more power to ‘ Europe ’ will aut
 a weakening of the ‘ nation-state ’  , or vice versa . An arithmetical conception of power is totally
 inaccurate . 
 New ways of governing without governing have proven to be extremely attractive . They
-are very sophisticated in naturalizing policies , in raising a sense of inevitability . It is as if they
+are very sophisticated in naturalizing policies , in raising a sense of inevitability . It is as if they 
  ‘ only ’ construct data , or identify good practices , or compare best methods , whereas , in truth , 
 these data , practices and methods are in themselves powerful tools in the formation of a European
 educational space . 
 European policies should be understood as part of an expert discourse that is redefining
 educational issues globally . This movement of experts creates and circulates concepts and ideas
 without structural roots or social locations . We are faced with a strange ‘ worldwide bible ’ whose
-vocabulary , of unknown origin , is on the tip of every tongue . In this sense , the process of
+vocabulary , of unknown origin , is on the tip of every tongue . In this sense , the process of 
  ‘ learning from one another ’ is a way of thinking and acting that establishes an educational policy
 without specifically formulating it . 
 The European educational space defines its own borders in the framework of this ‘ mutual
@@ -12203,7 +12203,7 @@ class fractions that are likely to have responded differently to social and cult
 educational opportunities , including the process of globalisation . Scholars caution against
 generalising about the middle classes based on the projected ‘ success ’ of global Indians 
 ( Fernandes , 2007 )  , who represent only a fraction of the Indian middle classes . I use Bourdieu ’ s 
-( 1986 , 1992 ) framework of capitals – economic , social , cultural and symbolic , and their
+( 1986 , 1992 ) framework of capitals – economic , social , cultural and symbolic , and their 
  ‘ fungibility ’ or convertibility to understand processes that underlie social / educational advantage , 
 and attempt to do so specifically within the Indian context . The focus of the chapter will be
 on family strategies and educational privilege . I bring in Drury ’ s ( 1993 : 10 ) notion of ‘ family
@@ -12232,7 +12232,7 @@ intersect with them ) are reading and responding to globalisation through changi
 in diverse ways . 
 Private schools and English education : constructing the ‘ good ’ 
 in education
-The key route to elite upper middle class status in India has been the exclusive English medium
+The key route to elite upper middle class status in India has been the exclusive English medium 
  ‘ public ’  ( private ) schools , which followed in the tradition of the British public schools . These
 are among schools to which upper middle class Indians have always sent their children , thereby
 setting trends and laying down standards of the ‘ good ’ in education . They were among the first
@@ -12363,7 +12363,7 @@ provided , but as a ‘ fall back option ’  . More importantly , they appeared
 changing context of business and , consequently , the need to interact with administrative and
 other officials , as well as to exercise authority within their own firm . Drury notes that they
 were in fact looking at education as a long-term investment – out of character with what was
-traditionally expected of such families ( Drury , 1993 : 100–102 )  . 
+traditionally expected of such families ( Drury , 1993 : 100–102 )  .  
  ‘ White collar ’ employees in the Kanpur study were a section of middle-class parents who
 realised that choosing a school was a critical decision that had long-term consequences for higher
 education and careers of their children . The most sought after schools were the English-medium
@@ -12423,7 +12423,7 @@ well as for social status . The quotes of two of their respondents speak volumes
 inability to speak English entails :  ‘ English is not only important in getting a better job , it is
 everywhere in social interaction . If you can ’ t speak it , then you are a nobody ’  , and ‘ English is
 an international language . Your feel humiliated if you can ’ t speak English . People think you
-are dumb ’ ’  ( Scrase and Scrase , 2009 : 131 )  . 
+are dumb ’  ’  ( Scrase and Scrase , 2009 : 131 )  . 
 Scrase and Scrase ’ s ( 2009 ) respondents differ from Donner ’ s in that , among the former ,  ‘ Many
 had struggled through education to obtain secure employment in the public sector , but now
 they increasingly feel that they are being squeezed out ’  ( Scrase and Scrase , 2009 : 11 )  . They
@@ -12464,7 +12464,7 @@ families to convert economic capital into cultural and symbolic capital through 
 schooling . Benei also makes the point that , for minorities for whom socio-religious identity is
 dominant , the shift to English-medium instruction is far easier than for those for whom Marathi
 language is one of the defining elements of identity . It is here that strategic choices are being
-made by middle-class families . Lower castes and especially the Scheduled Castes ( former
+made by middle-class families . Lower castes and especially the Scheduled Castes ( former 
  ‘ untouchable ’ castes ) see English-medium schools as the route to higher socio-economic status
 and an escape from stigmatised identities ( Benei , 2005 : 157 )  . In Kanpur , there were lower middle
 class families who chose private Hindi-medium schools for their children . The reasons were
@@ -12598,7 +12598,7 @@ cent is in schools run by private , aided ( by the state ) managements , while 1
 unaided schools ( NUEPA , 2009 : 1–2 )  . There is a growing unregulated private-school sector , whose
 size is still to be estimated . 
 One of the main reasons for the shift from state-run to privately managed schools is the
-perception that the former provide education of poor quality . One of the key elements by which
+perception that the former provide education of poor quality . One of the key elements by which 
  ‘ good quality ’ education is defined in popular perception is instruction in English . The policy in
 India has been to provide education in the regional medium in state schools and to bring in English
 as a subject of study around Grade V or later . More recently , some state governments have brought
@@ -13224,7 +13224,7 @@ are foregrounded . Power works in organizations , from this perspective , in a d
 manner through discourse , in ways that are both productive and oppressive of particular gendered
 subjectivities . Thus , women in leadership can feel simultaneously powerful and powerless . 
 Post-structuralist perspectives see women and girls having agency owing to their capacity to
-mobilize particular discourses to their own benefit , while not ignoring their vulnerability and
+mobilize particular discourses to their own benefit , while not ignoring their vulnerability and 
  ‘ othering ’ due to wider power / knowledge relations . Here organizational change is depicted as
 EDUCATIONAL ORGANIZATIONS AND GENDER
 309
@@ -13233,7 +13233,7 @@ organizational life are always partial , as is the corporate meta-narrative prod
 strategic plans and mission statements . 
 Post-structuralist analyses of organizations also highlight the discursive and performative
 aspects of organizational life arising in the context of devolved modes of governance , 
-marketization and managerialism ( Blackmore and Sachs , 2007 )  . They explore how the
+marketization and managerialism ( Blackmore and Sachs , 2007 )  . They explore how the 
  ‘ performative ’ is reworking the social relations of gender to ( re ) produce new entrepreneurial , 
 transnational masculinities and self-managing worker-identities ( Connell , 2005 )  . Critical
 perspectives focus on the multiple representation of the body and how organizations are sites
@@ -13584,9 +13584,9 @@ in HE by 2010 , an ambitious 11 per cent increase within a decade . This target 
 by a funding programme designed to help universities ‘ widen participation ’ by opening their
 doors to young people whose families did not have a tradition of university education . Named
 Aimhigher , the policy rhetorically designated the ‘ problem ’ of low participation to lack of
-aspiration among individual young people from homes assigned by government ’ s statistics to
+aspiration among individual young people from homes assigned by government ’ s statistics to 
  ‘ lower socio-economic ’ categories ( Thomas , 2001 )  . The policy ‘ solution ’ was for universities
-to work together with schools with low participation rates to motivate students to become
+to work together with schools with low participation rates to motivate students to become 
  ‘ non-traditional ’ university entrants . The government also sought to increase the ‘ flow ’ into
 higher and further education by strongly encouraging schools to support the majority of young
 people to stay on until the end of formal schooling . 
@@ -13648,7 +13648,7 @@ some schools now routinely query a large proportion of their results in the hope
 pushing up grades . Marsha Elms , headteacher of Kendrick girl ’ s school in Reading , 
 says the problem is not just with A levels : there is increasing concern about exam marking in general . And with new vocational qualifications about to come on stream , 
 she fears the quality of markers may deteriorate further .  ‘ I think the system is so stretched
-that we are beginning to lose faith – we are increasingly asking for remarks ,  ’ she says . 
+that we are beginning to lose faith – we are increasingly asking for remarks ,  ’ she says .  
  ‘ But I do also think its to do with the clientele , wanting rechecks as it becomes 
 more difficult to get into the universities – people want Cs turned into Bs and Bs turned
 into As .  ’  
@@ -13677,7 +13677,7 @@ PAT THOMSON
 attract four times rather than twice the amount of HE funding . Universities with greater
 success in attracting such students welcomed the move as it would clearly direct more
 funding their way . But universities who were less successful countered , arguing that the
-funding ought to be on the basis of need , thus giving those with already large numbers of
+funding ought to be on the basis of need , thus giving those with already large numbers of 
  ‘ non-traditional ’ entrants less . 
 2 Universities won ’ t do as they are told : At the same time , the intervention programme
 Aimhigher , 
@@ -13720,13 +13720,13 @@ BOURDIEU AND HIGHER EDUCATION IN THE UK
 Extract 2
 The Observer columnist Barbara Ellen suggests that elite universities are just not trying hard
 enough , and this , she suspects , is because they want to protect their ‘ elite ’ brand . 
-I suppose one has to be mature and resist the natural inclination of turning this into a
+I suppose one has to be mature and resist the natural inclination of turning this into a 
  ‘ Toffs versus Plebs ’ stand-off . A great shame , as in many ways it ’ s asking for it . In 2008 , 
 are we meant to tug our forelocks and accept Cambridge professor Alison Richard
 opining :  ‘ it ’ s not our place to help the poor ’  ? And with figures revealing that 40 percent
 of the Oxford and Cambridge intake is from fee paying schools , when the education
 private sector represents only 7 percent of the nation ’ s children ? It transpires that what
-Richard actually said was that educational institutions should not be turned into
+Richard actually said was that educational institutions should not be turned into 
  ‘ handmaidens of industry , implementers of the skills agenda , or indeed engines for
 promoting social justice ’  . Which seems to be a round about way of saying that dons are
 genuinely concerned about the shoehorning in of state students , with a less impressive
@@ -13781,7 +13781,7 @@ education does not mean that all children from so-called ‘ deprived ’  /  �
 badly at school and therefore none of them gets to university . Some of them do very well at
 school , just as some young people from privileged homes do very badly . But it is only a comparatively small number who do so . Bourdieu is frank about his own origins : he was a ‘ scholarship ’ 
 boy , selected through the workings of the school system to become upwardly socially mobile . 
-But he demonstrated through his academic work how in his case , and in that of others like him , 
+But he demonstrated through his academic work how in his case , and in that of others like him ,  
  ‘ sorting and selecting ’ who was educationally successful occurred in a myriad of ways , from the
 more obvious promotion , setting and grouping practices , through to the language of the
 curriculum , and the kinds of knowledge considered to be of most value ( Bourdieu , 2008 )  . Thus , 
@@ -13793,7 +13793,7 @@ Naidoo , 2004 ) around :
 1 Qualifications : Qualifications are not simply valued for their age-related level , with a senior
 school certificate more valued than a junior . It is also the symbolic value of the qualifications
 that matters , that is , the uses to which they can be put to in employment and social
-networks . What is most commonly known as ‘ academic ’ knowledge is valued over
+networks . What is most commonly known as ‘ academic ’ knowledge is valued over 
  ‘ vocational knowledge ’  . Thus , university degrees are ‘ better ’ than FE diplomas . This is
 because these qualifications are necessary for higher-status ( although not always better
 remunerated ) jobs ( see disciplines below )  . School qualifications that act as gatekeepers for
@@ -13808,7 +13808,7 @@ of lesser status than those that are older . In the UK , Oxford / Cambridge epit
 high-status HE institution : because of their age , they have a vast tranche of important alumni
 going back centuries , various markers of distinction ( heritage buildings , green spaces , 
 museums , benefactors , large research grants , high on the league tables that signify ‘ quality ’  ) 
-and they attract and are able to select those with the highest school qualifications . An
+and they attract and are able to select those with the highest school qualifications . An 
  ‘ Oxbridge ’ degree is often seen as ‘ better ’ by employers than that of a very recent
 university ( redbrick , more vocationally oriented , less research-driven )  . 
 3 ‘ Academic ’ disciplines ( see Ladwig , 1996 )  : Science , technology and mathematics ( STEM ) 
@@ -13818,7 +13818,7 @@ government . Law and medicine also retain status because of their historical con
 with classical learning . Some arts and humanities subjects have cultural cachet but do not
 dominate policies within HE institutions or elsewhere : this privilege is now afforded to
 STEM . In general , what are seen as the more vocational subjects – such as education and
-nursing – are of lower status than the older professional subjects such as medicine . The
+nursing – are of lower status than the older professional subjects such as medicine . The 
  ‘ new professions ’ struggle for status . 8 The more recent branches of arts and humanities , 
 such as drama , creative writing , cultural studies and media studies , are similarly low in the
 hierarchy and can be compared with new STEM subjects , such as nano and genetic sciences , 
@@ -13853,7 +13853,7 @@ of new families of migrants and refugees who must be educated , housed and emplo
 the potential costs of unemployed young people not gainfully occupied must be addressed : the
 general social belief in education and training as a ‘ good thing ’ provides the rationalization for
 raising school leaving ages . And finally , in order to provide partial solutions to the social
-consequences of economic shifts , education , which historically had a role to play in the
+consequences of economic shifts , education , which historically had a role to play in the 
  ‘ civilizing ’ and ‘ nation-building ’ of the British state , is required to focus on : 
 • citizenship – to create social cohesion ; 
 • well-being – to ensure basic health and welfare ; and
@@ -13896,7 +13896,7 @@ sort ’ of young people argue that some disciplines ( the newer , lower-status 
 sociology for example ) are ‘ easier ’ than STEM . 
 Paradoxically , widening participation policies both enhance and threaten the position of highstatus universities . On the one hand , they must be seen to be accommodating , as elitism carries
 connotations that are no longer socially acceptable ( as in Barbara Ellen ’ s acerbic commentary
-earlier )  . On the other hand , they must maintain their elitism , as it is this that puts them at the
+earlier )  . On the other hand , they must maintain their elitism , as it is this that puts them at the 
  ‘ top ’ of the HE tree . The rationale ( doxa ) that they adopt for this juggling act is one of merit 
 ( as in Tom Kemp ’ s column )  . Students are said to advance through a neutral schooling system , 
 regardless of their social , cultural or economic contexts . The ways in which schooling itself is
@@ -14022,7 +14022,7 @@ Socialization patterns in elite educational institutions
 Elite schools as total institutions
 Studies of elite education have underscored the common features of elite educational institutions
 that distinguish them from other institutions that look after young people from the same age
-cohorts . The interlocking character of these features allows elite institutions to be described as
+cohorts . The interlocking character of these features allows elite institutions to be described as 
  ‘ total institutions ’ that provide , through both formal and ‘ hidden ’ curricula , a strong secondary
 socialization model for students that will decisively influence their public and private adult life 
 ( Faguer , 1991 )  . Two of the most visible ones are physical closure and small size , which contribute
@@ -14039,7 +14039,7 @@ counterparts , though on a much smaller scale . Internal cohesion has also been 
 maintained over time in elite institutions by sophisticated rites marking entrance and departure , 
 as well as important moments of the educational experience , by procedures concerning the
 allocation of boarding rooms and of various material tasks and by learning and social activities
-meant to develop a strong ‘ bonding ’ relationship among members and especially between
+meant to develop a strong ‘ bonding ’ relationship among members and especially between 
  ‘ established ’ students and new entrants , as well as between institutions and their alumni . These
 organizational forms have been strongly influenced by army and religious traditions and are
 frequently referred to through idiosyncratic terms that serve as social markers of membership . 
@@ -14110,7 +14110,7 @@ after the French Revolution . Designed to serve state needs ( those of the army 
 technical corps and later on of public administrations )  , the grandes écoles ’ mandate has been to
 produce individuals endowed with strong scientific competence and capable of synthesizing
 large quantities of information , but also interested in practical matters and able to take decisions 
-( Thoenig , 1973 )  . In Alvin Gouldner ’ s ( 1979 ) terms , these schools were expected to train the
+( Thoenig , 1973 )  . In Alvin Gouldner ’ s ( 1979 ) terms , these schools were expected to train the 
  ‘ technical intelligentsia ’ more than the ‘ humanistic intellectuals ’  . Their culture was from the
 onset strongly distinct from the non-utilitarian university culture traditionally oriented towards
 teaching , scholarship and research , although some institutions , especially the Ecole Normale
@@ -14238,7 +14238,7 @@ institutions . Privately schooled students are twice as likely to go to elite un
 total number in secondary schools . This overrepresentation is even more striking when one
 considers their share of the applicant pool and percentage among successful applicants . Given
 the expansion of the state sector and the strong meritocratic character of the admission
-procedures in elite universities , this overrepresentation is due less to explicit ‘ chartering ’ and
+procedures in elite universities , this overrepresentation is due less to explicit ‘ chartering ’ and 
  ‘ bartering ’ than in the past . It is nevertheless important to note that , as in the US , students from
 private schools benefit from higher levels of advice and support on careers in higher education
 by internal staff and outside agencies working with the schools ( Reay et al .  , 2005 )  , and that
@@ -14486,7 +14486,7 @@ among all the citizens who have a relationship with the school : students , teac
 families , administrators , school volunteers , trade union representatives , NGOs . In addition , these
 communities always ask researchers and members of other already active learning communities
 to participate in this dialogue . The basis for clarifying the roles that researchers and community
-members play in egalitarian dialogue is the current conception that society functions
+members play in egalitarian dialogue is the current conception that society functions 
  ‘ simultaneously as systems and lifeworlds ’  ( Habermas , 1987 : 118 )  , as structures and subjects . 
 That means that researchers , as members of academic structures , have an ethical and
 scientific obligation to contribute to this dialogue : they can bring to it the knowledge that the
@@ -14607,7 +14607,7 @@ actions . Because strategic action is oriented towards success , it is based on 
 acts . Because communicative action is oriented to consensus , it is based on illocutionary 
 speech acts . When a dialogue between a student , his / her teacher and his / her family members
 is a strategic action , at least one of them is using perlocutionary speech acts , oriented to succeed
-according to his or her power claims . Sometimes the expert teacher does not want to have the
+according to his or her power claims . Sometimes the expert teacher does not want to have the 
  ‘ difficult ’ students in his / her classroom ; s / he wants to see them moved to another classroom , 
 often that of the newest teacher . He or she orients his / her conversation with the family members
 to convince them that this is good for the child . He or she may say ,  ‘ We want to put your
@@ -16072,7 +16072,7 @@ related to Black diaspora activism coming out of the US , such as those by Stoke
 Elijah Muhammad , and Malcolm X , and “ The Crusader ” by Robert Williams , 24 the prime
 minister ’ s articulations placed matters at the nexus of race and power outside of the independent
 Jamaican experience . 
-The prime minister accused “ people from other islands ”  ( Gray , 1991 : 161 )  ,  “  ‘ foreigners ’ and
+The prime minister accused “ people from other islands ”  ( Gray , 1991 : 161 )  ,  “  ‘ foreigners ’ and 
  ‘ non-Jamaicans ’ at the university ,  .  .  .  [ of ] fomenting dissidence among ‘ our sons and daughters ’  ”  
 ( p . 162 )  . Prominent spokespersons for the labor union constituency—one that would become
 an important site and ally in second-wave popular education—represented and positioned this
@@ -17090,7 +17090,7 @@ and was superior to them .
 Here we are presented with the pervasive middle-class sense of intellectual superiority . Camilla
 was part of the sample in an ESRC project on the white middle classes sending their children
 to urban comprehensives in England . In the 250 transcripts , there were 574 allusions to ‘ being
-bright ’  , all references to white middle-class students and their friends . This monopolising of
+bright ’  , all references to white middle-class students and their friends . This monopolising of 
  ‘ brightness ’ by the middle classes within schooling yet again positions the working classes across
 ethnicity as the ‘ lesser other ’ within educational systems . 
 I am going to draw briefly on a number of empirical research projects , in order to further
@@ -17177,7 +17177,7 @@ space ( Butler and Robson , 2003 ; Gewirtz et al .  , 1995 ; Reay et al .  , 200
 and within , the working and middle classes . The middle classes are future-oriented . As Ball 
 ( 2003 : 163 ) argues ,  ‘ middle-class ontologies are founded upon incompleteness , they are about
 becoming , about the developmental self , about making something of yourself , realising yourself , 
-realising your potential ’  . This encapsulates the middle-class relationship to schooling . It is about
+realising your potential ’  . This encapsulates the middle-class relationship to schooling . It is about 
  ‘ the making of the middle-class self ’  . In contrast , we could argue that schooling is about ‘ the
 unmaking of the working classes ’  . The working classes often lack the resources and requisite
 confidence for the futurity that characterises the middle classes . Time richness and poverty are
@@ -17223,7 +17223,7 @@ References
 Apple , M . W .  ( 2003 )  ‘ Creating difference : neo-liberalism , neo-conservatism and the politics of educational
 reform ’  , in J . Freeman-Moir and A . Scott ( 2003 ) Yesterday ’ s dreams : international and critical perspectives
 on education and social class , Christchurch , NZ : Canterbury University Press . 
-Archer , L . and Francis , B .  ( 2006 ) Understanding minority ethnic achievement : the role of race , class , gender and
+Archer , L . and Francis , B .  ( 2006 ) Understanding minority ethnic achievement : the role of race , class , gender and 
  ‘ success ’  , London : Routledge . 
 Arnot , M .  , David , M . and Weiner , G .  ( 1999 ) Closing the gender gap : postwar education and social change , 
 Cambridge : Polity Press . 

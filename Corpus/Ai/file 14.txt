@@ -17,7 +17,7 @@ attention . A problem-solving agent must decide which aspects of a problem are r
 an expert-system designer must decide which features to use in rules , and so forth . Any 
 learning agent must learn from experience , and discriminating between the relevant and 
 irrelevant parts of its experience is a ubiquitous problem .  
-* Corresponding author . Email : ronnyk @ sgi . com .  “ ronnyk . 
+* Corresponding author . Email : ronnyk @ sgi . com .  “ ronnyk .  
  ’ Email : gjohn @ cs . stanford . edu .  ‘  “ gjohn . 
 0004-3702 / 97 / $17 . 00 @ 1997 Elsevier Science B . V . All rights reserved . 
 PIISOOO4-3702 ( 97 ) 00043-X 
@@ -328,7 +328,7 @@ Relief as originally described can only run on binary classification problems , 
 used the Relief-F method described by Kononenko [ 631 , which generalizes Relief to 
 multiple classes . We combined Relief-F with our deterministic enhancement to yield the 
 final algorithm Relieved-F . In our experiments , features with relevance rankings below 
-0 were removed . 
+0 were removed .  
  ’ This is true even if SSN is encoded in 30 binary features as long as more than 30 other binary features are 
 required to determine the diagnosis . Specifically , two real-valued attributes , each one with 16 bits of precision , 
 will be inferior under this scheme . 
@@ -1655,13 +1655,13 @@ Nodes
 Accuracy Accuracy 
 Breast Cancer - forward selection Glass2 - backward elimination 
 82 A ’  ,  ,  
-:  \ 
- ‘  \ 
- ‘  \ 
- ‘  \ F + _ ‘  \  \ 
- ‘  \ 
- ‘  \ 
- ‘  \ 
+:  \  
+ ‘  \  
+ ‘  \  
+ ‘  \ F + _ ‘  \  \  
+ ‘  \  
+ ‘  \  
+ ‘  \  
  ‘  \ 70-j 
  '  \  
  '  \  '  \  
