@@ -109,9 +109,18 @@ def SentenceProb(t_sentence :str) -> float:
         probability *= (findcount(t_bigram[i], bigram)/findcount(t_unigram[i], unigram))
     return probability
 def SmoothSentenceProb(t_sentence :str) ->float:
-    
-    return
-def Perplexity():
+    bigram = Ngram(2, sentences)
+    unigram = Ngram(1, sentences)
+    t_bigram = Ngram(2, [t_sentence])
+    t_unigram = Ngram(1, [t_sentence])
+    probability = 1
+    probability *= (findcount(t_unigram[0], unigram)/len(unigram))
+    print(t_unigram)
+    for i in range(len(t_bigram)):
+        probability *= ((findcount(t_bigram[i], bigram) + 1)/(findcount(t_unigram[i], unigram) + len(tokens)))
+    return probability
+
+def Perplexity() -> float:
     
     return
 
@@ -162,3 +171,4 @@ print(f'Result has been written to file "Result.txt"')
 # val = Ngram(n_value, sentences)
 # print(val[-50:])
 print(f'Probability of "Allen is a member of the Board": {SentenceProb("Allen is a member of the Board")}')
+print(f'Probability of "Allen is a member of the Board": {SmoothSentenceProb("Allen is a member of the Board")}')
