@@ -1,5 +1,9 @@
 import os
-def processing(path):
+
+tokens = dict()
+sentences = list()
+
+def processing(path: str) -> None:
       '''
       Accepts path to a file.
       - Removing all types URLs 
@@ -64,10 +68,14 @@ def processing(path):
         file.write(filedata)
       pass
 
-def wordcount():
-    
-    return
-def tokenize(file_path):
+def findcount(val :str, sentences :list)  -> int:
+    count = 0
+    for i in range(len(sentences)):
+        if sentences[i] == val:
+            count += 1
+    return count
+
+def tokenize(file_path :str) -> list:
     f = open(file_path, 'r')
     for x in f:
         lst = x.split('.')
@@ -75,7 +83,6 @@ def tokenize(file_path):
     
 def Ngram(n = 1, sentences = []):
     n_grams = list()
-    print(f'len of sentences {len(sentences)}')
     if n == 1:    
         for i in range(len(sentences)):
             temp = str(sentences[i])
@@ -90,19 +97,24 @@ def Ngram(n = 1, sentences = []):
                     n_grams.append(n_gram)
     return n_grams
 
-def SentenceProb():
-    
-    return
-def SmoothSentenceProb():
+def SentenceProb(t_sentence :str) -> float:
+    bigram = Ngram(2, sentences)
+    unigram = Ngram(1, sentences)
+    t_bigram = Ngram(2, [t_sentence])
+    t_unigram = Ngram(1, [t_sentence])
+    probability = 1
+    probability *= (findcount(t_unigram[0], unigram)/len(unigram))
+    print(t_unigram)
+    for i in range(len(t_bigram)):
+        probability *= (findcount(t_bigram[i], bigram)/findcount(t_unigram[i], unigram))
+    return probability
+def SmoothSentenceProb(t_sentence :str) ->float:
     
     return
 def Perplexity():
     
-    
     return
 
-tokens = dict()
-sentences = list()
 
 path = r"D:\\Daud Ahmad\\6th Semester\\NLP\\Assignment 2\\Corpus\\"
 # Change the directory
@@ -145,8 +157,8 @@ for folder in all_paths:
 # print(f'Total types in the provided directory are {len(tokens)} and total tokens are {sum(tokens.values())}')
 print(f'Result has been written to file "Result.txt"')
 # Finding the N-gram of sentences
-print(sentences[:5])
+# print(sentences[:5])
 # n_value = int(input(f'Input value for calculating N-grams: '))
 # val = Ngram(n_value, sentences)
 # print(val[-50:])
-
+print(f'Probability of "Allen is a member of the Board": {SentenceProb("Allen is a member of the Board")}')
